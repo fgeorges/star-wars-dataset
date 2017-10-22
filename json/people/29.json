@@ -1,0 +1,21 @@
+{ "people": {
+   "name": "Arvel Crynyd",
+   "hair_color": "brown",
+   "skin_color": "fair",
+   "eye_color": "brown",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/28/",
+   "films": [
+      "http://swapi.co/api/films/3/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/1/"
+   ],
+   "vehicles": [],
+   "starships": [
+      "http://swapi.co/api/starships/28/"
+   ],
+   "created": "2014-12-18T11:16:33.020000Z",
+   "edited": "2014-12-20T21:17:50.367000Z",
+   "url": "http://swapi.co/api/people/29/"
+}}

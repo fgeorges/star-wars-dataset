@@ -1,0 +1,16 @@
+<people>
+   <name>Barriss Offee</name>
+   <height>166</height>
+   <mass>50</mass>
+   <hair_color>black</hair_color>
+   <skin_color>yellow</skin_color>
+   <eye_color>blue</eye_color>
+   <birth_year>40BBY</birth_year>
+   <gender>female</gender>
+   <homeworld>http://swapi.co/api/planets/51/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <species>http://swapi.co/api/species/29/</species>
+   <created>2014-12-20T16:46:40.440000Z</created>
+   <edited>2014-12-20T21:17:50.457000Z</edited>
+   <url>http://swapi.co/api/people/65/</url>
+</people>

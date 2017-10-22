@@ -1,0 +1,18 @@
+<planet>
+   <name>Bespin</name>
+   <rotation_period>12</rotation_period>
+   <orbital_period>5110</orbital_period>
+   <diameter>118000</diameter>
+   <climate>temperate</climate>
+   <gravity>1.5 (surface), 1 standard (Cloud City)</gravity>
+   <terrain>gas giant</terrain>
+   <surface_water>0</surface_water>
+   <population>6000000</population>
+   <residents>http://swapi.co/api/people/26/</residents>
+   <films>http://swapi.co/api/films/2/</films>
+   <created>2014-12-10T11:43:55.240000Z</created>
+   <edited>2014-12-20T20:58:18.427000Z</edited>
+   <url>http://swapi.co/api/planets/6/</url>
+   <desc>Bespin is a fictional planet, a gas giant in Star Wars films and books. The planet was first seen in the 1980 feature film The Empire Strikes Back. Since its introduction, Bespin has gained more specific characteristics in the Star Wars expanded universe.</desc>
+   <desc>In The Empire Strikes Back, Bespin's floating city Cloud City hovers suspended by an anti-gravity pod.</desc>
+</planet>

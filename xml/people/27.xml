@@ -1,0 +1,17 @@
+<people>
+   <name>Ackbar</name>
+   <height>180</height>
+   <mass>83</mass>
+   <hair_color>none</hair_color>
+   <skin_color>brown mottle</skin_color>
+   <eye_color>orange</eye_color>
+   <birth_year>41BBY</birth_year>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/31/</homeworld>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/7/</films>
+   <species>http://swapi.co/api/species/8/</species>
+   <created>2014-12-18T11:07:50.584000Z</created>
+   <edited>2014-12-20T21:17:50.362000Z</edited>
+   <url>http://swapi.co/api/people/27/</url>
+</people>

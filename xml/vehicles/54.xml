@@ -1,0 +1,16 @@
+<vehicle>
+   <name>SPHA</name>
+   <model>Self-Propelled Heavy Artillery</model>
+   <manufacturer>Rothana Heavy Engineering</manufacturer>
+   <length>140</length>
+   <max_atmosphering_speed>35</max_atmosphering_speed>
+   <crew>25</crew>
+   <passengers>30</passengers>
+   <cargo_capacity>500</cargo_capacity>
+   <consumables>7 days</consumables>
+   <vehicle_class>walker</vehicle_class>
+   <films>http://swapi.co/api/films/5/</films>
+   <created>2014-12-20T18:12:32.315000Z</created>
+   <edited>2014-12-22T18:21:16.311761Z</edited>
+   <url>http://swapi.co/api/vehicles/54/</url>
+</vehicle>

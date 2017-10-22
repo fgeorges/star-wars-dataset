@@ -1,0 +1,19 @@
+{ "people": {
+   "name": "R5-D4",
+   "height": "97",
+   "mass": "32",
+   "skin_color": "white, red",
+   "eye_color": "red",
+   "homeworld": "http://swapi.co/api/planets/1/",
+   "films": [
+      "http://swapi.co/api/films/1/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/2/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-10T15:57:50.959000Z",
+   "edited": "2014-12-20T21:17:50.321000Z",
+   "url": "http://swapi.co/api/people/8/"
+}}

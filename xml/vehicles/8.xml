@@ -1,0 +1,18 @@
+<vehicle>
+   <name>TIE/LN starfighter</name>
+   <model>Twin Ion Engine/Ln Starfighter</model>
+   <manufacturer>Sienar Fleet Systems</manufacturer>
+   <length>6.4</length>
+   <max_atmosphering_speed>1200</max_atmosphering_speed>
+   <crew>1</crew>
+   <passengers>0</passengers>
+   <cargo_capacity>65</cargo_capacity>
+   <consumables>2 days</consumables>
+   <vehicle_class>starfighter</vehicle_class>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/2/</films>
+   <films>http://swapi.co/api/films/1/</films>
+   <created>2014-12-10T16:33:52.860000Z</created>
+   <edited>2014-12-22T18:21:15.606149Z</edited>
+   <url>http://swapi.co/api/vehicles/8/</url>
+</vehicle>

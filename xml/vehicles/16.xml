@@ -1,0 +1,18 @@
+<vehicle>
+   <name>TIE bomber</name>
+   <model>TIE/sa bomber</model>
+   <manufacturer>Sienar Fleet Systems</manufacturer>
+   <length>7.8</length>
+   <max_atmosphering_speed>850</max_atmosphering_speed>
+   <crew>1</crew>
+   <passengers>0</passengers>
+   <cargo_capacity>none</cargo_capacity>
+   <consumables>2 days</consumables>
+   <vehicle_class>space/planetary bomber</vehicle_class>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/2/</films>
+   <created>2014-12-15T12:33:15.838000Z</created>
+   <edited>2014-12-22T18:21:15.667730Z</edited>
+   <url>http://swapi.co/api/vehicles/16/</url>
+   <desc>TIE fighters are fictional starfighters in the Star Wars universe. Propelled by twin ion engines (hence the TIE acronym), TIE fighters are fast, agile, yet fragile starfighters produced by Sienar Fleet Systems for the Galactic Empire. TIE fighters and other TIE craft appear in Star Wars films, television shows, and throughout the Star Wars expanded universe. Several TIE fighter replicas and toys, as well as a TIE flight simulator, have been produced and sold by merchandise companies.</desc>
+</vehicle>

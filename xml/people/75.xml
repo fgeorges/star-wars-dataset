@@ -1,0 +1,14 @@
+<people>
+   <name>R4-P17</name>
+   <height>96</height>
+   <hair_color>none</hair_color>
+   <skin_color>silver, red</skin_color>
+   <eye_color>red, blue</eye_color>
+   <gender>female</gender>
+   <homeworld>http://swapi.co/api/planets/28/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T17:43:36.409000Z</created>
+   <edited>2014-12-20T21:17:50.478000Z</edited>
+   <url>http://swapi.co/api/people/75/</url>
+</people>

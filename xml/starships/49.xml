@@ -1,0 +1,15 @@
+<starship>
+   <name>H-type Nubian yacht</name>
+   <model>H-type Nubian yacht</model>
+   <manufacturer>Theed Palace Space Vessel Engineering Corps</manufacturer>
+   <length>47.9</length>
+   <max_atmosphering_speed>8000</max_atmosphering_speed>
+   <crew>4</crew>
+   <hyperdrive_rating>0.9</hyperdrive_rating>
+   <starship_class>yacht</starship_class>
+   <pilots>http://swapi.co/api/people/35/</pilots>
+   <films>http://swapi.co/api/films/5/</films>
+   <created>2014-12-20T17:46:46.847000Z</created>
+   <edited>2014-12-22T17:35:45.158969Z</edited>
+   <url>http://swapi.co/api/starships/49/</url>
+</starship>

@@ -1,0 +1,27 @@
+<starship>
+   <name>Millennium Falcon</name>
+   <model>YT-1300 light freighter</model>
+   <manufacturer>Corellian Engineering Corporation</manufacturer>
+   <cost_in_credits>100000</cost_in_credits>
+   <length>34.37</length>
+   <max_atmosphering_speed>1050</max_atmosphering_speed>
+   <crew>4</crew>
+   <passengers>6</passengers>
+   <cargo_capacity>100000</cargo_capacity>
+   <consumables>2 months</consumables>
+   <hyperdrive_rating>0.5</hyperdrive_rating>
+   <MGLT>75</MGLT>
+   <starship_class>Light freighter</starship_class>
+   <pilots>http://swapi.co/api/people/13/</pilots>
+   <pilots>http://swapi.co/api/people/14/</pilots>
+   <pilots>http://swapi.co/api/people/25/</pilots>
+   <pilots>http://swapi.co/api/people/31/</pilots>
+   <films>http://swapi.co/api/films/7/</films>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/2/</films>
+   <films>http://swapi.co/api/films/1/</films>
+   <created>2014-12-10T16:59:45.094000Z</created>
+   <edited>2014-12-22T17:35:44.464156Z</edited>
+   <url>http://swapi.co/api/starships/10/</url>
+   <desc>The Millennium Falcon is a spaceship in the Star Wars universe commanded at one time by Corellian smuggler Han Solo (Harrison Ford) and his Wookiee first mate, Chewbacca (Peter Mayhew). The highly modified Corellian Engineering Corporation (CEC) YT-1300 light freighter first appears in Star Wars (1977), and subsequently in The Empire Strikes Back (1980), Return of the Jedi (1983) and The Force Awakens (2015). The ship also makes a brief cameo appearance in Revenge of the Sith (2005). Additionally, the Falcon appears in a variety of Star Wars expanded universe materials, including books, comics, and games; James Luceno's novel Millennium Falcon focuses on the titular ship.[2] It also appears in the 2014 animated film The Lego Movie in Lego form, with Billy Dee Williams and Anthony Daniels reprising their roles of Lando Calrissian and C-3PO, with Keith Ferguson voicing Han Solo.</desc>
+</starship>

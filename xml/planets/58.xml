@@ -1,0 +1,10 @@
+<planet>
+   <name>Shili</name>
+   <climate>temperate</climate>
+   <gravity>1</gravity>
+   <terrain>cities, savannahs, seas, plains</terrain>
+   <residents>http://swapi.co/api/people/78/</residents>
+   <created>2014-12-20T18:43:14.049000Z</created>
+   <edited>2014-12-20T20:58:18.521000Z</edited>
+   <url>http://swapi.co/api/planets/58/</url>
+</planet>

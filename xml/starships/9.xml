@@ -1,0 +1,19 @@
+<starship>
+   <name>Death Star</name>
+   <model>DS-1 Orbital Battle Station</model>
+   <manufacturer>Imperial Department of Military Research, Sienar Fleet Systems</manufacturer>
+   <cost_in_credits>1000000000000</cost_in_credits>
+   <length>120000</length>
+   <crew>342953</crew>
+   <passengers>843342</passengers>
+   <cargo_capacity>1000000000000</cargo_capacity>
+   <consumables>3 years</consumables>
+   <hyperdrive_rating>4.0</hyperdrive_rating>
+   <MGLT>10</MGLT>
+   <starship_class>Deep Space Mobile Battlestation</starship_class>
+   <films>http://swapi.co/api/films/1/</films>
+   <created>2014-12-10T16:36:50.509000Z</created>
+   <edited>2014-12-22T17:35:44.452589Z</edited>
+   <url>http://swapi.co/api/starships/9/</url>
+   <desc>A number of fictional mobile space stations and galactic superweapons called Death Star featured in the Star Wars science-fiction franchise. The first Death Star was stated to be more than 100 km to 160 km in diameter, depending on source. It was crewed by an estimated 1.7 million military personnel and 400,000 droids.[1][2] Its superweapon delivered enough energies on a scale equivalent to all the energy released by the Sun in an entire week.[citation needed] The second Death Star was significantly larger, between 200 km to 400 km in diameter depending on source, and technologically more advanced than its predecessor. Both versions of these dwarf planet-sized fortresses were designed for massive power projection capabilities, capable of destroying an entire planet with one blast from their superlasers.[3]</desc>
+</starship>

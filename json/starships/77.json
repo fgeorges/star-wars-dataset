@@ -1,0 +1,16 @@
+{ "starship": {
+   "name": "T-70 X-wing fighter",
+   "model": "T-70 X-wing fighter",
+   "manufacturer": "Incom",
+   "crew": "1",
+   "starship_class": "fighter",
+   "pilots": [
+      "http://swapi.co/api/people/86/"
+   ],
+   "films": [
+      "http://swapi.co/api/films/7/"
+   ],
+   "created": "2015-04-17T06:58:50.614475Z",
+   "edited": "2015-04-17T06:58:50.614528Z",
+   "url": "http://swapi.co/api/starships/77/"
+}}

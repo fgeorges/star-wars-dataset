@@ -1,0 +1,11 @@
+{ "planet": {
+   "name": "Troiken",
+   "terrain": "desert, tundra, rainforests, mountains",
+   "residents": [
+      "http://swapi.co/api/people/49/"
+   ],
+   "films": [],
+   "created": "2014-12-20T10:01:37.395000Z",
+   "edited": "2014-12-20T20:58:18.487000Z",
+   "url": "http://swapi.co/api/planets/40/"
+}}

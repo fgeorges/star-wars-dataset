@@ -1,0 +1,22 @@
+<starship>
+   <name>Naboo fighter</name>
+   <model>N-1 starfighter</model>
+   <manufacturer>Theed Palace Space Vessel Engineering Corps</manufacturer>
+   <cost_in_credits>200000</cost_in_credits>
+   <length>11</length>
+   <max_atmosphering_speed>1100</max_atmosphering_speed>
+   <crew>1</crew>
+   <passengers>0</passengers>
+   <cargo_capacity>65</cargo_capacity>
+   <consumables>7 days</consumables>
+   <hyperdrive_rating>1.0</hyperdrive_rating>
+   <starship_class>Starfighter</starship_class>
+   <pilots>http://swapi.co/api/people/11/</pilots>
+   <pilots>http://swapi.co/api/people/60/</pilots>
+   <pilots>http://swapi.co/api/people/35/</pilots>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/4/</films>
+   <created>2014-12-19T17:39:17.582000Z</created>
+   <edited>2014-12-22T17:35:45.079452Z</edited>
+   <url>http://swapi.co/api/starships/39/</url>
+</starship>

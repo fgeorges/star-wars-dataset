@@ -1,0 +1,18 @@
+<species>
+   <name>Mirialan</name>
+   <classification>mammal</classification>
+   <designation>sentient</designation>
+   <average_height>180</average_height>
+   <skin_colors>yellow, green</skin_colors>
+   <hair_colors>black, brown</hair_colors>
+   <eye_colors>blue, green, red, yellow, brown, orange</eye_colors>
+   <homeworld>http://swapi.co/api/planets/51/</homeworld>
+   <language>Mirialan</language>
+   <people>http://swapi.co/api/people/64/</people>
+   <people>http://swapi.co/api/people/65/</people>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T16:46:48.290000Z</created>
+   <edited>2014-12-20T21:36:42.197000Z</edited>
+   <url>http://swapi.co/api/species/29/</url>
+</species>

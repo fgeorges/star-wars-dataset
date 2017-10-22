@@ -1,0 +1,21 @@
+{ "vehicle": {
+   "name": "Tribubble bongo",
+   "model": "Tribubble bongo",
+   "manufacturer": "Otoh Gunga Bongameken Cooperative",
+   "length": "15",
+   "max_atmosphering_speed": "85",
+   "crew": "1",
+   "passengers": "2",
+   "cargo_capacity": "1600",
+   "vehicle_class": "submarine",
+   "pilots": [
+      "http://swapi.co/api/people/10/",
+      "http://swapi.co/api/people/32/"
+   ],
+   "films": [
+      "http://swapi.co/api/films/4/"
+   ],
+   "created": "2014-12-19T17:37:37.924000Z",
+   "edited": "2014-12-22T18:21:16.072083Z",
+   "url": "http://swapi.co/api/vehicles/38/"
+}}

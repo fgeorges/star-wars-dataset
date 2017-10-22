@@ -1,0 +1,15 @@
+<planet>
+   <name>Sullust</name>
+   <rotation_period>20</rotation_period>
+   <orbital_period>263</orbital_period>
+   <diameter>12780</diameter>
+   <climate>superheated</climate>
+   <gravity>1</gravity>
+   <terrain>mountains, volcanoes, rocky deserts</terrain>
+   <surface_water>5</surface_water>
+   <population>18500000000</population>
+   <residents>http://swapi.co/api/people/31/</residents>
+   <created>2014-12-18T11:25:40.243000Z</created>
+   <edited>2014-12-20T20:58:18.474000Z</edited>
+   <url>http://swapi.co/api/planets/33/</url>
+</planet>

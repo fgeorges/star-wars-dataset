@@ -1,0 +1,17 @@
+<species>
+   <name>Ewok</name>
+   <classification>mammal</classification>
+   <designation>sentient</designation>
+   <average_height>100</average_height>
+   <skin_colors>brown</skin_colors>
+   <hair_colors>white, brown, black</hair_colors>
+   <eye_colors>orange, brown</eye_colors>
+   <homeworld>http://swapi.co/api/planets/7/</homeworld>
+   <language>Ewokese</language>
+   <people>http://swapi.co/api/people/30/</people>
+   <films>http://swapi.co/api/films/3/</films>
+   <created>2014-12-18T11:22:00.285000Z</created>
+   <edited>2014-12-20T21:36:42.155000Z</edited>
+   <url>http://swapi.co/api/species/9/</url>
+   <desc>Ewoks are a fictional race of small, mammaloid bipeds that appear in the Star Wars universe. They are hunter-gatherers resembling teddy bears that inhabit the forest moon of Endor and live in various arboreal huts and other simple dwellings. They first appeared in the 1983 film Return of the Jedi and have since appeared in two made-for-television films, Caravan of Courage: An Ewok Adventure (1984) and Ewoks: The Battle for Endor (1985), as well as a short-lived animated series and several books and games.</desc>
+</species>

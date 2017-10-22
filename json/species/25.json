@@ -1,0 +1,22 @@
+{ "species": {
+   "name": "Quermian",
+   "classification": "mammal",
+   "designation": "sentient",
+   "average_height": "240",
+   "skin_colors": "white",
+   "hair_colors": "none",
+   "eye_colors": "yellow",
+   "average_lifespan": "86",
+   "homeworld": "http://swapi.co/api/planets/48/",
+   "language": "Quermian",
+   "people": [
+      "http://swapi.co/api/people/57/"
+   ],
+   "films": [
+      "http://swapi.co/api/films/4/",
+      "http://swapi.co/api/films/6/"
+   ],
+   "created": "2014-12-20T10:34:50.827000Z",
+   "edited": "2014-12-20T21:36:42.189000Z",
+   "url": "http://swapi.co/api/species/25/"
+}}

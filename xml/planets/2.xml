@@ -1,0 +1,20 @@
+<planet>
+   <name>Alderaan</name>
+   <rotation_period>24</rotation_period>
+   <orbital_period>364</orbital_period>
+   <diameter>12500</diameter>
+   <climate>temperate</climate>
+   <gravity>1 standard</gravity>
+   <terrain>grasslands, mountains</terrain>
+   <surface_water>40</surface_water>
+   <population>2000000000</population>
+   <residents>http://swapi.co/api/people/5/</residents>
+   <residents>http://swapi.co/api/people/68/</residents>
+   <residents>http://swapi.co/api/people/81/</residents>
+   <films>http://swapi.co/api/films/6/</films>
+   <films>http://swapi.co/api/films/1/</films>
+   <created>2014-12-10T11:35:48.479000Z</created>
+   <edited>2014-12-20T20:58:18.420000Z</edited>
+   <url>http://swapi.co/api/planets/2/</url>
+   <desc>Alderaan is a fictional planet featured in the Star Wars space opera franchise. It is blue-green in appearance and is depicted as a terrestrial planet with humanoid inhabitants. It is the home of Princess Leia, one of the lead characters in the film series. In the original 1977 film, Star Wars, Alderaan is blown up by the Death Star, a giant space station capable of destroying entire planets.[2]</desc>
+</planet>

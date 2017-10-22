@@ -1,0 +1,23 @@
+<people>
+   <name>Palpatine</name>
+   <height>170</height>
+   <mass>75</mass>
+   <hair_color>grey</hair_color>
+   <skin_color>pale</skin_color>
+   <eye_color>yellow</eye_color>
+   <birth_year>82BBY</birth_year>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/8/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/4/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/2/</films>
+   <species>http://swapi.co/api/species/1/</species>
+   <created>2014-12-15T12:48:05.971000Z</created>
+   <edited>2014-12-20T21:17:50.347000Z</edited>
+   <url>http://swapi.co/api/people/21/</url>
+   <desc>Sheev Palpatine[3], also known as Darth Sidious and The Emperor, is a fictional character and one of the primary antagonists of the Star Wars franchise,[4] mainly portrayed by Ian McDiarmid. In the original trilogy, he is depicted as the aged, pale-faced and cloaked Emperor of the Galactic Empire and the master of Darth Vader. In the prequel trilogy, he is portrayed as a charismatic Senator from Naboo who uses deception and political manipulation to rise to the position of Supreme Chancellor of the Galactic Republic, and then reorganizes the Republic into the Galactic Empire, with himself as Emperor.</desc>
+   <desc>Though outwardly appearing to be a well-intentioned public servant and supporter of democracy prior to becoming Emperor,[5] he is actually Darth Sidious, the Dark Lord of the Sith – a cult of practitioners of the dark side of the Force previously thought to have been extinct in the Star Wars galaxy for a millennium.[5] As Sidious, he instigates the Clone Wars, nearly destroys the Jedi, and transforms the Republic into the Empire. He also manipulates Jedi Knight Anakin Skywalker into turning to the dark side and serving at his side as Darth Vader. Palpatine's reign is brought to an end when Vader kills him to save his son, Luke Skywalker.</desc>
+   <desc>Since the initial theatrical run of Return of the Jedi, Palpatine has become a widely recognized popular culture symbol of evil, sinister deception, dictatorship, tyranny, and the subversion of democracy.</desc>
+</people>

@@ -1,0 +1,16 @@
+<people>
+   <name>Shaak Ti</name>
+   <height>178</height>
+   <mass>57</mass>
+   <hair_color>none</hair_color>
+   <skin_color>red, blue, white</skin_color>
+   <eye_color>black</eye_color>
+   <gender>female</gender>
+   <homeworld>http://swapi.co/api/planets/58/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <species>http://swapi.co/api/species/35/</species>
+   <created>2014-12-20T18:44:01.103000Z</created>
+   <edited>2014-12-20T21:17:50.486000Z</edited>
+   <url>http://swapi.co/api/people/78/</url>
+</people>

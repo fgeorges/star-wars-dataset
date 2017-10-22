@@ -1,0 +1,19 @@
+{ "vehicle": {
+   "name": "SPHA",
+   "model": "Self-Propelled Heavy Artillery",
+   "manufacturer": "Rothana Heavy Engineering",
+   "length": "140",
+   "max_atmosphering_speed": "35",
+   "crew": "25",
+   "passengers": "30",
+   "cargo_capacity": "500",
+   "consumables": "7 days",
+   "vehicle_class": "walker",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/5/"
+   ],
+   "created": "2014-12-20T18:12:32.315000Z",
+   "edited": "2014-12-22T18:21:16.311761Z",
+   "url": "http://swapi.co/api/vehicles/54/"
+}}

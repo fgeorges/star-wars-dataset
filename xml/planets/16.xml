@@ -1,0 +1,14 @@
+<planet>
+   <name>Mygeeto</name>
+   <rotation_period>12</rotation_period>
+   <orbital_period>167</orbital_period>
+   <diameter>10088</diameter>
+   <climate>frigid</climate>
+   <gravity>1 standard</gravity>
+   <terrain>glaciers, mountains, ice canyons</terrain>
+   <population>19000000</population>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-10T13:43:39.139000Z</created>
+   <edited>2014-12-20T20:58:18.446000Z</edited>
+   <url>http://swapi.co/api/planets/16/</url>
+</planet>

@@ -1,0 +1,33 @@
+{ "people": {
+   "name": "Leia Organa",
+   "height": "150",
+   "mass": "49",
+   "hair_color": "brown",
+   "skin_color": "light",
+   "eye_color": "brown",
+   "birth_year": "19BBY",
+   "gender": "female",
+   "homeworld": "http://swapi.co/api/planets/2/",
+   "films": [
+      "http://swapi.co/api/films/6/",
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/",
+      "http://swapi.co/api/films/1/",
+      "http://swapi.co/api/films/7/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/1/"
+   ],
+   "vehicles": [
+      "http://swapi.co/api/vehicles/30/"
+   ],
+   "starships": [],
+   "created": "2014-12-10T15:20:09.791000Z",
+   "edited": "2014-12-20T21:17:50.315000Z",
+   "url": "http://swapi.co/api/people/5/",
+   "desc": [
+      "Princess Leia Organa of Alderaan (also Senator Leia Organa or General Leia Organa) is a fictional character in the Star Wars franchise, portrayed in films by Carrie Fisher. Introduced in the original Star Wars film in 1977, Leia is princess of the planet Alderaan, a member of the Imperial Senate and an agent of the Rebel Alliance. She thwarts the sinister Sith Lord Darth Vader and helps bring about the destruction of the Empire's cataclysmic superweapon, the Death Star. In The Empire Strikes Back (1980), Leia commands a Rebel base and evades Vader as she falls in love with the smuggler, Han Solo. In Return of the Jedi (1983), Leia leads the operation to rescue Han from the crime lord Jabba the Hutt, and is revealed to be Vader's daughter and the twin sister of Luke Skywalker. The prequel film Revenge of the Sith (2005) establishes that the twins' mother is Senator (and former queen) Padmé Amidala of Naboo, who dies after childbirth. Leia is adopted by Senator Bail and Queen Breha Organa of Alderaan. In The Force Awakens (2015), Leia is the founder and General of the Resistance against the First Order and has a son with Han named Ben, who goes by the name Kylo Ren.",
+      "In the original Star Wars expanded universe (1977–2014) of novels, comics and video games, which are set in an alternate continuity, Leia continues her adventures with Han and Luke after Return of the Jedi, fighting Imperial resurgences and new threats to the galaxy. She becomes the Chief of State of the New Republic and a Jedi Master, and is the mother to three children by Han: Jaina, Jacen and Anakin Solo.",
+      "One of the more popular Star Wars characters, Leia has been called a 1980s icon, a feminist hero and model for other adventure heroines. She has appeared in many derivative works and merchandising, and has been referenced or parodied in several TV shows and films. Her \"cinnamon buns\" hairstyle from Star Wars (1977) and metal bikini from Return of the Jedi have become cultural icons."
+   ]
+}}

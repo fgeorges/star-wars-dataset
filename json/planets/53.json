@@ -1,0 +1,11 @@
+{ "planet": {
+   "name": "Concord Dawn",
+   "terrain": "jungles, forests, deserts",
+   "residents": [
+      "http://swapi.co/api/people/69/"
+   ],
+   "films": [],
+   "created": "2014-12-20T16:54:39.909000Z",
+   "edited": "2014-12-20T20:58:18.512000Z",
+   "url": "http://swapi.co/api/planets/53/"
+}}

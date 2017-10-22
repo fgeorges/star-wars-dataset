@@ -1,0 +1,17 @@
+<species>
+   <name>Chagrian</name>
+   <classification>amphibian</classification>
+   <designation>sentient</designation>
+   <average_height>190</average_height>
+   <skin_colors>blue</skin_colors>
+   <hair_colors>none</hair_colors>
+   <eye_colors>blue</eye_colors>
+   <homeworld>http://swapi.co/api/planets/50/</homeworld>
+   <language>Chagria</language>
+   <people>http://swapi.co/api/people/59/</people>
+   <films>http://swapi.co/api/films/4/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T10:53:28.795000Z</created>
+   <edited>2014-12-20T21:36:42.193000Z</edited>
+   <url>http://swapi.co/api/species/27/</url>
+</species>

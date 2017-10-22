@@ -1,0 +1,12 @@
+<starship>
+   <name>T-70 X-wing fighter</name>
+   <model>T-70 X-wing fighter</model>
+   <manufacturer>Incom</manufacturer>
+   <crew>1</crew>
+   <starship_class>fighter</starship_class>
+   <pilots>http://swapi.co/api/people/86/</pilots>
+   <films>http://swapi.co/api/films/7/</films>
+   <created>2015-04-17T06:58:50.614475Z</created>
+   <edited>2015-04-17T06:58:50.614528Z</edited>
+   <url>http://swapi.co/api/starships/77/</url>
+</starship>

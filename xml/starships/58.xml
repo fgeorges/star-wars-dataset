@@ -1,0 +1,18 @@
+<starship>
+   <name>Solar Sailer</name>
+   <model>Punworcca 116-class interstellar sloop</model>
+   <manufacturer>Huppla Pasa Tisc Shipwrights Collective</manufacturer>
+   <cost_in_credits>35700</cost_in_credits>
+   <length>15.2</length>
+   <max_atmosphering_speed>1600</max_atmosphering_speed>
+   <crew>3</crew>
+   <passengers>11</passengers>
+   <cargo_capacity>240</cargo_capacity>
+   <consumables>7 days</consumables>
+   <hyperdrive_rating>1.5</hyperdrive_rating>
+   <starship_class>yacht</starship_class>
+   <films>http://swapi.co/api/films/5/</films>
+   <created>2014-12-20T18:37:56.969000Z</created>
+   <edited>2014-12-22T17:35:45.183075Z</edited>
+   <url>http://swapi.co/api/starships/58/</url>
+</starship>

@@ -1,0 +1,23 @@
+{ "vehicle": {
+   "name": "AT-AT",
+   "model": "All Terrain Armored Transport",
+   "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
+   "length": "20",
+   "max_atmosphering_speed": "60",
+   "crew": "5",
+   "passengers": "40",
+   "cargo_capacity": "1000",
+   "vehicle_class": "assault walker",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/"
+   ],
+   "created": "2014-12-15T12:38:25.937000Z",
+   "edited": "2014-12-22T18:21:15.714673Z",
+   "url": "http://swapi.co/api/vehicles/18/",
+   "desc": [
+      "Walkers are vehicles from the Star Wars universe that traverse the landscape on mechanical legs. They are used by the Old Republic and the Galactic Empire for ground assault or transport. Throughout the saga, walkers have played a pivotal role in the fate of characters and the outcome of battles. Industrial Light and Magic (ILM) is responsible for their animation and design, often using models, stop-motion animation, and relevant matte paintings to depict their presence in the films.",
+      "There are a variety of walkers: The Empire Strikes Back introduces the All Terrain Armored Transport (AT-AT) and All Terrain Scout Transport (AT-ST). Star Wars: Episode II – Attack of the Clones and Star Wars: Episode III – Revenge of the Sith introduced earlier models of walkers, such as the AT-TE, and the Star Wars expanded universe features numerous others. Walker variants have been merchandised and featured in popular culture."
+   ]
+}}

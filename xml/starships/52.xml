@@ -1,0 +1,16 @@
+<starship>
+   <name>Republic Assault ship</name>
+   <model>Acclamator I-class assault ship</model>
+   <manufacturer>Rothana Heavy Engineering</manufacturer>
+   <length>752</length>
+   <crew>700</crew>
+   <passengers>16000</passengers>
+   <cargo_capacity>11250000</cargo_capacity>
+   <consumables>2 years</consumables>
+   <hyperdrive_rating>0.6</hyperdrive_rating>
+   <starship_class>assault ship</starship_class>
+   <films>http://swapi.co/api/films/5/</films>
+   <created>2014-12-20T18:08:42.926000Z</created>
+   <edited>2014-12-22T17:35:45.171653Z</edited>
+   <url>http://swapi.co/api/starships/52/</url>
+</starship>

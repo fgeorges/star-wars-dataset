@@ -1,0 +1,20 @@
+{ "species": {
+   "name": "Dug",
+   "classification": "mammal",
+   "designation": "sentient",
+   "average_height": "100",
+   "skin_colors": "brown, purple, grey, red",
+   "hair_colors": "none",
+   "eye_colors": "yellow, blue",
+   "homeworld": "http://swapi.co/api/planets/35/",
+   "language": "Dugese",
+   "people": [
+      "http://swapi.co/api/people/41/"
+   ],
+   "films": [
+      "http://swapi.co/api/films/4/"
+   ],
+   "created": "2014-12-19T17:53:11.214000Z",
+   "edited": "2014-12-20T21:36:42.167000Z",
+   "url": "http://swapi.co/api/species/14/"
+}}

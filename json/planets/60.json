@@ -1,0 +1,10 @@
+{ "planet": {
+   "name": "Umbara",
+   "residents": [
+      "http://swapi.co/api/people/82/"
+   ],
+   "films": [],
+   "created": "2014-12-20T20:18:36.256000Z",
+   "edited": "2014-12-20T20:58:18.525000Z",
+   "url": "http://swapi.co/api/planets/60/"
+}}

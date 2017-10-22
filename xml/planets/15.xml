@@ -1,0 +1,15 @@
+<planet>
+   <name>Polis Massa</name>
+   <rotation_period>24</rotation_period>
+   <orbital_period>590</orbital_period>
+   <diameter>0</diameter>
+   <climate>artificial temperate </climate>
+   <gravity>0.56 standard</gravity>
+   <terrain>airless asteroid</terrain>
+   <surface_water>0</surface_water>
+   <population>1000000</population>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-10T13:33:46.405000Z</created>
+   <edited>2014-12-20T20:58:18.444000Z</edited>
+   <url>http://swapi.co/api/planets/15/</url>
+</planet>

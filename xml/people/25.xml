@@ -1,0 +1,19 @@
+<people>
+   <name>Lando Calrissian</name>
+   <height>177</height>
+   <mass>79</mass>
+   <hair_color>black</hair_color>
+   <skin_color>dark</skin_color>
+   <eye_color>brown</eye_color>
+   <birth_year>31BBY</birth_year>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/30/</homeworld>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/2/</films>
+   <species>http://swapi.co/api/species/1/</species>
+   <starships>http://swapi.co/api/starships/10/</starships>
+   <created>2014-12-15T12:56:32.683000Z</created>
+   <edited>2014-12-20T21:17:50.357000Z</edited>
+   <url>http://swapi.co/api/people/25/</url>
+   <desc>Lando Calrissian is a fictional character in the Star Wars franchise. He is portrayed by Billy Dee Williams in The Empire Strikes Back and Return of the Jedi, and will be played by Donald Glover in the upcoming standalone film, Solo: A Star Wars Story.[1] He also appears frequently in the Star Wars expanded universe of novels, comic books and video games, including a series of novels in which he is the protagonist.</desc>
+</people>

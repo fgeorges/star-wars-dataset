@@ -1,0 +1,15 @@
+<species>
+   <name>Rodian</name>
+   <classification>sentient</classification>
+   <designation>reptilian</designation>
+   <average_height>170</average_height>
+   <skin_colors>green, blue</skin_colors>
+   <eye_colors>black</eye_colors>
+   <homeworld>http://swapi.co/api/planets/23/</homeworld>
+   <language>Galactic Basic</language>
+   <people>http://swapi.co/api/people/15/</people>
+   <films>http://swapi.co/api/films/1/</films>
+   <created>2014-12-10T17:05:26.471000Z</created>
+   <edited>2016-07-19T13:27:03.156498Z</edited>
+   <url>http://swapi.co/api/species/4/</url>
+</species>

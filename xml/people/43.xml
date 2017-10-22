@@ -1,0 +1,16 @@
+<people>
+   <name>Shmi Skywalker</name>
+   <height>163</height>
+   <hair_color>black</hair_color>
+   <skin_color>fair</skin_color>
+   <eye_color>brown</eye_color>
+   <birth_year>72BBY</birth_year>
+   <gender>female</gender>
+   <homeworld>http://swapi.co/api/planets/1/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/4/</films>
+   <species>http://swapi.co/api/species/1/</species>
+   <created>2014-12-19T17:57:41.191000Z</created>
+   <edited>2014-12-20T21:17:50.401000Z</edited>
+   <url>http://swapi.co/api/people/43/</url>
+</people>

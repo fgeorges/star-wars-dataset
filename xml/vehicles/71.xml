@@ -1,0 +1,17 @@
+<vehicle>
+   <name>Clone turbo tank</name>
+   <model>HAVw A6 Juggernaut</model>
+   <manufacturer>Kuat Drive Yards</manufacturer>
+   <cost_in_credits>350000</cost_in_credits>
+   <length>49.4</length>
+   <max_atmosphering_speed>160</max_atmosphering_speed>
+   <crew>20</crew>
+   <passengers>300</passengers>
+   <cargo_capacity>30000</cargo_capacity>
+   <consumables>20 days</consumables>
+   <vehicle_class>wheeled walker</vehicle_class>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T20:24:45.587000Z</created>
+   <edited>2014-12-22T18:21:16.571079Z</edited>
+   <url>http://swapi.co/api/vehicles/71/</url>
+</vehicle>

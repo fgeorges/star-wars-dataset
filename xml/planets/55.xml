@@ -1,0 +1,11 @@
+<planet>
+   <name>Ojom</name>
+   <climate>frigid</climate>
+   <terrain>oceans, glaciers</terrain>
+   <surface_water>100</surface_water>
+   <population>500000000</population>
+   <residents>http://swapi.co/api/people/71/</residents>
+   <created>2014-12-20T17:27:41.286000Z</created>
+   <edited>2014-12-20T20:58:18.516000Z</edited>
+   <url>http://swapi.co/api/planets/55/</url>
+</planet>

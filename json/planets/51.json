@@ -1,0 +1,12 @@
+{ "planet": {
+   "name": "Mirial",
+   "terrain": "deserts",
+   "residents": [
+      "http://swapi.co/api/people/64/",
+      "http://swapi.co/api/people/65/"
+   ],
+   "films": [],
+   "created": "2014-12-20T16:44:46.318000Z",
+   "edited": "2014-12-20T20:58:18.508000Z",
+   "url": "http://swapi.co/api/planets/51/"
+}}

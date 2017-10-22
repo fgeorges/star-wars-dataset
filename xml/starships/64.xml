@@ -1,0 +1,17 @@
+<starship>
+   <name>Naboo star skiff</name>
+   <model>J-type star skiff</model>
+   <manufacturer>Theed Palace Space Vessel Engineering Corps/Nubia Star Drives, Incorporated</manufacturer>
+   <length>29.2</length>
+   <max_atmosphering_speed>1050</max_atmosphering_speed>
+   <crew>3</crew>
+   <passengers>3</passengers>
+   <hyperdrive_rating>0.5</hyperdrive_rating>
+   <starship_class>yacht</starship_class>
+   <pilots>http://swapi.co/api/people/10/</pilots>
+   <pilots>http://swapi.co/api/people/35/</pilots>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T19:55:15.396000Z</created>
+   <edited>2014-12-22T17:35:45.258859Z</edited>
+   <url>http://swapi.co/api/starships/64/</url>
+</starship>

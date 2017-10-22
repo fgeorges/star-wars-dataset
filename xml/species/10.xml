@@ -1,0 +1,16 @@
+<species>
+   <name>Sullustan</name>
+   <classification>mammal</classification>
+   <designation>sentient</designation>
+   <average_height>180</average_height>
+   <skin_colors>pale</skin_colors>
+   <hair_colors>none</hair_colors>
+   <eye_colors>black</eye_colors>
+   <homeworld>http://swapi.co/api/planets/33/</homeworld>
+   <language>Sullutese</language>
+   <people>http://swapi.co/api/people/31/</people>
+   <films>http://swapi.co/api/films/3/</films>
+   <created>2014-12-18T11:26:20.103000Z</created>
+   <edited>2014-12-20T21:36:42.157000Z</edited>
+   <url>http://swapi.co/api/species/10/</url>
+</species>

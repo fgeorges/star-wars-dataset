@@ -1,0 +1,22 @@
+{ "starship": {
+   "name": "arc-170",
+   "model": "Aggressive Reconnaissance-170 starfighte",
+   "manufacturer": "Incom Corporation, Subpro Corporation",
+   "cost_in_credits": "155000",
+   "length": "14.5",
+   "max_atmosphering_speed": "1000",
+   "crew": "3",
+   "passengers": "0",
+   "cargo_capacity": "110",
+   "consumables": "5 days",
+   "hyperdrive_rating": "1.0",
+   "MGLT": "100",
+   "starship_class": "starfighter",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/6/"
+   ],
+   "created": "2014-12-20T20:03:48.603000Z",
+   "edited": "2014-12-22T17:35:45.287214Z",
+   "url": "http://swapi.co/api/starships/66/"
+}}

@@ -1,0 +1,18 @@
+{ "vehicle": {
+   "name": "LAAT/c",
+   "model": "Low Altitude Assault Transport/carrier",
+   "manufacturer": "Rothana Heavy Engineering",
+   "length": "28.82",
+   "max_atmosphering_speed": "620",
+   "crew": "1",
+   "passengers": "0",
+   "cargo_capacity": "40000",
+   "vehicle_class": "gunship",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/5/"
+   ],
+   "created": "2014-12-20T18:02:46.802000Z",
+   "edited": "2014-12-22T18:21:16.229733Z",
+   "url": "http://swapi.co/api/vehicles/51/"
+}}

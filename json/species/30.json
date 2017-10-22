@@ -1,0 +1,22 @@
+{ "species": {
+   "name": "Clawdite",
+   "classification": "reptilian",
+   "designation": "sentient",
+   "average_height": "180",
+   "skin_colors": "green, yellow",
+   "hair_colors": "none",
+   "eye_colors": "yellow",
+   "average_lifespan": "70",
+   "homeworld": "http://swapi.co/api/planets/54/",
+   "language": "Clawdite",
+   "people": [
+      "http://swapi.co/api/people/70/"
+   ],
+   "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/6/"
+   ],
+   "created": "2014-12-20T16:57:46.171000Z",
+   "edited": "2014-12-20T21:36:42.199000Z",
+   "url": "http://swapi.co/api/species/30/"
+}}

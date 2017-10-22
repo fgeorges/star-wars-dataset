@@ -1,0 +1,23 @@
+<starship>
+   <name>Star Destroyer</name>
+   <model>Imperial I-class Star Destroyer</model>
+   <manufacturer>Kuat Drive Yards</manufacturer>
+   <cost_in_credits>150000000</cost_in_credits>
+   <length>1,600</length>
+   <max_atmosphering_speed>975</max_atmosphering_speed>
+   <crew>47060</crew>
+   <passengers>0</passengers>
+   <cargo_capacity>36000000</cargo_capacity>
+   <consumables>2 years</consumables>
+   <hyperdrive_rating>2.0</hyperdrive_rating>
+   <MGLT>60</MGLT>
+   <starship_class>Star Destroyer</starship_class>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/2/</films>
+   <films>http://swapi.co/api/films/1/</films>
+   <created>2014-12-10T15:08:19.848000Z</created>
+   <edited>2014-12-22T17:35:44.410941Z</edited>
+   <url>http://swapi.co/api/starships/3/</url>
+   <desc>Star Destroyers are capital ships in the fictional Star Wars universe. The Imperial Star Destroyer, which first appears in the first seconds of Star Wars (1977), is "the signature vessel of the Imperial fleet".[2] The term "Star Destroyer" also refers to other vessels in the franchise.</desc>
+   <desc>Numerous Star Destroyer models and toys have been released, and the iconic scene featuring the vessel's first appearance has been called "a milestone in special effects history".</desc>
+</starship>

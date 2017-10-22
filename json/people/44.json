@@ -1,0 +1,29 @@
+{ "people": {
+   "name": "Darth Maul",
+   "height": "175",
+   "mass": "80",
+   "hair_color": "none",
+   "skin_color": "red",
+   "eye_color": "yellow",
+   "birth_year": "54BBY",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/36/",
+   "films": [
+      "http://swapi.co/api/films/4/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/22/"
+   ],
+   "vehicles": [
+      "http://swapi.co/api/vehicles/42/"
+   ],
+   "starships": [
+      "http://swapi.co/api/starships/41/"
+   ],
+   "created": "2014-12-19T18:00:41.929000Z",
+   "edited": "2014-12-20T21:17:50.403000Z",
+   "url": "http://swapi.co/api/people/44/",
+   "desc": [
+      "Darth Maul, later known simply as Maul, is a fictional character in the Star Wars franchise. Trained as Darth Sidious's first apprentice, he serves as a Sith Lord and a master of wielding a double-bladed lightsaber. He first appears in Star Wars: Episode I – The Phantom Menace (portrayed by Ray Park and voiced by Peter Serafinowicz), and later makes appearances in Star Wars: The Clone Wars and Star Wars Rebels, voiced by Samuel Witwer."
+   ]
+}}

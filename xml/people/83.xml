@@ -1,0 +1,15 @@
+<people>
+   <name>Tion Medon</name>
+   <height>206</height>
+   <mass>80</mass>
+   <hair_color>none</hair_color>
+   <skin_color>grey</skin_color>
+   <eye_color>black</eye_color>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/12/</homeworld>
+   <films>http://swapi.co/api/films/6/</films>
+   <species>http://swapi.co/api/species/37/</species>
+   <created>2014-12-20T20:35:04.260000Z</created>
+   <edited>2014-12-20T21:17:50.498000Z</edited>
+   <url>http://swapi.co/api/people/83/</url>
+</people>

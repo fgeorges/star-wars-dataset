@@ -1,0 +1,17 @@
+<people>
+   <name>Kit Fisto</name>
+   <height>196</height>
+   <mass>87</mass>
+   <hair_color>none</hair_color>
+   <skin_color>green</skin_color>
+   <eye_color>black</eye_color>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/44/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/4/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <species>http://swapi.co/api/species/21/</species>
+   <created>2014-12-20T10:18:57.202000Z</created>
+   <edited>2014-12-20T21:17:50.424000Z</edited>
+   <url>http://swapi.co/api/people/53/</url>
+</people>

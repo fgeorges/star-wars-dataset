@@ -1,0 +1,15 @@
+<planet>
+   <name>Mustafar</name>
+   <rotation_period>36</rotation_period>
+   <orbital_period>412</orbital_period>
+   <diameter>4200</diameter>
+   <climate>hot</climate>
+   <gravity>1 standard</gravity>
+   <terrain>volcanoes, lava rivers, mountains, caves</terrain>
+   <surface_water>0</surface_water>
+   <population>20000</population>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-10T12:50:16.526000Z</created>
+   <edited>2014-12-20T20:58:18.440000Z</edited>
+   <url>http://swapi.co/api/planets/13/</url>
+</planet>

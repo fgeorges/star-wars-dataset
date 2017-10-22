@@ -1,0 +1,15 @@
+<planet>
+   <name>Rodia</name>
+   <rotation_period>29</rotation_period>
+   <orbital_period>305</orbital_period>
+   <diameter>7549</diameter>
+   <climate>hot</climate>
+   <gravity>1 standard</gravity>
+   <terrain>jungles, oceans, urban, swamps</terrain>
+   <surface_water>60</surface_water>
+   <population>1300000000</population>
+   <residents>http://swapi.co/api/people/15/</residents>
+   <created>2014-12-10T17:03:28.110000Z</created>
+   <edited>2014-12-20T20:58:18.458000Z</edited>
+   <url>http://swapi.co/api/planets/23/</url>
+</planet>

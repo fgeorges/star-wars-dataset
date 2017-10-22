@@ -1,0 +1,19 @@
+{ "vehicle": {
+   "name": "LAAT/i",
+   "model": "Low Altitude Assault Transport/infrantry",
+   "manufacturer": "Rothana Heavy Engineering",
+   "length": "17.4",
+   "max_atmosphering_speed": "620",
+   "crew": "6",
+   "passengers": "30",
+   "cargo_capacity": "170",
+   "vehicle_class": "gunship",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/6/"
+   ],
+   "created": "2014-12-20T18:01:21.014000Z",
+   "edited": "2014-12-22T18:21:16.181363Z",
+   "url": "http://swapi.co/api/vehicles/50/"
+}}

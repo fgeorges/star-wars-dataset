@@ -1,0 +1,19 @@
+<vehicle>
+   <name>Imperial Speeder Bike</name>
+   <model>74-Z speeder bike</model>
+   <manufacturer>Aratech Repulsor Company</manufacturer>
+   <cost_in_credits>8000</cost_in_credits>
+   <length>3</length>
+   <max_atmosphering_speed>360</max_atmosphering_speed>
+   <crew>1</crew>
+   <passengers>1</passengers>
+   <cargo_capacity>4</cargo_capacity>
+   <consumables>1 day</consumables>
+   <vehicle_class>speeder</vehicle_class>
+   <pilots>http://swapi.co/api/people/1/</pilots>
+   <pilots>http://swapi.co/api/people/5/</pilots>
+   <films>http://swapi.co/api/films/3/</films>
+   <created>2014-12-18T11:20:04.625000Z</created>
+   <edited>2014-12-22T18:21:15.920537Z</edited>
+   <url>http://swapi.co/api/vehicles/30/</url>
+</vehicle>

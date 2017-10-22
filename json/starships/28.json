@@ -1,0 +1,27 @@
+{ "starship": {
+   "name": "A-wing",
+   "model": "RZ-1 A-wing Interceptor",
+   "manufacturer": "Alliance Underground Engineering, Incom Corporation",
+   "cost_in_credits": "175000",
+   "length": "9.6",
+   "max_atmosphering_speed": "1300",
+   "crew": "1",
+   "passengers": "0",
+   "cargo_capacity": "40",
+   "consumables": "1 week",
+   "hyperdrive_rating": "1.0",
+   "MGLT": "120",
+   "starship_class": "Starfighter",
+   "pilots": [
+      "http://swapi.co/api/people/29/"
+   ],
+   "films": [
+      "http://swapi.co/api/films/3/"
+   ],
+   "created": "2014-12-18T11:16:34.542000Z",
+   "edited": "2014-12-22T17:35:44.978754Z",
+   "url": "http://swapi.co/api/starships/28/",
+   "desc": [
+      "A-wings are fictional starfighters in the Star Wars franchise. They first appear in Return of the Jedi (1983) and later in numerous Star Wars materials and productions. It gained popularity through its depiction in several video games, and since 1985 the A-wing has been merchandised by several companies."
+   ]
+}}

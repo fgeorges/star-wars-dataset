@@ -1,0 +1,14 @@
+<planet>
+   <name>Cerea</name>
+   <rotation_period>27</rotation_period>
+   <orbital_period>386</orbital_period>
+   <climate>temperate</climate>
+   <gravity>1</gravity>
+   <terrain>verdant</terrain>
+   <surface_water>20</surface_water>
+   <population>450000000</population>
+   <residents>http://swapi.co/api/people/52/</residents>
+   <created>2014-12-20T10:14:48.178000Z</created>
+   <edited>2014-12-20T20:58:18.493000Z</edited>
+   <url>http://swapi.co/api/planets/43/</url>
+</planet>

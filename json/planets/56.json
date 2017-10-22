@@ -1,0 +1,16 @@
+{ "planet": {
+   "name": "Skako",
+   "rotation_period": "27",
+   "orbital_period": "384",
+   "climate": "temperate",
+   "gravity": "1",
+   "terrain": "urban, vines",
+   "population": "500000000000",
+   "residents": [
+      "http://swapi.co/api/people/76/"
+   ],
+   "films": [],
+   "created": "2014-12-20T17:50:47.864000Z",
+   "edited": "2014-12-20T20:58:18.517000Z",
+   "url": "http://swapi.co/api/planets/56/"
+}}

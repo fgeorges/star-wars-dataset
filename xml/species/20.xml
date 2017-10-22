@@ -1,0 +1,17 @@
+<species>
+   <name>Cerean</name>
+   <classification>mammal</classification>
+   <designation>sentient</designation>
+   <average_height>200</average_height>
+   <skin_colors>pale pink</skin_colors>
+   <hair_colors>red, blond, black, white</hair_colors>
+   <eye_colors>hazel</eye_colors>
+   <homeworld>http://swapi.co/api/planets/43/</homeworld>
+   <language>Cerean</language>
+   <people>http://swapi.co/api/people/52/</people>
+   <films>http://swapi.co/api/films/4/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T10:15:33.765000Z</created>
+   <edited>2014-12-20T21:36:42.179000Z</edited>
+   <url>http://swapi.co/api/species/20/</url>
+</species>

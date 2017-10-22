@@ -1,0 +1,14 @@
+<people>
+   <name>Rugor Nass</name>
+   <height>206</height>
+   <hair_color>none</hair_color>
+   <skin_color>green</skin_color>
+   <eye_color>orange</eye_color>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/8/</homeworld>
+   <films>http://swapi.co/api/films/4/</films>
+   <species>http://swapi.co/api/species/12/</species>
+   <created>2014-12-19T17:33:38.909000Z</created>
+   <edited>2014-12-20T21:17:50.388000Z</edited>
+   <url>http://swapi.co/api/people/38/</url>
+</people>

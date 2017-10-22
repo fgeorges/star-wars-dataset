@@ -1,0 +1,20 @@
+{ "vehicle": {
+   "name": "Droid gunship",
+   "model": "HMP droid gunship",
+   "manufacturer": "Baktoid Fleet Ordnance, Haor Chall Engineering",
+   "cost_in_credits": "60000",
+   "length": "12.3",
+   "max_atmosphering_speed": "820",
+   "crew": "0",
+   "passengers": "0",
+   "cargo_capacity": "0",
+   "consumables": "none",
+   "vehicle_class": "airspeeder",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/6/"
+   ],
+   "created": "2014-12-20T20:32:05.687000Z",
+   "edited": "2014-12-22T18:21:16.643329Z",
+   "url": "http://swapi.co/api/vehicles/73/"
+}}

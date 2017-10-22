@@ -1,0 +1,22 @@
+{ "people": {
+   "name": "Poggle the Lesser",
+   "height": "183",
+   "mass": "80",
+   "hair_color": "none",
+   "skin_color": "green",
+   "eye_color": "yellow",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/11/",
+   "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/6/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/28/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-20T16:40:43.977000Z",
+   "edited": "2014-12-20T21:17:50.453000Z",
+   "url": "http://swapi.co/api/people/63/"
+}}

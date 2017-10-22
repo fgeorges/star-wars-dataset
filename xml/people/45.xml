@@ -1,0 +1,14 @@
+<people>
+   <name>Bib Fortuna</name>
+   <height>180</height>
+   <hair_color>none</hair_color>
+   <skin_color>pale</skin_color>
+   <eye_color>pink</eye_color>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/37/</homeworld>
+   <films>http://swapi.co/api/films/3/</films>
+   <species>http://swapi.co/api/species/15/</species>
+   <created>2014-12-20T09:47:02.512000Z</created>
+   <edited>2014-12-20T21:17:50.407000Z</edited>
+   <url>http://swapi.co/api/people/45/</url>
+</people>

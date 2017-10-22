@@ -1,0 +1,11 @@
+{ "planet": {
+   "name": "Serenno",
+   "terrain": "rainforests, rivers, mountains",
+   "residents": [
+      "http://swapi.co/api/people/67/"
+   ],
+   "films": [],
+   "created": "2014-12-20T16:52:13.357000Z",
+   "edited": "2014-12-20T20:58:18.510000Z",
+   "url": "http://swapi.co/api/planets/52/"
+}}

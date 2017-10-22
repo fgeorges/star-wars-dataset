@@ -1,0 +1,112 @@
+<film>
+   <title>Attack of the Clones</title>
+   <episode_id>2</episode_id>
+   <opening_crawl>There is unrest in the Galactic
+Senate. Several thousand solar
+systems have declared their
+intentions to leave the Republic.
+
+This separatist movement,
+under the leadership of the
+mysterious Count Dooku, has
+made it difficult for the limited
+number of Jedi Knights to maintain 
+peace and order in the galaxy.
+
+Senator Amidala, the former
+Queen of Naboo, is returning
+to the Galactic Senate to vote
+on the critical issue of creating
+an ARMY OF THE REPUBLIC
+to assist the overwhelmed
+Jedi....</opening_crawl>
+   <director>George Lucas</director>
+   <producer>Rick McCallum</producer>
+   <release_date>2002-05-16</release_date>
+   <characters>http://swapi.co/api/people/2/</characters>
+   <characters>http://swapi.co/api/people/3/</characters>
+   <characters>http://swapi.co/api/people/6/</characters>
+   <characters>http://swapi.co/api/people/7/</characters>
+   <characters>http://swapi.co/api/people/10/</characters>
+   <characters>http://swapi.co/api/people/11/</characters>
+   <characters>http://swapi.co/api/people/20/</characters>
+   <characters>http://swapi.co/api/people/21/</characters>
+   <characters>http://swapi.co/api/people/22/</characters>
+   <characters>http://swapi.co/api/people/33/</characters>
+   <characters>http://swapi.co/api/people/36/</characters>
+   <characters>http://swapi.co/api/people/40/</characters>
+   <characters>http://swapi.co/api/people/43/</characters>
+   <characters>http://swapi.co/api/people/46/</characters>
+   <characters>http://swapi.co/api/people/51/</characters>
+   <characters>http://swapi.co/api/people/52/</characters>
+   <characters>http://swapi.co/api/people/53/</characters>
+   <characters>http://swapi.co/api/people/58/</characters>
+   <characters>http://swapi.co/api/people/59/</characters>
+   <characters>http://swapi.co/api/people/60/</characters>
+   <characters>http://swapi.co/api/people/61/</characters>
+   <characters>http://swapi.co/api/people/62/</characters>
+   <characters>http://swapi.co/api/people/63/</characters>
+   <characters>http://swapi.co/api/people/64/</characters>
+   <characters>http://swapi.co/api/people/65/</characters>
+   <characters>http://swapi.co/api/people/66/</characters>
+   <characters>http://swapi.co/api/people/67/</characters>
+   <characters>http://swapi.co/api/people/68/</characters>
+   <characters>http://swapi.co/api/people/69/</characters>
+   <characters>http://swapi.co/api/people/70/</characters>
+   <characters>http://swapi.co/api/people/71/</characters>
+   <characters>http://swapi.co/api/people/72/</characters>
+   <characters>http://swapi.co/api/people/73/</characters>
+   <characters>http://swapi.co/api/people/74/</characters>
+   <characters>http://swapi.co/api/people/75/</characters>
+   <characters>http://swapi.co/api/people/76/</characters>
+   <characters>http://swapi.co/api/people/77/</characters>
+   <characters>http://swapi.co/api/people/78/</characters>
+   <characters>http://swapi.co/api/people/82/</characters>
+   <characters>http://swapi.co/api/people/35/</characters>
+   <planets>http://swapi.co/api/planets/8/</planets>
+   <planets>http://swapi.co/api/planets/9/</planets>
+   <planets>http://swapi.co/api/planets/10/</planets>
+   <planets>http://swapi.co/api/planets/11/</planets>
+   <planets>http://swapi.co/api/planets/1/</planets>
+   <starships>http://swapi.co/api/starships/21/</starships>
+   <starships>http://swapi.co/api/starships/39/</starships>
+   <starships>http://swapi.co/api/starships/43/</starships>
+   <starships>http://swapi.co/api/starships/47/</starships>
+   <starships>http://swapi.co/api/starships/48/</starships>
+   <starships>http://swapi.co/api/starships/49/</starships>
+   <starships>http://swapi.co/api/starships/32/</starships>
+   <starships>http://swapi.co/api/starships/52/</starships>
+   <starships>http://swapi.co/api/starships/58/</starships>
+   <vehicles>http://swapi.co/api/vehicles/4/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/44/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/45/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/46/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/50/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/51/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/53/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/54/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/55/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/56/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/57/</vehicles>
+   <species>http://swapi.co/api/species/32/</species>
+   <species>http://swapi.co/api/species/33/</species>
+   <species>http://swapi.co/api/species/2/</species>
+   <species>http://swapi.co/api/species/35/</species>
+   <species>http://swapi.co/api/species/6/</species>
+   <species>http://swapi.co/api/species/1/</species>
+   <species>http://swapi.co/api/species/12/</species>
+   <species>http://swapi.co/api/species/34/</species>
+   <species>http://swapi.co/api/species/13/</species>
+   <species>http://swapi.co/api/species/15/</species>
+   <species>http://swapi.co/api/species/28/</species>
+   <species>http://swapi.co/api/species/29/</species>
+   <species>http://swapi.co/api/species/30/</species>
+   <species>http://swapi.co/api/species/31/</species>
+   <created>2014-12-20T10:57:57.886000Z</created>
+   <edited>2015-04-11T09:45:01.623982Z</edited>
+   <url>http://swapi.co/api/films/5/</url>
+   <desc>Star Wars: Episode II – Attack of the Clones is a 2002 American epic space opera film directed by George Lucas and written by Lucas and Jonathan Hales. It is the second installment of the Star Wars prequel trilogy, and stars Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid, Samuel L. Jackson, Christopher Lee, Temuera Morrison, Anthony Daniels, Kenny Baker and Frank Oz.</desc>
+   <desc>Set ten years after the events in The Phantom Menace, the galaxy is on the brink of civil war. Led by a former Jedi named Count Dooku, thousands of planetary systems threaten to secede from the Galactic Republic. After Senator Padmé Amidala evades assassination, Jedi apprentice Anakin Skywalker becomes her protector, while his mentor Obi-Wan Kenobi investigates the attempt on Padmé's life. Soon Anakin, Padmé and Obi-Wan witness the onset of a new threat to the galaxy, the Clone Wars.</desc>
+   <desc>Development of Attack of the Clones began in March 2000, after the release of The Phantom Menace. By June 2000, Lucas and Hales completed a draft of the script and principal photography took place from June to September 2000. The film crew primarily shot at Fox Studios Australia in Sydney, Australia, with additional footage filmed in Tunisia, Spain and Italy. It was one of the first motion pictures shot completely on a high-definition digital 24-frame system.</desc>
+   <desc>The film was released in the United States on May 16, 2002. Some critics hailed it as an improvement over The Phantom Menace, while others called it the worst entry of the franchise.[5][6] The visual effects, costume design, musical score, action scenes and Ewan McGregor’s performance as Obi-Wan Kenobi were all praised, however the romance of Anakin and Padmé, the dialogue and the film's long runtime were all criticized. The film was a financial success, making over $649 million worldwide; however, it also became the first Star Wars film to be outgrossed in its year of release, placing third domestically and fourth internationally. The film was released on VHS and DVD on November 12, 2002 and was later released on Blu-ray on September 16, 2011. Following Attack of the Clones, the third and final film of the prequel trilogy, Revenge of the Sith, premiered in 2005.</desc>
+</film>

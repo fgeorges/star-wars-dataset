@@ -1,0 +1,16 @@
+<starship>
+   <name>Banking clan frigte</name>
+   <model>Munificent-class star frigate</model>
+   <manufacturer>Hoersch-Kessel Drive, Inc, Gwori Revolutionary Industries</manufacturer>
+   <cost_in_credits>57000000</cost_in_credits>
+   <length>825</length>
+   <crew>200</crew>
+   <cargo_capacity>40000000</cargo_capacity>
+   <consumables>2 years</consumables>
+   <hyperdrive_rating>1.0</hyperdrive_rating>
+   <starship_class>cruiser</starship_class>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T20:07:11.538000Z</created>
+   <edited>2014-12-22T17:35:45.361585Z</edited>
+   <url>http://swapi.co/api/starships/68/</url>
+</starship>

@@ -1,0 +1,23 @@
+{ "species": {
+   "name": "Gungan",
+   "classification": "amphibian",
+   "designation": "sentient",
+   "average_height": "190",
+   "skin_colors": "brown, green",
+   "hair_colors": "none",
+   "eye_colors": "orange",
+   "homeworld": "http://swapi.co/api/planets/8/",
+   "language": "Gungan basic",
+   "people": [
+      "http://swapi.co/api/people/36/",
+      "http://swapi.co/api/people/37/",
+      "http://swapi.co/api/people/38/"
+   ],
+   "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/4/"
+   ],
+   "created": "2014-12-19T17:30:37.341000Z",
+   "edited": "2014-12-20T21:36:42.163000Z",
+   "url": "http://swapi.co/api/species/12/"
+}}

@@ -1,0 +1,21 @@
+<starship>
+   <name>Jedi starfighter</name>
+   <model>Delta-7 Aethersprite-class interceptor</model>
+   <manufacturer>Kuat Systems Engineering</manufacturer>
+   <cost_in_credits>180000</cost_in_credits>
+   <length>8</length>
+   <max_atmosphering_speed>1150</max_atmosphering_speed>
+   <crew>1</crew>
+   <passengers>0</passengers>
+   <cargo_capacity>60</cargo_capacity>
+   <consumables>7 days</consumables>
+   <hyperdrive_rating>1.0</hyperdrive_rating>
+   <starship_class>Starfighter</starship_class>
+   <pilots>http://swapi.co/api/people/10/</pilots>
+   <pilots>http://swapi.co/api/people/58/</pilots>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T17:35:23.906000Z</created>
+   <edited>2014-12-22T17:35:45.147746Z</edited>
+   <url>http://swapi.co/api/starships/48/</url>
+</starship>

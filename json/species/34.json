@@ -1,0 +1,22 @@
+{ "species": {
+   "name": "Muun",
+   "classification": "mammal",
+   "designation": "sentient",
+   "average_height": "190",
+   "skin_colors": "grey, white",
+   "hair_colors": "none",
+   "eye_colors": "black",
+   "average_lifespan": "100",
+   "homeworld": "http://swapi.co/api/planets/57/",
+   "language": "Muun",
+   "people": [
+      "http://swapi.co/api/people/77/"
+   ],
+   "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/6/"
+   ],
+   "created": "2014-12-20T17:58:19.088000Z",
+   "edited": "2014-12-20T21:36:42.207000Z",
+   "url": "http://swapi.co/api/species/34/"
+}}

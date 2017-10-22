@@ -1,0 +1,23 @@
+{ "vehicle": {
+   "name": "Single Trooper Aerial Platform",
+   "model": "Single Trooper Aerial Platform",
+   "manufacturer": "Baktoid Armor Workshop",
+   "cost_in_credits": "2500",
+   "length": "2",
+   "max_atmosphering_speed": "400",
+   "crew": "1",
+   "passengers": "0",
+   "cargo_capacity": "none",
+   "consumables": "none",
+   "vehicle_class": "repulsorcraft",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/4/"
+   ],
+   "created": "2014-12-19T17:15:09.511000Z",
+   "edited": "2014-12-22T18:21:16.008594Z",
+   "url": "http://swapi.co/api/vehicles/36/",
+   "desc": [
+      "Speeder bikes (also known as \"jumpspeeders\" or \"hover bikes\") and swoop bikes (or just \"swoops\") are small, fast transports that use repulsorlift engines in the fictional Star Wars universe. Return of the Jedi includes a prominent speeder bike chase; speeders and swoops also appear in Star Wars: Episode I – The Phantom Menace, Star Wars: Episode II – Attack of the Clones, Star Wars: Episode III – Revenge of the Sith, Star Wars, and the Star Wars expanded universe's books, comics, and games."
+   ]
+}}

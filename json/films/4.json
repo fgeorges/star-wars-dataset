@@ -1,0 +1,109 @@
+{ "film": {
+   "title": "The Phantom Menace",
+   "episode_id": 1,
+   "opening_crawl": "Turmoil has engulfed the
+Galactic Republic. The taxation
+of trade routes to outlying star
+systems is in dispute.
+
+Hoping to resolve the matter
+with a blockade of deadly
+battleships, the greedy Trade
+Federation has stopped all
+shipping to the small planet
+of Naboo.
+
+While the Congress of the
+Republic endlessly debates
+this alarming chain of events,
+the Supreme Chancellor has
+secretly dispatched two Jedi
+Knights, the guardians of
+peace and justice in the
+galaxy, to settle the conflict....",
+   "director": "George Lucas",
+   "producer": "Rick McCallum",
+   "release_date": "1999-05-19",
+   "characters": [
+      "http://swapi.co/api/people/2/",
+      "http://swapi.co/api/people/3/",
+      "http://swapi.co/api/people/10/",
+      "http://swapi.co/api/people/11/",
+      "http://swapi.co/api/people/16/",
+      "http://swapi.co/api/people/20/",
+      "http://swapi.co/api/people/21/",
+      "http://swapi.co/api/people/32/",
+      "http://swapi.co/api/people/33/",
+      "http://swapi.co/api/people/34/",
+      "http://swapi.co/api/people/36/",
+      "http://swapi.co/api/people/37/",
+      "http://swapi.co/api/people/38/",
+      "http://swapi.co/api/people/39/",
+      "http://swapi.co/api/people/40/",
+      "http://swapi.co/api/people/41/",
+      "http://swapi.co/api/people/42/",
+      "http://swapi.co/api/people/43/",
+      "http://swapi.co/api/people/44/",
+      "http://swapi.co/api/people/46/",
+      "http://swapi.co/api/people/48/",
+      "http://swapi.co/api/people/49/",
+      "http://swapi.co/api/people/50/",
+      "http://swapi.co/api/people/51/",
+      "http://swapi.co/api/people/52/",
+      "http://swapi.co/api/people/53/",
+      "http://swapi.co/api/people/54/",
+      "http://swapi.co/api/people/55/",
+      "http://swapi.co/api/people/56/",
+      "http://swapi.co/api/people/57/",
+      "http://swapi.co/api/people/58/",
+      "http://swapi.co/api/people/59/",
+      "http://swapi.co/api/people/47/",
+      "http://swapi.co/api/people/35/"
+   ],
+   "planets": [
+      "http://swapi.co/api/planets/8/",
+      "http://swapi.co/api/planets/9/",
+      "http://swapi.co/api/planets/1/"
+   ],
+   "starships": [
+      "http://swapi.co/api/starships/40/",
+      "http://swapi.co/api/starships/41/",
+      "http://swapi.co/api/starships/31/",
+      "http://swapi.co/api/starships/32/",
+      "http://swapi.co/api/starships/39/"
+   ],
+   "vehicles": [
+      "http://swapi.co/api/vehicles/33/",
+      "http://swapi.co/api/vehicles/34/",
+      "http://swapi.co/api/vehicles/35/",
+      "http://swapi.co/api/vehicles/36/",
+      "http://swapi.co/api/vehicles/37/",
+      "http://swapi.co/api/vehicles/38/",
+      "http://swapi.co/api/vehicles/42/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/1/",
+      "http://swapi.co/api/species/2/",
+      "http://swapi.co/api/species/6/",
+      "http://swapi.co/api/species/11/",
+      "http://swapi.co/api/species/12/",
+      "http://swapi.co/api/species/13/",
+      "http://swapi.co/api/species/14/",
+      "http://swapi.co/api/species/15/",
+      "http://swapi.co/api/species/16/",
+      "http://swapi.co/api/species/17/",
+      "http://swapi.co/api/species/18/",
+      "http://swapi.co/api/species/19/",
+      "http://swapi.co/api/species/20/",
+      "http://swapi.co/api/species/21/",
+      "http://swapi.co/api/species/22/",
+      "http://swapi.co/api/species/23/",
+      "http://swapi.co/api/species/24/",
+      "http://swapi.co/api/species/25/",
+      "http://swapi.co/api/species/26/",
+      "http://swapi.co/api/species/27/"
+   ],
+   "created": "2014-12-19T16:52:55.740000Z",
+   "edited": "2015-04-11T09:45:18.689301Z",
+   "url": "http://swapi.co/api/films/4/"
+}}

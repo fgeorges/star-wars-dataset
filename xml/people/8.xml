@@ -1,0 +1,13 @@
+<people>
+   <name>R5-D4</name>
+   <height>97</height>
+   <mass>32</mass>
+   <skin_color>white, red</skin_color>
+   <eye_color>red</eye_color>
+   <homeworld>http://swapi.co/api/planets/1/</homeworld>
+   <films>http://swapi.co/api/films/1/</films>
+   <species>http://swapi.co/api/species/2/</species>
+   <created>2014-12-10T15:57:50.959000Z</created>
+   <edited>2014-12-20T21:17:50.321000Z</edited>
+   <url>http://swapi.co/api/people/8/</url>
+</people>

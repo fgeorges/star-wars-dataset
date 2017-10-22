@@ -1,0 +1,10 @@
+<planet>
+   <name>Jakku</name>
+   <terrain>deserts</terrain>
+   <films>http://swapi.co/api/films/7/</films>
+   <created>2015-04-17T06:55:57.556495Z</created>
+   <edited>2015-04-17T06:55:57.556551Z</edited>
+   <url>http://swapi.co/api/planets/61/</url>
+   <desc>Jakku is a fictional desert planet first featured in the 2015 Star Wars film The Force Awakens. Remote, lawless, and inhospitable, it is the homeworld of main character Rey, played by Daisy Ridley. The film focuses on two distinct localities, Tuanul Village and Niima Outpost, near a starship graveyard.</desc>
+   <desc>The planet is also depicted in the 2017 Chuck Wendig novel, Star Wars: Aftermath: Empire's End.</desc>
+</planet>

@@ -1,0 +1,17 @@
+<vehicle>
+   <name>Raddaugh Gnasp fluttercraft</name>
+   <model>Raddaugh Gnasp fluttercraft</model>
+   <manufacturer>Appazanna Engineering Works</manufacturer>
+   <cost_in_credits>14750</cost_in_credits>
+   <length>7</length>
+   <max_atmosphering_speed>310</max_atmosphering_speed>
+   <crew>2</crew>
+   <passengers>0</passengers>
+   <cargo_capacity>20</cargo_capacity>
+   <consumables>none</consumables>
+   <vehicle_class>air speeder</vehicle_class>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T20:21:55.648000Z</created>
+   <edited>2014-12-22T18:21:16.547708Z</edited>
+   <url>http://swapi.co/api/vehicles/70/</url>
+</vehicle>

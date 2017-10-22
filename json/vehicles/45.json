@@ -1,0 +1,20 @@
+{ "vehicle": {
+   "name": "Koro-2 Exodrive airspeeder",
+   "model": "Koro-2 Exodrive airspeeder",
+   "manufacturer": "Desler Gizh Outworld Mobility Corporation",
+   "length": "6.6",
+   "max_atmosphering_speed": "800",
+   "crew": "1",
+   "passengers": "1",
+   "cargo_capacity": "80",
+   "vehicle_class": "airspeeder",
+   "pilots": [
+      "http://swapi.co/api/people/70/"
+   ],
+   "films": [
+      "http://swapi.co/api/films/5/"
+   ],
+   "created": "2014-12-20T17:17:33.526000Z",
+   "edited": "2014-12-22T18:21:16.140018Z",
+   "url": "http://swapi.co/api/vehicles/45/"
+}}

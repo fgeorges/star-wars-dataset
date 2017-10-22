@@ -1,0 +1,21 @@
+{ "people": {
+   "name": "Finis Valorum",
+   "height": "170",
+   "hair_color": "blond",
+   "skin_color": "fair",
+   "eye_color": "blue",
+   "birth_year": "91BBY",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/9/",
+   "films": [
+      "http://swapi.co/api/films/4/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/1/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-19T17:21:45.915000Z",
+   "edited": "2014-12-20T21:17:50.379000Z",
+   "url": "http://swapi.co/api/people/34/"
+}}

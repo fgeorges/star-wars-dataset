@@ -1,0 +1,28 @@
+{ "people": {
+   "name": "Biggs Darklighter",
+   "height": "183",
+   "mass": "84",
+   "hair_color": "black",
+   "skin_color": "light",
+   "eye_color": "brown",
+   "birth_year": "24BBY",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/1/",
+   "films": [
+      "http://swapi.co/api/films/1/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/1/"
+   ],
+   "vehicles": [],
+   "starships": [
+      "http://swapi.co/api/starships/12/"
+   ],
+   "created": "2014-12-10T15:59:50.509000Z",
+   "edited": "2014-12-20T21:17:50.323000Z",
+   "url": "http://swapi.co/api/people/9/",
+   "desc": [
+      "Rogue Squadron is a starfighter squadron in the Star Wars franchise. Many surviving members of Red Squadron, the X-wing attack force that Luke Skywalker joins during the Battle of Yavin in Star Wars Episode IV: A New Hope (1977), later join Rogue Squadron. The squadron appears in The Empire Strikes Back (1980) as Rogue Group. In the 2016 film Rogue One, Rebel fighters on a suicide mission to steal the plans for the Death Star self-identify as \"Rogue One\", a possible precursor to Rogue Squadron.[1]",
+      "Rogue Squadron is prominently featured in the comic book series Star Wars: X-wing, the ten-volume novel series Star Wars: X-wing, and the video game series Star Wars: Rogue Squadron. The unit is depicted as consisting of \"the best pilots and the best fighters\".[2]"
+   ]
+}}

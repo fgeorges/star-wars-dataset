@@ -1,0 +1,125 @@
+<film>
+   <title>Revenge of the Sith</title>
+   <episode_id>3</episode_id>
+   <opening_crawl>War! The Republic is crumbling
+under attacks by the ruthless
+Sith Lord, Count Dooku.
+There are heroes on both sides.
+Evil is everywhere.
+
+In a stunning move, the
+fiendish droid leader, General
+Grievous, has swept into the
+Republic capital and kidnapped
+Chancellor Palpatine, leader of
+the Galactic Senate.
+
+As the Separatist Droid Army
+attempts to flee the besieged
+capital with their valuable
+hostage, two Jedi Knights lead a
+desperate mission to rescue the
+captive Chancellor....</opening_crawl>
+   <director>George Lucas</director>
+   <producer>Rick McCallum</producer>
+   <release_date>2005-05-19</release_date>
+   <characters>http://swapi.co/api/people/1/</characters>
+   <characters>http://swapi.co/api/people/2/</characters>
+   <characters>http://swapi.co/api/people/3/</characters>
+   <characters>http://swapi.co/api/people/4/</characters>
+   <characters>http://swapi.co/api/people/5/</characters>
+   <characters>http://swapi.co/api/people/6/</characters>
+   <characters>http://swapi.co/api/people/7/</characters>
+   <characters>http://swapi.co/api/people/10/</characters>
+   <characters>http://swapi.co/api/people/11/</characters>
+   <characters>http://swapi.co/api/people/12/</characters>
+   <characters>http://swapi.co/api/people/13/</characters>
+   <characters>http://swapi.co/api/people/20/</characters>
+   <characters>http://swapi.co/api/people/21/</characters>
+   <characters>http://swapi.co/api/people/33/</characters>
+   <characters>http://swapi.co/api/people/46/</characters>
+   <characters>http://swapi.co/api/people/51/</characters>
+   <characters>http://swapi.co/api/people/52/</characters>
+   <characters>http://swapi.co/api/people/53/</characters>
+   <characters>http://swapi.co/api/people/54/</characters>
+   <characters>http://swapi.co/api/people/55/</characters>
+   <characters>http://swapi.co/api/people/56/</characters>
+   <characters>http://swapi.co/api/people/58/</characters>
+   <characters>http://swapi.co/api/people/63/</characters>
+   <characters>http://swapi.co/api/people/64/</characters>
+   <characters>http://swapi.co/api/people/67/</characters>
+   <characters>http://swapi.co/api/people/68/</characters>
+   <characters>http://swapi.co/api/people/75/</characters>
+   <characters>http://swapi.co/api/people/78/</characters>
+   <characters>http://swapi.co/api/people/79/</characters>
+   <characters>http://swapi.co/api/people/80/</characters>
+   <characters>http://swapi.co/api/people/81/</characters>
+   <characters>http://swapi.co/api/people/82/</characters>
+   <characters>http://swapi.co/api/people/83/</characters>
+   <characters>http://swapi.co/api/people/35/</characters>
+   <planets>http://swapi.co/api/planets/2/</planets>
+   <planets>http://swapi.co/api/planets/5/</planets>
+   <planets>http://swapi.co/api/planets/8/</planets>
+   <planets>http://swapi.co/api/planets/9/</planets>
+   <planets>http://swapi.co/api/planets/12/</planets>
+   <planets>http://swapi.co/api/planets/13/</planets>
+   <planets>http://swapi.co/api/planets/14/</planets>
+   <planets>http://swapi.co/api/planets/15/</planets>
+   <planets>http://swapi.co/api/planets/16/</planets>
+   <planets>http://swapi.co/api/planets/17/</planets>
+   <planets>http://swapi.co/api/planets/18/</planets>
+   <planets>http://swapi.co/api/planets/19/</planets>
+   <planets>http://swapi.co/api/planets/1/</planets>
+   <starships>http://swapi.co/api/starships/48/</starships>
+   <starships>http://swapi.co/api/starships/59/</starships>
+   <starships>http://swapi.co/api/starships/61/</starships>
+   <starships>http://swapi.co/api/starships/32/</starships>
+   <starships>http://swapi.co/api/starships/63/</starships>
+   <starships>http://swapi.co/api/starships/64/</starships>
+   <starships>http://swapi.co/api/starships/65/</starships>
+   <starships>http://swapi.co/api/starships/66/</starships>
+   <starships>http://swapi.co/api/starships/68/</starships>
+   <starships>http://swapi.co/api/starships/74/</starships>
+   <starships>http://swapi.co/api/starships/75/</starships>
+   <starships>http://swapi.co/api/starships/2/</starships>
+   <vehicles>http://swapi.co/api/vehicles/33/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/50/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/60/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/62/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/67/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/69/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/70/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/71/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/72/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/73/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/76/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/53/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/56/</vehicles>
+   <species>http://swapi.co/api/species/19/</species>
+   <species>http://swapi.co/api/species/33/</species>
+   <species>http://swapi.co/api/species/2/</species>
+   <species>http://swapi.co/api/species/3/</species>
+   <species>http://swapi.co/api/species/36/</species>
+   <species>http://swapi.co/api/species/37/</species>
+   <species>http://swapi.co/api/species/6/</species>
+   <species>http://swapi.co/api/species/1/</species>
+   <species>http://swapi.co/api/species/34/</species>
+   <species>http://swapi.co/api/species/15/</species>
+   <species>http://swapi.co/api/species/35/</species>
+   <species>http://swapi.co/api/species/20/</species>
+   <species>http://swapi.co/api/species/23/</species>
+   <species>http://swapi.co/api/species/24/</species>
+   <species>http://swapi.co/api/species/25/</species>
+   <species>http://swapi.co/api/species/26/</species>
+   <species>http://swapi.co/api/species/27/</species>
+   <species>http://swapi.co/api/species/28/</species>
+   <species>http://swapi.co/api/species/29/</species>
+   <species>http://swapi.co/api/species/30/</species>
+   <created>2014-12-20T18:49:38.403000Z</created>
+   <edited>2015-04-11T09:45:44.862122Z</edited>
+   <url>http://swapi.co/api/films/6/</url>
+   <desc>Star Wars: Episode III – Revenge of the Sith is a 2005 American epic space opera film written and directed by George Lucas. It is the sixth entry of the Star Wars film series and stars Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid, Samuel L. Jackson, Christopher Lee, Anthony Daniels, Kenny Baker, and Frank Oz. A sequel to The Phantom Menace (1999) and Attack of the Clones (2002), the film is the third and final installment of the Star Wars prequel trilogy.</desc>
+   <desc>The film begins three years after the onset of the Clone Wars. The Jedi Knights are spread across the galaxy, leading a massive war against the Separatists. The Jedi Council dispatches Jedi Master Obi-Wan Kenobi to eliminate the notorious General Grievous, leader of the Separatist Army. Meanwhile, Jedi Knight Anakin Skywalker grows close to Palpatine, the Supreme Chancellor of the Galactic Republic and, unknown to the public, a Sith Lord. Their deepening friendship threatens the Jedi Order, the Republic, and Anakin himself.</desc>
+   <desc>Lucas began writing the script before production of Attack of the Clones ended. Production of Revenge of the Sith started in September 2003, and filming took place in Australia with additional locations in Thailand, Switzerland, China, Italy and the United Kingdom. Revenge of the Sith premiered on May 15, 2005, at the Cannes Film Festival, then released worldwide on May 19, 2005. The film received generally positive reviews from critics, especially in contrast to the less positive reviews of the previous two prequels, including praise for its storyline, action scenes, John Williams' musical score, visual effects, and performances from Ewan McGregor, Ian McDiarmid, Frank Oz, and Jimmy Smits. It is the final film in the Star Wars franchise to be distributed by 20th Century Fox before The Walt Disney Company's acquisition of Lucasfilm in 2012.</desc>
+   <desc>Revenge of the Sith broke several box office records during its opening week and went on to earn over $848 million worldwide,[4] making it, at the time, the third-highest-grossing film in the Star Wars franchise, unadjusted for inflation. It was the highest-grossing film of 2005 in the U.S. and the second-highest-grossing film of 2005 behind Harry Potter and the Goblet of Fire.[4] The film also holds the record for the highest opening day gross on a Thursday, making $50,013,859.00.[5] The Star Wars saga continued with the release of The Force Awakens, the first installment of the sequel trilogy, in 2015.[6][7]</desc>
+</film>

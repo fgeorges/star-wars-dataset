@@ -1,0 +1,19 @@
+<starship>
+   <name>Scimitar</name>
+   <model>Star Courier</model>
+   <manufacturer>Republic Sienar Systems</manufacturer>
+   <cost_in_credits>55000000</cost_in_credits>
+   <length>26.5</length>
+   <max_atmosphering_speed>1180</max_atmosphering_speed>
+   <crew>1</crew>
+   <passengers>6</passengers>
+   <cargo_capacity>2500000</cargo_capacity>
+   <consumables>30 days</consumables>
+   <hyperdrive_rating>1.5</hyperdrive_rating>
+   <starship_class>Space Transport</starship_class>
+   <pilots>http://swapi.co/api/people/44/</pilots>
+   <films>http://swapi.co/api/films/4/</films>
+   <created>2014-12-20T09:39:56.116000Z</created>
+   <edited>2014-12-22T17:35:45.105522Z</edited>
+   <url>http://swapi.co/api/starships/41/</url>
+</starship>

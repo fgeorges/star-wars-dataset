@@ -1,0 +1,23 @@
+{ "people": {
+   "name": "Nute Gunray",
+   "height": "191",
+   "mass": "90",
+   "hair_color": "none",
+   "skin_color": "mottled green",
+   "eye_color": "red",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/18/",
+   "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/4/",
+      "http://swapi.co/api/films/6/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/11/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-19T17:05:57.357000Z",
+   "edited": "2014-12-20T21:17:50.377000Z",
+   "url": "http://swapi.co/api/people/33/"
+}}

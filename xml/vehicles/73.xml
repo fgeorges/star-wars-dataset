@@ -1,0 +1,17 @@
+<vehicle>
+   <name>Droid gunship</name>
+   <model>HMP droid gunship</model>
+   <manufacturer>Baktoid Fleet Ordnance, Haor Chall Engineering</manufacturer>
+   <cost_in_credits>60000</cost_in_credits>
+   <length>12.3</length>
+   <max_atmosphering_speed>820</max_atmosphering_speed>
+   <crew>0</crew>
+   <passengers>0</passengers>
+   <cargo_capacity>0</cargo_capacity>
+   <consumables>none</consumables>
+   <vehicle_class>airspeeder</vehicle_class>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T20:32:05.687000Z</created>
+   <edited>2014-12-22T18:21:16.643329Z</edited>
+   <url>http://swapi.co/api/vehicles/73/</url>
+</vehicle>

@@ -1,0 +1,16 @@
+<vehicle>
+   <name>X-34 landspeeder</name>
+   <model>X-34 landspeeder</model>
+   <manufacturer>SoroSuub Corporation</manufacturer>
+   <cost_in_credits>10550</cost_in_credits>
+   <length>3.4</length>
+   <max_atmosphering_speed>250</max_atmosphering_speed>
+   <crew>1</crew>
+   <passengers>1</passengers>
+   <cargo_capacity>5</cargo_capacity>
+   <vehicle_class>repulsorcraft</vehicle_class>
+   <films>http://swapi.co/api/films/1/</films>
+   <created>2014-12-10T16:13:52.586000Z</created>
+   <edited>2014-12-22T18:21:15.583700Z</edited>
+   <url>http://swapi.co/api/vehicles/7/</url>
+</vehicle>

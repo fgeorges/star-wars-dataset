@@ -1,0 +1,14 @@
+<people>
+   <name>Jocasta Nu</name>
+   <height>167</height>
+   <hair_color>white</hair_color>
+   <skin_color>fair</skin_color>
+   <eye_color>blue</eye_color>
+   <gender>female</gender>
+   <homeworld>http://swapi.co/api/planets/9/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <species>http://swapi.co/api/species/1/</species>
+   <created>2014-12-20T17:32:51.996000Z</created>
+   <edited>2014-12-20T21:17:50.476000Z</edited>
+   <url>http://swapi.co/api/people/74/</url>
+</people>

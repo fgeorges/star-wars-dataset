@@ -1,0 +1,20 @@
+{ "people": {
+   "name": "Rugor Nass",
+   "height": "206",
+   "hair_color": "none",
+   "skin_color": "green",
+   "eye_color": "orange",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/8/",
+   "films": [
+      "http://swapi.co/api/films/4/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/12/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-19T17:33:38.909000Z",
+   "edited": "2014-12-20T21:17:50.388000Z",
+   "url": "http://swapi.co/api/people/38/"
+}}

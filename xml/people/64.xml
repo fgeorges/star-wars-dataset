@@ -1,0 +1,17 @@
+<people>
+   <name>Luminara Unduli</name>
+   <height>170</height>
+   <mass>56.2</mass>
+   <hair_color>black</hair_color>
+   <skin_color>yellow</skin_color>
+   <eye_color>blue</eye_color>
+   <birth_year>58BBY</birth_year>
+   <gender>female</gender>
+   <homeworld>http://swapi.co/api/planets/51/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <species>http://swapi.co/api/species/29/</species>
+   <created>2014-12-20T16:45:53.668000Z</created>
+   <edited>2014-12-20T21:17:50.455000Z</edited>
+   <url>http://swapi.co/api/people/64/</url>
+</people>

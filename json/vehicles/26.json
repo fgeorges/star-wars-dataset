@@ -1,0 +1,19 @@
+{ "vehicle": {
+   "name": "TIE/IN interceptor",
+   "model": "Twin Ion Engine Interceptor",
+   "manufacturer": "Sienar Fleet Systems",
+   "length": "9.6",
+   "max_atmosphering_speed": "1250",
+   "crew": "1",
+   "passengers": "0",
+   "cargo_capacity": "75",
+   "consumables": "2 days",
+   "vehicle_class": "starfighter",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/3/"
+   ],
+   "created": "2014-12-18T10:50:28.225000Z",
+   "edited": "2014-12-22T18:21:15.882388Z",
+   "url": "http://swapi.co/api/vehicles/26/"
+}}

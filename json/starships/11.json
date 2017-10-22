@@ -1,0 +1,27 @@
+{ "starship": {
+   "name": "Y-wing",
+   "model": "BTL Y-wing",
+   "manufacturer": "Koensayr Manufacturing",
+   "cost_in_credits": "134999",
+   "length": "14",
+   "max_atmosphering_speed": "1000km",
+   "crew": "2",
+   "passengers": "0",
+   "cargo_capacity": "110",
+   "consumables": "1 week",
+   "hyperdrive_rating": "1.0",
+   "MGLT": "80",
+   "starship_class": "assault starfighter",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/",
+      "http://swapi.co/api/films/1/"
+   ],
+   "created": "2014-12-12T11:00:39.817000Z",
+   "edited": "2014-12-22T17:35:44.479706Z",
+   "url": "http://swapi.co/api/starships/11/",
+   "desc": [
+      "The Y-wing is a fictional Galactic Republic, Rebel Alliance and New Republic starfighter in the Star Wars franchise. They appear in Star Wars Episode IV: A New Hope, Star Wars Episode V: The Empire Strikes Back, Star Wars Episode VI: Return of the Jedi, Rogue One, Clone Wars TV series, Star Wars Rebels TV series and the Star Wars expanded universe's books, comics, and games."
+   ]
+}}

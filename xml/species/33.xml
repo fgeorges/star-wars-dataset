@@ -1,0 +1,15 @@
+<species>
+   <name>Skakoan</name>
+   <classification>mammal</classification>
+   <designation>sentient</designation>
+   <skin_colors>grey, green</skin_colors>
+   <hair_colors>none</hair_colors>
+   <homeworld>http://swapi.co/api/planets/56/</homeworld>
+   <language>Skakoan</language>
+   <people>http://swapi.co/api/people/76/</people>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T17:53:54.515000Z</created>
+   <edited>2014-12-20T21:36:42.204000Z</edited>
+   <url>http://swapi.co/api/species/33/</url>
+</species>

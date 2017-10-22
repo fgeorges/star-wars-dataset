@@ -1,0 +1,14 @@
+<planet>
+   <name>Felucia</name>
+   <rotation_period>34</rotation_period>
+   <orbital_period>231</orbital_period>
+   <diameter>9100</diameter>
+   <climate>hot, humid</climate>
+   <gravity>0.75 standard</gravity>
+   <terrain>fungus forests</terrain>
+   <population>8500000</population>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-10T13:44:50.397000Z</created>
+   <edited>2014-12-20T20:58:18.447000Z</edited>
+   <url>http://swapi.co/api/planets/17/</url>
+</planet>

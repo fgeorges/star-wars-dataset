@@ -1,0 +1,18 @@
+<planet>
+   <rotation_period>0</rotation_period>
+   <orbital_period>0</orbital_period>
+   <diameter>0</diameter>
+   <residents>http://swapi.co/api/people/20/</residents>
+   <residents>http://swapi.co/api/people/23/</residents>
+   <residents>http://swapi.co/api/people/29/</residents>
+   <residents>http://swapi.co/api/people/32/</residents>
+   <residents>http://swapi.co/api/people/75/</residents>
+   <residents>http://swapi.co/api/people/84/</residents>
+   <residents>http://swapi.co/api/people/85/</residents>
+   <residents>http://swapi.co/api/people/86/</residents>
+   <residents>http://swapi.co/api/people/87/</residents>
+   <residents>http://swapi.co/api/people/88/</residents>
+   <created>2014-12-15T12:25:59.569000Z</created>
+   <edited>2014-12-20T20:58:18.466000Z</edited>
+   <url>http://swapi.co/api/planets/28/</url>
+</planet>

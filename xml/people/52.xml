@@ -1,0 +1,18 @@
+<people>
+   <name>Ki-Adi-Mundi</name>
+   <height>198</height>
+   <mass>82</mass>
+   <hair_color>white</hair_color>
+   <skin_color>pale</skin_color>
+   <eye_color>yellow</eye_color>
+   <birth_year>92BBY</birth_year>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/43/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/4/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <species>http://swapi.co/api/species/20/</species>
+   <created>2014-12-20T10:15:32.293000Z</created>
+   <edited>2014-12-20T21:17:50.422000Z</edited>
+   <url>http://swapi.co/api/people/52/</url>
+</people>

@@ -1,0 +1,18 @@
+<starship>
+   <name>Republic attack cruiser</name>
+   <model>Senator-class Star Destroyer</model>
+   <manufacturer>Kuat Drive Yards, Allanteen Six shipyards</manufacturer>
+   <cost_in_credits>59000000</cost_in_credits>
+   <length>1137</length>
+   <max_atmosphering_speed>975</max_atmosphering_speed>
+   <crew>7400</crew>
+   <passengers>2000</passengers>
+   <cargo_capacity>20000000</cargo_capacity>
+   <consumables>2 years</consumables>
+   <hyperdrive_rating>1.0</hyperdrive_rating>
+   <starship_class>star destroyer</starship_class>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T19:52:56.232000Z</created>
+   <edited>2014-12-22T17:35:45.224540Z</edited>
+   <url>http://swapi.co/api/starships/63/</url>
+</starship>

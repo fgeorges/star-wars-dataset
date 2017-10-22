@@ -1,0 +1,13 @@
+<people>
+   <name>Rey</name>
+   <hair_color>brown</hair_color>
+   <skin_color>light</skin_color>
+   <eye_color>hazel</eye_color>
+   <gender>female</gender>
+   <homeworld>http://swapi.co/api/planets/28/</homeworld>
+   <films>http://swapi.co/api/films/7/</films>
+   <species>http://swapi.co/api/species/1/</species>
+   <created>2015-04-17T06:54:01.495077Z</created>
+   <edited>2015-04-17T06:54:01.495128Z</edited>
+   <url>http://swapi.co/api/people/85/</url>
+</people>

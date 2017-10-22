@@ -1,0 +1,13 @@
+{ "planet": {
+   "name": "Iridonia",
+   "rotation_period": "29",
+   "orbital_period": "413",
+   "terrain": "rocky canyons, acid pools",
+   "residents": [
+      "http://swapi.co/api/people/54/"
+   ],
+   "films": [],
+   "created": "2014-12-20T10:26:05.788000Z",
+   "edited": "2014-12-20T20:58:18.497000Z",
+   "url": "http://swapi.co/api/planets/45/"
+}}

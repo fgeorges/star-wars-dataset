@@ -1,0 +1,15 @@
+<species>
+   <name>Xexto</name>
+   <designation>sentient</designation>
+   <average_height>125</average_height>
+   <skin_colors>grey, yellow, purple</skin_colors>
+   <hair_colors>none</hair_colors>
+   <eye_colors>black</eye_colors>
+   <homeworld>http://swapi.co/api/planets/40/</homeworld>
+   <language>Xextese</language>
+   <people>http://swapi.co/api/people/49/</people>
+   <films>http://swapi.co/api/films/4/</films>
+   <created>2014-12-20T10:02:13.915000Z</created>
+   <edited>2014-12-20T21:36:42.175000Z</edited>
+   <url>http://swapi.co/api/species/18/</url>
+</species>

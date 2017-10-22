@@ -1,0 +1,12 @@
+<planet>
+   <name>Dorin</name>
+   <rotation_period>22</rotation_period>
+   <orbital_period>409</orbital_period>
+   <diameter>13400</diameter>
+   <climate>temperate</climate>
+   <gravity>1</gravity>
+   <residents>http://swapi.co/api/people/58/</residents>
+   <created>2014-12-20T10:48:36.141000Z</created>
+   <edited>2014-12-20T20:58:18.504000Z</edited>
+   <url>http://swapi.co/api/planets/49/</url>
+</planet>

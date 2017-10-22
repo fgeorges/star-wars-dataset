@@ -1,0 +1,18 @@
+<planet>
+   <name>Dagobah</name>
+   <rotation_period>23</rotation_period>
+   <orbital_period>341</orbital_period>
+   <diameter>8900</diameter>
+   <climate>murky</climate>
+   <gravity>N/A</gravity>
+   <terrain>swamp, jungles</terrain>
+   <surface_water>8</surface_water>
+   <films>http://swapi.co/api/films/6/</films>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/2/</films>
+   <created>2014-12-10T11:42:22.590000Z</created>
+   <edited>2014-12-20T20:58:18.425000Z</edited>
+   <url>http://swapi.co/api/planets/5/</url>
+   <desc>Dagobah is a star system in the Star Wars films The Empire Strikes Back and Return of the Jedi. It also appears in a deleted scene from Revenge of the Sith. Yoda went into exile on Dagobah after a lightsaber battle with Darth Sidious.</desc>
+   <desc>The planet shown in Dagobah, in the Sluis sector, is a world of murky swamps, steaming bayous, and petrified forests, resembling Earth during the Carboniferous Period.</desc>
+</planet>

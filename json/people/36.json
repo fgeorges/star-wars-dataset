@@ -1,0 +1,27 @@
+{ "people": {
+   "name": "Jar Jar Binks",
+   "height": "196",
+   "mass": "66",
+   "hair_color": "none",
+   "skin_color": "orange",
+   "eye_color": "orange",
+   "birth_year": "52BBY",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/8/",
+   "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/4/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/12/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-19T17:29:32.489000Z",
+   "edited": "2014-12-20T21:17:50.383000Z",
+   "url": "http://swapi.co/api/people/36/",
+   "desc": [
+      "Jar Jar Binks is a fictional character from the Star Wars saga created by George Lucas. A major character in Star Wars: Episode I – The Phantom Menace, he also has a smaller role in Episode II: Attack of the Clones, and a one-line cameo in Episode III: Revenge of the Sith, as well as a role in the television series Star Wars: The Clone Wars. The first lead computer generated character of the franchise, he has been portrayed by Ahmed Best in most of his appearances.",
+      "Jar Jar's primary role in Episode I was to provide comic relief for the audience. Upon the movie's release, he was met with an overwhelmingly negative reception from both critics and audiences, and is today considered one of the most hated characters in the history of film.[1][2]"
+   ]
+}}

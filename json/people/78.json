@@ -1,0 +1,22 @@
+{ "people": {
+   "name": "Shaak Ti",
+   "height": "178",
+   "mass": "57",
+   "hair_color": "none",
+   "skin_color": "red, blue, white",
+   "eye_color": "black",
+   "gender": "female",
+   "homeworld": "http://swapi.co/api/planets/58/",
+   "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/6/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/35/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-20T18:44:01.103000Z",
+   "edited": "2014-12-20T21:17:50.486000Z",
+   "url": "http://swapi.co/api/people/78/"
+}}

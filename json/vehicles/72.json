@@ -1,0 +1,20 @@
+{ "vehicle": {
+   "name": "Corporate Alliance tank droid",
+   "model": "NR-N99 Persuader-class droid enforcer",
+   "manufacturer": "Techno Union",
+   "cost_in_credits": "49000",
+   "length": "10.96",
+   "max_atmosphering_speed": "100",
+   "crew": "0",
+   "passengers": "4",
+   "cargo_capacity": "none",
+   "consumables": "none",
+   "vehicle_class": "droid tank",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/6/"
+   ],
+   "created": "2014-12-20T20:26:55.522000Z",
+   "edited": "2014-12-22T18:21:16.612902Z",
+   "url": "http://swapi.co/api/vehicles/72/"
+}}

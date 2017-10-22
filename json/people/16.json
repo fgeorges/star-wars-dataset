@@ -1,0 +1,28 @@
+{ "people": {
+   "name": "Jabba Desilijic Tiure",
+   "height": "175",
+   "mass": "1,358",
+   "skin_color": "green-tan, brown",
+   "eye_color": "orange",
+   "birth_year": "600BBY",
+   "gender": "hermaphrodite",
+   "homeworld": "http://swapi.co/api/planets/24/",
+   "films": [
+      "http://swapi.co/api/films/4/",
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/1/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/5/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-10T17:11:31.638000Z",
+   "edited": "2014-12-20T21:17:50.338000Z",
+   "url": "http://swapi.co/api/people/16/",
+   "desc": [
+      "Jabba Desilijic Tiure,[1] commonly known as Jabba the Hutt, is a fictional character and an antagonist in the Star Wars franchise created by George Lucas. He is depicted as a large, slug-like[2] alien. His appearance has been described by film critic Roger Ebert as a cross between a toad and the Cheshire Cat.[3]",
+      "In the original theatrical releases of the original Star Wars trilogy, Jabba the Hutt first appeared in Return of the Jedi (1983), though he is mentioned in Star Wars (1977) and The Empire Strikes Back (1980), and a previously deleted scene involving Jabba the Hutt was added to the 1997 theatrical re-release and subsequent home media releases of Star Wars. Jabba is introduced as the de facto leader of the Desilijic-Hutt Cartel, and the most powerful crime boss on Tatooine, who has a bounty on Han Solo's head. Jabba employs a retinue of career criminals, bounty hunters, smugglers, assassins and bodyguards to operate his criminal empire. He keeps a host of entertainers at his disposal at his palace: slaves, droids and alien creatures. Jabba has a grim sense of humor, an insatiable appetite, and affinities for gambling, slave girls, and torture.[1]",
+      "The character was incorporated into the Star Wars merchandising campaign that corresponded with the theatrical release of Return of the Jedi. Besides the films, Jabba the Hutt is featured in Star Wars Legends literature. Jabba the Hutt's image has since played an influential role in popular culture, particularly in the United States. The name is used as a satirical literary device and a political caricature to underscore negative qualities such as morbid obesity and corruption.[4][5]"
+   ]
+}}

@@ -1,0 +1,22 @@
+<people>
+   <name>Padmé Amidala</name>
+   <height>165</height>
+   <mass>45</mass>
+   <hair_color>brown</hair_color>
+   <skin_color>light</skin_color>
+   <eye_color>brown</eye_color>
+   <birth_year>46BBY</birth_year>
+   <gender>female</gender>
+   <homeworld>http://swapi.co/api/planets/8/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/4/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <species>http://swapi.co/api/species/1/</species>
+   <starships>http://swapi.co/api/starships/49/</starships>
+   <starships>http://swapi.co/api/starships/64/</starships>
+   <starships>http://swapi.co/api/starships/39/</starships>
+   <created>2014-12-19T17:28:26.926000Z</created>
+   <edited>2016-04-20T17:06:31.502555Z</edited>
+   <url>http://swapi.co/api/people/35/</url>
+   <desc>Padmé Amidala (born Padmé Naberrie) is a fictional character in the Star Wars franchise, appearing in the prequel trilogy portrayed by actress Natalie Portman. She served as the Princess of Theed and later Queen of Naboo. After her reign, she became a senator in the Galactic Senate, an anti-war movement spokesperson, and co-founder of the opposition-faction that later emerged as the Rebel Alliance.[2] She was secretly married to the Jedi Anakin Skywalker, and the biological mother of Luke Skywalker and Leia Organa, which makes her the mother-in-law of Han Solo, and the grandmother of Kylo Ren.</desc>
+</people>

@@ -1,0 +1,13 @@
+<planet>
+   <name>Skako</name>
+   <rotation_period>27</rotation_period>
+   <orbital_period>384</orbital_period>
+   <climate>temperate</climate>
+   <gravity>1</gravity>
+   <terrain>urban, vines</terrain>
+   <population>500000000000</population>
+   <residents>http://swapi.co/api/people/76/</residents>
+   <created>2014-12-20T17:50:47.864000Z</created>
+   <edited>2014-12-20T20:58:18.517000Z</edited>
+   <url>http://swapi.co/api/planets/56/</url>
+</planet>

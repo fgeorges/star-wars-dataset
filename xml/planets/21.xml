@@ -1,0 +1,14 @@
+<planet>
+   <name>Eriadu</name>
+   <rotation_period>24</rotation_period>
+   <orbital_period>360</orbital_period>
+   <diameter>13490</diameter>
+   <climate>polluted</climate>
+   <gravity>1 standard</gravity>
+   <terrain>cityscape</terrain>
+   <population>22000000000</population>
+   <residents>http://swapi.co/api/people/12/</residents>
+   <created>2014-12-10T16:26:54.384000Z</created>
+   <edited>2014-12-20T20:58:18.454000Z</edited>
+   <url>http://swapi.co/api/planets/21/</url>
+</planet>

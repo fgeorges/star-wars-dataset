@@ -1,0 +1,18 @@
+<people>
+   <name>Jango Fett</name>
+   <height>183</height>
+   <mass>79</mass>
+   <hair_color>black</hair_color>
+   <skin_color>tan</skin_color>
+   <eye_color>brown</eye_color>
+   <birth_year>66BBY</birth_year>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/53/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <species>http://swapi.co/api/species/1/</species>
+   <created>2014-12-20T16:54:41.620000Z</created>
+   <edited>2014-12-20T21:17:50.465000Z</edited>
+   <url>http://swapi.co/api/people/69/</url>
+   <desc>Jango Fett is a fictional character in the Star Wars franchise, created by George Lucas. He made his debut in the 2002 film Star Wars: Episode II – Attack of the Clones, where he was portrayed by actor Temuera Morrison.</desc>
+   <desc>In the context of the Star Wars universe, Jango Fett was regarded as the best mercenary in the galaxy during the final years of the Republic. A naturally skilled warrior, he was eventually chosen to serve as the genetic template for the Clone Army of the Galactic Republic. These clone soldiers were genetically modified to be predisposed toward unquestioning obedience to the chain of command, unlike their highly independent progenitor. Jango was also the "father" of unaltered clone Boba Fett, which he requested as part of his contract with the Kaminoans.</desc>
+</people>

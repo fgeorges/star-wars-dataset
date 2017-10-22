@@ -1,0 +1,12 @@
+<planet>
+   <name>Tund</name>
+   <rotation_period>48</rotation_period>
+   <orbital_period>1770</orbital_period>
+   <diameter>12190</diameter>
+   <terrain>barren, ash</terrain>
+   <population>0</population>
+   <residents>http://swapi.co/api/people/50/</residents>
+   <created>2014-12-20T10:07:29.578000Z</created>
+   <edited>2014-12-20T20:58:18.489000Z</edited>
+   <url>http://swapi.co/api/planets/41/</url>
+</planet>

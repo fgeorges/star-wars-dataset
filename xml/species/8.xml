@@ -1,0 +1,16 @@
+<species>
+   <name>Mon Calamari</name>
+   <classification>amphibian</classification>
+   <designation>sentient</designation>
+   <average_height>160</average_height>
+   <skin_colors>red, blue, brown, magenta</skin_colors>
+   <hair_colors>none</hair_colors>
+   <eye_colors>yellow</eye_colors>
+   <homeworld>http://swapi.co/api/planets/31/</homeworld>
+   <language>Mon Calamarian</language>
+   <people>http://swapi.co/api/people/27/</people>
+   <films>http://swapi.co/api/films/3/</films>
+   <created>2014-12-18T11:09:52.263000Z</created>
+   <edited>2014-12-20T21:36:42.153000Z</edited>
+   <url>http://swapi.co/api/species/8/</url>
+</species>

@@ -1,0 +1,15 @@
+{ "planet": {
+   "name": "Dorin",
+   "rotation_period": "22",
+   "orbital_period": "409",
+   "diameter": "13400",
+   "climate": "temperate",
+   "gravity": "1",
+   "residents": [
+      "http://swapi.co/api/people/58/"
+   ],
+   "films": [],
+   "created": "2014-12-20T10:48:36.141000Z",
+   "edited": "2014-12-20T20:58:18.504000Z",
+   "url": "http://swapi.co/api/planets/49/"
+}}

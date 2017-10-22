@@ -1,0 +1,23 @@
+{ "people": {
+   "name": "Luminara Unduli",
+   "height": "170",
+   "mass": "56.2",
+   "hair_color": "black",
+   "skin_color": "yellow",
+   "eye_color": "blue",
+   "birth_year": "58BBY",
+   "gender": "female",
+   "homeworld": "http://swapi.co/api/planets/51/",
+   "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/6/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/29/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-20T16:45:53.668000Z",
+   "edited": "2014-12-20T21:17:50.455000Z",
+   "url": "http://swapi.co/api/people/64/"
+}}

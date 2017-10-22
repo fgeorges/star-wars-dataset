@@ -1,0 +1,15 @@
+<species>
+   <name>Neimodian</name>
+   <designation>sentient</designation>
+   <average_height>180</average_height>
+   <skin_colors>grey, green</skin_colors>
+   <hair_colors>none</hair_colors>
+   <eye_colors>red, pink</eye_colors>
+   <homeworld>http://swapi.co/api/planets/18/</homeworld>
+   <language>Neimoidia</language>
+   <people>http://swapi.co/api/people/33/</people>
+   <films>http://swapi.co/api/films/4/</films>
+   <created>2014-12-19T17:07:31.319000Z</created>
+   <edited>2014-12-20T21:36:42.160000Z</edited>
+   <url>http://swapi.co/api/species/11/</url>
+</species>

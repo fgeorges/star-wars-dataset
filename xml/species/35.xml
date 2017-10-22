@@ -1,0 +1,18 @@
+<species>
+   <name>Togruta</name>
+   <classification>mammal</classification>
+   <designation>sentient</designation>
+   <average_height>180</average_height>
+   <skin_colors>red, white, orange, yellow, green, blue</skin_colors>
+   <hair_colors>none</hair_colors>
+   <eye_colors>red, orange, yellow, green, blue, black</eye_colors>
+   <average_lifespan>94</average_lifespan>
+   <homeworld>http://swapi.co/api/planets/58/</homeworld>
+   <language>Togruti</language>
+   <people>http://swapi.co/api/people/78/</people>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T18:44:03.246000Z</created>
+   <edited>2014-12-20T21:36:42.209000Z</edited>
+   <url>http://swapi.co/api/species/35/</url>
+</species>

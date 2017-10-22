@@ -1,0 +1,16 @@
+<people>
+   <name>Adi Gallia</name>
+   <height>184</height>
+   <mass>50</mass>
+   <hair_color>none</hair_color>
+   <skin_color>dark</skin_color>
+   <eye_color>blue</eye_color>
+   <gender>female</gender>
+   <homeworld>http://swapi.co/api/planets/9/</homeworld>
+   <films>http://swapi.co/api/films/4/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <species>http://swapi.co/api/species/23/</species>
+   <created>2014-12-20T10:29:11.661000Z</created>
+   <edited>2014-12-20T21:17:50.432000Z</edited>
+   <url>http://swapi.co/api/people/55/</url>
+</people>

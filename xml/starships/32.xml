@@ -1,0 +1,18 @@
+<starship>
+   <name>Droid control ship</name>
+   <model>Lucrehulk-class Droid Control Ship</model>
+   <manufacturer>Hoersch-Kessel Drive, Inc.</manufacturer>
+   <length>3170</length>
+   <crew>175</crew>
+   <passengers>139000</passengers>
+   <cargo_capacity>4000000000</cargo_capacity>
+   <consumables>500 days</consumables>
+   <hyperdrive_rating>2.0</hyperdrive_rating>
+   <starship_class>Droid control ship</starship_class>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/4/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-19T17:04:06.323000Z</created>
+   <edited>2014-12-22T17:35:45.042900Z</edited>
+   <url>http://swapi.co/api/starships/32/</url>
+</starship>

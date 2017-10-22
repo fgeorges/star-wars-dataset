@@ -1,0 +1,18 @@
+{ "starship": {
+   "name": "Republic Cruiser",
+   "model": "Consular-class cruiser",
+   "manufacturer": "Corellian Engineering Corporation",
+   "length": "115",
+   "max_atmosphering_speed": "900",
+   "crew": "9",
+   "passengers": "16",
+   "hyperdrive_rating": "2.0",
+   "starship_class": "Space cruiser",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/4/"
+   ],
+   "created": "2014-12-19T17:01:31.488000Z",
+   "edited": "2014-12-22T17:35:45.027308Z",
+   "url": "http://swapi.co/api/starships/31/"
+}}

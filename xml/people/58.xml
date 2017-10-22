@@ -1,0 +1,19 @@
+<people>
+   <name>Plo Koon</name>
+   <height>188</height>
+   <mass>80</mass>
+   <hair_color>none</hair_color>
+   <skin_color>orange</skin_color>
+   <eye_color>black</eye_color>
+   <birth_year>22BBY</birth_year>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/49/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/4/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <species>http://swapi.co/api/species/26/</species>
+   <starships>http://swapi.co/api/starships/48/</starships>
+   <created>2014-12-20T10:49:19.859000Z</created>
+   <edited>2014-12-20T21:17:50.439000Z</edited>
+   <url>http://swapi.co/api/people/58/</url>
+</people>

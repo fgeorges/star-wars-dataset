@@ -1,0 +1,21 @@
+{ "people": {
+   "name": "Dexter Jettster",
+   "height": "198",
+   "mass": "102",
+   "hair_color": "none",
+   "skin_color": "brown",
+   "eye_color": "yellow",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/55/",
+   "films": [
+      "http://swapi.co/api/films/5/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/31/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-20T17:28:27.248000Z",
+   "edited": "2014-12-20T21:17:50.470000Z",
+   "url": "http://swapi.co/api/people/71/"
+}}

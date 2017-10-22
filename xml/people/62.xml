@@ -1,0 +1,15 @@
+<people>
+   <name>Cliegg Lars</name>
+   <height>183</height>
+   <hair_color>brown</hair_color>
+   <skin_color>fair</skin_color>
+   <eye_color>blue</eye_color>
+   <birth_year>82BBY</birth_year>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/1/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <species>http://swapi.co/api/species/1/</species>
+   <created>2014-12-20T15:59:03.958000Z</created>
+   <edited>2014-12-20T21:17:50.451000Z</edited>
+   <url>http://swapi.co/api/people/62/</url>
+</people>

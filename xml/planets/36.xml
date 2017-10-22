@@ -1,0 +1,14 @@
+<planet>
+   <name>Dathomir</name>
+   <rotation_period>24</rotation_period>
+   <orbital_period>491</orbital_period>
+   <diameter>10480</diameter>
+   <climate>temperate</climate>
+   <gravity>0.9</gravity>
+   <terrain>forests, deserts, savannas</terrain>
+   <population>5200</population>
+   <residents>http://swapi.co/api/people/44/</residents>
+   <created>2014-12-19T18:00:40.142000Z</created>
+   <edited>2014-12-20T20:58:18.480000Z</edited>
+   <url>http://swapi.co/api/planets/36/</url>
+</planet>

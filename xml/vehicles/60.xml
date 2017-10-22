@@ -1,0 +1,18 @@
+<vehicle>
+   <name>Tsmeu-6 personal wheel bike</name>
+   <model>Tsmeu-6 personal wheel bike</model>
+   <manufacturer>Z-Gomot Ternbuell Guppat Corporation</manufacturer>
+   <cost_in_credits>15000</cost_in_credits>
+   <length>3.5</length>
+   <max_atmosphering_speed>330</max_atmosphering_speed>
+   <crew>1</crew>
+   <passengers>1</passengers>
+   <cargo_capacity>10</cargo_capacity>
+   <consumables>none</consumables>
+   <vehicle_class>wheeled walker</vehicle_class>
+   <pilots>http://swapi.co/api/people/79/</pilots>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T19:43:54.870000Z</created>
+   <edited>2014-12-22T18:21:16.422662Z</edited>
+   <url>http://swapi.co/api/vehicles/60/</url>
+</vehicle>

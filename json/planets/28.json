@@ -1,0 +1,21 @@
+{ "planet": {
+   "rotation_period": "0",
+   "orbital_period": "0",
+   "diameter": "0",
+   "residents": [
+      "http://swapi.co/api/people/20/",
+      "http://swapi.co/api/people/23/",
+      "http://swapi.co/api/people/29/",
+      "http://swapi.co/api/people/32/",
+      "http://swapi.co/api/people/75/",
+      "http://swapi.co/api/people/84/",
+      "http://swapi.co/api/people/85/",
+      "http://swapi.co/api/people/86/",
+      "http://swapi.co/api/people/87/",
+      "http://swapi.co/api/people/88/"
+   ],
+   "films": [],
+   "created": "2014-12-15T12:25:59.569000Z",
+   "edited": "2014-12-20T20:58:18.466000Z",
+   "url": "http://swapi.co/api/planets/28/"
+}}

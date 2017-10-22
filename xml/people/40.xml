@@ -1,0 +1,16 @@
+<people>
+   <name>Watto</name>
+   <height>137</height>
+   <hair_color>black</hair_color>
+   <skin_color>blue, grey</skin_color>
+   <eye_color>yellow</eye_color>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/34/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/4/</films>
+   <species>http://swapi.co/api/species/13/</species>
+   <created>2014-12-19T17:48:54.647000Z</created>
+   <edited>2014-12-20T21:17:50.395000Z</edited>
+   <url>http://swapi.co/api/people/40/</url>
+   <desc>Watto is a fictional character in the Star Wars franchise, featured in the films The Phantom Menace and Attack of the Clones. He is computer-generated and played by voice actor Andy Secombe. He is a mean-tempered, greedy Toydarian, and owner of a second-hand goods store in Mos Espa on the planet Tatooine. Among Watto's belongings are the slaves Shmi Skywalker and her son, Anakin. He acquires them after winning a podracing bet with Gardulla the Hutt, and he puts them both to work in his store. Anakin demonstrates an incredible aptitude for equipment repair, and Watto decides to profit from it by having the boy fix various broken equipment in the store. He eventually loses Anakin in a podracing bet with Qui-Gon Jinn when he bets on a competitor, Sebulba, who is defeated by Anakin.</desc>
+</people>

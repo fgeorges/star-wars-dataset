@@ -1,0 +1,16 @@
+{ "planet": {
+   "name": "Saleucami",
+   "rotation_period": "26",
+   "orbital_period": "392",
+   "diameter": "14920",
+   "climate": "hot",
+   "terrain": "caves, desert, mountains, volcanoes",
+   "population": "1400000000",
+   "residents": [],
+   "films": [
+      "http://swapi.co/api/films/6/"
+   ],
+   "created": "2014-12-10T13:47:46.874000Z",
+   "edited": "2014-12-20T20:58:18.450000Z",
+   "url": "http://swapi.co/api/planets/19/"
+}}

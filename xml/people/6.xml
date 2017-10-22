@@ -1,0 +1,18 @@
+<people>
+   <name>Owen Lars</name>
+   <height>178</height>
+   <mass>120</mass>
+   <hair_color>brown, grey</hair_color>
+   <skin_color>light</skin_color>
+   <eye_color>blue</eye_color>
+   <birth_year>52BBY</birth_year>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/1/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <films>http://swapi.co/api/films/1/</films>
+   <species>http://swapi.co/api/species/1/</species>
+   <created>2014-12-10T15:52:14.024000Z</created>
+   <edited>2014-12-20T21:17:50.317000Z</edited>
+   <url>http://swapi.co/api/people/6/</url>
+</people>

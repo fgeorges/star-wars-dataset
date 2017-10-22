@@ -1,0 +1,17 @@
+<vehicle>
+   <name>Sail barge</name>
+   <model>Modified Luxury Sail Barge</model>
+   <manufacturer>Ubrikkian Industries Custom Vehicle Division</manufacturer>
+   <cost_in_credits>285000</cost_in_credits>
+   <length>30</length>
+   <max_atmosphering_speed>100</max_atmosphering_speed>
+   <crew>26</crew>
+   <passengers>500</passengers>
+   <cargo_capacity>2000000</cargo_capacity>
+   <consumables>Live food tanks</consumables>
+   <vehicle_class>sail barge</vehicle_class>
+   <films>http://swapi.co/api/films/3/</films>
+   <created>2014-12-18T10:44:14.217000Z</created>
+   <edited>2014-12-22T18:21:15.807906Z</edited>
+   <url>http://swapi.co/api/vehicles/24/</url>
+</vehicle>

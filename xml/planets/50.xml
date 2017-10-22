@@ -1,0 +1,13 @@
+<planet>
+   <name>Champala</name>
+   <rotation_period>27</rotation_period>
+   <orbital_period>318</orbital_period>
+   <climate>temperate</climate>
+   <gravity>1</gravity>
+   <terrain>oceans, rainforests, plateaus</terrain>
+   <population>3500000000</population>
+   <residents>http://swapi.co/api/people/59/</residents>
+   <created>2014-12-20T10:52:51.524000Z</created>
+   <edited>2014-12-20T20:58:18.506000Z</edited>
+   <url>http://swapi.co/api/planets/50/</url>
+</planet>

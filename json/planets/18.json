@@ -1,0 +1,19 @@
+{ "planet": {
+   "name": "Cato Neimoidia",
+   "rotation_period": "25",
+   "orbital_period": "278",
+   "diameter": "0",
+   "climate": "temperate, moist",
+   "gravity": "1 standard",
+   "terrain": "mountains, fields, forests, rock arches",
+   "population": "10000000",
+   "residents": [
+      "http://swapi.co/api/people/33/"
+   ],
+   "films": [
+      "http://swapi.co/api/films/6/"
+   ],
+   "created": "2014-12-10T13:46:28.704000Z",
+   "edited": "2014-12-20T20:58:18.449000Z",
+   "url": "http://swapi.co/api/planets/18/"
+}}

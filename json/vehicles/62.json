@@ -1,0 +1,13 @@
+{ "vehicle": {
+   "name": "Emergency Firespeeder",
+   "model": "Fire suppression speeder",
+   "crew": "2",
+   "vehicle_class": "fire suppression ship",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/6/"
+   ],
+   "created": "2014-12-20T19:50:58.559000Z",
+   "edited": "2014-12-22T18:21:16.450655Z",
+   "url": "http://swapi.co/api/vehicles/62/"
+}}

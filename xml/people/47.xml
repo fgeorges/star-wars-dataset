@@ -1,0 +1,14 @@
+<people>
+   <name>Ratts Tyerell</name>
+   <height>79</height>
+   <mass>15</mass>
+   <hair_color>none</hair_color>
+   <skin_color>grey, blue</skin_color>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/38/</homeworld>
+   <films>http://swapi.co/api/films/4/</films>
+   <species>http://swapi.co/api/species/16/</species>
+   <created>2014-12-20T09:53:15.086000Z</created>
+   <edited>2016-06-30T12:52:19.604868Z</edited>
+   <url>http://swapi.co/api/people/47/</url>
+</people>

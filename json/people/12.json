@@ -1,0 +1,25 @@
+{ "people": {
+   "name": "Wilhuff Tarkin",
+   "height": "180",
+   "hair_color": "auburn, grey",
+   "skin_color": "fair",
+   "eye_color": "blue",
+   "birth_year": "64BBY",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/21/",
+   "films": [
+      "http://swapi.co/api/films/1/",
+      "http://swapi.co/api/films/6/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/1/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-10T16:26:56.138000Z",
+   "edited": "2014-12-20T21:17:50.330000Z",
+   "url": "http://swapi.co/api/people/12/",
+   "desc": [
+      "Governor Wilhuff \"Grand Moff\" Tarkin, is a fictional character in the Star Wars franchise, first portrayed by Peter Cushing in the 1977 film Star Wars. He is the commander of the Death Star, the Galactic Empire's dwarf planet-sized super weapon. The character has been called \"one of the most formidable villains in Star Wars history.\"[1]"
+   ]
+}}

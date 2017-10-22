@@ -1,0 +1,20 @@
+{ "vehicle": {
+   "name": "Neimoidian shuttle",
+   "model": "Sheathipede-class transport shuttle",
+   "manufacturer": "Haor Chall Engineering",
+   "length": "20",
+   "max_atmosphering_speed": "880",
+   "crew": "2",
+   "passengers": "6",
+   "cargo_capacity": "1000",
+   "consumables": "7 days",
+   "vehicle_class": "transport",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/6/"
+   ],
+   "created": "2014-12-20T18:25:44.912000Z",
+   "edited": "2014-12-22T18:21:16.366134Z",
+   "url": "http://swapi.co/api/vehicles/56/"
+}}

@@ -1,0 +1,17 @@
+<species>
+   <name>Besalisk</name>
+   <classification>amphibian</classification>
+   <designation>sentient</designation>
+   <average_height>178</average_height>
+   <skin_colors>brown</skin_colors>
+   <hair_colors>none</hair_colors>
+   <eye_colors>yellow</eye_colors>
+   <average_lifespan>75</average_lifespan>
+   <homeworld>http://swapi.co/api/planets/55/</homeworld>
+   <language>besalisk</language>
+   <people>http://swapi.co/api/people/71/</people>
+   <films>http://swapi.co/api/films/5/</films>
+   <created>2014-12-20T17:28:28.821000Z</created>
+   <edited>2014-12-20T21:36:42.200000Z</edited>
+   <url>http://swapi.co/api/species/31/</url>
+</species>

@@ -1,0 +1,62 @@
+<species>
+   <name>Human</name>
+   <classification>mammal</classification>
+   <designation>sentient</designation>
+   <average_height>180</average_height>
+   <skin_colors>caucasian, black, asian, hispanic</skin_colors>
+   <hair_colors>blonde, brown, black, red</hair_colors>
+   <eye_colors>brown, blue, green, hazel, grey, amber</eye_colors>
+   <average_lifespan>120</average_lifespan>
+   <homeworld>http://swapi.co/api/planets/9/</homeworld>
+   <language>Galactic Basic</language>
+   <people>http://swapi.co/api/people/1/</people>
+   <people>http://swapi.co/api/people/4/</people>
+   <people>http://swapi.co/api/people/5/</people>
+   <people>http://swapi.co/api/people/6/</people>
+   <people>http://swapi.co/api/people/7/</people>
+   <people>http://swapi.co/api/people/9/</people>
+   <people>http://swapi.co/api/people/10/</people>
+   <people>http://swapi.co/api/people/11/</people>
+   <people>http://swapi.co/api/people/12/</people>
+   <people>http://swapi.co/api/people/14/</people>
+   <people>http://swapi.co/api/people/18/</people>
+   <people>http://swapi.co/api/people/19/</people>
+   <people>http://swapi.co/api/people/21/</people>
+   <people>http://swapi.co/api/people/22/</people>
+   <people>http://swapi.co/api/people/25/</people>
+   <people>http://swapi.co/api/people/26/</people>
+   <people>http://swapi.co/api/people/28/</people>
+   <people>http://swapi.co/api/people/29/</people>
+   <people>http://swapi.co/api/people/32/</people>
+   <people>http://swapi.co/api/people/34/</people>
+   <people>http://swapi.co/api/people/43/</people>
+   <people>http://swapi.co/api/people/51/</people>
+   <people>http://swapi.co/api/people/60/</people>
+   <people>http://swapi.co/api/people/61/</people>
+   <people>http://swapi.co/api/people/62/</people>
+   <people>http://swapi.co/api/people/66/</people>
+   <people>http://swapi.co/api/people/67/</people>
+   <people>http://swapi.co/api/people/68/</people>
+   <people>http://swapi.co/api/people/69/</people>
+   <people>http://swapi.co/api/people/74/</people>
+   <people>http://swapi.co/api/people/81/</people>
+   <people>http://swapi.co/api/people/84/</people>
+   <people>http://swapi.co/api/people/85/</people>
+   <people>http://swapi.co/api/people/86/</people>
+   <people>http://swapi.co/api/people/35/</people>
+   <films>http://swapi.co/api/films/7/</films>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/4/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/2/</films>
+   <films>http://swapi.co/api/films/1/</films>
+   <created>2014-12-10T13:52:11.567000Z</created>
+   <edited>2015-04-17T06:59:55.850671Z</edited>
+   <url>http://swapi.co/api/species/1/</url>
+   <desc>Modern humans (Homo sapiens, primarily ssp. Homo sapiens sapiens) are the only extant members of the subtribe Hominina, a branch of the tribe Hominini belonging to the family of great apes. They are characterized by erect posture and bipedal locomotion; high manual dexterity and heavy tool use compared to other animals; and a general trend toward larger, more complex brains and societies.[3][4]</desc>
+   <desc>Early hominins—particularly the australopithecines, whose brains and anatomy are in many ways more similar to ancestral non-human apes—are less often referred to as "human" than hominins of the genus Homo.[5] Several of these hominins used fire, occupied much of Eurasia, and gave rise to anatomically modern Homo sapiens in Africa about 200,000 years ago.[6][7] They began to exhibit evidence of behavioral modernity around 50,000 years ago. In several waves of migration, anatomically modern humans ventured out of Africa and populated most of the world.[8]</desc>
+   <desc>The spread of humans and their large and increasing population has had a profound impact on large areas of the environment and millions of native species worldwide. Advantages that explain this evolutionary success include a relatively larger brain with a particularly well-developed neocortex, prefrontal cortex and temporal lobes, which enable high levels of abstract reasoning, language, problem solving, sociality, and culture through social learning. Humans use tools to a much higher degree than any other animal, are the only extant species known to build fires and cook their food, and are the only extant species to clothe themselves and create and use numerous other technologies and arts.</desc>
+   <desc>Humans are uniquely adept at using systems of symbolic communication (such as language and art) for self-expression and the exchange of ideas, and for organizing themselves into purposeful groups. Humans create complex social structures composed of many cooperating and competing groups, from families and kinship networks to political states. Social interactions between humans have established an extremely wide variety of values,[9] social norms, and rituals, which together form the basis of human society. Curiosity and the human desire to understand and influence the environment and to explain and manipulate phenomena (or events) has provided the foundation for developing science, philosophy, mythology, religion, anthropology, and numerous other fields of knowledge.</desc>
+   <desc>Though most of human existence has been sustained by hunting and gathering in band societies,[10] increasing numbers of human societies began to practice sedentary agriculture approximately some 10,000 years ago,[11] domesticating plants and animals, thus allowing for the growth of civilization. These human societies subsequently expanded in size, establishing various forms of government, religion, and culture around the world, unifying people within regions to form states and empires. The rapid advancement of scientific and medical understanding in the 19th and 20th centuries led to the development of fuel-driven technologies and increased lifespans, causing the human population to rise exponentially. Today the global human population is estimated by the United Nations to be near 7.6 billion.[12]</desc>
+</species>

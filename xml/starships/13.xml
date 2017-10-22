@@ -1,0 +1,19 @@
+<starship>
+   <name>TIE Advanced x1</name>
+   <model>Twin Ion Engine Advanced x1</model>
+   <manufacturer>Sienar Fleet Systems</manufacturer>
+   <length>9.2</length>
+   <max_atmosphering_speed>1200</max_atmosphering_speed>
+   <crew>1</crew>
+   <passengers>0</passengers>
+   <cargo_capacity>150</cargo_capacity>
+   <consumables>5 days</consumables>
+   <hyperdrive_rating>1.0</hyperdrive_rating>
+   <MGLT>105</MGLT>
+   <starship_class>Starfighter</starship_class>
+   <pilots>http://swapi.co/api/people/4/</pilots>
+   <films>http://swapi.co/api/films/1/</films>
+   <created>2014-12-12T11:21:32.991000Z</created>
+   <edited>2014-12-22T17:35:44.549047Z</edited>
+   <url>http://swapi.co/api/starships/13/</url>
+</starship>

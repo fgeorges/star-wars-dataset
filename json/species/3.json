@@ -1,0 +1,29 @@
+{ "species": {
+   "name": "Wookiee",
+   "classification": "mammal",
+   "designation": "sentient",
+   "average_height": "210",
+   "skin_colors": "gray",
+   "hair_colors": "black, brown",
+   "eye_colors": "blue, green, yellow, brown, golden, red",
+   "average_lifespan": "400",
+   "homeworld": "http://swapi.co/api/planets/14/",
+   "language": "Shyriiwook",
+   "people": [
+      "http://swapi.co/api/people/13/",
+      "http://swapi.co/api/people/80/"
+   ],
+   "films": [
+      "http://swapi.co/api/films/7/",
+      "http://swapi.co/api/films/6/",
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/",
+      "http://swapi.co/api/films/1/"
+   ],
+   "created": "2014-12-10T16:44:31.486000Z",
+   "edited": "2015-01-30T21:23:03.074598Z",
+   "url": "http://swapi.co/api/species/3/",
+   "desc": [
+      "Wookiees (/ˈwʊkiːz/) are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They are taller, stronger, and hairier than humans and most (if not all) other humanoid species. The most notable Wookiee is Chewbacca, the copilot of Han Solo, who first appeared in the 1977 film Star Wars Episode IV: A New Hope."
+   ]
+}}

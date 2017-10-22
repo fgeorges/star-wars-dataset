@@ -1,0 +1,20 @@
+{ "vehicle": {
+   "name": "Flitknot speeder",
+   "model": "Flitknot speeder",
+   "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
+   "cost_in_credits": "8000",
+   "length": "2",
+   "max_atmosphering_speed": "634",
+   "crew": "1",
+   "passengers": "0",
+   "vehicle_class": "speeder",
+   "pilots": [
+      "http://swapi.co/api/people/67/"
+   ],
+   "films": [
+      "http://swapi.co/api/films/5/"
+   ],
+   "created": "2014-12-20T18:15:20.312000Z",
+   "edited": "2014-12-22T18:21:16.335005Z",
+   "url": "http://swapi.co/api/vehicles/55/"
+}}

@@ -1,0 +1,15 @@
+<starship>
+   <name>Naboo Royal Starship</name>
+   <model>J-type 327 Nubian royal starship</model>
+   <manufacturer>Theed Palace Space Vessel Engineering Corps, Nubia Star Drives</manufacturer>
+   <length>76</length>
+   <max_atmosphering_speed>920</max_atmosphering_speed>
+   <crew>8</crew>
+   <hyperdrive_rating>1.8</hyperdrive_rating>
+   <starship_class>yacht</starship_class>
+   <pilots>http://swapi.co/api/people/39/</pilots>
+   <films>http://swapi.co/api/films/4/</films>
+   <created>2014-12-19T17:45:03.506000Z</created>
+   <edited>2014-12-22T17:35:45.091925Z</edited>
+   <url>http://swapi.co/api/starships/40/</url>
+</starship>

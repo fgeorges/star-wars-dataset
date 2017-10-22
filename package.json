@@ -1,0 +1,10 @@
+{
+    "name": "star-wars-dataset",
+    "version": "0.1.0",
+    "description": "Sample dataset for test purposes.",
+    "author": "Florent Georges",
+    "dependencies": {
+        "cheerio": "latest",
+        "sync-request": "latest"
+    }
+}

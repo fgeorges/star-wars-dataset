@@ -1,0 +1,15 @@
+<people>
+   <name>Lama Su</name>
+   <height>229</height>
+   <mass>88</mass>
+   <hair_color>none</hair_color>
+   <skin_color>grey</skin_color>
+   <eye_color>black</eye_color>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/10/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <species>http://swapi.co/api/species/32/</species>
+   <created>2014-12-20T17:30:50.416000Z</created>
+   <edited>2014-12-20T21:17:50.473000Z</edited>
+   <url>http://swapi.co/api/people/72/</url>
+</people>

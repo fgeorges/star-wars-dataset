@@ -1,0 +1,17 @@
+{ "vehicle": {
+   "name": "Geonosian starfighter",
+   "model": "Nantex-class territorial defense",
+   "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
+   "length": "9.8",
+   "max_atmosphering_speed": "20000",
+   "crew": "1",
+   "passengers": "0",
+   "vehicle_class": "starfighter",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/5/"
+   ],
+   "created": "2014-12-20T18:34:12.541000Z",
+   "edited": "2014-12-22T18:21:16.390980Z",
+   "url": "http://swapi.co/api/vehicles/57/"
+}}

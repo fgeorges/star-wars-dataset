@@ -1,0 +1,20 @@
+{ "people": {
+   "name": "Taun We",
+   "height": "213",
+   "hair_color": "none",
+   "skin_color": "grey",
+   "eye_color": "black",
+   "gender": "female",
+   "homeworld": "http://swapi.co/api/planets/10/",
+   "films": [
+      "http://swapi.co/api/films/5/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/32/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-20T17:31:21.195000Z",
+   "edited": "2014-12-20T21:17:50.474000Z",
+   "url": "http://swapi.co/api/people/73/"
+}}

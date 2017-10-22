@@ -1,0 +1,21 @@
+<people>
+   <name>Yoda</name>
+   <height>66</height>
+   <mass>17</mass>
+   <hair_color>white</hair_color>
+   <skin_color>green</skin_color>
+   <eye_color>brown</eye_color>
+   <birth_year>896BBY</birth_year>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/28/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/4/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/2/</films>
+   <species>http://swapi.co/api/species/6/</species>
+   <created>2014-12-15T12:26:01.042000Z</created>
+   <edited>2014-12-20T21:17:50.345000Z</edited>
+   <url>http://swapi.co/api/people/20/</url>
+   <desc>Yoda is a fictional character in the Star Wars franchise created by George Lucas, first appearing in the 1980 film The Empire Strikes Back. In the original films, he trains Luke Skywalker to fight against the Galactic Empire. In the prequel films, he serves as the Grand Master of the Jedi Order and as a high-ranking general of Clone Troopers in the Clone Wars. Following his death in Return of the Jedi at the age of 900, Yoda was the oldest living character in the Star Wars franchise in canon, until the introduction of Maz Kanata in Star Wars: The Force Awakens.</desc>
+</people>

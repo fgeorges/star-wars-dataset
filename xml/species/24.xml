@@ -1,0 +1,16 @@
+<species>
+   <name>Iktotchi</name>
+   <designation>sentient</designation>
+   <average_height>180</average_height>
+   <skin_colors>pink</skin_colors>
+   <hair_colors>none</hair_colors>
+   <eye_colors>orange</eye_colors>
+   <homeworld>http://swapi.co/api/planets/47/</homeworld>
+   <language>Iktotchese</language>
+   <people>http://swapi.co/api/people/56/</people>
+   <films>http://swapi.co/api/films/4/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T10:32:13.046000Z</created>
+   <edited>2014-12-20T21:36:42.188000Z</edited>
+   <url>http://swapi.co/api/species/24/</url>
+</species>

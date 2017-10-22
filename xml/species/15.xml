@@ -1,0 +1,20 @@
+<species>
+   <name>Twi'lek</name>
+   <classification>mammals</classification>
+   <designation>sentient</designation>
+   <average_height>200</average_height>
+   <skin_colors>orange, yellow, blue, green, pink, purple, tan</skin_colors>
+   <hair_colors>none</hair_colors>
+   <eye_colors>blue, brown, orange, pink</eye_colors>
+   <homeworld>http://swapi.co/api/planets/37/</homeworld>
+   <language>Twi'leki</language>
+   <people>http://swapi.co/api/people/45/</people>
+   <people>http://swapi.co/api/people/46/</people>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/4/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <films>http://swapi.co/api/films/3/</films>
+   <created>2014-12-20T09:48:02.406000Z</created>
+   <edited>2014-12-20T21:36:42.169000Z</edited>
+   <url>http://swapi.co/api/species/15/</url>
+</species>

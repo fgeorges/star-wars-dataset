@@ -1,0 +1,19 @@
+<starship>
+   <name>V-wing</name>
+   <model>Alpha-3 Nimbus-class V-wing starfighter</model>
+   <manufacturer>Kuat Systems Engineering</manufacturer>
+   <cost_in_credits>102500</cost_in_credits>
+   <length>7.9</length>
+   <max_atmosphering_speed>1050</max_atmosphering_speed>
+   <crew>1</crew>
+   <passengers>0</passengers>
+   <cargo_capacity>60</cargo_capacity>
+   <consumables>15 hours</consumables>
+   <hyperdrive_rating>1.0</hyperdrive_rating>
+   <starship_class>starfighter</starship_class>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T20:43:04.349000Z</created>
+   <edited>2014-12-22T17:35:45.396711Z</edited>
+   <url>http://swapi.co/api/starships/75/</url>
+   <desc>There have been several vehicles in the Star Wars Universe designated V-wing:</desc>
+</starship>

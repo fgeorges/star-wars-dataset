@@ -1,0 +1,20 @@
+<starship>
+   <name>Executor</name>
+   <model>Executor-class star dreadnought</model>
+   <manufacturer>Kuat Drive Yards, Fondor Shipyards</manufacturer>
+   <cost_in_credits>1143350000</cost_in_credits>
+   <length>19,000</length>
+   <crew>279144</crew>
+   <passengers>38000</passengers>
+   <cargo_capacity>250000000</cargo_capacity>
+   <consumables>6 years</consumables>
+   <hyperdrive_rating>2.0</hyperdrive_rating>
+   <MGLT>40</MGLT>
+   <starship_class>Star dreadnought</starship_class>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/2/</films>
+   <created>2014-12-15T12:31:42.547000Z</created>
+   <edited>2014-12-22T17:35:44.638231Z</edited>
+   <url>http://swapi.co/api/starships/15/</url>
+   <desc>An executor is someone who is responsible for executing, or following through on, an assigned task or duty. The feminine form, executrix, may sometimes be used. The role of an executor should not be confused with that of an executioner, a person who carries out a death sentence ordered by the state or other legal authority.</desc>
+</starship>

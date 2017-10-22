@@ -1,0 +1,9 @@
+<planet>
+   <name>Mirial</name>
+   <terrain>deserts</terrain>
+   <residents>http://swapi.co/api/people/64/</residents>
+   <residents>http://swapi.co/api/people/65/</residents>
+   <created>2014-12-20T16:44:46.318000Z</created>
+   <edited>2014-12-20T20:58:18.508000Z</edited>
+   <url>http://swapi.co/api/planets/51/</url>
+</planet>

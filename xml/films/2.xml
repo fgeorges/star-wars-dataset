@@ -1,0 +1,74 @@
+<film>
+   <title>The Empire Strikes Back</title>
+   <episode_id>5</episode_id>
+   <opening_crawl>It is a dark time for the
+Rebellion. Although the Death
+Star has been destroyed,
+Imperial troops have driven the
+Rebel forces from their hidden
+base and pursued them across
+the galaxy.
+
+Evading the dreaded Imperial
+Starfleet, a group of freedom
+fighters led by Luke Skywalker
+has established a new secret
+base on the remote ice world
+of Hoth.
+
+The evil lord Darth Vader,
+obsessed with finding young
+Skywalker, has dispatched
+thousands of remote probes into
+the far reaches of space....</opening_crawl>
+   <director>Irvin Kershner</director>
+   <producer>Gary Kutz, Rick McCallum</producer>
+   <release_date>1980-05-17</release_date>
+   <characters>http://swapi.co/api/people/1/</characters>
+   <characters>http://swapi.co/api/people/2/</characters>
+   <characters>http://swapi.co/api/people/3/</characters>
+   <characters>http://swapi.co/api/people/4/</characters>
+   <characters>http://swapi.co/api/people/5/</characters>
+   <characters>http://swapi.co/api/people/10/</characters>
+   <characters>http://swapi.co/api/people/13/</characters>
+   <characters>http://swapi.co/api/people/14/</characters>
+   <characters>http://swapi.co/api/people/18/</characters>
+   <characters>http://swapi.co/api/people/20/</characters>
+   <characters>http://swapi.co/api/people/21/</characters>
+   <characters>http://swapi.co/api/people/22/</characters>
+   <characters>http://swapi.co/api/people/23/</characters>
+   <characters>http://swapi.co/api/people/24/</characters>
+   <characters>http://swapi.co/api/people/25/</characters>
+   <characters>http://swapi.co/api/people/26/</characters>
+   <planets>http://swapi.co/api/planets/4/</planets>
+   <planets>http://swapi.co/api/planets/5/</planets>
+   <planets>http://swapi.co/api/planets/6/</planets>
+   <planets>http://swapi.co/api/planets/27/</planets>
+   <starships>http://swapi.co/api/starships/10/</starships>
+   <starships>http://swapi.co/api/starships/11/</starships>
+   <starships>http://swapi.co/api/starships/12/</starships>
+   <starships>http://swapi.co/api/starships/15/</starships>
+   <starships>http://swapi.co/api/starships/21/</starships>
+   <starships>http://swapi.co/api/starships/22/</starships>
+   <starships>http://swapi.co/api/starships/23/</starships>
+   <starships>http://swapi.co/api/starships/3/</starships>
+   <starships>http://swapi.co/api/starships/17/</starships>
+   <vehicles>http://swapi.co/api/vehicles/8/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/14/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/16/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/18/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/19/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/20/</vehicles>
+   <species>http://swapi.co/api/species/6/</species>
+   <species>http://swapi.co/api/species/7/</species>
+   <species>http://swapi.co/api/species/3/</species>
+   <species>http://swapi.co/api/species/2/</species>
+   <species>http://swapi.co/api/species/1/</species>
+   <created>2014-12-12T11:26:24.656000Z</created>
+   <edited>2015-04-11T09:46:31.433607Z</edited>
+   <url>http://swapi.co/api/films/2/</url>
+   <desc>The Empire Strikes Back (also known as Star Wars: Episode V – The Empire Strikes Back) is a 1980 American epic space opera film directed by Irvin Kershner. Leigh Brackett and Lawrence Kasdan wrote the screenplay, with George Lucas writing the film's story and serving as executive producer. The second installment in the original Star Wars trilogy, it was produced by Gary Kurtz for Lucasfilm and stars Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse, Kenny Baker, Peter Mayhew, and Frank Oz.</desc>
+   <desc>The film is set three years after Star Wars. The Galactic Empire, under the leadership of the villainous Darth Vader and the Emperor, is in pursuit of Luke Skywalker and the rest of the Rebel Alliance. While Vader relentlessly pursues the small band of Luke's friends—Han Solo, Princess Leia Organa, and others—across the galaxy, Luke studies the Force under Jedi Master Yoda. When Vader captures Luke's friends, Luke must decide whether to complete his training and become a full Jedi Knight or to confront Vader and save them.</desc>
+   <desc>Following a difficult production, The Empire Strikes Back was released on May 21, 1980. It received mixed reviews from critics initially but has since grown in esteem, becoming the most critically acclaimed chapter in the Star Wars saga; it is now widely regarded as one of the greatest films of all time.[5][6][7][8] The film ranks #3 on Empire's 2008 list of the 500 greatest movies of all time.[9] It became the highest-grossing film of 1980 and, to date, has earned more than $538 million worldwide from its original run and several re-releases. When adjusted for inflation, it is the second-highest-grossing sequel of all time and the 13th-highest-grossing film in North America.[10] The film was followed by Return of the Jedi, which was released in 1983.</desc>
+   <desc>In 2010, the film was selected for preservation in the United States' National Film Registry by the Library of Congress for being "culturally, historically, and aesthetically significant."</desc>
+</film>

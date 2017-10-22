@@ -1,0 +1,16 @@
+<people>
+   <name>Bossk</name>
+   <height>190</height>
+   <mass>113</mass>
+   <hair_color>none</hair_color>
+   <skin_color>green</skin_color>
+   <eye_color>red</eye_color>
+   <birth_year>53BBY</birth_year>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/29/</homeworld>
+   <films>http://swapi.co/api/films/2/</films>
+   <species>http://swapi.co/api/species/7/</species>
+   <created>2014-12-15T12:53:49.297000Z</created>
+   <edited>2014-12-20T21:17:50.355000Z</edited>
+   <url>http://swapi.co/api/people/24/</url>
+</people>

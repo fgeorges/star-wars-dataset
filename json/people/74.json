@@ -1,0 +1,20 @@
+{ "people": {
+   "name": "Jocasta Nu",
+   "height": "167",
+   "hair_color": "white",
+   "skin_color": "fair",
+   "eye_color": "blue",
+   "gender": "female",
+   "homeworld": "http://swapi.co/api/planets/9/",
+   "films": [
+      "http://swapi.co/api/films/5/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/1/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-20T17:32:51.996000Z",
+   "edited": "2014-12-20T21:17:50.476000Z",
+   "url": "http://swapi.co/api/people/74/"
+}}

@@ -1,0 +1,15 @@
+<people>
+   <name>Dud Bolt</name>
+   <height>94</height>
+   <mass>45</mass>
+   <hair_color>none</hair_color>
+   <skin_color>blue, grey</skin_color>
+   <eye_color>yellow</eye_color>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/39/</homeworld>
+   <films>http://swapi.co/api/films/4/</films>
+   <species>http://swapi.co/api/species/17/</species>
+   <created>2014-12-20T09:57:31.858000Z</created>
+   <edited>2014-12-20T21:17:50.414000Z</edited>
+   <url>http://swapi.co/api/people/48/</url>
+</people>

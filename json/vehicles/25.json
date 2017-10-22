@@ -1,0 +1,20 @@
+{ "vehicle": {
+   "name": "Bantha-II cargo skiff",
+   "model": "Bantha-II",
+   "manufacturer": "Ubrikkian Industries",
+   "cost_in_credits": "8000",
+   "length": "9.5",
+   "max_atmosphering_speed": "250",
+   "crew": "5",
+   "passengers": "16",
+   "cargo_capacity": "135000",
+   "consumables": "1 day",
+   "vehicle_class": "repulsorcraft cargo skiff",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/3/"
+   ],
+   "created": "2014-12-18T10:48:03.208000Z",
+   "edited": "2014-12-22T18:21:15.845988Z",
+   "url": "http://swapi.co/api/vehicles/25/"
+}}

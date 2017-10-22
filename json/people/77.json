@@ -1,0 +1,20 @@
+{ "people": {
+   "name": "San Hill",
+   "height": "191",
+   "hair_color": "none",
+   "skin_color": "grey",
+   "eye_color": "gold",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/57/",
+   "films": [
+      "http://swapi.co/api/films/5/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/34/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-20T17:58:17.049000Z",
+   "edited": "2014-12-20T21:17:50.484000Z",
+   "url": "http://swapi.co/api/people/77/"
+}}

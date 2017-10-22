@@ -1,0 +1,26 @@
+<starship>
+   <name>X-wing</name>
+   <model>T-65 X-wing</model>
+   <manufacturer>Incom Corporation</manufacturer>
+   <cost_in_credits>149999</cost_in_credits>
+   <length>12.5</length>
+   <max_atmosphering_speed>1050</max_atmosphering_speed>
+   <crew>1</crew>
+   <passengers>0</passengers>
+   <cargo_capacity>110</cargo_capacity>
+   <consumables>1 week</consumables>
+   <hyperdrive_rating>1.0</hyperdrive_rating>
+   <MGLT>100</MGLT>
+   <starship_class>Starfighter</starship_class>
+   <pilots>http://swapi.co/api/people/1/</pilots>
+   <pilots>http://swapi.co/api/people/9/</pilots>
+   <pilots>http://swapi.co/api/people/18/</pilots>
+   <pilots>http://swapi.co/api/people/19/</pilots>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/2/</films>
+   <films>http://swapi.co/api/films/1/</films>
+   <created>2014-12-12T11:19:05.340000Z</created>
+   <edited>2014-12-22T17:35:44.491233Z</edited>
+   <url>http://swapi.co/api/starships/12/</url>
+   <desc>The X-wing starfighter is a fictional starfighter from the original and sequel Star Wars trilogies and the Star Wars expanded universe. They are depicted as the primary interceptor and dogfighter of the Rebel Alliance, the New Republic and the Resistance. The craft has been merchandised as a variety of toys, models licensed for use in games, novels and comics.</desc>
+</starship>

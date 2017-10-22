@@ -1,0 +1,14 @@
+<planet>
+   <name>Trandosha</name>
+   <rotation_period>25</rotation_period>
+   <orbital_period>371</orbital_period>
+   <diameter>0</diameter>
+   <climate>arid</climate>
+   <gravity>0.62 standard</gravity>
+   <terrain>mountains, seas, grasslands, deserts</terrain>
+   <population>42000000</population>
+   <residents>http://swapi.co/api/people/24/</residents>
+   <created>2014-12-15T12:53:47.695000Z</created>
+   <edited>2014-12-20T20:58:18.468000Z</edited>
+   <url>http://swapi.co/api/planets/29/</url>
+</planet>

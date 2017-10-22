@@ -1,0 +1,29 @@
+{ "people": {
+   "name": "Grievous",
+   "height": "216",
+   "mass": "159",
+   "hair_color": "none",
+   "skin_color": "brown, white",
+   "eye_color": "green, yellow",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/59/",
+   "films": [
+      "http://swapi.co/api/films/6/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/36/"
+   ],
+   "vehicles": [
+      "http://swapi.co/api/vehicles/60/"
+   ],
+   "starships": [
+      "http://swapi.co/api/starships/74/"
+   ],
+   "created": "2014-12-20T19:43:53.348000Z",
+   "edited": "2014-12-20T21:17:50.488000Z",
+   "url": "http://swapi.co/api/people/79/",
+   "desc": [
+      "General Grievous is a fictional character in the Star Wars franchise. A former Kaleesh warlord named Qymaen jai Sheelal, he is the Supreme Commander of the Confederacy of Independent Systems during the Clone Wars against the Galactic Republic and is trained in all lightsaber combat forms to ensure the Jedi's destruction.",
+      "The character was originally introduced in 2004 in the animated series Star Wars: Clone Wars, before being part of the film Star Wars: Episode III – Revenge of the Sith."
+   ]
+}}

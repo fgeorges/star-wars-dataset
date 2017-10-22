@@ -1,0 +1,16 @@
+<species>
+   <name>Dug</name>
+   <classification>mammal</classification>
+   <designation>sentient</designation>
+   <average_height>100</average_height>
+   <skin_colors>brown, purple, grey, red</skin_colors>
+   <hair_colors>none</hair_colors>
+   <eye_colors>yellow, blue</eye_colors>
+   <homeworld>http://swapi.co/api/planets/35/</homeworld>
+   <language>Dugese</language>
+   <people>http://swapi.co/api/people/41/</people>
+   <films>http://swapi.co/api/films/4/</films>
+   <created>2014-12-19T17:53:11.214000Z</created>
+   <edited>2014-12-20T21:36:42.167000Z</edited>
+   <url>http://swapi.co/api/species/14/</url>
+</species>

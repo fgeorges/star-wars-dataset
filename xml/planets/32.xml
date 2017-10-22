@@ -1,0 +1,15 @@
+<planet>
+   <name>Chandrila</name>
+   <rotation_period>20</rotation_period>
+   <orbital_period>368</orbital_period>
+   <diameter>13500</diameter>
+   <climate>temperate</climate>
+   <gravity>1</gravity>
+   <terrain>plains, forests</terrain>
+   <surface_water>40</surface_water>
+   <population>1200000000</population>
+   <residents>http://swapi.co/api/people/28/</residents>
+   <created>2014-12-18T11:11:51.872000Z</created>
+   <edited>2014-12-20T20:58:18.472000Z</edited>
+   <url>http://swapi.co/api/planets/32/</url>
+</planet>

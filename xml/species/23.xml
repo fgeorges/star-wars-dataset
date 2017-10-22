@@ -1,0 +1,14 @@
+<species>
+   <name>Tholothian</name>
+   <classification>mammal</classification>
+   <designation>sentient</designation>
+   <skin_colors>dark</skin_colors>
+   <eye_colors>blue, indigo</eye_colors>
+   <homeworld>http://swapi.co/api/planets/46/</homeworld>
+   <people>http://swapi.co/api/people/55/</people>
+   <films>http://swapi.co/api/films/4/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T10:29:13.798000Z</created>
+   <edited>2014-12-20T21:36:42.186000Z</edited>
+   <url>http://swapi.co/api/species/23/</url>
+</species>

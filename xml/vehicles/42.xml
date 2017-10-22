@@ -1,0 +1,17 @@
+<vehicle>
+   <name>Sith speeder</name>
+   <model>FC-20 speeder bike</model>
+   <manufacturer>Razalon</manufacturer>
+   <cost_in_credits>4000</cost_in_credits>
+   <length>1.5</length>
+   <max_atmosphering_speed>180</max_atmosphering_speed>
+   <crew>1</crew>
+   <passengers>0</passengers>
+   <cargo_capacity>2</cargo_capacity>
+   <vehicle_class>speeder</vehicle_class>
+   <pilots>http://swapi.co/api/people/44/</pilots>
+   <films>http://swapi.co/api/films/4/</films>
+   <created>2014-12-20T10:09:56.095000Z</created>
+   <edited>2014-12-22T18:21:16.095041Z</edited>
+   <url>http://swapi.co/api/vehicles/42/</url>
+</vehicle>

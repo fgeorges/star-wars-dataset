@@ -1,0 +1,21 @@
+{ "species": {
+   "name": "Pau'an",
+   "classification": "mammal",
+   "designation": "sentient",
+   "average_height": "190",
+   "skin_colors": "grey",
+   "hair_colors": "none",
+   "eye_colors": "black",
+   "average_lifespan": "700",
+   "homeworld": "http://swapi.co/api/planets/12/",
+   "language": "Utapese",
+   "people": [
+      "http://swapi.co/api/people/83/"
+   ],
+   "films": [
+      "http://swapi.co/api/films/6/"
+   ],
+   "created": "2014-12-20T20:35:06.777000Z",
+   "edited": "2014-12-20T21:36:42.212000Z",
+   "url": "http://swapi.co/api/species/37/"
+}}

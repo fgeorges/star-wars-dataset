@@ -1,0 +1,21 @@
+{ "people": {
+   "name": "Tion Medon",
+   "height": "206",
+   "mass": "80",
+   "hair_color": "none",
+   "skin_color": "grey",
+   "eye_color": "black",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/12/",
+   "films": [
+      "http://swapi.co/api/films/6/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/37/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-20T20:35:04.260000Z",
+   "edited": "2014-12-20T21:17:50.498000Z",
+   "url": "http://swapi.co/api/people/83/"
+}}

@@ -1,0 +1,17 @@
+<vehicle>
+   <name>Vulture Droid</name>
+   <model>Vulture-class droid starfighter</model>
+   <manufacturer>Haor Chall Engineering, Baktoid Armor Workshop</manufacturer>
+   <length>3.5</length>
+   <max_atmosphering_speed>1200</max_atmosphering_speed>
+   <crew>0</crew>
+   <passengers>0</passengers>
+   <cargo_capacity>0</cargo_capacity>
+   <consumables>none</consumables>
+   <vehicle_class>starfighter</vehicle_class>
+   <films>http://swapi.co/api/films/4/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-19T17:09:53.584000Z</created>
+   <edited>2014-12-22T18:21:15.953870Z</edited>
+   <url>http://swapi.co/api/vehicles/33/</url>
+</vehicle>

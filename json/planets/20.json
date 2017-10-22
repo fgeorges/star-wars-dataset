@@ -1,0 +1,14 @@
+{ "planet": {
+   "name": "Stewjon",
+   "diameter": "0",
+   "climate": "temperate",
+   "gravity": "1 standard",
+   "terrain": "grass",
+   "residents": [
+      "http://swapi.co/api/people/10/"
+   ],
+   "films": [],
+   "created": "2014-12-10T16:16:26.566000Z",
+   "edited": "2014-12-20T20:58:18.452000Z",
+   "url": "http://swapi.co/api/planets/20/"
+}}

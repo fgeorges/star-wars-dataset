@@ -1,0 +1,21 @@
+{ "species": {
+   "name": "Kaleesh",
+   "classification": "reptile",
+   "designation": "sentient",
+   "average_height": "170",
+   "skin_colors": "brown, orange, tan",
+   "hair_colors": "none",
+   "eye_colors": "yellow",
+   "average_lifespan": "80",
+   "homeworld": "http://swapi.co/api/planets/59/",
+   "language": "Kaleesh",
+   "people": [
+      "http://swapi.co/api/people/79/"
+   ],
+   "films": [
+      "http://swapi.co/api/films/6/"
+   ],
+   "created": "2014-12-20T19:45:42.537000Z",
+   "edited": "2014-12-20T21:36:42.210000Z",
+   "url": "http://swapi.co/api/species/36/"
+}}

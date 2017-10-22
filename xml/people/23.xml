@@ -1,0 +1,16 @@
+<people>
+   <name>IG-88</name>
+   <height>200</height>
+   <mass>140</mass>
+   <hair_color>none</hair_color>
+   <skin_color>metal</skin_color>
+   <eye_color>red</eye_color>
+   <birth_year>15BBY</birth_year>
+   <gender>none</gender>
+   <homeworld>http://swapi.co/api/planets/28/</homeworld>
+   <films>http://swapi.co/api/films/2/</films>
+   <species>http://swapi.co/api/species/2/</species>
+   <created>2014-12-15T12:51:10.076000Z</created>
+   <edited>2014-12-20T21:17:50.351000Z</edited>
+   <url>http://swapi.co/api/people/23/</url>
+</people>

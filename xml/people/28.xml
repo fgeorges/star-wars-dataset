@@ -1,0 +1,15 @@
+<people>
+   <name>Mon Mothma</name>
+   <height>150</height>
+   <hair_color>auburn</hair_color>
+   <skin_color>fair</skin_color>
+   <eye_color>blue</eye_color>
+   <birth_year>48BBY</birth_year>
+   <gender>female</gender>
+   <homeworld>http://swapi.co/api/planets/32/</homeworld>
+   <films>http://swapi.co/api/films/3/</films>
+   <species>http://swapi.co/api/species/1/</species>
+   <created>2014-12-18T11:12:38.895000Z</created>
+   <edited>2014-12-20T21:17:50.364000Z</edited>
+   <url>http://swapi.co/api/people/28/</url>
+</people>

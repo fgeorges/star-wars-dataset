@@ -1,0 +1,18 @@
+<starship>
+   <name>Theta-class T-2c shuttle</name>
+   <model>Theta-class T-2c shuttle</model>
+   <manufacturer>Cygnus Spaceworks</manufacturer>
+   <cost_in_credits>1000000</cost_in_credits>
+   <length>18.5</length>
+   <max_atmosphering_speed>2000</max_atmosphering_speed>
+   <crew>5</crew>
+   <passengers>16</passengers>
+   <cargo_capacity>50000</cargo_capacity>
+   <consumables>56 days</consumables>
+   <hyperdrive_rating>1.0</hyperdrive_rating>
+   <starship_class>transport</starship_class>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T19:48:40.409000Z</created>
+   <edited>2014-12-22T17:35:45.208584Z</edited>
+   <url>http://swapi.co/api/starships/61/</url>
+</starship>

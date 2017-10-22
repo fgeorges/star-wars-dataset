@@ -1,0 +1,18 @@
+<vehicle>
+   <name>Snowspeeder</name>
+   <model>t-47 airspeeder</model>
+   <manufacturer>Incom corporation</manufacturer>
+   <length>4.5</length>
+   <max_atmosphering_speed>650</max_atmosphering_speed>
+   <crew>2</crew>
+   <passengers>0</passengers>
+   <cargo_capacity>10</cargo_capacity>
+   <consumables>none</consumables>
+   <vehicle_class>airspeeder</vehicle_class>
+   <pilots>http://swapi.co/api/people/1/</pilots>
+   <pilots>http://swapi.co/api/people/18/</pilots>
+   <films>http://swapi.co/api/films/2/</films>
+   <created>2014-12-15T12:22:12Z</created>
+   <edited>2014-12-22T18:21:15.623033Z</edited>
+   <url>http://swapi.co/api/vehicles/14/</url>
+</vehicle>

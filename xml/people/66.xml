@@ -1,0 +1,14 @@
+<people>
+   <name>Dormé</name>
+   <height>165</height>
+   <hair_color>brown</hair_color>
+   <skin_color>light</skin_color>
+   <eye_color>brown</eye_color>
+   <gender>female</gender>
+   <homeworld>http://swapi.co/api/planets/8/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <species>http://swapi.co/api/species/1/</species>
+   <created>2014-12-20T16:49:14.640000Z</created>
+   <edited>2014-12-20T21:17:50.460000Z</edited>
+   <url>http://swapi.co/api/people/66/</url>
+</people>

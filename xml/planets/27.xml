@@ -1,0 +1,15 @@
+<planet>
+   <name>Ord Mantell</name>
+   <rotation_period>26</rotation_period>
+   <orbital_period>334</orbital_period>
+   <diameter>14050</diameter>
+   <climate>temperate</climate>
+   <gravity>1 standard</gravity>
+   <terrain>plains, seas, mesas</terrain>
+   <surface_water>10</surface_water>
+   <population>4000000000</population>
+   <films>http://swapi.co/api/films/2/</films>
+   <created>2014-12-15T12:23:41.661000Z</created>
+   <edited>2014-12-20T20:58:18.464000Z</edited>
+   <url>http://swapi.co/api/planets/27/</url>
+</planet>

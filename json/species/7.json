@@ -1,0 +1,20 @@
+{ "species": {
+   "name": "Trandoshan",
+   "classification": "reptile",
+   "designation": "sentient",
+   "average_height": "200",
+   "skin_colors": "brown, green",
+   "hair_colors": "none",
+   "eye_colors": "yellow, orange",
+   "homeworld": "http://swapi.co/api/planets/29/",
+   "language": "Dosh",
+   "people": [
+      "http://swapi.co/api/people/24/"
+   ],
+   "films": [
+      "http://swapi.co/api/films/2/"
+   ],
+   "created": "2014-12-15T13:07:47.704000Z",
+   "edited": "2014-12-20T21:36:42.151000Z",
+   "url": "http://swapi.co/api/species/7/"
+}}

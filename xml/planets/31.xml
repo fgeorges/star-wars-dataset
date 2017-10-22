@@ -1,0 +1,15 @@
+<planet>
+   <name>Mon Cala</name>
+   <rotation_period>21</rotation_period>
+   <orbital_period>398</orbital_period>
+   <diameter>11030</diameter>
+   <climate>temperate</climate>
+   <gravity>1</gravity>
+   <terrain>oceans, reefs, islands</terrain>
+   <surface_water>100</surface_water>
+   <population>27000000000</population>
+   <residents>http://swapi.co/api/people/27/</residents>
+   <created>2014-12-18T11:07:01.792000Z</created>
+   <edited>2014-12-20T20:58:18.471000Z</edited>
+   <url>http://swapi.co/api/planets/31/</url>
+</planet>

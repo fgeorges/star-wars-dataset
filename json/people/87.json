@@ -1,0 +1,22 @@
+{ "people": {
+   "name": "BB8",
+   "hair_color": "none",
+   "skin_color": "none",
+   "eye_color": "black",
+   "gender": "none",
+   "homeworld": "http://swapi.co/api/planets/28/",
+   "films": [
+      "http://swapi.co/api/films/7/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/2/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2015-04-17T06:57:38.061346Z",
+   "edited": "2015-04-17T06:57:38.061453Z",
+   "url": "http://swapi.co/api/people/87/",
+   "desc": [
+      "BB-8 (or Beebee-Ate) is a droid character in the Star Wars franchise, first appearing in the 2015 film Star Wars: The Force Awakens. Spherical with a free-moving domed head, BB-8 is portrayed by both a rod puppet and a remote-controlled robotic unit."
+   ]
+}}

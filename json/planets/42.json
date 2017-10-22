@@ -1,0 +1,17 @@
+{ "planet": {
+   "name": "Haruun Kal",
+   "rotation_period": "25",
+   "orbital_period": "383",
+   "diameter": "10120",
+   "climate": "temperate",
+   "gravity": "0.98",
+   "terrain": "toxic cloudsea, plateaus, volcanoes",
+   "population": "705300",
+   "residents": [
+      "http://swapi.co/api/people/51/"
+   ],
+   "films": [],
+   "created": "2014-12-20T10:12:28.980000Z",
+   "edited": "2014-12-20T20:58:18.491000Z",
+   "url": "http://swapi.co/api/planets/42/"
+}}

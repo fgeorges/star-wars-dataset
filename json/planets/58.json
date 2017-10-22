@@ -1,0 +1,13 @@
+{ "planet": {
+   "name": "Shili",
+   "climate": "temperate",
+   "gravity": "1",
+   "terrain": "cities, savannahs, seas, plains",
+   "residents": [
+      "http://swapi.co/api/people/78/"
+   ],
+   "films": [],
+   "created": "2014-12-20T18:43:14.049000Z",
+   "edited": "2014-12-20T20:58:18.521000Z",
+   "url": "http://swapi.co/api/planets/58/"
+}}

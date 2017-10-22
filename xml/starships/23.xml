@@ -1,0 +1,20 @@
+<starship>
+   <name>EF76 Nebulon-B escort frigate</name>
+   <model>EF76 Nebulon-B escort frigate</model>
+   <manufacturer>Kuat Drive Yards</manufacturer>
+   <cost_in_credits>8500000</cost_in_credits>
+   <length>300</length>
+   <max_atmosphering_speed>800</max_atmosphering_speed>
+   <crew>854</crew>
+   <passengers>75</passengers>
+   <cargo_capacity>6000000</cargo_capacity>
+   <consumables>2 years</consumables>
+   <hyperdrive_rating>2.0</hyperdrive_rating>
+   <MGLT>40</MGLT>
+   <starship_class>Escort ship</starship_class>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/2/</films>
+   <created>2014-12-15T13:06:30.813000Z</created>
+   <edited>2014-12-22T17:35:44.848329Z</edited>
+   <url>http://swapi.co/api/starships/23/</url>
+</starship>

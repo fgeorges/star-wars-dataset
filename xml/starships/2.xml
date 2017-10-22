@@ -1,0 +1,21 @@
+<starship>
+   <name>CR90 corvette</name>
+   <model>CR90 corvette</model>
+   <manufacturer>Corellian Engineering Corporation</manufacturer>
+   <cost_in_credits>3500000</cost_in_credits>
+   <length>150</length>
+   <max_atmosphering_speed>950</max_atmosphering_speed>
+   <crew>165</crew>
+   <passengers>600</passengers>
+   <cargo_capacity>3000000</cargo_capacity>
+   <consumables>1 year</consumables>
+   <hyperdrive_rating>2.0</hyperdrive_rating>
+   <MGLT>60</MGLT>
+   <starship_class>corvette</starship_class>
+   <films>http://swapi.co/api/films/6/</films>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/1/</films>
+   <created>2014-12-10T14:20:33.369000Z</created>
+   <edited>2014-12-22T17:35:45.408368Z</edited>
+   <url>http://swapi.co/api/starships/2/</url>
+</starship>

@@ -1,0 +1,21 @@
+{ "people": {
+   "name": "Mas Amedda",
+   "height": "196",
+   "hair_color": "none",
+   "skin_color": "blue",
+   "eye_color": "blue",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/50/",
+   "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/4/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/27/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-20T10:53:26.457000Z",
+   "edited": "2014-12-20T21:17:50.442000Z",
+   "url": "http://swapi.co/api/people/59/"
+}}

@@ -1,0 +1,29 @@
+{ "people": {
+   "name": "C-3PO",
+   "height": "167",
+   "mass": "75",
+   "skin_color": "gold",
+   "eye_color": "yellow",
+   "birth_year": "112BBY",
+   "homeworld": "http://swapi.co/api/planets/1/",
+   "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/4/",
+      "http://swapi.co/api/films/6/",
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/",
+      "http://swapi.co/api/films/1/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/2/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-10T15:10:51.357000Z",
+   "edited": "2014-12-20T21:17:50.309000Z",
+   "url": "http://swapi.co/api/people/2/",
+   "desc": [
+      "C-3PO (/siːˈθriːpi.oʊ/) or See-Threepio is a humanoid robot character from the Star Wars franchise who appears in the original trilogy, the prequel trilogy and the sequel trilogy. Built by Anakin Skywalker, C-3PO was designed as a protocol droid intended to assist in etiquette, customs, and translation, boasting that he is \"fluent in over six million forms of communication\". Along with his astromech droid counterpart and friend R2-D2, C-3PO provides comic relief within the narrative structure of the films, and serves as a foil. Anthony Daniels has portrayed the character in all nine Star Wars cinematic films released to date, including Rogue One and the animated The Clone Wars; C-3PO and R2-D2 are the only characters to appear in every film.",
+      "Despite his oblivious nature, C-3PO has played a pivotal role in the Galaxy's history, appearing under the service of Shmi Skywalker, the Lars homestead, Padmé Amidala, Raymus Antilles, Luke Skywalker, and Leia Organa. In the majority of depictions, C-3PO's physical appearance is primarily a polished gold plating, although his appearance varies throughout the films; including the absence of metal coverings in The Phantom Menace, a dull copper plating in Attack of the Clones, a silver lower right leg introduced in A New Hope, and a red left arm in The Force Awakens.[1] C-3PO also appears frequently in the Star Wars Canon and Star Wars Legends continuities of novels, comic books, and video games, and was the protagonist in the ABC television show Droids."
+   ]
+}}

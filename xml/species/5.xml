@@ -1,0 +1,18 @@
+<species>
+   <name>Hutt</name>
+   <classification>gastropod</classification>
+   <designation>sentient</designation>
+   <average_height>300</average_height>
+   <skin_colors>green, brown, tan</skin_colors>
+   <eye_colors>yellow, red</eye_colors>
+   <average_lifespan>1000</average_lifespan>
+   <homeworld>http://swapi.co/api/planets/24/</homeworld>
+   <language>Huttese</language>
+   <people>http://swapi.co/api/people/16/</people>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/1/</films>
+   <created>2014-12-10T17:12:50.410000Z</created>
+   <edited>2014-12-20T21:36:42.146000Z</edited>
+   <url>http://swapi.co/api/species/5/</url>
+   <desc>The Hutts are a fictional alien race in the Star Wars universe. They appear in The Phantom Menace, Return of the Jedi and The Clone Wars, as well as the special edition release of A New Hope. They also appear in various Star Wars games, including those based on the movies, and the Knights of the Old Republic series. None of these are very friendly and all are criminally involved.[1] In the comic book series Tales of the Jedi: Golden Age of the Sith and Tales of the Jedi: The Fall of the Sith Empire, however, there is a Hutt character named Aarrba who is sympathetic to the main characters, Gav and Jori Daragon.</desc>
+</species>

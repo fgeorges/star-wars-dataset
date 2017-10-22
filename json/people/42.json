@@ -1,0 +1,19 @@
+{ "people": {
+   "name": "Quarsh Panaka",
+   "height": "183",
+   "hair_color": "black",
+   "skin_color": "dark",
+   "eye_color": "brown",
+   "birth_year": "62BBY",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/8/",
+   "films": [
+      "http://swapi.co/api/films/4/"
+   ],
+   "species": [],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-19T17:55:43.348000Z",
+   "edited": "2014-12-20T21:17:50.399000Z",
+   "url": "http://swapi.co/api/people/42/"
+}}

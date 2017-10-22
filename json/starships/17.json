@@ -1,0 +1,22 @@
+{ "starship": {
+   "name": "Rebel transport",
+   "model": "GR-75 medium transport",
+   "manufacturer": "Gallofree Yards, Inc.",
+   "length": "90",
+   "max_atmosphering_speed": "650",
+   "crew": "6",
+   "passengers": "90",
+   "cargo_capacity": "19000000",
+   "consumables": "6 months",
+   "hyperdrive_rating": "4.0",
+   "MGLT": "20",
+   "starship_class": "Medium transport",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/"
+   ],
+   "created": "2014-12-15T12:34:52.264000Z",
+   "edited": "2014-12-22T17:35:44.680838Z",
+   "url": "http://swapi.co/api/starships/17/"
+}}

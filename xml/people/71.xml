@@ -1,0 +1,15 @@
+<people>
+   <name>Dexter Jettster</name>
+   <height>198</height>
+   <mass>102</mass>
+   <hair_color>none</hair_color>
+   <skin_color>brown</skin_color>
+   <eye_color>yellow</eye_color>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/55/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <species>http://swapi.co/api/species/31/</species>
+   <created>2014-12-20T17:28:27.248000Z</created>
+   <edited>2014-12-20T21:17:50.470000Z</edited>
+   <url>http://swapi.co/api/people/71/</url>
+</people>

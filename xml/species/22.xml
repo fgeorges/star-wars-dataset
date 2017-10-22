@@ -1,0 +1,17 @@
+<species>
+   <name>Zabrak</name>
+   <classification>mammal</classification>
+   <designation>sentient</designation>
+   <average_height>180</average_height>
+   <skin_colors>pale, brown, red, orange, yellow</skin_colors>
+   <hair_colors>black</hair_colors>
+   <eye_colors>brown, orange</eye_colors>
+   <homeworld>http://swapi.co/api/planets/45/</homeworld>
+   <language>Zabraki</language>
+   <people>http://swapi.co/api/people/44/</people>
+   <people>http://swapi.co/api/people/54/</people>
+   <films>http://swapi.co/api/films/4/</films>
+   <created>2014-12-20T10:26:59.894000Z</created>
+   <edited>2014-12-20T21:36:42.183000Z</edited>
+   <url>http://swapi.co/api/species/22/</url>
+</species>

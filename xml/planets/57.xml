@@ -1,0 +1,15 @@
+<planet>
+   <name>Muunilinst</name>
+   <rotation_period>28</rotation_period>
+   <orbital_period>412</orbital_period>
+   <diameter>13800</diameter>
+   <climate>temperate</climate>
+   <gravity>1</gravity>
+   <terrain>plains, forests, hills, mountains</terrain>
+   <surface_water>25</surface_water>
+   <population>5000000000</population>
+   <residents>http://swapi.co/api/people/77/</residents>
+   <created>2014-12-20T17:57:47.420000Z</created>
+   <edited>2014-12-20T20:58:18.519000Z</edited>
+   <url>http://swapi.co/api/planets/57/</url>
+</planet>

@@ -1,0 +1,18 @@
+<vehicle>
+   <name>Zephyr-G swoop bike</name>
+   <model>Zephyr-G swoop bike</model>
+   <manufacturer>Mobquet Swoops and Speeders</manufacturer>
+   <cost_in_credits>5750</cost_in_credits>
+   <length>3.68</length>
+   <max_atmosphering_speed>350</max_atmosphering_speed>
+   <crew>1</crew>
+   <passengers>1</passengers>
+   <cargo_capacity>200</cargo_capacity>
+   <consumables>none</consumables>
+   <vehicle_class>repulsorcraft</vehicle_class>
+   <pilots>http://swapi.co/api/people/11/</pilots>
+   <films>http://swapi.co/api/films/5/</films>
+   <created>2014-12-20T16:24:16.026000Z</created>
+   <edited>2014-12-22T18:21:16.117652Z</edited>
+   <url>http://swapi.co/api/vehicles/44/</url>
+</vehicle>

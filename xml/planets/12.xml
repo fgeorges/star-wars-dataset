@@ -1,0 +1,16 @@
+<planet>
+   <name>Utapau</name>
+   <rotation_period>27</rotation_period>
+   <orbital_period>351</orbital_period>
+   <diameter>12900</diameter>
+   <climate>temperate, arid, windy</climate>
+   <gravity>1 standard</gravity>
+   <terrain>scrublands, savanna, canyons, sinkholes</terrain>
+   <surface_water>0.9</surface_water>
+   <population>95000000</population>
+   <residents>http://swapi.co/api/people/83/</residents>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-10T12:49:01.491000Z</created>
+   <edited>2014-12-20T20:58:18.439000Z</edited>
+   <url>http://swapi.co/api/planets/12/</url>
+</planet>

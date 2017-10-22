@@ -1,0 +1,15 @@
+<vehicle>
+   <name>XJ-6 airspeeder</name>
+   <model>XJ-6 airspeeder</model>
+   <manufacturer>Narglatch AirTech prefabricated kit</manufacturer>
+   <length>6.23</length>
+   <max_atmosphering_speed>720</max_atmosphering_speed>
+   <crew>1</crew>
+   <passengers>1</passengers>
+   <vehicle_class>airspeeder</vehicle_class>
+   <pilots>http://swapi.co/api/people/11/</pilots>
+   <films>http://swapi.co/api/films/5/</films>
+   <created>2014-12-20T17:19:19.991000Z</created>
+   <edited>2014-12-22T18:21:16.150194Z</edited>
+   <url>http://swapi.co/api/vehicles/46/</url>
+</vehicle>

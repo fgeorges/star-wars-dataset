@@ -1,0 +1,15 @@
+<species>
+   <name>Vulptereen</name>
+   <designation>sentient</designation>
+   <average_height>100</average_height>
+   <skin_colors>grey</skin_colors>
+   <hair_colors>none</hair_colors>
+   <eye_colors>yellow</eye_colors>
+   <homeworld>http://swapi.co/api/planets/39/</homeworld>
+   <language>vulpterish</language>
+   <people>http://swapi.co/api/people/48/</people>
+   <films>http://swapi.co/api/films/4/</films>
+   <created>2014-12-20T09:57:33.128000Z</created>
+   <edited>2014-12-20T21:36:42.173000Z</edited>
+   <url>http://swapi.co/api/species/17/</url>
+</species>

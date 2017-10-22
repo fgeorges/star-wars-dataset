@@ -1,0 +1,100 @@
+{ "film": {
+   "title": "Return of the Jedi",
+   "episode_id": 6,
+   "opening_crawl": "Luke Skywalker has returned to
+his home planet of Tatooine in
+an attempt to rescue his
+friend Han Solo from the
+clutches of the vile gangster
+Jabba the Hutt.
+
+Little does Luke know that the
+GALACTIC EMPIRE has secretly
+begun construction on a new
+armored space station even
+more powerful than the first
+dreaded Death Star.
+
+When completed, this ultimate
+weapon will spell certain doom
+for the small band of rebels
+struggling to restore freedom
+to the galaxy...",
+   "director": "Richard Marquand",
+   "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+   "release_date": "1983-05-25",
+   "characters": [
+      "http://swapi.co/api/people/1/",
+      "http://swapi.co/api/people/2/",
+      "http://swapi.co/api/people/3/",
+      "http://swapi.co/api/people/4/",
+      "http://swapi.co/api/people/5/",
+      "http://swapi.co/api/people/10/",
+      "http://swapi.co/api/people/13/",
+      "http://swapi.co/api/people/14/",
+      "http://swapi.co/api/people/16/",
+      "http://swapi.co/api/people/18/",
+      "http://swapi.co/api/people/20/",
+      "http://swapi.co/api/people/21/",
+      "http://swapi.co/api/people/22/",
+      "http://swapi.co/api/people/25/",
+      "http://swapi.co/api/people/27/",
+      "http://swapi.co/api/people/28/",
+      "http://swapi.co/api/people/29/",
+      "http://swapi.co/api/people/30/",
+      "http://swapi.co/api/people/31/",
+      "http://swapi.co/api/people/45/"
+   ],
+   "planets": [
+      "http://swapi.co/api/planets/5/",
+      "http://swapi.co/api/planets/7/",
+      "http://swapi.co/api/planets/8/",
+      "http://swapi.co/api/planets/9/",
+      "http://swapi.co/api/planets/1/"
+   ],
+   "starships": [
+      "http://swapi.co/api/starships/10/",
+      "http://swapi.co/api/starships/11/",
+      "http://swapi.co/api/starships/12/",
+      "http://swapi.co/api/starships/15/",
+      "http://swapi.co/api/starships/22/",
+      "http://swapi.co/api/starships/23/",
+      "http://swapi.co/api/starships/27/",
+      "http://swapi.co/api/starships/28/",
+      "http://swapi.co/api/starships/29/",
+      "http://swapi.co/api/starships/3/",
+      "http://swapi.co/api/starships/17/",
+      "http://swapi.co/api/starships/2/"
+   ],
+   "vehicles": [
+      "http://swapi.co/api/vehicles/8/",
+      "http://swapi.co/api/vehicles/16/",
+      "http://swapi.co/api/vehicles/18/",
+      "http://swapi.co/api/vehicles/19/",
+      "http://swapi.co/api/vehicles/24/",
+      "http://swapi.co/api/vehicles/25/",
+      "http://swapi.co/api/vehicles/26/",
+      "http://swapi.co/api/vehicles/30/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/5/",
+      "http://swapi.co/api/species/6/",
+      "http://swapi.co/api/species/8/",
+      "http://swapi.co/api/species/9/",
+      "http://swapi.co/api/species/10/",
+      "http://swapi.co/api/species/15/",
+      "http://swapi.co/api/species/3/",
+      "http://swapi.co/api/species/2/",
+      "http://swapi.co/api/species/1/"
+   ],
+   "created": "2014-12-18T10:39:33.255000Z",
+   "edited": "2015-04-11T09:46:05.220365Z",
+   "url": "http://swapi.co/api/films/3/",
+   "desc": [
+      "Return of the Jedi (also known as Star Wars: Episode VI – Return of the Jedi) is a 1983 American epic space opera film directed by Richard Marquand. The screenplay by Lawrence Kasdan and George Lucas was from a story by Lucas, who was also the executive producer. It is the third installment in the original Star Wars trilogy and the first film to use THX technology. The film is set one year after The Empire Strikes Back[9] and was produced by Howard Kazanjian for Lucasfilm Ltd. The film stars Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse, Kenny Baker, Peter Mayhew and Frank Oz.",
+      "The Galactic Empire, under the direction of the ruthless Emperor, is constructing a second Death Star in order to crush the Rebel Alliance once and for all. Since the Emperor plans to personally oversee the final stages of its construction, the Rebel Fleet launches a full-scale attack on the Death Star in order to prevent its completion and kill the Emperor, effectively bringing an end to the Empire's hold over the galaxy. Meanwhile, Luke Skywalker, a Jedi apprentice, struggles to bring his father Darth Vader back to the Light Side of the Force.",
+      "David Lynch and David Cronenberg were considered to direct the project before Marquand signed on as director. The production team relied on Lucas' storyboards during pre-production. While writing the shooting script, Lucas, Kasdan, Marquand, and producer Howard Kazanjian spent two weeks in conference discussing ideas to construct it. Kazanjian's schedule pushed shooting to begin a few weeks early to allow Industrial Light & Magic more time to work on the film's effects in post-production. Filming took place in England, California, and Arizona from January to May 1982 (1982-05). Strict secrecy surrounded the production and the film used the working title Blue Harvest to prevent price gouging.",
+      "The film was released in theaters on May 25, 1983, six years to the day after the release of the first film, receiving mostly positive reviews. The film grossed between $475 million[6][7] and $572 million worldwide.[8] Several home video and theatrical releases and revisions to the film followed over the next 20 years. Star Wars continued with The Phantom Menace as part of the film series' prequel trilogy.",
+      "A sequel, The Force Awakens, was released on December 18, 2015, as part of the new sequel trilogy.[10]"
+   ]
+}}

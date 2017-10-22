@@ -1,0 +1,16 @@
+<species>
+   <name>Trandoshan</name>
+   <classification>reptile</classification>
+   <designation>sentient</designation>
+   <average_height>200</average_height>
+   <skin_colors>brown, green</skin_colors>
+   <hair_colors>none</hair_colors>
+   <eye_colors>yellow, orange</eye_colors>
+   <homeworld>http://swapi.co/api/planets/29/</homeworld>
+   <language>Dosh</language>
+   <people>http://swapi.co/api/people/24/</people>
+   <films>http://swapi.co/api/films/2/</films>
+   <created>2014-12-15T13:07:47.704000Z</created>
+   <edited>2014-12-20T21:36:42.151000Z</edited>
+   <url>http://swapi.co/api/species/7/</url>
+</species>

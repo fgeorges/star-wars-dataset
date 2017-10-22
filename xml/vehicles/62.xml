@@ -1,0 +1,10 @@
+<vehicle>
+   <name>Emergency Firespeeder</name>
+   <model>Fire suppression speeder</model>
+   <crew>2</crew>
+   <vehicle_class>fire suppression ship</vehicle_class>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T19:50:58.559000Z</created>
+   <edited>2014-12-22T18:21:16.450655Z</edited>
+   <url>http://swapi.co/api/vehicles/62/</url>
+</vehicle>

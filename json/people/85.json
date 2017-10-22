@@ -1,0 +1,19 @@
+{ "people": {
+   "name": "Rey",
+   "hair_color": "brown",
+   "skin_color": "light",
+   "eye_color": "hazel",
+   "gender": "female",
+   "homeworld": "http://swapi.co/api/planets/28/",
+   "films": [
+      "http://swapi.co/api/films/7/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/1/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2015-04-17T06:54:01.495077Z",
+   "edited": "2015-04-17T06:54:01.495128Z",
+   "url": "http://swapi.co/api/people/85/"
+}}

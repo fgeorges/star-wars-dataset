@@ -1,0 +1,19 @@
+{ "starship": {
+   "name": "Republic Assault ship",
+   "model": "Acclamator I-class assault ship",
+   "manufacturer": "Rothana Heavy Engineering",
+   "length": "752",
+   "crew": "700",
+   "passengers": "16000",
+   "cargo_capacity": "11250000",
+   "consumables": "2 years",
+   "hyperdrive_rating": "0.6",
+   "starship_class": "assault ship",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/5/"
+   ],
+   "created": "2014-12-20T18:08:42.926000Z",
+   "edited": "2014-12-22T17:35:45.171653Z",
+   "url": "http://swapi.co/api/starships/52/"
+}}

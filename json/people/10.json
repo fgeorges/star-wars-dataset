@@ -1,0 +1,39 @@
+{ "people": {
+   "name": "Obi-Wan Kenobi",
+   "height": "182",
+   "mass": "77",
+   "hair_color": "auburn, white",
+   "skin_color": "fair",
+   "eye_color": "blue-gray",
+   "birth_year": "57BBY",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/20/",
+   "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/4/",
+      "http://swapi.co/api/films/6/",
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/",
+      "http://swapi.co/api/films/1/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/1/"
+   ],
+   "vehicles": [
+      "http://swapi.co/api/vehicles/38/"
+   ],
+   "starships": [
+      "http://swapi.co/api/starships/48/",
+      "http://swapi.co/api/starships/59/",
+      "http://swapi.co/api/starships/64/",
+      "http://swapi.co/api/starships/65/",
+      "http://swapi.co/api/starships/74/"
+   ],
+   "created": "2014-12-10T16:16:29.192000Z",
+   "edited": "2014-12-20T21:17:50.325000Z",
+   "url": "http://swapi.co/api/people/10/",
+   "desc": [
+      "Obi-Wan \"Ben\" Kenobi is a fictional character in the Star Wars franchise. Within the original trilogy he is portrayed by Sir Alec Guinness, while in the prequel trilogy a younger version of the character is portrayed by Ewan McGregor. In the original trilogy, he is a mentor to Luke Skywalker, to whom he introduces the ways of the Jedi. In the prequel trilogy, he is a master and friend to Anakin Skywalker. He is frequently featured as a main character in various other Star Wars media.",
+      "Sir Alec Guinness's portrayal of Obi-Wan in the original Star Wars (1977) remains the only time an actor has received an Oscar nomination (Best Supporting Actor) for acting in a Star Wars film."
+   ]
+}}

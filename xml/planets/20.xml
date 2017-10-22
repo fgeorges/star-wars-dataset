@@ -1,0 +1,11 @@
+<planet>
+   <name>Stewjon</name>
+   <diameter>0</diameter>
+   <climate>temperate</climate>
+   <gravity>1 standard</gravity>
+   <terrain>grass</terrain>
+   <residents>http://swapi.co/api/people/10/</residents>
+   <created>2014-12-10T16:16:26.566000Z</created>
+   <edited>2014-12-20T20:58:18.452000Z</edited>
+   <url>http://swapi.co/api/planets/20/</url>
+</planet>

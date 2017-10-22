@@ -1,0 +1,20 @@
+<starship>
+   <name>Trade Federation cruiser</name>
+   <model>Providence-class carrier/destroyer</model>
+   <manufacturer>Rendili StarDrive, Free Dac Volunteers Engineering corps.</manufacturer>
+   <cost_in_credits>125000000</cost_in_credits>
+   <length>1088</length>
+   <max_atmosphering_speed>1050</max_atmosphering_speed>
+   <crew>600</crew>
+   <passengers>48247</passengers>
+   <cargo_capacity>50000000</cargo_capacity>
+   <consumables>4 years</consumables>
+   <hyperdrive_rating>1.5</hyperdrive_rating>
+   <starship_class>capital ship</starship_class>
+   <pilots>http://swapi.co/api/people/10/</pilots>
+   <pilots>http://swapi.co/api/people/11/</pilots>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T19:40:21.902000Z</created>
+   <edited>2014-12-22T17:35:45.195165Z</edited>
+   <url>http://swapi.co/api/starships/59/</url>
+</starship>

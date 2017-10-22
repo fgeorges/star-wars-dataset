@@ -1,0 +1,17 @@
+<planet>
+   <name>Endor</name>
+   <rotation_period>18</rotation_period>
+   <orbital_period>402</orbital_period>
+   <diameter>4900</diameter>
+   <climate>temperate</climate>
+   <gravity>0.85 standard</gravity>
+   <terrain>forests, mountains, lakes</terrain>
+   <surface_water>8</surface_water>
+   <population>30000000</population>
+   <residents>http://swapi.co/api/people/30/</residents>
+   <films>http://swapi.co/api/films/3/</films>
+   <created>2014-12-10T11:50:29.349000Z</created>
+   <edited>2014-12-20T20:58:18.429000Z</edited>
+   <url>http://swapi.co/api/planets/7/</url>
+   <desc>Endor is a planet in the Star Wars universe best known for its moon, known as the sanctuary moon, a forested world (moon) covered by giant trees.</desc>
+</planet>

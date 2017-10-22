@@ -1,0 +1,31 @@
+{ "people": {
+   "name": "Han Solo",
+   "height": "180",
+   "mass": "80",
+   "hair_color": "brown",
+   "skin_color": "fair",
+   "eye_color": "brown",
+   "birth_year": "29BBY",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/22/",
+   "films": [
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/",
+      "http://swapi.co/api/films/1/",
+      "http://swapi.co/api/films/7/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/1/"
+   ],
+   "vehicles": [],
+   "starships": [
+      "http://swapi.co/api/starships/10/",
+      "http://swapi.co/api/starships/22/"
+   ],
+   "created": "2014-12-10T16:49:14.582000Z",
+   "edited": "2014-12-20T21:17:50.334000Z",
+   "url": "http://swapi.co/api/people/14/",
+   "desc": [
+      "Han Solo is a character in the Star Wars franchise. In the original film trilogy, Han and his co-pilot, Chewbacca, became involved in the Rebel Alliance's struggle against the Galactic Empire. During the course of the Star Wars narrative, he becomes a chief figure in the Alliance and succeeding galactic governments. Star Wars creator George Lucas described the character as \"a loner who realizes the importance of being part of a group and helping for the common good\".[2] Harrison Ford portrayed the character in the original Star Wars trilogy as well as The Force Awakens. Alden Ehrenreich will portray a young Han Solo in Solo: A Star Wars Story."
+   ]
+}}

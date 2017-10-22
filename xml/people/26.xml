@@ -1,0 +1,16 @@
+<people>
+   <name>Lobot</name>
+   <height>175</height>
+   <mass>79</mass>
+   <hair_color>none</hair_color>
+   <skin_color>light</skin_color>
+   <eye_color>blue</eye_color>
+   <birth_year>37BBY</birth_year>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/6/</homeworld>
+   <films>http://swapi.co/api/films/2/</films>
+   <species>http://swapi.co/api/species/1/</species>
+   <created>2014-12-15T13:01:57.178000Z</created>
+   <edited>2014-12-20T21:17:50.359000Z</edited>
+   <url>http://swapi.co/api/people/26/</url>
+</people>

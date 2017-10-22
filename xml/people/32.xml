@@ -1,0 +1,18 @@
+<people>
+   <name>Qui-Gon Jinn</name>
+   <height>193</height>
+   <mass>89</mass>
+   <hair_color>brown</hair_color>
+   <skin_color>fair</skin_color>
+   <eye_color>blue</eye_color>
+   <birth_year>92BBY</birth_year>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/28/</homeworld>
+   <films>http://swapi.co/api/films/4/</films>
+   <species>http://swapi.co/api/species/1/</species>
+   <vehicles>http://swapi.co/api/vehicles/38/</vehicles>
+   <created>2014-12-19T16:54:53.618000Z</created>
+   <edited>2014-12-20T21:17:50.375000Z</edited>
+   <url>http://swapi.co/api/people/32/</url>
+   <desc>Qui-Gon Jinn is a fictional character in the Star Wars franchise, portrayed by Liam Neeson as the main protagonist of the 1999 film Star Wars: Episode I – The Phantom Menace.</desc>
+</people>

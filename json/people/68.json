@@ -1,0 +1,25 @@
+{ "people": {
+   "name": "Bail Prestor Organa",
+   "height": "191",
+   "hair_color": "black",
+   "skin_color": "tan",
+   "eye_color": "brown",
+   "birth_year": "67BBY",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/2/",
+   "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/6/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/1/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-20T16:53:08.575000Z",
+   "edited": "2014-12-20T21:17:50.463000Z",
+   "url": "http://swapi.co/api/people/68/",
+   "desc": [
+      "Senator Bail Prestor Organa of Alderaan, is a fictional character in the Star Wars franchise, portrayed by actor Jimmy Smits in Attack of the Clones (2002), Revenge of the Sith (2005), and Rogue One (2016). He is the senator from the planet Alderaan, one of the founding members of the Rebel Alliance, and the adoptive father of Leia Organa, a main character in the franchise."
+   ]
+}}

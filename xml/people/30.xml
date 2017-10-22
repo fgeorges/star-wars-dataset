@@ -1,0 +1,16 @@
+<people>
+   <name>Wicket Systri Warrick</name>
+   <height>88</height>
+   <mass>20</mass>
+   <hair_color>brown</hair_color>
+   <skin_color>brown</skin_color>
+   <eye_color>brown</eye_color>
+   <birth_year>8BBY</birth_year>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/7/</homeworld>
+   <films>http://swapi.co/api/films/3/</films>
+   <species>http://swapi.co/api/species/9/</species>
+   <created>2014-12-18T11:21:58.954000Z</created>
+   <edited>2014-12-20T21:17:50.369000Z</edited>
+   <url>http://swapi.co/api/people/30/</url>
+</people>

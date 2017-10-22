@@ -1,0 +1,14 @@
+<people>
+   <name>Ric Olié</name>
+   <height>183</height>
+   <hair_color>brown</hair_color>
+   <skin_color>fair</skin_color>
+   <eye_color>blue</eye_color>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/8/</homeworld>
+   <films>http://swapi.co/api/films/4/</films>
+   <starships>http://swapi.co/api/starships/40/</starships>
+   <created>2014-12-19T17:45:01.522000Z</created>
+   <edited>2014-12-20T21:17:50.392000Z</edited>
+   <url>http://swapi.co/api/people/39/</url>
+</people>

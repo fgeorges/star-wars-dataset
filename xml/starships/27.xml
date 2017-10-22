@@ -1,0 +1,17 @@
+<starship>
+   <name>Calamari Cruiser</name>
+   <model>MC80 Liberty type Star Cruiser</model>
+   <manufacturer>Mon Calamari shipyards</manufacturer>
+   <cost_in_credits>104000000</cost_in_credits>
+   <length>1200</length>
+   <crew>5400</crew>
+   <passengers>1200</passengers>
+   <consumables>2 years</consumables>
+   <hyperdrive_rating>1.0</hyperdrive_rating>
+   <MGLT>60</MGLT>
+   <starship_class>Star Cruiser</starship_class>
+   <films>http://swapi.co/api/films/3/</films>
+   <created>2014-12-18T10:54:57.804000Z</created>
+   <edited>2014-12-22T17:35:44.957852Z</edited>
+   <url>http://swapi.co/api/starships/27/</url>
+</starship>

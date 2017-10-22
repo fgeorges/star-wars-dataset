@@ -1,0 +1,20 @@
+<starship>
+   <name>Jedi Interceptor</name>
+   <model>Eta-2 Actis-class light interceptor</model>
+   <manufacturer>Kuat Systems Engineering</manufacturer>
+   <cost_in_credits>320000</cost_in_credits>
+   <length>5.47</length>
+   <max_atmosphering_speed>1500</max_atmosphering_speed>
+   <crew>1</crew>
+   <passengers>0</passengers>
+   <cargo_capacity>60</cargo_capacity>
+   <consumables>2 days</consumables>
+   <hyperdrive_rating>1.0</hyperdrive_rating>
+   <starship_class>starfighter</starship_class>
+   <pilots>http://swapi.co/api/people/10/</pilots>
+   <pilots>http://swapi.co/api/people/11/</pilots>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T19:56:57.468000Z</created>
+   <edited>2014-12-22T17:35:45.272349Z</edited>
+   <url>http://swapi.co/api/starships/65/</url>
+</starship>

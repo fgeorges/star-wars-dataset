@@ -1,0 +1,17 @@
+<species>
+   <name>Kel Dor</name>
+   <designation>sentient</designation>
+   <average_height>180</average_height>
+   <skin_colors>peach, orange, red</skin_colors>
+   <hair_colors>none</hair_colors>
+   <eye_colors>black, silver</eye_colors>
+   <average_lifespan>70</average_lifespan>
+   <homeworld>http://swapi.co/api/planets/49/</homeworld>
+   <language>Kel Dor</language>
+   <people>http://swapi.co/api/people/58/</people>
+   <films>http://swapi.co/api/films/4/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T10:49:21.692000Z</created>
+   <edited>2014-12-20T21:36:42.191000Z</edited>
+   <url>http://swapi.co/api/species/26/</url>
+</species>

@@ -1,0 +1,14 @@
+<planet>
+   <name>Haruun Kal</name>
+   <rotation_period>25</rotation_period>
+   <orbital_period>383</orbital_period>
+   <diameter>10120</diameter>
+   <climate>temperate</climate>
+   <gravity>0.98</gravity>
+   <terrain>toxic cloudsea, plateaus, volcanoes</terrain>
+   <population>705300</population>
+   <residents>http://swapi.co/api/people/51/</residents>
+   <created>2014-12-20T10:12:28.980000Z</created>
+   <edited>2014-12-20T20:58:18.491000Z</edited>
+   <url>http://swapi.co/api/planets/42/</url>
+</planet>

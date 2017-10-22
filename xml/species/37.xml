@@ -1,0 +1,17 @@
+<species>
+   <name>Pau'an</name>
+   <classification>mammal</classification>
+   <designation>sentient</designation>
+   <average_height>190</average_height>
+   <skin_colors>grey</skin_colors>
+   <hair_colors>none</hair_colors>
+   <eye_colors>black</eye_colors>
+   <average_lifespan>700</average_lifespan>
+   <homeworld>http://swapi.co/api/planets/12/</homeworld>
+   <language>Utapese</language>
+   <people>http://swapi.co/api/people/83/</people>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T20:35:06.777000Z</created>
+   <edited>2014-12-20T21:36:42.212000Z</edited>
+   <url>http://swapi.co/api/species/37/</url>
+</species>

@@ -1,0 +1,99 @@
+<film>
+   <title>The Phantom Menace</title>
+   <episode_id>1</episode_id>
+   <opening_crawl>Turmoil has engulfed the
+Galactic Republic. The taxation
+of trade routes to outlying star
+systems is in dispute.
+
+Hoping to resolve the matter
+with a blockade of deadly
+battleships, the greedy Trade
+Federation has stopped all
+shipping to the small planet
+of Naboo.
+
+While the Congress of the
+Republic endlessly debates
+this alarming chain of events,
+the Supreme Chancellor has
+secretly dispatched two Jedi
+Knights, the guardians of
+peace and justice in the
+galaxy, to settle the conflict....</opening_crawl>
+   <director>George Lucas</director>
+   <producer>Rick McCallum</producer>
+   <release_date>1999-05-19</release_date>
+   <characters>http://swapi.co/api/people/2/</characters>
+   <characters>http://swapi.co/api/people/3/</characters>
+   <characters>http://swapi.co/api/people/10/</characters>
+   <characters>http://swapi.co/api/people/11/</characters>
+   <characters>http://swapi.co/api/people/16/</characters>
+   <characters>http://swapi.co/api/people/20/</characters>
+   <characters>http://swapi.co/api/people/21/</characters>
+   <characters>http://swapi.co/api/people/32/</characters>
+   <characters>http://swapi.co/api/people/33/</characters>
+   <characters>http://swapi.co/api/people/34/</characters>
+   <characters>http://swapi.co/api/people/36/</characters>
+   <characters>http://swapi.co/api/people/37/</characters>
+   <characters>http://swapi.co/api/people/38/</characters>
+   <characters>http://swapi.co/api/people/39/</characters>
+   <characters>http://swapi.co/api/people/40/</characters>
+   <characters>http://swapi.co/api/people/41/</characters>
+   <characters>http://swapi.co/api/people/42/</characters>
+   <characters>http://swapi.co/api/people/43/</characters>
+   <characters>http://swapi.co/api/people/44/</characters>
+   <characters>http://swapi.co/api/people/46/</characters>
+   <characters>http://swapi.co/api/people/48/</characters>
+   <characters>http://swapi.co/api/people/49/</characters>
+   <characters>http://swapi.co/api/people/50/</characters>
+   <characters>http://swapi.co/api/people/51/</characters>
+   <characters>http://swapi.co/api/people/52/</characters>
+   <characters>http://swapi.co/api/people/53/</characters>
+   <characters>http://swapi.co/api/people/54/</characters>
+   <characters>http://swapi.co/api/people/55/</characters>
+   <characters>http://swapi.co/api/people/56/</characters>
+   <characters>http://swapi.co/api/people/57/</characters>
+   <characters>http://swapi.co/api/people/58/</characters>
+   <characters>http://swapi.co/api/people/59/</characters>
+   <characters>http://swapi.co/api/people/47/</characters>
+   <characters>http://swapi.co/api/people/35/</characters>
+   <planets>http://swapi.co/api/planets/8/</planets>
+   <planets>http://swapi.co/api/planets/9/</planets>
+   <planets>http://swapi.co/api/planets/1/</planets>
+   <starships>http://swapi.co/api/starships/40/</starships>
+   <starships>http://swapi.co/api/starships/41/</starships>
+   <starships>http://swapi.co/api/starships/31/</starships>
+   <starships>http://swapi.co/api/starships/32/</starships>
+   <starships>http://swapi.co/api/starships/39/</starships>
+   <vehicles>http://swapi.co/api/vehicles/33/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/34/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/35/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/36/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/37/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/38/</vehicles>
+   <vehicles>http://swapi.co/api/vehicles/42/</vehicles>
+   <species>http://swapi.co/api/species/1/</species>
+   <species>http://swapi.co/api/species/2/</species>
+   <species>http://swapi.co/api/species/6/</species>
+   <species>http://swapi.co/api/species/11/</species>
+   <species>http://swapi.co/api/species/12/</species>
+   <species>http://swapi.co/api/species/13/</species>
+   <species>http://swapi.co/api/species/14/</species>
+   <species>http://swapi.co/api/species/15/</species>
+   <species>http://swapi.co/api/species/16/</species>
+   <species>http://swapi.co/api/species/17/</species>
+   <species>http://swapi.co/api/species/18/</species>
+   <species>http://swapi.co/api/species/19/</species>
+   <species>http://swapi.co/api/species/20/</species>
+   <species>http://swapi.co/api/species/21/</species>
+   <species>http://swapi.co/api/species/22/</species>
+   <species>http://swapi.co/api/species/23/</species>
+   <species>http://swapi.co/api/species/24/</species>
+   <species>http://swapi.co/api/species/25/</species>
+   <species>http://swapi.co/api/species/26/</species>
+   <species>http://swapi.co/api/species/27/</species>
+   <created>2014-12-19T16:52:55.740000Z</created>
+   <edited>2015-04-11T09:45:18.689301Z</edited>
+   <url>http://swapi.co/api/films/4/</url>
+</film>

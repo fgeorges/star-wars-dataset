@@ -1,0 +1,15 @@
+<planet>
+   <name>Glee Anselm</name>
+   <rotation_period>33</rotation_period>
+   <orbital_period>206</orbital_period>
+   <diameter>15600</diameter>
+   <climate>tropical, temperate</climate>
+   <gravity>1</gravity>
+   <terrain>lakes, islands, swamps, seas</terrain>
+   <surface_water>80</surface_water>
+   <population>500000000</population>
+   <residents>http://swapi.co/api/people/53/</residents>
+   <created>2014-12-20T10:18:26.110000Z</created>
+   <edited>2014-12-20T20:58:18.495000Z</edited>
+   <url>http://swapi.co/api/planets/44/</url>
+</planet>

@@ -1,0 +1,21 @@
+<people>
+   <name>Wedge Antilles</name>
+   <height>170</height>
+   <mass>77</mass>
+   <hair_color>brown</hair_color>
+   <skin_color>fair</skin_color>
+   <eye_color>hazel</eye_color>
+   <birth_year>21BBY</birth_year>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/22/</homeworld>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/2/</films>
+   <films>http://swapi.co/api/films/1/</films>
+   <species>http://swapi.co/api/species/1/</species>
+   <vehicles>http://swapi.co/api/vehicles/14/</vehicles>
+   <starships>http://swapi.co/api/starships/12/</starships>
+   <created>2014-12-12T11:08:06.469000Z</created>
+   <edited>2014-12-20T21:17:50.341000Z</edited>
+   <url>http://swapi.co/api/people/18/</url>
+   <desc>Wedge Antilles is a fictional character in the Star Wars franchise. He is a supporting character portrayed by Denis Lawson in the original Star Wars trilogy.[1] Antilles is a starfighter pilot for the Rebel Alliance, and founded Rogue Squadron with his friend Luke Skywalker. Wedge is notable for being the only Rebel pilot to have survived both attack runs on the Death Stars at the battles of Yavin and Endor.[1] He also appears in the Star Wars expanded universe, most notably as the lead character in most of the X-Wing novels.</desc>
+</people>

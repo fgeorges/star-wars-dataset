@@ -1,0 +1,14 @@
+<planet>
+   <name>Socorro</name>
+   <rotation_period>20</rotation_period>
+   <orbital_period>326</orbital_period>
+   <diameter>0</diameter>
+   <climate>arid</climate>
+   <gravity>1 standard</gravity>
+   <terrain>deserts, mountains</terrain>
+   <population>300000000</population>
+   <residents>http://swapi.co/api/people/25/</residents>
+   <created>2014-12-15T12:56:31.121000Z</created>
+   <edited>2014-12-20T20:58:18.469000Z</edited>
+   <url>http://swapi.co/api/planets/30/</url>
+</planet>

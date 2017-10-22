@@ -1,0 +1,17 @@
+<species>
+   <name>Geonosian</name>
+   <classification>insectoid</classification>
+   <designation>sentient</designation>
+   <average_height>178</average_height>
+   <skin_colors>green, brown</skin_colors>
+   <hair_colors>none</hair_colors>
+   <eye_colors>green, hazel</eye_colors>
+   <homeworld>http://swapi.co/api/planets/11/</homeworld>
+   <language>Geonosian</language>
+   <people>http://swapi.co/api/people/63/</people>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <created>2014-12-20T16:40:45.618000Z</created>
+   <edited>2014-12-20T21:36:42.195000Z</edited>
+   <url>http://swapi.co/api/species/28/</url>
+</species>

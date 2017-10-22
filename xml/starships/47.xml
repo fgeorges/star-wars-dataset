@@ -1,0 +1,12 @@
+<starship>
+   <name>AA-9 Coruscant freighter</name>
+   <model>Botajef AA-9 Freighter-Liner</model>
+   <manufacturer>Botajef Shipyards</manufacturer>
+   <length>390</length>
+   <passengers>30000</passengers>
+   <starship_class>freighter</starship_class>
+   <films>http://swapi.co/api/films/5/</films>
+   <created>2014-12-20T17:24:23.509000Z</created>
+   <edited>2014-12-22T17:35:45.135987Z</edited>
+   <url>http://swapi.co/api/starships/47/</url>
+</starship>

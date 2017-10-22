@@ -1,0 +1,23 @@
+{ "people": {
+   "name": "Zam Wesell",
+   "height": "168",
+   "mass": "55",
+   "hair_color": "blonde",
+   "skin_color": "fair, green, yellow",
+   "eye_color": "yellow",
+   "gender": "female",
+   "homeworld": "http://swapi.co/api/planets/54/",
+   "films": [
+      "http://swapi.co/api/films/5/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/30/"
+   ],
+   "vehicles": [
+      "http://swapi.co/api/vehicles/45/"
+   ],
+   "starships": [],
+   "created": "2014-12-20T16:57:44.471000Z",
+   "edited": "2014-12-20T21:17:50.468000Z",
+   "url": "http://swapi.co/api/people/70/"
+}}

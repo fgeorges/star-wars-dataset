@@ -1,0 +1,17 @@
+{ "planet": {
+   "name": "Trandosha",
+   "rotation_period": "25",
+   "orbital_period": "371",
+   "diameter": "0",
+   "climate": "arid",
+   "gravity": "0.62 standard",
+   "terrain": "mountains, seas, grasslands, deserts",
+   "population": "42000000",
+   "residents": [
+      "http://swapi.co/api/people/24/"
+   ],
+   "films": [],
+   "created": "2014-12-15T12:53:47.695000Z",
+   "edited": "2014-12-20T20:58:18.468000Z",
+   "url": "http://swapi.co/api/planets/29/"
+}}

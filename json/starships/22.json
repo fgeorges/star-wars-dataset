@@ -1,0 +1,27 @@
+{ "starship": {
+   "name": "Imperial shuttle",
+   "model": "Lambda-class T-4a shuttle",
+   "manufacturer": "Sienar Fleet Systems",
+   "cost_in_credits": "240000",
+   "length": "20",
+   "max_atmosphering_speed": "850",
+   "crew": "6",
+   "passengers": "20",
+   "cargo_capacity": "80000",
+   "consumables": "2 months",
+   "hyperdrive_rating": "1.0",
+   "MGLT": "50",
+   "starship_class": "Armed government transport",
+   "pilots": [
+      "http://swapi.co/api/people/1/",
+      "http://swapi.co/api/people/13/",
+      "http://swapi.co/api/people/14/"
+   ],
+   "films": [
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/"
+   ],
+   "created": "2014-12-15T13:04:47.235000Z",
+   "edited": "2014-12-22T17:35:44.795405Z",
+   "url": "http://swapi.co/api/starships/22/"
+}}

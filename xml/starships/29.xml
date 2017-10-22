@@ -1,0 +1,19 @@
+<starship>
+   <name>B-wing</name>
+   <model>A/SF-01 B-wing starfighter</model>
+   <manufacturer>Slayn & Korpil</manufacturer>
+   <cost_in_credits>220000</cost_in_credits>
+   <length>16.9</length>
+   <max_atmosphering_speed>950</max_atmosphering_speed>
+   <crew>1</crew>
+   <passengers>0</passengers>
+   <cargo_capacity>45</cargo_capacity>
+   <consumables>1 week</consumables>
+   <hyperdrive_rating>2.0</hyperdrive_rating>
+   <MGLT>91</MGLT>
+   <starship_class>Assault Starfighter</starship_class>
+   <films>http://swapi.co/api/films/3/</films>
+   <created>2014-12-18T11:18:04.763000Z</created>
+   <edited>2014-12-22T17:35:45.011193Z</edited>
+   <url>http://swapi.co/api/starships/29/</url>
+</starship>

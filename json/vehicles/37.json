@@ -1,0 +1,20 @@
+{ "vehicle": {
+   "name": "C-9979 landing craft",
+   "model": "C-9979 landing craft",
+   "manufacturer": "Haor Chall Engineering",
+   "cost_in_credits": "200000",
+   "length": "210",
+   "max_atmosphering_speed": "587",
+   "crew": "140",
+   "passengers": "284",
+   "cargo_capacity": "1800000",
+   "consumables": "1 day",
+   "vehicle_class": "landing craft",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/4/"
+   ],
+   "created": "2014-12-19T17:20:36.373000Z",
+   "edited": "2014-12-22T18:21:16.033738Z",
+   "url": "http://swapi.co/api/vehicles/37/"
+}}

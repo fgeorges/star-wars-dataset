@@ -1,0 +1,20 @@
+<people>
+   <name>Boba Fett</name>
+   <height>183</height>
+   <mass>78.2</mass>
+   <hair_color>black</hair_color>
+   <skin_color>fair</skin_color>
+   <eye_color>brown</eye_color>
+   <birth_year>31.5BBY</birth_year>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/10/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/2/</films>
+   <species>http://swapi.co/api/species/1/</species>
+   <starships>http://swapi.co/api/starships/21/</starships>
+   <created>2014-12-15T12:49:32.457000Z</created>
+   <edited>2014-12-20T21:17:50.349000Z</edited>
+   <url>http://swapi.co/api/people/22/</url>
+   <desc>Boba Fett is a fictional character in the Star Wars franchise. In The Empire Strikes Back and Return of the Jedi, he is a bounty hunter hired by Darth Vader and also employed by Jabba the Hutt. He was also added briefly to the original film Star Wars when the film was digitally remastered. Star Wars: Episode II – Attack of the Clones establishes his origin as an unaltered clone of the bounty hunter Jango Fett raised as his son. He also appears in several episodes of Star Wars: The Clone Wars cartoon series which further describes his growth as a villain in the Star Wars universe. His aura of danger and mystery has created a cult following for the character.</desc>
+</people>

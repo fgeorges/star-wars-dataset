@@ -1,0 +1,24 @@
+{ "starship": {
+   "name": "V-wing",
+   "model": "Alpha-3 Nimbus-class V-wing starfighter",
+   "manufacturer": "Kuat Systems Engineering",
+   "cost_in_credits": "102500",
+   "length": "7.9",
+   "max_atmosphering_speed": "1050",
+   "crew": "1",
+   "passengers": "0",
+   "cargo_capacity": "60",
+   "consumables": "15 hours",
+   "hyperdrive_rating": "1.0",
+   "starship_class": "starfighter",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/6/"
+   ],
+   "created": "2014-12-20T20:43:04.349000Z",
+   "edited": "2014-12-22T17:35:45.396711Z",
+   "url": "http://swapi.co/api/starships/75/",
+   "desc": [
+      "There have been several vehicles in the Star Wars Universe designated V-wing:"
+   ]
+}}

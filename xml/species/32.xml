@@ -1,0 +1,18 @@
+<species>
+   <name>Kaminoan</name>
+   <classification>amphibian</classification>
+   <designation>sentient</designation>
+   <average_height>220</average_height>
+   <skin_colors>grey, blue</skin_colors>
+   <hair_colors>none</hair_colors>
+   <eye_colors>black</eye_colors>
+   <average_lifespan>80</average_lifespan>
+   <homeworld>http://swapi.co/api/planets/10/</homeworld>
+   <language>Kaminoan</language>
+   <people>http://swapi.co/api/people/72/</people>
+   <people>http://swapi.co/api/people/73/</people>
+   <films>http://swapi.co/api/films/5/</films>
+   <created>2014-12-20T17:31:24.838000Z</created>
+   <edited>2014-12-20T21:36:42.202000Z</edited>
+   <url>http://swapi.co/api/species/32/</url>
+</species>

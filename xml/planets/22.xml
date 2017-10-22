@@ -1,0 +1,16 @@
+<planet>
+   <name>Corellia</name>
+   <rotation_period>25</rotation_period>
+   <orbital_period>329</orbital_period>
+   <diameter>11000</diameter>
+   <climate>temperate</climate>
+   <gravity>1 standard</gravity>
+   <terrain>plains, urban, hills, forests</terrain>
+   <surface_water>70</surface_water>
+   <population>3000000000</population>
+   <residents>http://swapi.co/api/people/14/</residents>
+   <residents>http://swapi.co/api/people/18/</residents>
+   <created>2014-12-10T16:49:12.453000Z</created>
+   <edited>2014-12-20T20:58:18.456000Z</edited>
+   <url>http://swapi.co/api/planets/22/</url>
+</planet>

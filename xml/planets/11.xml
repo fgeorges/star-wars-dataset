@@ -1,0 +1,16 @@
+<planet>
+   <name>Geonosis</name>
+   <rotation_period>30</rotation_period>
+   <orbital_period>256</orbital_period>
+   <diameter>11370</diameter>
+   <climate>temperate, arid</climate>
+   <gravity>0.9 standard</gravity>
+   <terrain>rock, desert, mountain, barren</terrain>
+   <surface_water>5</surface_water>
+   <population>100000000000</population>
+   <residents>http://swapi.co/api/people/63/</residents>
+   <films>http://swapi.co/api/films/5/</films>
+   <created>2014-12-10T12:47:22.350000Z</created>
+   <edited>2014-12-20T20:58:18.437000Z</edited>
+   <url>http://swapi.co/api/planets/11/</url>
+</planet>

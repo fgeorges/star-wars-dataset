@@ -1,0 +1,24 @@
+{ "people": {
+   "name": "Greedo",
+   "height": "173",
+   "mass": "74",
+   "skin_color": "green",
+   "eye_color": "black",
+   "birth_year": "44BBY",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/23/",
+   "films": [
+      "http://swapi.co/api/films/1/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/4/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-10T17:03:30.334000Z",
+   "edited": "2014-12-20T21:17:50.336000Z",
+   "url": "http://swapi.co/api/people/15/",
+   "desc": [
+      "Greedo (or Greedo the Young) is a fictional character from the Star Wars franchise. He is portrayed by Paul Blake as well as Maria De Aragon in some close-in pickup shots in Star Wars (1977). The character is part of a fan controversy known as \"Han shot first\"."
+   ]
+}}

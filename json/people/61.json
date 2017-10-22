@@ -1,0 +1,20 @@
+{ "people": {
+   "name": "Cordé",
+   "height": "157",
+   "hair_color": "brown",
+   "skin_color": "light",
+   "eye_color": "brown",
+   "gender": "female",
+   "homeworld": "http://swapi.co/api/planets/8/",
+   "films": [
+      "http://swapi.co/api/films/5/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/1/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-20T11:11:39.630000Z",
+   "edited": "2014-12-20T21:17:50.449000Z",
+   "url": "http://swapi.co/api/people/61/"
+}}

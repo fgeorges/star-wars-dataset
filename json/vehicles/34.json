@@ -1,0 +1,19 @@
+{ "vehicle": {
+   "name": "Multi-Troop Transport",
+   "model": "Multi-Troop Transport",
+   "manufacturer": "Baktoid Armor Workshop",
+   "cost_in_credits": "138000",
+   "length": "31",
+   "max_atmosphering_speed": "35",
+   "crew": "4",
+   "passengers": "112",
+   "cargo_capacity": "12000",
+   "vehicle_class": "repulsorcraft",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/4/"
+   ],
+   "created": "2014-12-19T17:12:04.400000Z",
+   "edited": "2014-12-22T18:21:15.975171Z",
+   "url": "http://swapi.co/api/vehicles/34/"
+}}

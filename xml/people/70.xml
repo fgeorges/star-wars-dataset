@@ -1,0 +1,16 @@
+<people>
+   <name>Zam Wesell</name>
+   <height>168</height>
+   <mass>55</mass>
+   <hair_color>blonde</hair_color>
+   <skin_color>fair, green, yellow</skin_color>
+   <eye_color>yellow</eye_color>
+   <gender>female</gender>
+   <homeworld>http://swapi.co/api/planets/54/</homeworld>
+   <films>http://swapi.co/api/films/5/</films>
+   <species>http://swapi.co/api/species/30/</species>
+   <vehicles>http://swapi.co/api/vehicles/45/</vehicles>
+   <created>2014-12-20T16:57:44.471000Z</created>
+   <edited>2014-12-20T21:17:50.468000Z</edited>
+   <url>http://swapi.co/api/people/70/</url>
+</people>

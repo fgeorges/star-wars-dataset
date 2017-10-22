@@ -1,0 +1,21 @@
+<species>
+   <name>Yoda's species</name>
+   <classification>mammal</classification>
+   <designation>sentient</designation>
+   <average_height>66</average_height>
+   <skin_colors>green, yellow</skin_colors>
+   <hair_colors>brown, white</hair_colors>
+   <eye_colors>brown, green, yellow</eye_colors>
+   <average_lifespan>900</average_lifespan>
+   <homeworld>http://swapi.co/api/planets/28/</homeworld>
+   <language>Galactic basic</language>
+   <people>http://swapi.co/api/people/20/</people>
+   <films>http://swapi.co/api/films/5/</films>
+   <films>http://swapi.co/api/films/4/</films>
+   <films>http://swapi.co/api/films/6/</films>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/2/</films>
+   <created>2014-12-15T12:27:22.877000Z</created>
+   <edited>2014-12-20T21:36:42.148000Z</edited>
+   <url>http://swapi.co/api/species/6/</url>
+</species>

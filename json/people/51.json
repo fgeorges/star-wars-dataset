@@ -1,0 +1,27 @@
+{ "people": {
+   "name": "Mace Windu",
+   "height": "188",
+   "mass": "84",
+   "hair_color": "none",
+   "skin_color": "dark",
+   "eye_color": "brown",
+   "birth_year": "72BBY",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/42/",
+   "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/4/",
+      "http://swapi.co/api/films/6/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/1/"
+   ],
+   "vehicles": [],
+   "starships": [],
+   "created": "2014-12-20T10:12:30.846000Z",
+   "edited": "2014-12-20T21:17:50.420000Z",
+   "url": "http://swapi.co/api/people/51/",
+   "desc": [
+      "Mace Windu is a fictional character in the Star Wars franchise, portrayed by actor Samuel L. Jackson in the prequel films and voiced by voice-actor Terrence C. Carson in other projects. He appears as Master of the Jedi High Council and one of the last members of the order's upper echelons before the Galactic Republic's fall. He is the Council's primary liaison, although the Clone Wars caused him to question his most firmly held beliefs.[1]"
+   ]
+}}

@@ -1,0 +1,26 @@
+{ "people": {
+   "name": "Plo Koon",
+   "height": "188",
+   "mass": "80",
+   "hair_color": "none",
+   "skin_color": "orange",
+   "eye_color": "black",
+   "birth_year": "22BBY",
+   "gender": "male",
+   "homeworld": "http://swapi.co/api/planets/49/",
+   "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/4/",
+      "http://swapi.co/api/films/6/"
+   ],
+   "species": [
+      "http://swapi.co/api/species/26/"
+   ],
+   "vehicles": [],
+   "starships": [
+      "http://swapi.co/api/starships/48/"
+   ],
+   "created": "2014-12-20T10:49:19.859000Z",
+   "edited": "2014-12-20T21:17:50.439000Z",
+   "url": "http://swapi.co/api/people/58/"
+}}

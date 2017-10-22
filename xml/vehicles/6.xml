@@ -1,0 +1,17 @@
+<vehicle>
+   <name>T-16 skyhopper</name>
+   <model>T-16 skyhopper</model>
+   <manufacturer>Incom Corporation</manufacturer>
+   <cost_in_credits>14500</cost_in_credits>
+   <length>10.4</length>
+   <max_atmosphering_speed>1200</max_atmosphering_speed>
+   <crew>1</crew>
+   <passengers>1</passengers>
+   <cargo_capacity>50</cargo_capacity>
+   <consumables>0</consumables>
+   <vehicle_class>repulsorcraft</vehicle_class>
+   <films>http://swapi.co/api/films/1/</films>
+   <created>2014-12-10T16:01:52.434000Z</created>
+   <edited>2014-12-22T18:21:15.552614Z</edited>
+   <url>http://swapi.co/api/vehicles/6/</url>
+</vehicle>

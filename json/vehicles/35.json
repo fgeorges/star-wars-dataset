@@ -1,0 +1,17 @@
+{ "vehicle": {
+   "name": "Armored Assault Tank",
+   "model": "Armoured Assault Tank",
+   "manufacturer": "Baktoid Armor Workshop",
+   "length": "9.75",
+   "max_atmosphering_speed": "55",
+   "crew": "4",
+   "passengers": "6",
+   "vehicle_class": "repulsorcraft",
+   "pilots": [],
+   "films": [
+      "http://swapi.co/api/films/4/"
+   ],
+   "created": "2014-12-19T17:13:29.799000Z",
+   "edited": "2014-12-22T18:21:15.984817Z",
+   "url": "http://swapi.co/api/vehicles/35/"
+}}

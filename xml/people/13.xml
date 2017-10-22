@@ -1,0 +1,23 @@
+<people>
+   <name>Chewbacca</name>
+   <height>228</height>
+   <mass>112</mass>
+   <hair_color>brown</hair_color>
+   <eye_color>blue</eye_color>
+   <birth_year>200BBY</birth_year>
+   <gender>male</gender>
+   <homeworld>http://swapi.co/api/planets/14/</homeworld>
+   <films>http://swapi.co/api/films/6/</films>
+   <films>http://swapi.co/api/films/3/</films>
+   <films>http://swapi.co/api/films/2/</films>
+   <films>http://swapi.co/api/films/1/</films>
+   <films>http://swapi.co/api/films/7/</films>
+   <species>http://swapi.co/api/species/3/</species>
+   <vehicles>http://swapi.co/api/vehicles/19/</vehicles>
+   <starships>http://swapi.co/api/starships/10/</starships>
+   <starships>http://swapi.co/api/starships/22/</starships>
+   <created>2014-12-10T16:42:45.066000Z</created>
+   <edited>2014-12-20T21:17:50.332000Z</edited>
+   <url>http://swapi.co/api/people/13/</url>
+   <desc>Chewbacca (/tʃuːˈbɑːkə/), nicknamed "Chewie", is a fictional character in the Star Wars franchise. He is a Wookiee, a tall, hirsute biped and intelligent species from the planet Kashyyyk. Chewbacca is the loyal friend and first mate of Han Solo, and serves as co-pilot on Solo's spaceship, the Millennium Falcon.[1] Within the films of the main saga, Chewbacca is portrayed by Peter Mayhew in the Star Wars on Episodes from III to VIII (Mayhew shares the role with his body double Joonas Suotamo on Episode VII and VIII). Suotamo took over the role alone in Solo: A Star Wars Story. The character has also appeared on television, books, comics, and video games.</desc>
+</people>

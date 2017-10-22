@@ -1,0 +1,14 @@
+<planet>
+   <name>Toydaria</name>
+   <rotation_period>21</rotation_period>
+   <orbital_period>184</orbital_period>
+   <diameter>7900</diameter>
+   <climate>temperate</climate>
+   <gravity>1</gravity>
+   <terrain>swamps, lakes</terrain>
+   <population>11000000</population>
+   <residents>http://swapi.co/api/people/40/</residents>
+   <created>2014-12-19T17:47:54.403000Z</created>
+   <edited>2014-12-20T20:58:18.476000Z</edited>
+   <url>http://swapi.co/api/planets/34/</url>
+</planet>
