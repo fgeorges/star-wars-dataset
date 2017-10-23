@@ -55,6 +55,9 @@ function endProp(file, i, len)
 
 function elem(file, name, content)
 {
+    if ( typeof content === 'string' ) {
+        content = content.replace(/&/g, '&amp;').replace(/</g, '&lt;');
+    }
     fs.writeSync(file, '   <' + name + '>' + content + '</' + name + '>\n');
 }
 

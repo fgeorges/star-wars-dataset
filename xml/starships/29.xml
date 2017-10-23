@@ -1,7 +1,7 @@
 <starship>
    <name>B-wing</name>
    <model>A/SF-01 B-wing starfighter</model>
-   <manufacturer>Slayn & Korpil</manufacturer>
+   <manufacturer>Slayn &amp; Korpil</manufacturer>
    <cost_in_credits>220000</cost_in_credits>
    <length>16.9</length>
    <max_atmosphering_speed>950</max_atmosphering_speed>
