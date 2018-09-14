@@ -1,0 +1,24 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:starship-11  a  sw:Starship .
+sw:starship-11  rdfs:label  "Y-wing" .
+sw:starship-11  sw:model  "BTL Y-wing" .
+sw:starship-11  sw:manufacturer  "Koensayr Manufacturing" .
+sw:starship-11  sw:cost_in_credits  "134999" .
+sw:starship-11  sw:length  "14" .
+sw:starship-11  sw:max_atmosphering_speed  "1000km" .
+sw:starship-11  sw:crew  "2" .
+sw:starship-11  sw:passengers  "0" .
+sw:starship-11  sw:cargo_capacity  "110" .
+sw:starship-11  sw:consumables  "1 week" .
+sw:starship-11  sw:hyperdrive_rating  "1.0" .
+sw:starship-11  sw:MGLT  "80" .
+sw:starship-11  sw:starship_class  "assault starfighter" .
+sw:starship-11  sw:flim  sw:flim-3 .
+sw:starship-11  sw:flim  sw:flim-2 .
+sw:starship-11  sw:flim  sw:flim-1 .
+sw:starship-11  sw:created  "2014-12-12T11:00:39.817000Z" .
+sw:starship-11  sw:edited  "2014-12-22T17:35:44.479706Z" .
+sw:starship-11  sw:url  "http://swapi.co/api/starships/11/" .
+sw:starship-11  sw:desc  "The Y-wing is a fictional Galactic Republic, Rebel Alliance and New Republic starfighter in the Star Wars franchise. They appear in Star Wars Episode IV: A New Hope, Star Wars Episode V: The Empire Strikes Back, Star Wars Episode VI: Return of the Jedi, Rogue One, Clone Wars TV series, Star Wars Rebels TV series and the Star Wars expanded universe's books, comics, and games." .

@@ -1,0 +1,17 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-80  a  sw:People .
+sw:people-80  rdfs:label  "Tarfful" .
+sw:people-80  sw:height  "234" .
+sw:people-80  sw:mass  "136" .
+sw:people-80  sw:hair_color  "brown" .
+sw:people-80  sw:skin_color  "brown" .
+sw:people-80  sw:eye_color  "blue" .
+sw:people-80  sw:gender  "male" .
+sw:people-80  sw:homeworld  sw:planet-14 .
+sw:people-80  sw:flim  sw:flim-6 .
+sw:people-80  sw:species  sw:species-3 .
+sw:people-80  sw:created  "2014-12-20T19:46:34.209000Z" .
+sw:people-80  sw:edited  "2014-12-20T21:17:50.491000Z" .
+sw:people-80  sw:url  "http://swapi.co/api/people/80/" .

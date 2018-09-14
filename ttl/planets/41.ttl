@@ -1,0 +1,14 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:planet-41  a  sw:Planet .
+sw:planet-41  rdfs:label  "Tund" .
+sw:planet-41  sw:rotation_period  "48" .
+sw:planet-41  sw:orbital_period  "1770" .
+sw:planet-41  sw:diameter  "12190" .
+sw:planet-41  sw:terrain  "barren, ash" .
+sw:planet-41  sw:population  "0" .
+sw:planet-41  sw:resident  sw:people-50 .
+sw:planet-41  sw:created  "2014-12-20T10:07:29.578000Z" .
+sw:planet-41  sw:edited  "2014-12-20T20:58:18.489000Z" .
+sw:planet-41  sw:url  "http://swapi.co/api/planets/41/" .

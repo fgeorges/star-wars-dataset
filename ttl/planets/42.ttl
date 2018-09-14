@@ -1,0 +1,16 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:planet-42  a  sw:Planet .
+sw:planet-42  rdfs:label  "Haruun Kal" .
+sw:planet-42  sw:rotation_period  "25" .
+sw:planet-42  sw:orbital_period  "383" .
+sw:planet-42  sw:diameter  "10120" .
+sw:planet-42  sw:climate  "temperate" .
+sw:planet-42  sw:gravity  "0.98" .
+sw:planet-42  sw:terrain  "toxic cloudsea, plateaus, volcanoes" .
+sw:planet-42  sw:population  "705300" .
+sw:planet-42  sw:resident  sw:people-51 .
+sw:planet-42  sw:created  "2014-12-20T10:12:28.980000Z" .
+sw:planet-42  sw:edited  "2014-12-20T20:58:18.491000Z" .
+sw:planet-42  sw:url  "http://swapi.co/api/planets/42/" .

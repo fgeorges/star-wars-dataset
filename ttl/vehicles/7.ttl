@@ -1,0 +1,18 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:vehicle-7  a  sw:Vehicle .
+sw:vehicle-7  rdfs:label  "X-34 landspeeder" .
+sw:vehicle-7  sw:model  "X-34 landspeeder" .
+sw:vehicle-7  sw:manufacturer  "SoroSuub Corporation" .
+sw:vehicle-7  sw:cost_in_credits  "10550" .
+sw:vehicle-7  sw:length  "3.4" .
+sw:vehicle-7  sw:max_atmosphering_speed  "250" .
+sw:vehicle-7  sw:crew  "1" .
+sw:vehicle-7  sw:passengers  "1" .
+sw:vehicle-7  sw:cargo_capacity  "5" .
+sw:vehicle-7  sw:vehicle_class  "repulsorcraft" .
+sw:vehicle-7  sw:flim  sw:flim-1 .
+sw:vehicle-7  sw:created  "2014-12-10T16:13:52.586000Z" .
+sw:vehicle-7  sw:edited  "2014-12-22T18:21:15.583700Z" .
+sw:vehicle-7  sw:url  "http://swapi.co/api/vehicles/7/" .

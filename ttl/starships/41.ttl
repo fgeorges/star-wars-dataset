@@ -1,0 +1,21 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:starship-41  a  sw:Starship .
+sw:starship-41  rdfs:label  "Scimitar" .
+sw:starship-41  sw:model  "Star Courier" .
+sw:starship-41  sw:manufacturer  "Republic Sienar Systems" .
+sw:starship-41  sw:cost_in_credits  "55000000" .
+sw:starship-41  sw:length  "26.5" .
+sw:starship-41  sw:max_atmosphering_speed  "1180" .
+sw:starship-41  sw:crew  "1" .
+sw:starship-41  sw:passengers  "6" .
+sw:starship-41  sw:cargo_capacity  "2500000" .
+sw:starship-41  sw:consumables  "30 days" .
+sw:starship-41  sw:hyperdrive_rating  "1.5" .
+sw:starship-41  sw:starship_class  "Space Transport" .
+sw:starship-41  sw:pilot  sw:people-44 .
+sw:starship-41  sw:flim  sw:flim-4 .
+sw:starship-41  sw:created  "2014-12-20T09:39:56.116000Z" .
+sw:starship-41  sw:edited  "2014-12-22T17:35:45.105522Z" .
+sw:starship-41  sw:url  "http://swapi.co/api/starships/41/" .

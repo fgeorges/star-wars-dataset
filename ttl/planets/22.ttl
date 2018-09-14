@@ -1,0 +1,18 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:planet-22  a  sw:Planet .
+sw:planet-22  rdfs:label  "Corellia" .
+sw:planet-22  sw:rotation_period  "25" .
+sw:planet-22  sw:orbital_period  "329" .
+sw:planet-22  sw:diameter  "11000" .
+sw:planet-22  sw:climate  "temperate" .
+sw:planet-22  sw:gravity  "1 standard" .
+sw:planet-22  sw:terrain  "plains, urban, hills, forests" .
+sw:planet-22  sw:surface_water  "70" .
+sw:planet-22  sw:population  "3000000000" .
+sw:planet-22  sw:resident  sw:people-14 .
+sw:planet-22  sw:resident  sw:people-18 .
+sw:planet-22  sw:created  "2014-12-10T16:49:12.453000Z" .
+sw:planet-22  sw:edited  "2014-12-20T20:58:18.456000Z" .
+sw:planet-22  sw:url  "http://swapi.co/api/planets/22/" .

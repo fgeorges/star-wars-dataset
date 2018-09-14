@@ -1,0 +1,28 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:starship-12  a  sw:Starship .
+sw:starship-12  rdfs:label  "X-wing" .
+sw:starship-12  sw:model  "T-65 X-wing" .
+sw:starship-12  sw:manufacturer  "Incom Corporation" .
+sw:starship-12  sw:cost_in_credits  "149999" .
+sw:starship-12  sw:length  "12.5" .
+sw:starship-12  sw:max_atmosphering_speed  "1050" .
+sw:starship-12  sw:crew  "1" .
+sw:starship-12  sw:passengers  "0" .
+sw:starship-12  sw:cargo_capacity  "110" .
+sw:starship-12  sw:consumables  "1 week" .
+sw:starship-12  sw:hyperdrive_rating  "1.0" .
+sw:starship-12  sw:MGLT  "100" .
+sw:starship-12  sw:starship_class  "Starfighter" .
+sw:starship-12  sw:pilot  sw:people-1 .
+sw:starship-12  sw:pilot  sw:people-9 .
+sw:starship-12  sw:pilot  sw:people-18 .
+sw:starship-12  sw:pilot  sw:people-19 .
+sw:starship-12  sw:flim  sw:flim-3 .
+sw:starship-12  sw:flim  sw:flim-2 .
+sw:starship-12  sw:flim  sw:flim-1 .
+sw:starship-12  sw:created  "2014-12-12T11:19:05.340000Z" .
+sw:starship-12  sw:edited  "2014-12-22T17:35:44.491233Z" .
+sw:starship-12  sw:url  "http://swapi.co/api/starships/12/" .
+sw:starship-12  sw:desc  "The X-wing starfighter is a fictional starfighter from the original and sequel Star Wars trilogies and the Star Wars expanded universe. They are depicted as the primary interceptor and dogfighter of the Rebel Alliance, the New Republic and the Resistance. The craft has been merchandised as a variety of toys, models licensed for use in games, novels and comics." .

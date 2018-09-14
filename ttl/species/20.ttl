@@ -1,0 +1,19 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:species-20  a  sw:Species .
+sw:species-20  rdfs:label  "Cerean" .
+sw:species-20  sw:classification  "mammal" .
+sw:species-20  sw:designation  "sentient" .
+sw:species-20  sw:average_height  "200" .
+sw:species-20  sw:skin_colors  "pale pink" .
+sw:species-20  sw:hair_colors  "red, blond, black, white" .
+sw:species-20  sw:eye_colors  "hazel" .
+sw:species-20  sw:homeworld  sw:planet-43 .
+sw:species-20  sw:language  "Cerean" .
+sw:species-20  sw:people  sw:people-52 .
+sw:species-20  sw:flim  sw:flim-4 .
+sw:species-20  sw:flim  sw:flim-6 .
+sw:species-20  sw:created  "2014-12-20T10:15:33.765000Z" .
+sw:species-20  sw:edited  "2014-12-20T21:36:42.179000Z" .
+sw:species-20  sw:url  "http://swapi.co/api/species/20/" .

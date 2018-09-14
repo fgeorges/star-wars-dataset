@@ -1,0 +1,17 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-34  a  sw:People .
+sw:people-34  rdfs:label  "Finis Valorum" .
+sw:people-34  sw:height  "170" .
+sw:people-34  sw:hair_color  "blond" .
+sw:people-34  sw:skin_color  "fair" .
+sw:people-34  sw:eye_color  "blue" .
+sw:people-34  sw:birth_year  "91BBY" .
+sw:people-34  sw:gender  "male" .
+sw:people-34  sw:homeworld  sw:planet-9 .
+sw:people-34  sw:flim  sw:flim-4 .
+sw:people-34  sw:species  sw:species-1 .
+sw:people-34  sw:created  "2014-12-19T17:21:45.915000Z" .
+sw:people-34  sw:edited  "2014-12-20T21:17:50.379000Z" .
+sw:people-34  sw:url  "http://swapi.co/api/people/34/" .

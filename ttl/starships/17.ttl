@@ -1,0 +1,21 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:starship-17  a  sw:Starship .
+sw:starship-17  rdfs:label  "Rebel transport" .
+sw:starship-17  sw:model  "GR-75 medium transport" .
+sw:starship-17  sw:manufacturer  "Gallofree Yards, Inc." .
+sw:starship-17  sw:length  "90" .
+sw:starship-17  sw:max_atmosphering_speed  "650" .
+sw:starship-17  sw:crew  "6" .
+sw:starship-17  sw:passengers  "90" .
+sw:starship-17  sw:cargo_capacity  "19000000" .
+sw:starship-17  sw:consumables  "6 months" .
+sw:starship-17  sw:hyperdrive_rating  "4.0" .
+sw:starship-17  sw:MGLT  "20" .
+sw:starship-17  sw:starship_class  "Medium transport" .
+sw:starship-17  sw:flim  sw:flim-3 .
+sw:starship-17  sw:flim  sw:flim-2 .
+sw:starship-17  sw:created  "2014-12-15T12:34:52.264000Z" .
+sw:starship-17  sw:edited  "2014-12-22T17:35:44.680838Z" .
+sw:starship-17  sw:url  "http://swapi.co/api/starships/17/" .

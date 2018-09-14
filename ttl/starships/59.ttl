@@ -1,0 +1,22 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:starship-59  a  sw:Starship .
+sw:starship-59  rdfs:label  "Trade Federation cruiser" .
+sw:starship-59  sw:model  "Providence-class carrier/destroyer" .
+sw:starship-59  sw:manufacturer  "Rendili StarDrive, Free Dac Volunteers Engineering corps." .
+sw:starship-59  sw:cost_in_credits  "125000000" .
+sw:starship-59  sw:length  "1088" .
+sw:starship-59  sw:max_atmosphering_speed  "1050" .
+sw:starship-59  sw:crew  "600" .
+sw:starship-59  sw:passengers  "48247" .
+sw:starship-59  sw:cargo_capacity  "50000000" .
+sw:starship-59  sw:consumables  "4 years" .
+sw:starship-59  sw:hyperdrive_rating  "1.5" .
+sw:starship-59  sw:starship_class  "capital ship" .
+sw:starship-59  sw:pilot  sw:people-10 .
+sw:starship-59  sw:pilot  sw:people-11 .
+sw:starship-59  sw:flim  sw:flim-6 .
+sw:starship-59  sw:created  "2014-12-20T19:40:21.902000Z" .
+sw:starship-59  sw:edited  "2014-12-22T17:35:45.195165Z" .
+sw:starship-59  sw:url  "http://swapi.co/api/starships/59/" .

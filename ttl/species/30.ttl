@@ -1,0 +1,20 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:species-30  a  sw:Species .
+sw:species-30  rdfs:label  "Clawdite" .
+sw:species-30  sw:classification  "reptilian" .
+sw:species-30  sw:designation  "sentient" .
+sw:species-30  sw:average_height  "180" .
+sw:species-30  sw:skin_colors  "green, yellow" .
+sw:species-30  sw:hair_colors  "none" .
+sw:species-30  sw:eye_colors  "yellow" .
+sw:species-30  sw:average_lifespan  "70" .
+sw:species-30  sw:homeworld  sw:planet-54 .
+sw:species-30  sw:language  "Clawdite" .
+sw:species-30  sw:people  sw:people-70 .
+sw:species-30  sw:flim  sw:flim-5 .
+sw:species-30  sw:flim  sw:flim-6 .
+sw:species-30  sw:created  "2014-12-20T16:57:46.171000Z" .
+sw:species-30  sw:edited  "2014-12-20T21:36:42.199000Z" .
+sw:species-30  sw:url  "http://swapi.co/api/species/30/" .

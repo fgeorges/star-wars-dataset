@@ -1,0 +1,16 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:planet-35  a  sw:Planet .
+sw:planet-35  rdfs:label  "Malastare" .
+sw:planet-35  sw:rotation_period  "26" .
+sw:planet-35  sw:orbital_period  "201" .
+sw:planet-35  sw:diameter  "18880" .
+sw:planet-35  sw:climate  "arid, temperate, tropical" .
+sw:planet-35  sw:gravity  "1.56" .
+sw:planet-35  sw:terrain  "swamps, deserts, jungles, mountains" .
+sw:planet-35  sw:population  "2000000000" .
+sw:planet-35  sw:resident  sw:people-41 .
+sw:planet-35  sw:created  "2014-12-19T17:52:13.106000Z" .
+sw:planet-35  sw:edited  "2014-12-20T20:58:18.478000Z" .
+sw:planet-35  sw:url  "http://swapi.co/api/planets/35/" .

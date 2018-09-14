@@ -1,0 +1,18 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:vehicle-54  a  sw:Vehicle .
+sw:vehicle-54  rdfs:label  "SPHA" .
+sw:vehicle-54  sw:model  "Self-Propelled Heavy Artillery" .
+sw:vehicle-54  sw:manufacturer  "Rothana Heavy Engineering" .
+sw:vehicle-54  sw:length  "140" .
+sw:vehicle-54  sw:max_atmosphering_speed  "35" .
+sw:vehicle-54  sw:crew  "25" .
+sw:vehicle-54  sw:passengers  "30" .
+sw:vehicle-54  sw:cargo_capacity  "500" .
+sw:vehicle-54  sw:consumables  "7 days" .
+sw:vehicle-54  sw:vehicle_class  "walker" .
+sw:vehicle-54  sw:flim  sw:flim-5 .
+sw:vehicle-54  sw:created  "2014-12-20T18:12:32.315000Z" .
+sw:vehicle-54  sw:edited  "2014-12-22T18:21:16.311761Z" .
+sw:vehicle-54  sw:url  "http://swapi.co/api/vehicles/54/" .

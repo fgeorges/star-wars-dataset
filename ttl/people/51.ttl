@@ -1,0 +1,21 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-51  a  sw:People .
+sw:people-51  rdfs:label  "Mace Windu" .
+sw:people-51  sw:height  "188" .
+sw:people-51  sw:mass  "84" .
+sw:people-51  sw:hair_color  "none" .
+sw:people-51  sw:skin_color  "dark" .
+sw:people-51  sw:eye_color  "brown" .
+sw:people-51  sw:birth_year  "72BBY" .
+sw:people-51  sw:gender  "male" .
+sw:people-51  sw:homeworld  sw:planet-42 .
+sw:people-51  sw:flim  sw:flim-5 .
+sw:people-51  sw:flim  sw:flim-4 .
+sw:people-51  sw:flim  sw:flim-6 .
+sw:people-51  sw:species  sw:species-1 .
+sw:people-51  sw:created  "2014-12-20T10:12:30.846000Z" .
+sw:people-51  sw:edited  "2014-12-20T21:17:50.420000Z" .
+sw:people-51  sw:url  "http://swapi.co/api/people/51/" .
+sw:people-51  sw:desc  "Mace Windu is a fictional character in the Star Wars franchise, portrayed by actor Samuel L. Jackson in the prequel films and voiced by voice-actor Terrence C. Carson in other projects. He appears as Master of the Jedi High Council and one of the last members of the order's upper echelons before the Galactic Republic's fall. He is the Council's primary liaison, although the Clone Wars caused him to question his most firmly held beliefs.[1]" .

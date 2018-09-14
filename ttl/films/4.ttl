@@ -1,0 +1,101 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:film-4  a  sw:Film .
+sw:film-4  rdfs:label  "The Phantom Menace" .
+sw:film-4  sw:episode_id  1 .
+sw:film-4  sw:opening_crawl  "Turmoil has engulfed the
+Galactic Republic. The taxation
+of trade routes to outlying star
+systems is in dispute.
+
+Hoping to resolve the matter
+with a blockade of deadly
+battleships, the greedy Trade
+Federation has stopped all
+shipping to the small planet
+of Naboo.
+
+While the Congress of the
+Republic endlessly debates
+this alarming chain of events,
+the Supreme Chancellor has
+secretly dispatched two Jedi
+Knights, the guardians of
+peace and justice in the
+galaxy, to settle the conflict...." .
+sw:film-4  sw:director  "George Lucas" .
+sw:film-4  sw:producer  "Rick McCallum" .
+sw:film-4  sw:release_date  "1999-05-19" .
+sw:film-4  sw:character  sw:people-2 .
+sw:film-4  sw:character  sw:people-3 .
+sw:film-4  sw:character  sw:people-10 .
+sw:film-4  sw:character  sw:people-11 .
+sw:film-4  sw:character  sw:people-16 .
+sw:film-4  sw:character  sw:people-20 .
+sw:film-4  sw:character  sw:people-21 .
+sw:film-4  sw:character  sw:people-32 .
+sw:film-4  sw:character  sw:people-33 .
+sw:film-4  sw:character  sw:people-34 .
+sw:film-4  sw:character  sw:people-36 .
+sw:film-4  sw:character  sw:people-37 .
+sw:film-4  sw:character  sw:people-38 .
+sw:film-4  sw:character  sw:people-39 .
+sw:film-4  sw:character  sw:people-40 .
+sw:film-4  sw:character  sw:people-41 .
+sw:film-4  sw:character  sw:people-42 .
+sw:film-4  sw:character  sw:people-43 .
+sw:film-4  sw:character  sw:people-44 .
+sw:film-4  sw:character  sw:people-46 .
+sw:film-4  sw:character  sw:people-48 .
+sw:film-4  sw:character  sw:people-49 .
+sw:film-4  sw:character  sw:people-50 .
+sw:film-4  sw:character  sw:people-51 .
+sw:film-4  sw:character  sw:people-52 .
+sw:film-4  sw:character  sw:people-53 .
+sw:film-4  sw:character  sw:people-54 .
+sw:film-4  sw:character  sw:people-55 .
+sw:film-4  sw:character  sw:people-56 .
+sw:film-4  sw:character  sw:people-57 .
+sw:film-4  sw:character  sw:people-58 .
+sw:film-4  sw:character  sw:people-59 .
+sw:film-4  sw:character  sw:people-47 .
+sw:film-4  sw:character  sw:people-35 .
+sw:film-4  sw:planet  sw:planet-8 .
+sw:film-4  sw:planet  sw:planet-9 .
+sw:film-4  sw:planet  sw:planet-1 .
+sw:film-4  sw:starship  sw:starship-40 .
+sw:film-4  sw:starship  sw:starship-41 .
+sw:film-4  sw:starship  sw:starship-31 .
+sw:film-4  sw:starship  sw:starship-32 .
+sw:film-4  sw:starship  sw:starship-39 .
+sw:film-4  sw:vehicle  sw:vehicle-33 .
+sw:film-4  sw:vehicle  sw:vehicle-34 .
+sw:film-4  sw:vehicle  sw:vehicle-35 .
+sw:film-4  sw:vehicle  sw:vehicle-36 .
+sw:film-4  sw:vehicle  sw:vehicle-37 .
+sw:film-4  sw:vehicle  sw:vehicle-38 .
+sw:film-4  sw:vehicle  sw:vehicle-42 .
+sw:film-4  sw:species  sw:species-1 .
+sw:film-4  sw:species  sw:species-2 .
+sw:film-4  sw:species  sw:species-6 .
+sw:film-4  sw:species  sw:species-11 .
+sw:film-4  sw:species  sw:species-12 .
+sw:film-4  sw:species  sw:species-13 .
+sw:film-4  sw:species  sw:species-14 .
+sw:film-4  sw:species  sw:species-15 .
+sw:film-4  sw:species  sw:species-16 .
+sw:film-4  sw:species  sw:species-17 .
+sw:film-4  sw:species  sw:species-18 .
+sw:film-4  sw:species  sw:species-19 .
+sw:film-4  sw:species  sw:species-20 .
+sw:film-4  sw:species  sw:species-21 .
+sw:film-4  sw:species  sw:species-22 .
+sw:film-4  sw:species  sw:species-23 .
+sw:film-4  sw:species  sw:species-24 .
+sw:film-4  sw:species  sw:species-25 .
+sw:film-4  sw:species  sw:species-26 .
+sw:film-4  sw:species  sw:species-27 .
+sw:film-4  sw:created  "2014-12-19T16:52:55.740000Z" .
+sw:film-4  sw:edited  "2015-04-11T09:45:18.689301Z" .
+sw:film-4  sw:url  "http://swapi.co/api/films/4/" .

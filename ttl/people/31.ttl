@@ -1,0 +1,20 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-31  a  sw:People .
+sw:people-31  rdfs:label  "Nien Nunb" .
+sw:people-31  sw:height  "160" .
+sw:people-31  sw:mass  "68" .
+sw:people-31  sw:hair_color  "none" .
+sw:people-31  sw:skin_color  "grey" .
+sw:people-31  sw:eye_color  "black" .
+sw:people-31  sw:gender  "male" .
+sw:people-31  sw:homeworld  sw:planet-33 .
+sw:people-31  sw:flim  sw:flim-3 .
+sw:people-31  sw:species  sw:species-10 .
+sw:people-31  sw:starship  sw:starship-10 .
+sw:people-31  sw:created  "2014-12-18T11:26:18.541000Z" .
+sw:people-31  sw:edited  "2014-12-20T21:17:50.371000Z" .
+sw:people-31  sw:url  "http://swapi.co/api/people/31/" .
+sw:people-31  sw:desc  "Nien Nunb is a fictional character in the Star Wars franchise. Introduced in the 1983 film Return of the Jedi, he was brought to life both as a puppet and a costumed actor during the film. Nunb was puppeteered by Mike Quinn and was portrayed by Richard Bonehill in wide shots. The character was voiced by Kipsang Rotich, a Kenyan student who spoke in his native Kalenjin language, as well as in the Kikuyu language. Quinn and Rotich returned to the role for the 2015 film Star Wars: The Force Awakens, with the former confirmed for the 2017 film Star Wars: The Last Jedi." .
+sw:people-31  sw:desc  "Within the fictional Star Wars universe, Nien Nunb was an arms dealer of the Sullustan species who joined the Alliance to Restore the Republic during the Galactic Civil War. Three decades later, Nunb was a starfighter pilot in the Resistance. He fought in the First Order–Resistance conflict, including the Battle of Starkiller Base." .

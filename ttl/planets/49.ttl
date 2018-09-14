@@ -1,0 +1,14 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:planet-49  a  sw:Planet .
+sw:planet-49  rdfs:label  "Dorin" .
+sw:planet-49  sw:rotation_period  "22" .
+sw:planet-49  sw:orbital_period  "409" .
+sw:planet-49  sw:diameter  "13400" .
+sw:planet-49  sw:climate  "temperate" .
+sw:planet-49  sw:gravity  "1" .
+sw:planet-49  sw:resident  sw:people-58 .
+sw:planet-49  sw:created  "2014-12-20T10:48:36.141000Z" .
+sw:planet-49  sw:edited  "2014-12-20T20:58:18.504000Z" .
+sw:planet-49  sw:url  "http://swapi.co/api/planets/49/" .

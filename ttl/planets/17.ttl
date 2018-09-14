@@ -1,0 +1,16 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:planet-17  a  sw:Planet .
+sw:planet-17  rdfs:label  "Felucia" .
+sw:planet-17  sw:rotation_period  "34" .
+sw:planet-17  sw:orbital_period  "231" .
+sw:planet-17  sw:diameter  "9100" .
+sw:planet-17  sw:climate  "hot, humid" .
+sw:planet-17  sw:gravity  "0.75 standard" .
+sw:planet-17  sw:terrain  "fungus forests" .
+sw:planet-17  sw:population  "8500000" .
+sw:planet-17  sw:flim  sw:flim-6 .
+sw:planet-17  sw:created  "2014-12-10T13:44:50.397000Z" .
+sw:planet-17  sw:edited  "2014-12-20T20:58:18.447000Z" .
+sw:planet-17  sw:url  "http://swapi.co/api/planets/17/" .

@@ -1,0 +1,22 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:planet-2  a  sw:Planet .
+sw:planet-2  rdfs:label  "Alderaan" .
+sw:planet-2  sw:rotation_period  "24" .
+sw:planet-2  sw:orbital_period  "364" .
+sw:planet-2  sw:diameter  "12500" .
+sw:planet-2  sw:climate  "temperate" .
+sw:planet-2  sw:gravity  "1 standard" .
+sw:planet-2  sw:terrain  "grasslands, mountains" .
+sw:planet-2  sw:surface_water  "40" .
+sw:planet-2  sw:population  "2000000000" .
+sw:planet-2  sw:resident  sw:people-5 .
+sw:planet-2  sw:resident  sw:people-68 .
+sw:planet-2  sw:resident  sw:people-81 .
+sw:planet-2  sw:flim  sw:flim-6 .
+sw:planet-2  sw:flim  sw:flim-1 .
+sw:planet-2  sw:created  "2014-12-10T11:35:48.479000Z" .
+sw:planet-2  sw:edited  "2014-12-20T20:58:18.420000Z" .
+sw:planet-2  sw:url  "http://swapi.co/api/planets/2/" .
+sw:planet-2  sw:desc  "Alderaan is a fictional planet featured in the Star Wars space opera franchise. It is blue-green in appearance and is depicted as a terrestrial planet with humanoid inhabitants. It is the home of Princess Leia, one of the lead characters in the film series. In the original 1977 film, Star Wars, Alderaan is blown up by the Death Star, a giant space station capable of destroying entire planets.[2]" .

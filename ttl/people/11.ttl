@@ -1,0 +1,28 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-11  a  sw:People .
+sw:people-11  rdfs:label  "Anakin Skywalker" .
+sw:people-11  sw:height  "188" .
+sw:people-11  sw:mass  "84" .
+sw:people-11  sw:hair_color  "blond" .
+sw:people-11  sw:skin_color  "fair" .
+sw:people-11  sw:eye_color  "blue" .
+sw:people-11  sw:birth_year  "41.9BBY" .
+sw:people-11  sw:gender  "male" .
+sw:people-11  sw:homeworld  sw:planet-1 .
+sw:people-11  sw:flim  sw:flim-5 .
+sw:people-11  sw:flim  sw:flim-4 .
+sw:people-11  sw:flim  sw:flim-6 .
+sw:people-11  sw:species  sw:species-1 .
+sw:people-11  sw:vehicle  sw:vehicle-44 .
+sw:people-11  sw:vehicle  sw:vehicle-46 .
+sw:people-11  sw:starship  sw:starship-59 .
+sw:people-11  sw:starship  sw:starship-65 .
+sw:people-11  sw:starship  sw:starship-39 .
+sw:people-11  sw:created  "2014-12-10T16:20:44.310000Z" .
+sw:people-11  sw:edited  "2014-12-20T21:17:50.327000Z" .
+sw:people-11  sw:url  "http://swapi.co/api/people/11/" .
+sw:people-11  sw:desc  "Darth Vader, also known by his birth name Anakin Skywalker, is a fictional character in the Star Wars franchise.[1][2][3] Vader appears in the original film trilogy as a pivotal antagonist whose actions drive the plot, while his past as Anakin Skywalker and the story of his corruption are central to the narrative of the prequel trilogy." .
+sw:people-11  sw:desc  "The character was created by George Lucas and has been portrayed by numerous actors. His appearances span the first six Star Wars films, as well as Rogue One, and his character is heavily referenced in Star Wars: The Force Awakens. He is also an important character in the Star Wars expanded universe of television series, video games, novels, literature and comic books. Originally a Jedi prophesied to bring balance to the Force, he falls to the dark side of the Force and serves the evil Galactic Empire at the right hand of his Sith master, Emperor Palpatine (also known as Darth Sidious).[4] He is also the father of Luke Skywalker and Princess Leia Organa, secret husband of Padmé Amidala and grandfather of Kylo Ren." .
+sw:people-11  sw:desc  "Darth Vader has become one of the most iconic villains in popular culture, and has been listed among the greatest villains and fictional characters ever.[5][6] The American Film Institute listed him as the third greatest movie villain in cinema history on 100 Years... 100 Heroes and Villains, behind Hannibal Lecter and Norman Bates.[7] However, other critics consider him a tragic hero, citing his original motivations for the greater good before his fall to the dark side.[8][9]" .

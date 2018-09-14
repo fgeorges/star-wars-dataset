@@ -1,0 +1,19 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:starship-27  a  sw:Starship .
+sw:starship-27  rdfs:label  "Calamari Cruiser" .
+sw:starship-27  sw:model  "MC80 Liberty type Star Cruiser" .
+sw:starship-27  sw:manufacturer  "Mon Calamari shipyards" .
+sw:starship-27  sw:cost_in_credits  "104000000" .
+sw:starship-27  sw:length  "1200" .
+sw:starship-27  sw:crew  "5400" .
+sw:starship-27  sw:passengers  "1200" .
+sw:starship-27  sw:consumables  "2 years" .
+sw:starship-27  sw:hyperdrive_rating  "1.0" .
+sw:starship-27  sw:MGLT  "60" .
+sw:starship-27  sw:starship_class  "Star Cruiser" .
+sw:starship-27  sw:flim  sw:flim-3 .
+sw:starship-27  sw:created  "2014-12-18T10:54:57.804000Z" .
+sw:starship-27  sw:edited  "2014-12-22T17:35:44.957852Z" .
+sw:starship-27  sw:url  "http://swapi.co/api/starships/27/" .

@@ -1,0 +1,31 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-10  a  sw:People .
+sw:people-10  rdfs:label  "Obi-Wan Kenobi" .
+sw:people-10  sw:height  "182" .
+sw:people-10  sw:mass  "77" .
+sw:people-10  sw:hair_color  "auburn, white" .
+sw:people-10  sw:skin_color  "fair" .
+sw:people-10  sw:eye_color  "blue-gray" .
+sw:people-10  sw:birth_year  "57BBY" .
+sw:people-10  sw:gender  "male" .
+sw:people-10  sw:homeworld  sw:planet-20 .
+sw:people-10  sw:flim  sw:flim-5 .
+sw:people-10  sw:flim  sw:flim-4 .
+sw:people-10  sw:flim  sw:flim-6 .
+sw:people-10  sw:flim  sw:flim-3 .
+sw:people-10  sw:flim  sw:flim-2 .
+sw:people-10  sw:flim  sw:flim-1 .
+sw:people-10  sw:species  sw:species-1 .
+sw:people-10  sw:vehicle  sw:vehicle-38 .
+sw:people-10  sw:starship  sw:starship-48 .
+sw:people-10  sw:starship  sw:starship-59 .
+sw:people-10  sw:starship  sw:starship-64 .
+sw:people-10  sw:starship  sw:starship-65 .
+sw:people-10  sw:starship  sw:starship-74 .
+sw:people-10  sw:created  "2014-12-10T16:16:29.192000Z" .
+sw:people-10  sw:edited  "2014-12-20T21:17:50.325000Z" .
+sw:people-10  sw:url  "http://swapi.co/api/people/10/" .
+sw:people-10  sw:desc  "Obi-Wan \u0022Ben\u0022 Kenobi is a fictional character in the Star Wars franchise. Within the original trilogy he is portrayed by Sir Alec Guinness, while in the prequel trilogy a younger version of the character is portrayed by Ewan McGregor. In the original trilogy, he is a mentor to Luke Skywalker, to whom he introduces the ways of the Jedi. In the prequel trilogy, he is a master and friend to Anakin Skywalker. He is frequently featured as a main character in various other Star Wars media." .
+sw:people-10  sw:desc  "Sir Alec Guinness's portrayal of Obi-Wan in the original Star Wars (1977) remains the only time an actor has received an Oscar nomination (Best Supporting Actor) for acting in a Star Wars film." .

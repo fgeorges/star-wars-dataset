@@ -1,0 +1,20 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:vehicle-16  a  sw:Vehicle .
+sw:vehicle-16  rdfs:label  "TIE bomber" .
+sw:vehicle-16  sw:model  "TIE/sa bomber" .
+sw:vehicle-16  sw:manufacturer  "Sienar Fleet Systems" .
+sw:vehicle-16  sw:length  "7.8" .
+sw:vehicle-16  sw:max_atmosphering_speed  "850" .
+sw:vehicle-16  sw:crew  "1" .
+sw:vehicle-16  sw:passengers  "0" .
+sw:vehicle-16  sw:cargo_capacity  "none" .
+sw:vehicle-16  sw:consumables  "2 days" .
+sw:vehicle-16  sw:vehicle_class  "space/planetary bomber" .
+sw:vehicle-16  sw:flim  sw:flim-3 .
+sw:vehicle-16  sw:flim  sw:flim-2 .
+sw:vehicle-16  sw:created  "2014-12-15T12:33:15.838000Z" .
+sw:vehicle-16  sw:edited  "2014-12-22T18:21:15.667730Z" .
+sw:vehicle-16  sw:url  "http://swapi.co/api/vehicles/16/" .
+sw:vehicle-16  sw:desc  "TIE fighters are fictional starfighters in the Star Wars universe. Propelled by twin ion engines (hence the TIE acronym), TIE fighters are fast, agile, yet fragile starfighters produced by Sienar Fleet Systems for the Galactic Empire. TIE fighters and other TIE craft appear in Star Wars films, television shows, and throughout the Star Wars expanded universe. Several TIE fighter replicas and toys, as well as a TIE flight simulator, have been produced and sold by merchandise companies." .

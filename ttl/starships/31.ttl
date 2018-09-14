@@ -1,0 +1,17 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:starship-31  a  sw:Starship .
+sw:starship-31  rdfs:label  "Republic Cruiser" .
+sw:starship-31  sw:model  "Consular-class cruiser" .
+sw:starship-31  sw:manufacturer  "Corellian Engineering Corporation" .
+sw:starship-31  sw:length  "115" .
+sw:starship-31  sw:max_atmosphering_speed  "900" .
+sw:starship-31  sw:crew  "9" .
+sw:starship-31  sw:passengers  "16" .
+sw:starship-31  sw:hyperdrive_rating  "2.0" .
+sw:starship-31  sw:starship_class  "Space cruiser" .
+sw:starship-31  sw:flim  sw:flim-4 .
+sw:starship-31  sw:created  "2014-12-19T17:01:31.488000Z" .
+sw:starship-31  sw:edited  "2014-12-22T17:35:45.027308Z" .
+sw:starship-31  sw:url  "http://swapi.co/api/starships/31/" .

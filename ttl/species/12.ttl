@@ -1,0 +1,21 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:species-12  a  sw:Species .
+sw:species-12  rdfs:label  "Gungan" .
+sw:species-12  sw:classification  "amphibian" .
+sw:species-12  sw:designation  "sentient" .
+sw:species-12  sw:average_height  "190" .
+sw:species-12  sw:skin_colors  "brown, green" .
+sw:species-12  sw:hair_colors  "none" .
+sw:species-12  sw:eye_colors  "orange" .
+sw:species-12  sw:homeworld  sw:planet-8 .
+sw:species-12  sw:language  "Gungan basic" .
+sw:species-12  sw:people  sw:people-36 .
+sw:species-12  sw:people  sw:people-37 .
+sw:species-12  sw:people  sw:people-38 .
+sw:species-12  sw:flim  sw:flim-5 .
+sw:species-12  sw:flim  sw:flim-4 .
+sw:species-12  sw:created  "2014-12-19T17:30:37.341000Z" .
+sw:species-12  sw:edited  "2014-12-20T21:36:42.163000Z" .
+sw:species-12  sw:url  "http://swapi.co/api/species/12/" .

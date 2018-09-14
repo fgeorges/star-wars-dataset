@@ -1,0 +1,17 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-62  a  sw:People .
+sw:people-62  rdfs:label  "Cliegg Lars" .
+sw:people-62  sw:height  "183" .
+sw:people-62  sw:hair_color  "brown" .
+sw:people-62  sw:skin_color  "fair" .
+sw:people-62  sw:eye_color  "blue" .
+sw:people-62  sw:birth_year  "82BBY" .
+sw:people-62  sw:gender  "male" .
+sw:people-62  sw:homeworld  sw:planet-1 .
+sw:people-62  sw:flim  sw:flim-5 .
+sw:people-62  sw:species  sw:species-1 .
+sw:people-62  sw:created  "2014-12-20T15:59:03.958000Z" .
+sw:people-62  sw:edited  "2014-12-20T21:17:50.451000Z" .
+sw:people-62  sw:url  "http://swapi.co/api/people/62/" .

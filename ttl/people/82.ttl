@@ -1,0 +1,17 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-82  a  sw:People .
+sw:people-82  rdfs:label  "Sly Moore" .
+sw:people-82  sw:height  "178" .
+sw:people-82  sw:mass  "48" .
+sw:people-82  sw:hair_color  "none" .
+sw:people-82  sw:skin_color  "pale" .
+sw:people-82  sw:eye_color  "white" .
+sw:people-82  sw:gender  "female" .
+sw:people-82  sw:homeworld  sw:planet-60 .
+sw:people-82  sw:flim  sw:flim-5 .
+sw:people-82  sw:flim  sw:flim-6 .
+sw:people-82  sw:created  "2014-12-20T20:18:37.619000Z" .
+sw:people-82  sw:edited  "2014-12-20T21:17:50.496000Z" .
+sw:people-82  sw:url  "http://swapi.co/api/people/82/" .

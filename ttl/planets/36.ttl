@@ -1,0 +1,16 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:planet-36  a  sw:Planet .
+sw:planet-36  rdfs:label  "Dathomir" .
+sw:planet-36  sw:rotation_period  "24" .
+sw:planet-36  sw:orbital_period  "491" .
+sw:planet-36  sw:diameter  "10480" .
+sw:planet-36  sw:climate  "temperate" .
+sw:planet-36  sw:gravity  "0.9" .
+sw:planet-36  sw:terrain  "forests, deserts, savannas" .
+sw:planet-36  sw:population  "5200" .
+sw:planet-36  sw:resident  sw:people-44 .
+sw:planet-36  sw:created  "2014-12-19T18:00:40.142000Z" .
+sw:planet-36  sw:edited  "2014-12-20T20:58:18.480000Z" .
+sw:planet-36  sw:url  "http://swapi.co/api/planets/36/" .

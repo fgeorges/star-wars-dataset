@@ -1,0 +1,19 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:species-36  a  sw:Species .
+sw:species-36  rdfs:label  "Kaleesh" .
+sw:species-36  sw:classification  "reptile" .
+sw:species-36  sw:designation  "sentient" .
+sw:species-36  sw:average_height  "170" .
+sw:species-36  sw:skin_colors  "brown, orange, tan" .
+sw:species-36  sw:hair_colors  "none" .
+sw:species-36  sw:eye_colors  "yellow" .
+sw:species-36  sw:average_lifespan  "80" .
+sw:species-36  sw:homeworld  sw:planet-59 .
+sw:species-36  sw:language  "Kaleesh" .
+sw:species-36  sw:people  sw:people-79 .
+sw:species-36  sw:flim  sw:flim-6 .
+sw:species-36  sw:created  "2014-12-20T19:45:42.537000Z" .
+sw:species-36  sw:edited  "2014-12-20T21:36:42.210000Z" .
+sw:species-36  sw:url  "http://swapi.co/api/species/36/" .

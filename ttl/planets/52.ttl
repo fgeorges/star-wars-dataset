@@ -1,0 +1,10 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:planet-52  a  sw:Planet .
+sw:planet-52  rdfs:label  "Serenno" .
+sw:planet-52  sw:terrain  "rainforests, rivers, mountains" .
+sw:planet-52  sw:resident  sw:people-67 .
+sw:planet-52  sw:created  "2014-12-20T16:52:13.357000Z" .
+sw:planet-52  sw:edited  "2014-12-20T20:58:18.510000Z" .
+sw:planet-52  sw:url  "http://swapi.co/api/planets/52/" .

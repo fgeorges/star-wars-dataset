@@ -1,0 +1,15 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-85  a  sw:People .
+sw:people-85  rdfs:label  "Rey" .
+sw:people-85  sw:hair_color  "brown" .
+sw:people-85  sw:skin_color  "light" .
+sw:people-85  sw:eye_color  "hazel" .
+sw:people-85  sw:gender  "female" .
+sw:people-85  sw:homeworld  sw:planet-28 .
+sw:people-85  sw:flim  sw:flim-7 .
+sw:people-85  sw:species  sw:species-1 .
+sw:people-85  sw:created  "2015-04-17T06:54:01.495077Z" .
+sw:people-85  sw:edited  "2015-04-17T06:54:01.495128Z" .
+sw:people-85  sw:url  "http://swapi.co/api/people/85/" .

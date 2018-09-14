@@ -1,0 +1,15 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:planet-56  a  sw:Planet .
+sw:planet-56  rdfs:label  "Skako" .
+sw:planet-56  sw:rotation_period  "27" .
+sw:planet-56  sw:orbital_period  "384" .
+sw:planet-56  sw:climate  "temperate" .
+sw:planet-56  sw:gravity  "1" .
+sw:planet-56  sw:terrain  "urban, vines" .
+sw:planet-56  sw:population  "500000000000" .
+sw:planet-56  sw:resident  sw:people-76 .
+sw:planet-56  sw:created  "2014-12-20T17:50:47.864000Z" .
+sw:planet-56  sw:edited  "2014-12-20T20:58:18.517000Z" .
+sw:planet-56  sw:url  "http://swapi.co/api/planets/56/" .

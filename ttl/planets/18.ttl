@@ -1,0 +1,17 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:planet-18  a  sw:Planet .
+sw:planet-18  rdfs:label  "Cato Neimoidia" .
+sw:planet-18  sw:rotation_period  "25" .
+sw:planet-18  sw:orbital_period  "278" .
+sw:planet-18  sw:diameter  "0" .
+sw:planet-18  sw:climate  "temperate, moist" .
+sw:planet-18  sw:gravity  "1 standard" .
+sw:planet-18  sw:terrain  "mountains, fields, forests, rock arches" .
+sw:planet-18  sw:population  "10000000" .
+sw:planet-18  sw:resident  sw:people-33 .
+sw:planet-18  sw:flim  sw:flim-6 .
+sw:planet-18  sw:created  "2014-12-10T13:46:28.704000Z" .
+sw:planet-18  sw:edited  "2014-12-20T20:58:18.449000Z" .
+sw:planet-18  sw:url  "http://swapi.co/api/planets/18/" .

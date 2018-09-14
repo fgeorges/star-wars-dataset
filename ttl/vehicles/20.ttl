@@ -1,0 +1,19 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:vehicle-20  a  sw:Vehicle .
+sw:vehicle-20  rdfs:label  "Storm IV Twin-Pod cloud car" .
+sw:vehicle-20  sw:model  "Storm IV Twin-Pod" .
+sw:vehicle-20  sw:manufacturer  "Bespin Motors" .
+sw:vehicle-20  sw:cost_in_credits  "75000" .
+sw:vehicle-20  sw:length  "7" .
+sw:vehicle-20  sw:max_atmosphering_speed  "1500" .
+sw:vehicle-20  sw:crew  "2" .
+sw:vehicle-20  sw:passengers  "0" .
+sw:vehicle-20  sw:cargo_capacity  "10" .
+sw:vehicle-20  sw:consumables  "1 day" .
+sw:vehicle-20  sw:vehicle_class  "repulsorcraft" .
+sw:vehicle-20  sw:flim  sw:flim-2 .
+sw:vehicle-20  sw:created  "2014-12-15T12:58:50.530000Z" .
+sw:vehicle-20  sw:edited  "2014-12-22T18:21:15.783232Z" .
+sw:vehicle-20  sw:url  "http://swapi.co/api/vehicles/20/" .

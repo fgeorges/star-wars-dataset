@@ -1,0 +1,18 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:species-8  a  sw:Species .
+sw:species-8  rdfs:label  "Mon Calamari" .
+sw:species-8  sw:classification  "amphibian" .
+sw:species-8  sw:designation  "sentient" .
+sw:species-8  sw:average_height  "160" .
+sw:species-8  sw:skin_colors  "red, blue, brown, magenta" .
+sw:species-8  sw:hair_colors  "none" .
+sw:species-8  sw:eye_colors  "yellow" .
+sw:species-8  sw:homeworld  sw:planet-31 .
+sw:species-8  sw:language  "Mon Calamarian" .
+sw:species-8  sw:people  sw:people-27 .
+sw:species-8  sw:flim  sw:flim-3 .
+sw:species-8  sw:created  "2014-12-18T11:09:52.263000Z" .
+sw:species-8  sw:edited  "2014-12-20T21:36:42.153000Z" .
+sw:species-8  sw:url  "http://swapi.co/api/species/8/" .

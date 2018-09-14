@@ -1,0 +1,74 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:film-1  a  sw:Film .
+sw:film-1  rdfs:label  "A New Hope" .
+sw:film-1  sw:episode_id  4 .
+sw:film-1  sw:opening_crawl  "It is a period of civil war.
+Rebel spaceships, striking
+from a hidden base, have won
+their first victory against
+the evil Galactic Empire.
+
+During the battle, Rebel
+spies managed to steal secret
+plans to the Empire's
+ultimate weapon, the DEATH
+STAR, an armored space
+station with enough power
+to destroy an entire planet.
+
+Pursued by the Empire's
+sinister agents, Princess
+Leia races home aboard her
+starship, custodian of the
+stolen plans that can save her
+people and restore
+freedom to the galaxy...." .
+sw:film-1  sw:director  "George Lucas" .
+sw:film-1  sw:producer  "Gary Kurtz, Rick McCallum" .
+sw:film-1  sw:release_date  "1977-05-25" .
+sw:film-1  sw:character  sw:people-1 .
+sw:film-1  sw:character  sw:people-2 .
+sw:film-1  sw:character  sw:people-3 .
+sw:film-1  sw:character  sw:people-4 .
+sw:film-1  sw:character  sw:people-5 .
+sw:film-1  sw:character  sw:people-6 .
+sw:film-1  sw:character  sw:people-7 .
+sw:film-1  sw:character  sw:people-8 .
+sw:film-1  sw:character  sw:people-9 .
+sw:film-1  sw:character  sw:people-10 .
+sw:film-1  sw:character  sw:people-12 .
+sw:film-1  sw:character  sw:people-13 .
+sw:film-1  sw:character  sw:people-14 .
+sw:film-1  sw:character  sw:people-15 .
+sw:film-1  sw:character  sw:people-16 .
+sw:film-1  sw:character  sw:people-18 .
+sw:film-1  sw:character  sw:people-19 .
+sw:film-1  sw:character  sw:people-81 .
+sw:film-1  sw:planet  sw:planet-2 .
+sw:film-1  sw:planet  sw:planet-3 .
+sw:film-1  sw:planet  sw:planet-1 .
+sw:film-1  sw:starship  sw:starship-2 .
+sw:film-1  sw:starship  sw:starship-3 .
+sw:film-1  sw:starship  sw:starship-5 .
+sw:film-1  sw:starship  sw:starship-9 .
+sw:film-1  sw:starship  sw:starship-10 .
+sw:film-1  sw:starship  sw:starship-11 .
+sw:film-1  sw:starship  sw:starship-12 .
+sw:film-1  sw:starship  sw:starship-13 .
+sw:film-1  sw:vehicle  sw:vehicle-4 .
+sw:film-1  sw:vehicle  sw:vehicle-6 .
+sw:film-1  sw:vehicle  sw:vehicle-7 .
+sw:film-1  sw:vehicle  sw:vehicle-8 .
+sw:film-1  sw:species  sw:species-5 .
+sw:film-1  sw:species  sw:species-3 .
+sw:film-1  sw:species  sw:species-2 .
+sw:film-1  sw:species  sw:species-1 .
+sw:film-1  sw:species  sw:species-4 .
+sw:film-1  sw:created  "2014-12-10T14:23:31.880000Z" .
+sw:film-1  sw:edited  "2015-04-11T09:46:52.774897Z" .
+sw:film-1  sw:url  "http://swapi.co/api/films/1/" .
+sw:film-1  sw:desc  "Star Wars (later retitled Star Wars: Episode IV – A New Hope) is a 1977 American epic space opera film written and directed by George Lucas. It is the first film in the original Star Wars trilogy, the first Star Wars movie in general, and the beginning of the Star Wars franchise. Starring Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness, David Prowse, James Earl Jones, Anthony Daniels, Kenny Baker, and Peter Mayhew, the film's plot focuses on the Rebel Alliance, led by Princess Leia (Fisher), and its attempt to destroy the Galactic Empire's space station, the Death Star. This conflict disrupts the isolated life of farmhand Luke Skywalker (Hamill), who inadvertently acquires a pair of droids that possess stolen architectural plans for the Death Star. When the Empire begins a destructive search for the missing droids, Skywalker accompanies Jedi Master Obi-Wan Kenobi (Guinness) on a mission to return the plans to the Rebel Alliance and rescue Leia from her imprisonment by the Empire." .
+sw:film-1  sw:desc  "Star Wars was released in theatres in the United States on May 25, 1977. It earned $461 million in the U.S. and $314 million overseas, totaling $775 million ($3.132 billion in 2017 dollars, adjusted for inflation). It surpassed Jaws (1975) to become the highest-grossing film of all time until the release of E.T. the Extra-Terrestrial (1982). When adjusted for inflation, Star Wars is the second-highest-grossing film in North America, and the third-highest-grossing film in the world. It received ten Academy Award nominations (including Best Picture), winning seven. It was among the first films to be selected as part of the U.S. Library of Congress' National Film Registry as being \u0022culturally, historically, or aesthetically significant\u0022. At the time, it was the most recent film on the registry and the only one chosen from the 1970s. Its soundtrack was added to the U.S. National Recording Registry in 2004. Today, it is often regarded as one of the most important films in the history of motion pictures. It launched an industry of tie-in products, including TV series spinoffs, novels, comic books, and video games, and merchandise including toys, games and clothing." .
+sw:film-1  sw:desc  "The film's success led to two critically and commercially successful sequels, The Empire Strikes Back in 1980 and Return of the Jedi in 1983. Star Wars was reissued multiple times at Lucas' behest, incorporating many changes including modified computer-generated effects, altered dialogue, re-edited shots, remixed soundtracks, and added scenes. A prequel trilogy was released beginning with The Phantom Menace in 1999, continuing with Attack of the Clones in 2002, and concluding with Revenge of the Sith in 2005. The film was followed by a sequel trilogy beginning with The Force Awakens in 2015. A direct prequel, Rogue One, was released in 2016. The film's fourth sequel, The Last Jedi, will be released in December 2017." .

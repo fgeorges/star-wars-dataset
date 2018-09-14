@@ -1,0 +1,22 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:starship-23  a  sw:Starship .
+sw:starship-23  rdfs:label  "EF76 Nebulon-B escort frigate" .
+sw:starship-23  sw:model  "EF76 Nebulon-B escort frigate" .
+sw:starship-23  sw:manufacturer  "Kuat Drive Yards" .
+sw:starship-23  sw:cost_in_credits  "8500000" .
+sw:starship-23  sw:length  "300" .
+sw:starship-23  sw:max_atmosphering_speed  "800" .
+sw:starship-23  sw:crew  "854" .
+sw:starship-23  sw:passengers  "75" .
+sw:starship-23  sw:cargo_capacity  "6000000" .
+sw:starship-23  sw:consumables  "2 years" .
+sw:starship-23  sw:hyperdrive_rating  "2.0" .
+sw:starship-23  sw:MGLT  "40" .
+sw:starship-23  sw:starship_class  "Escort ship" .
+sw:starship-23  sw:flim  sw:flim-3 .
+sw:starship-23  sw:flim  sw:flim-2 .
+sw:starship-23  sw:created  "2014-12-15T13:06:30.813000Z" .
+sw:starship-23  sw:edited  "2014-12-22T17:35:44.848329Z" .
+sw:starship-23  sw:url  "http://swapi.co/api/starships/23/" .

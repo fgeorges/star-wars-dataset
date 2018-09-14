@@ -1,0 +1,16 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:planet-21  a  sw:Planet .
+sw:planet-21  rdfs:label  "Eriadu" .
+sw:planet-21  sw:rotation_period  "24" .
+sw:planet-21  sw:orbital_period  "360" .
+sw:planet-21  sw:diameter  "13490" .
+sw:planet-21  sw:climate  "polluted" .
+sw:planet-21  sw:gravity  "1 standard" .
+sw:planet-21  sw:terrain  "cityscape" .
+sw:planet-21  sw:population  "22000000000" .
+sw:planet-21  sw:resident  sw:people-12 .
+sw:planet-21  sw:created  "2014-12-10T16:26:54.384000Z" .
+sw:planet-21  sw:edited  "2014-12-20T20:58:18.454000Z" .
+sw:planet-21  sw:url  "http://swapi.co/api/planets/21/" .

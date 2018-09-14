@@ -1,0 +1,20 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-69  a  sw:People .
+sw:people-69  rdfs:label  "Jango Fett" .
+sw:people-69  sw:height  "183" .
+sw:people-69  sw:mass  "79" .
+sw:people-69  sw:hair_color  "black" .
+sw:people-69  sw:skin_color  "tan" .
+sw:people-69  sw:eye_color  "brown" .
+sw:people-69  sw:birth_year  "66BBY" .
+sw:people-69  sw:gender  "male" .
+sw:people-69  sw:homeworld  sw:planet-53 .
+sw:people-69  sw:flim  sw:flim-5 .
+sw:people-69  sw:species  sw:species-1 .
+sw:people-69  sw:created  "2014-12-20T16:54:41.620000Z" .
+sw:people-69  sw:edited  "2014-12-20T21:17:50.465000Z" .
+sw:people-69  sw:url  "http://swapi.co/api/people/69/" .
+sw:people-69  sw:desc  "Jango Fett is a fictional character in the Star Wars franchise, created by George Lucas. He made his debut in the 2002 film Star Wars: Episode II – Attack of the Clones, where he was portrayed by actor Temuera Morrison." .
+sw:people-69  sw:desc  "In the context of the Star Wars universe, Jango Fett was regarded as the best mercenary in the galaxy during the final years of the Republic. A naturally skilled warrior, he was eventually chosen to serve as the genetic template for the Clone Army of the Galactic Republic. These clone soldiers were genetically modified to be predisposed toward unquestioning obedience to the chain of command, unlike their highly independent progenitor. Jango was also the \u0022father\u0022 of unaltered clone Boba Fett, which he requested as part of his contract with the Kaminoans." .

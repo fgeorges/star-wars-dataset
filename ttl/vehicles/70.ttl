@@ -1,0 +1,19 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:vehicle-70  a  sw:Vehicle .
+sw:vehicle-70  rdfs:label  "Raddaugh Gnasp fluttercraft" .
+sw:vehicle-70  sw:model  "Raddaugh Gnasp fluttercraft" .
+sw:vehicle-70  sw:manufacturer  "Appazanna Engineering Works" .
+sw:vehicle-70  sw:cost_in_credits  "14750" .
+sw:vehicle-70  sw:length  "7" .
+sw:vehicle-70  sw:max_atmosphering_speed  "310" .
+sw:vehicle-70  sw:crew  "2" .
+sw:vehicle-70  sw:passengers  "0" .
+sw:vehicle-70  sw:cargo_capacity  "20" .
+sw:vehicle-70  sw:consumables  "none" .
+sw:vehicle-70  sw:vehicle_class  "air speeder" .
+sw:vehicle-70  sw:flim  sw:flim-6 .
+sw:vehicle-70  sw:created  "2014-12-20T20:21:55.648000Z" .
+sw:vehicle-70  sw:edited  "2014-12-22T18:21:16.547708Z" .
+sw:vehicle-70  sw:url  "http://swapi.co/api/vehicles/70/" .

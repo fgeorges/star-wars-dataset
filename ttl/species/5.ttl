@@ -1,0 +1,20 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:species-5  a  sw:Species .
+sw:species-5  rdfs:label  "Hutt" .
+sw:species-5  sw:classification  "gastropod" .
+sw:species-5  sw:designation  "sentient" .
+sw:species-5  sw:average_height  "300" .
+sw:species-5  sw:skin_colors  "green, brown, tan" .
+sw:species-5  sw:eye_colors  "yellow, red" .
+sw:species-5  sw:average_lifespan  "1000" .
+sw:species-5  sw:homeworld  sw:planet-24 .
+sw:species-5  sw:language  "Huttese" .
+sw:species-5  sw:people  sw:people-16 .
+sw:species-5  sw:flim  sw:flim-3 .
+sw:species-5  sw:flim  sw:flim-1 .
+sw:species-5  sw:created  "2014-12-10T17:12:50.410000Z" .
+sw:species-5  sw:edited  "2014-12-20T21:36:42.146000Z" .
+sw:species-5  sw:url  "http://swapi.co/api/species/5/" .
+sw:species-5  sw:desc  "The Hutts are a fictional alien race in the Star Wars universe. They appear in The Phantom Menace, Return of the Jedi and The Clone Wars, as well as the special edition release of A New Hope. They also appear in various Star Wars games, including those based on the movies, and the Knights of the Old Republic series. None of these are very friendly and all are criminally involved.[1] In the comic book series Tales of the Jedi: Golden Age of the Sith and Tales of the Jedi: The Fall of the Sith Empire, however, there is a Hutt character named Aarrba who is sympathetic to the main characters, Gav and Jori Daragon." .

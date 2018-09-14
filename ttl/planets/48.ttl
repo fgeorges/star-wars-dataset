@@ -1,0 +1,9 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:planet-48  a  sw:Planet .
+sw:planet-48  rdfs:label  "Quermia" .
+sw:planet-48  sw:resident  sw:people-57 .
+sw:planet-48  sw:created  "2014-12-20T10:34:08.249000Z" .
+sw:planet-48  sw:edited  "2014-12-20T20:58:18.502000Z" .
+sw:planet-48  sw:url  "http://swapi.co/api/planets/48/" .

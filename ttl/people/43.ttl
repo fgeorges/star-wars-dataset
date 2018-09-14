@@ -1,0 +1,18 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-43  a  sw:People .
+sw:people-43  rdfs:label  "Shmi Skywalker" .
+sw:people-43  sw:height  "163" .
+sw:people-43  sw:hair_color  "black" .
+sw:people-43  sw:skin_color  "fair" .
+sw:people-43  sw:eye_color  "brown" .
+sw:people-43  sw:birth_year  "72BBY" .
+sw:people-43  sw:gender  "female" .
+sw:people-43  sw:homeworld  sw:planet-1 .
+sw:people-43  sw:flim  sw:flim-5 .
+sw:people-43  sw:flim  sw:flim-4 .
+sw:people-43  sw:species  sw:species-1 .
+sw:people-43  sw:created  "2014-12-19T17:57:41.191000Z" .
+sw:people-43  sw:edited  "2014-12-20T21:17:50.401000Z" .
+sw:people-43  sw:url  "http://swapi.co/api/people/43/" .

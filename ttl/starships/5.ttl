@@ -1,0 +1,21 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:starship-5  a  sw:Starship .
+sw:starship-5  rdfs:label  "Sentinel-class landing craft" .
+sw:starship-5  sw:model  "Sentinel-class landing craft" .
+sw:starship-5  sw:manufacturer  "Sienar Fleet Systems, Cyngus Spaceworks" .
+sw:starship-5  sw:cost_in_credits  "240000" .
+sw:starship-5  sw:length  "38" .
+sw:starship-5  sw:max_atmosphering_speed  "1000" .
+sw:starship-5  sw:crew  "5" .
+sw:starship-5  sw:passengers  "75" .
+sw:starship-5  sw:cargo_capacity  "180000" .
+sw:starship-5  sw:consumables  "1 month" .
+sw:starship-5  sw:hyperdrive_rating  "1.0" .
+sw:starship-5  sw:MGLT  "70" .
+sw:starship-5  sw:starship_class  "landing craft" .
+sw:starship-5  sw:flim  sw:flim-1 .
+sw:starship-5  sw:created  "2014-12-10T15:48:00.586000Z" .
+sw:starship-5  sw:edited  "2014-12-22T17:35:44.431407Z" .
+sw:starship-5  sw:url  "http://swapi.co/api/starships/5/" .

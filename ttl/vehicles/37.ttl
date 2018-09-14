@@ -1,0 +1,19 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:vehicle-37  a  sw:Vehicle .
+sw:vehicle-37  rdfs:label  "C-9979 landing craft" .
+sw:vehicle-37  sw:model  "C-9979 landing craft" .
+sw:vehicle-37  sw:manufacturer  "Haor Chall Engineering" .
+sw:vehicle-37  sw:cost_in_credits  "200000" .
+sw:vehicle-37  sw:length  "210" .
+sw:vehicle-37  sw:max_atmosphering_speed  "587" .
+sw:vehicle-37  sw:crew  "140" .
+sw:vehicle-37  sw:passengers  "284" .
+sw:vehicle-37  sw:cargo_capacity  "1800000" .
+sw:vehicle-37  sw:consumables  "1 day" .
+sw:vehicle-37  sw:vehicle_class  "landing craft" .
+sw:vehicle-37  sw:flim  sw:flim-4 .
+sw:vehicle-37  sw:created  "2014-12-19T17:20:36.373000Z" .
+sw:vehicle-37  sw:edited  "2014-12-22T18:21:16.033738Z" .
+sw:vehicle-37  sw:url  "http://swapi.co/api/vehicles/37/" .

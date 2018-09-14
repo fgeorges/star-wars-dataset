@@ -1,0 +1,20 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:species-29  a  sw:Species .
+sw:species-29  rdfs:label  "Mirialan" .
+sw:species-29  sw:classification  "mammal" .
+sw:species-29  sw:designation  "sentient" .
+sw:species-29  sw:average_height  "180" .
+sw:species-29  sw:skin_colors  "yellow, green" .
+sw:species-29  sw:hair_colors  "black, brown" .
+sw:species-29  sw:eye_colors  "blue, green, red, yellow, brown, orange" .
+sw:species-29  sw:homeworld  sw:planet-51 .
+sw:species-29  sw:language  "Mirialan" .
+sw:species-29  sw:people  sw:people-64 .
+sw:species-29  sw:people  sw:people-65 .
+sw:species-29  sw:flim  sw:flim-5 .
+sw:species-29  sw:flim  sw:flim-6 .
+sw:species-29  sw:created  "2014-12-20T16:46:48.290000Z" .
+sw:species-29  sw:edited  "2014-12-20T21:36:42.197000Z" .
+sw:species-29  sw:url  "http://swapi.co/api/species/29/" .

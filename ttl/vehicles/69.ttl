@@ -1,0 +1,19 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:vehicle-69  a  sw:Vehicle .
+sw:vehicle-69  rdfs:label  "Oevvaor jet catamaran" .
+sw:vehicle-69  sw:model  "Oevvaor jet catamaran" .
+sw:vehicle-69  sw:manufacturer  "Appazanna Engineering Works" .
+sw:vehicle-69  sw:cost_in_credits  "12125" .
+sw:vehicle-69  sw:length  "15.1" .
+sw:vehicle-69  sw:max_atmosphering_speed  "420" .
+sw:vehicle-69  sw:crew  "2" .
+sw:vehicle-69  sw:passengers  "2" .
+sw:vehicle-69  sw:cargo_capacity  "50" .
+sw:vehicle-69  sw:consumables  "3 days" .
+sw:vehicle-69  sw:vehicle_class  "airspeeder" .
+sw:vehicle-69  sw:flim  sw:flim-6 .
+sw:vehicle-69  sw:created  "2014-12-20T20:20:53.931000Z" .
+sw:vehicle-69  sw:edited  "2014-12-22T18:21:16.517049Z" .
+sw:vehicle-69  sw:url  "http://swapi.co/api/vehicles/69/" .

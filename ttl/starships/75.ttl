@@ -1,0 +1,21 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:starship-75  a  sw:Starship .
+sw:starship-75  rdfs:label  "V-wing" .
+sw:starship-75  sw:model  "Alpha-3 Nimbus-class V-wing starfighter" .
+sw:starship-75  sw:manufacturer  "Kuat Systems Engineering" .
+sw:starship-75  sw:cost_in_credits  "102500" .
+sw:starship-75  sw:length  "7.9" .
+sw:starship-75  sw:max_atmosphering_speed  "1050" .
+sw:starship-75  sw:crew  "1" .
+sw:starship-75  sw:passengers  "0" .
+sw:starship-75  sw:cargo_capacity  "60" .
+sw:starship-75  sw:consumables  "15 hours" .
+sw:starship-75  sw:hyperdrive_rating  "1.0" .
+sw:starship-75  sw:starship_class  "starfighter" .
+sw:starship-75  sw:flim  sw:flim-6 .
+sw:starship-75  sw:created  "2014-12-20T20:43:04.349000Z" .
+sw:starship-75  sw:edited  "2014-12-22T17:35:45.396711Z" .
+sw:starship-75  sw:url  "http://swapi.co/api/starships/75/" .
+sw:starship-75  sw:desc  "There have been several vehicles in the Star Wars Universe designated V-wing:" .

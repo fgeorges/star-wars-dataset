@@ -1,0 +1,16 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:planet-39  a  sw:Planet .
+sw:planet-39  rdfs:label  "Vulpter" .
+sw:planet-39  sw:rotation_period  "22" .
+sw:planet-39  sw:orbital_period  "391" .
+sw:planet-39  sw:diameter  "14900" .
+sw:planet-39  sw:climate  "temperate, artic" .
+sw:planet-39  sw:gravity  "1" .
+sw:planet-39  sw:terrain  "urban, barren" .
+sw:planet-39  sw:population  "421000000" .
+sw:planet-39  sw:resident  sw:people-48 .
+sw:planet-39  sw:created  "2014-12-20T09:56:58.874000Z" .
+sw:planet-39  sw:edited  "2014-12-20T20:58:18.485000Z" .
+sw:planet-39  sw:url  "http://swapi.co/api/planets/39/" .

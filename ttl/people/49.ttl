@@ -1,0 +1,16 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-49  a  sw:People .
+sw:people-49  rdfs:label  "Gasgano" .
+sw:people-49  sw:height  "122" .
+sw:people-49  sw:hair_color  "none" .
+sw:people-49  sw:skin_color  "white, blue" .
+sw:people-49  sw:eye_color  "black" .
+sw:people-49  sw:gender  "male" .
+sw:people-49  sw:homeworld  sw:planet-40 .
+sw:people-49  sw:flim  sw:flim-4 .
+sw:people-49  sw:species  sw:species-18 .
+sw:people-49  sw:created  "2014-12-20T10:02:12.223000Z" .
+sw:people-49  sw:edited  "2014-12-20T21:17:50.416000Z" .
+sw:people-49  sw:url  "http://swapi.co/api/people/49/" .

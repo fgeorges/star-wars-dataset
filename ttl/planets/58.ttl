@@ -1,0 +1,12 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:planet-58  a  sw:Planet .
+sw:planet-58  rdfs:label  "Shili" .
+sw:planet-58  sw:climate  "temperate" .
+sw:planet-58  sw:gravity  "1" .
+sw:planet-58  sw:terrain  "cities, savannahs, seas, plains" .
+sw:planet-58  sw:resident  sw:people-78 .
+sw:planet-58  sw:created  "2014-12-20T18:43:14.049000Z" .
+sw:planet-58  sw:edited  "2014-12-20T20:58:18.521000Z" .
+sw:planet-58  sw:url  "http://swapi.co/api/planets/58/" .

@@ -1,0 +1,21 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:starship-9  a  sw:Starship .
+sw:starship-9  rdfs:label  "Death Star" .
+sw:starship-9  sw:model  "DS-1 Orbital Battle Station" .
+sw:starship-9  sw:manufacturer  "Imperial Department of Military Research, Sienar Fleet Systems" .
+sw:starship-9  sw:cost_in_credits  "1000000000000" .
+sw:starship-9  sw:length  "120000" .
+sw:starship-9  sw:crew  "342953" .
+sw:starship-9  sw:passengers  "843342" .
+sw:starship-9  sw:cargo_capacity  "1000000000000" .
+sw:starship-9  sw:consumables  "3 years" .
+sw:starship-9  sw:hyperdrive_rating  "4.0" .
+sw:starship-9  sw:MGLT  "10" .
+sw:starship-9  sw:starship_class  "Deep Space Mobile Battlestation" .
+sw:starship-9  sw:flim  sw:flim-1 .
+sw:starship-9  sw:created  "2014-12-10T16:36:50.509000Z" .
+sw:starship-9  sw:edited  "2014-12-22T17:35:44.452589Z" .
+sw:starship-9  sw:url  "http://swapi.co/api/starships/9/" .
+sw:starship-9  sw:desc  "A number of fictional mobile space stations and galactic superweapons called Death Star featured in the Star Wars science-fiction franchise. The first Death Star was stated to be more than 100 km to 160 km in diameter, depending on source. It was crewed by an estimated 1.7 million military personnel and 400,000 droids.[1][2] Its superweapon delivered enough energies on a scale equivalent to all the energy released by the Sun in an entire week.[citation needed] The second Death Star was significantly larger, between 200 km to 400 km in diameter depending on source, and technologically more advanced than its predecessor. Both versions of these dwarf planet-sized fortresses were designed for massive power projection capabilities, capable of destroying an entire planet with one blast from their superlasers.[3]" .

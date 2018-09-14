@@ -1,0 +1,23 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-20  a  sw:People .
+sw:people-20  rdfs:label  "Yoda" .
+sw:people-20  sw:height  "66" .
+sw:people-20  sw:mass  "17" .
+sw:people-20  sw:hair_color  "white" .
+sw:people-20  sw:skin_color  "green" .
+sw:people-20  sw:eye_color  "brown" .
+sw:people-20  sw:birth_year  "896BBY" .
+sw:people-20  sw:gender  "male" .
+sw:people-20  sw:homeworld  sw:planet-28 .
+sw:people-20  sw:flim  sw:flim-5 .
+sw:people-20  sw:flim  sw:flim-4 .
+sw:people-20  sw:flim  sw:flim-6 .
+sw:people-20  sw:flim  sw:flim-3 .
+sw:people-20  sw:flim  sw:flim-2 .
+sw:people-20  sw:species  sw:species-6 .
+sw:people-20  sw:created  "2014-12-15T12:26:01.042000Z" .
+sw:people-20  sw:edited  "2014-12-20T21:17:50.345000Z" .
+sw:people-20  sw:url  "http://swapi.co/api/people/20/" .
+sw:people-20  sw:desc  "Yoda is a fictional character in the Star Wars franchise created by George Lucas, first appearing in the 1980 film The Empire Strikes Back. In the original films, he trains Luke Skywalker to fight against the Galactic Empire. In the prequel films, he serves as the Grand Master of the Jedi Order and as a high-ranking general of Clone Troopers in the Clone Wars. Following his death in Return of the Jedi at the age of 900, Yoda was the oldest living character in the Star Wars franchise in canon, until the introduction of Maz Kanata in Star Wars: The Force Awakens." .

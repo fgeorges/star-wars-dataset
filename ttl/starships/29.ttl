@@ -1,0 +1,21 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:starship-29  a  sw:Starship .
+sw:starship-29  rdfs:label  "B-wing" .
+sw:starship-29  sw:model  "A/SF-01 B-wing starfighter" .
+sw:starship-29  sw:manufacturer  "Slayn & Korpil" .
+sw:starship-29  sw:cost_in_credits  "220000" .
+sw:starship-29  sw:length  "16.9" .
+sw:starship-29  sw:max_atmosphering_speed  "950" .
+sw:starship-29  sw:crew  "1" .
+sw:starship-29  sw:passengers  "0" .
+sw:starship-29  sw:cargo_capacity  "45" .
+sw:starship-29  sw:consumables  "1 week" .
+sw:starship-29  sw:hyperdrive_rating  "2.0" .
+sw:starship-29  sw:MGLT  "91" .
+sw:starship-29  sw:starship_class  "Assault Starfighter" .
+sw:starship-29  sw:flim  sw:flim-3 .
+sw:starship-29  sw:created  "2014-12-18T11:18:04.763000Z" .
+sw:starship-29  sw:edited  "2014-12-22T17:35:45.011193Z" .
+sw:starship-29  sw:url  "http://swapi.co/api/starships/29/" .

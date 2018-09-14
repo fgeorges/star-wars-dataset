@@ -1,0 +1,9 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:planet-38  a  sw:Planet .
+sw:planet-38  rdfs:label  "Aleen Minor" .
+sw:planet-38  sw:resident  sw:people-47 .
+sw:planet-38  sw:created  "2014-12-20T09:52:23.452000Z" .
+sw:planet-38  sw:edited  "2014-12-20T20:58:18.483000Z" .
+sw:planet-38  sw:url  "http://swapi.co/api/planets/38/" .

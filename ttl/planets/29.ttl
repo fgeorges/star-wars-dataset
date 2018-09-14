@@ -1,0 +1,16 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:planet-29  a  sw:Planet .
+sw:planet-29  rdfs:label  "Trandosha" .
+sw:planet-29  sw:rotation_period  "25" .
+sw:planet-29  sw:orbital_period  "371" .
+sw:planet-29  sw:diameter  "0" .
+sw:planet-29  sw:climate  "arid" .
+sw:planet-29  sw:gravity  "0.62 standard" .
+sw:planet-29  sw:terrain  "mountains, seas, grasslands, deserts" .
+sw:planet-29  sw:population  "42000000" .
+sw:planet-29  sw:resident  sw:people-24 .
+sw:planet-29  sw:created  "2014-12-15T12:53:47.695000Z" .
+sw:planet-29  sw:edited  "2014-12-20T20:58:18.468000Z" .
+sw:planet-29  sw:url  "http://swapi.co/api/planets/29/" .

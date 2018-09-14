@@ -1,0 +1,21 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:starship-13  a  sw:Starship .
+sw:starship-13  rdfs:label  "TIE Advanced x1" .
+sw:starship-13  sw:model  "Twin Ion Engine Advanced x1" .
+sw:starship-13  sw:manufacturer  "Sienar Fleet Systems" .
+sw:starship-13  sw:length  "9.2" .
+sw:starship-13  sw:max_atmosphering_speed  "1200" .
+sw:starship-13  sw:crew  "1" .
+sw:starship-13  sw:passengers  "0" .
+sw:starship-13  sw:cargo_capacity  "150" .
+sw:starship-13  sw:consumables  "5 days" .
+sw:starship-13  sw:hyperdrive_rating  "1.0" .
+sw:starship-13  sw:MGLT  "105" .
+sw:starship-13  sw:starship_class  "Starfighter" .
+sw:starship-13  sw:pilot  sw:people-4 .
+sw:starship-13  sw:flim  sw:flim-1 .
+sw:starship-13  sw:created  "2014-12-12T11:21:32.991000Z" .
+sw:starship-13  sw:edited  "2014-12-22T17:35:44.549047Z" .
+sw:starship-13  sw:url  "http://swapi.co/api/starships/13/" .

@@ -1,0 +1,16 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-74  a  sw:People .
+sw:people-74  rdfs:label  "Jocasta Nu" .
+sw:people-74  sw:height  "167" .
+sw:people-74  sw:hair_color  "white" .
+sw:people-74  sw:skin_color  "fair" .
+sw:people-74  sw:eye_color  "blue" .
+sw:people-74  sw:gender  "female" .
+sw:people-74  sw:homeworld  sw:planet-9 .
+sw:people-74  sw:flim  sw:flim-5 .
+sw:people-74  sw:species  sw:species-1 .
+sw:people-74  sw:created  "2014-12-20T17:32:51.996000Z" .
+sw:people-74  sw:edited  "2014-12-20T21:17:50.476000Z" .
+sw:people-74  sw:url  "http://swapi.co/api/people/74/" .

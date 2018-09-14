@@ -1,0 +1,34 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:planet-8  a  sw:Planet .
+sw:planet-8  rdfs:label  "Naboo" .
+sw:planet-8  sw:rotation_period  "26" .
+sw:planet-8  sw:orbital_period  "312" .
+sw:planet-8  sw:diameter  "12120" .
+sw:planet-8  sw:climate  "temperate" .
+sw:planet-8  sw:gravity  "1 standard" .
+sw:planet-8  sw:terrain  "grassy hills, swamps, forests, mountains" .
+sw:planet-8  sw:surface_water  "12" .
+sw:planet-8  sw:population  "4500000000" .
+sw:planet-8  sw:resident  sw:people-3 .
+sw:planet-8  sw:resident  sw:people-21 .
+sw:planet-8  sw:resident  sw:people-36 .
+sw:planet-8  sw:resident  sw:people-37 .
+sw:planet-8  sw:resident  sw:people-38 .
+sw:planet-8  sw:resident  sw:people-39 .
+sw:planet-8  sw:resident  sw:people-42 .
+sw:planet-8  sw:resident  sw:people-60 .
+sw:planet-8  sw:resident  sw:people-61 .
+sw:planet-8  sw:resident  sw:people-66 .
+sw:planet-8  sw:resident  sw:people-35 .
+sw:planet-8  sw:flim  sw:flim-5 .
+sw:planet-8  sw:flim  sw:flim-4 .
+sw:planet-8  sw:flim  sw:flim-6 .
+sw:planet-8  sw:flim  sw:flim-3 .
+sw:planet-8  sw:created  "2014-12-10T11:52:31.066000Z" .
+sw:planet-8  sw:edited  "2014-12-20T20:58:18.430000Z" .
+sw:planet-8  sw:url  "http://swapi.co/api/planets/8/" .
+sw:planet-8  sw:desc  "Naboo is a planet in the fictional Star Wars universe with a mostly green terrain and which is the homeworld of two societies: the Gungans who dwell in underwater cities and the humans who live in colonies on the surface. Humans of Naboo have an electoral monarchy and maintain a peaceful culture that defends education, the arts, environmental protection and scientific achievements. The main capital of Naboo is Theed." .
+sw:planet-8  sw:desc  "Located in the Chommell sector, Naboo is the home planet of Padmé Amidala and Jar Jar Binks, as well as Senator (later Supreme Chancellor and then Emperor) Palpatine. In Star Wars: Episode I – The Phantom Menace, it was the site of a blockade by the Trade Federation and the Battle of Naboo between the Federation and the native inhabitants. Naboo is seen in four films in the Star Wars series, having a prominent role in the first two prequels and glimpsed briefly in Revenge of the Sith and the 2004 DVD release of Return of the Jedi." .
+sw:planet-8  sw:desc  "Theed's architecture, while referencing Ancient Rome and other classical traditions, was heavily inspired by the Frank Lloyd Wright-designed Marin County Civic Center in California. (Skywalker Ranch and Industrial Light & Magic are both based in Marin County.)" .

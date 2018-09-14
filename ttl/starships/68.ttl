@@ -1,0 +1,18 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:starship-68  a  sw:Starship .
+sw:starship-68  rdfs:label  "Banking clan frigte" .
+sw:starship-68  sw:model  "Munificent-class star frigate" .
+sw:starship-68  sw:manufacturer  "Hoersch-Kessel Drive, Inc, Gwori Revolutionary Industries" .
+sw:starship-68  sw:cost_in_credits  "57000000" .
+sw:starship-68  sw:length  "825" .
+sw:starship-68  sw:crew  "200" .
+sw:starship-68  sw:cargo_capacity  "40000000" .
+sw:starship-68  sw:consumables  "2 years" .
+sw:starship-68  sw:hyperdrive_rating  "1.0" .
+sw:starship-68  sw:starship_class  "cruiser" .
+sw:starship-68  sw:flim  sw:flim-6 .
+sw:starship-68  sw:created  "2014-12-20T20:07:11.538000Z" .
+sw:starship-68  sw:edited  "2014-12-22T17:35:45.361585Z" .
+sw:starship-68  sw:url  "http://swapi.co/api/starships/68/" .

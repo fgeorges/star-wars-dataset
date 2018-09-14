@@ -1,0 +1,90 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:film-3  a  sw:Film .
+sw:film-3  rdfs:label  "Return of the Jedi" .
+sw:film-3  sw:episode_id  6 .
+sw:film-3  sw:opening_crawl  "Luke Skywalker has returned to
+his home planet of Tatooine in
+an attempt to rescue his
+friend Han Solo from the
+clutches of the vile gangster
+Jabba the Hutt.
+
+Little does Luke know that the
+GALACTIC EMPIRE has secretly
+begun construction on a new
+armored space station even
+more powerful than the first
+dreaded Death Star.
+
+When completed, this ultimate
+weapon will spell certain doom
+for the small band of rebels
+struggling to restore freedom
+to the galaxy..." .
+sw:film-3  sw:director  "Richard Marquand" .
+sw:film-3  sw:producer  "Howard G. Kazanjian, George Lucas, Rick McCallum" .
+sw:film-3  sw:release_date  "1983-05-25" .
+sw:film-3  sw:character  sw:people-1 .
+sw:film-3  sw:character  sw:people-2 .
+sw:film-3  sw:character  sw:people-3 .
+sw:film-3  sw:character  sw:people-4 .
+sw:film-3  sw:character  sw:people-5 .
+sw:film-3  sw:character  sw:people-10 .
+sw:film-3  sw:character  sw:people-13 .
+sw:film-3  sw:character  sw:people-14 .
+sw:film-3  sw:character  sw:people-16 .
+sw:film-3  sw:character  sw:people-18 .
+sw:film-3  sw:character  sw:people-20 .
+sw:film-3  sw:character  sw:people-21 .
+sw:film-3  sw:character  sw:people-22 .
+sw:film-3  sw:character  sw:people-25 .
+sw:film-3  sw:character  sw:people-27 .
+sw:film-3  sw:character  sw:people-28 .
+sw:film-3  sw:character  sw:people-29 .
+sw:film-3  sw:character  sw:people-30 .
+sw:film-3  sw:character  sw:people-31 .
+sw:film-3  sw:character  sw:people-45 .
+sw:film-3  sw:planet  sw:planet-5 .
+sw:film-3  sw:planet  sw:planet-7 .
+sw:film-3  sw:planet  sw:planet-8 .
+sw:film-3  sw:planet  sw:planet-9 .
+sw:film-3  sw:planet  sw:planet-1 .
+sw:film-3  sw:starship  sw:starship-10 .
+sw:film-3  sw:starship  sw:starship-11 .
+sw:film-3  sw:starship  sw:starship-12 .
+sw:film-3  sw:starship  sw:starship-15 .
+sw:film-3  sw:starship  sw:starship-22 .
+sw:film-3  sw:starship  sw:starship-23 .
+sw:film-3  sw:starship  sw:starship-27 .
+sw:film-3  sw:starship  sw:starship-28 .
+sw:film-3  sw:starship  sw:starship-29 .
+sw:film-3  sw:starship  sw:starship-3 .
+sw:film-3  sw:starship  sw:starship-17 .
+sw:film-3  sw:starship  sw:starship-2 .
+sw:film-3  sw:vehicle  sw:vehicle-8 .
+sw:film-3  sw:vehicle  sw:vehicle-16 .
+sw:film-3  sw:vehicle  sw:vehicle-18 .
+sw:film-3  sw:vehicle  sw:vehicle-19 .
+sw:film-3  sw:vehicle  sw:vehicle-24 .
+sw:film-3  sw:vehicle  sw:vehicle-25 .
+sw:film-3  sw:vehicle  sw:vehicle-26 .
+sw:film-3  sw:vehicle  sw:vehicle-30 .
+sw:film-3  sw:species  sw:species-5 .
+sw:film-3  sw:species  sw:species-6 .
+sw:film-3  sw:species  sw:species-8 .
+sw:film-3  sw:species  sw:species-9 .
+sw:film-3  sw:species  sw:species-10 .
+sw:film-3  sw:species  sw:species-15 .
+sw:film-3  sw:species  sw:species-3 .
+sw:film-3  sw:species  sw:species-2 .
+sw:film-3  sw:species  sw:species-1 .
+sw:film-3  sw:created  "2014-12-18T10:39:33.255000Z" .
+sw:film-3  sw:edited  "2015-04-11T09:46:05.220365Z" .
+sw:film-3  sw:url  "http://swapi.co/api/films/3/" .
+sw:film-3  sw:desc  "Return of the Jedi (also known as Star Wars: Episode VI – Return of the Jedi) is a 1983 American epic space opera film directed by Richard Marquand. The screenplay by Lawrence Kasdan and George Lucas was from a story by Lucas, who was also the executive producer. It is the third installment in the original Star Wars trilogy and the first film to use THX technology. The film is set one year after The Empire Strikes Back[9] and was produced by Howard Kazanjian for Lucasfilm Ltd. The film stars Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse, Kenny Baker, Peter Mayhew and Frank Oz." .
+sw:film-3  sw:desc  "The Galactic Empire, under the direction of the ruthless Emperor, is constructing a second Death Star in order to crush the Rebel Alliance once and for all. Since the Emperor plans to personally oversee the final stages of its construction, the Rebel Fleet launches a full-scale attack on the Death Star in order to prevent its completion and kill the Emperor, effectively bringing an end to the Empire's hold over the galaxy. Meanwhile, Luke Skywalker, a Jedi apprentice, struggles to bring his father Darth Vader back to the Light Side of the Force." .
+sw:film-3  sw:desc  "David Lynch and David Cronenberg were considered to direct the project before Marquand signed on as director. The production team relied on Lucas' storyboards during pre-production. While writing the shooting script, Lucas, Kasdan, Marquand, and producer Howard Kazanjian spent two weeks in conference discussing ideas to construct it. Kazanjian's schedule pushed shooting to begin a few weeks early to allow Industrial Light & Magic more time to work on the film's effects in post-production. Filming took place in England, California, and Arizona from January to May 1982 (1982-05). Strict secrecy surrounded the production and the film used the working title Blue Harvest to prevent price gouging." .
+sw:film-3  sw:desc  "The film was released in theaters on May 25, 1983, six years to the day after the release of the first film, receiving mostly positive reviews. The film grossed between $475 million[6][7] and $572 million worldwide.[8] Several home video and theatrical releases and revisions to the film followed over the next 20 years. Star Wars continued with The Phantom Menace as part of the film series' prequel trilogy." .
+sw:film-3  sw:desc  "A sequel, The Force Awakens, was released on December 18, 2015, as part of the new sequel trilogy.[10]" .

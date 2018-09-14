@@ -1,0 +1,20 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:starship-58  a  sw:Starship .
+sw:starship-58  rdfs:label  "Solar Sailer" .
+sw:starship-58  sw:model  "Punworcca 116-class interstellar sloop" .
+sw:starship-58  sw:manufacturer  "Huppla Pasa Tisc Shipwrights Collective" .
+sw:starship-58  sw:cost_in_credits  "35700" .
+sw:starship-58  sw:length  "15.2" .
+sw:starship-58  sw:max_atmosphering_speed  "1600" .
+sw:starship-58  sw:crew  "3" .
+sw:starship-58  sw:passengers  "11" .
+sw:starship-58  sw:cargo_capacity  "240" .
+sw:starship-58  sw:consumables  "7 days" .
+sw:starship-58  sw:hyperdrive_rating  "1.5" .
+sw:starship-58  sw:starship_class  "yacht" .
+sw:starship-58  sw:flim  sw:flim-5 .
+sw:starship-58  sw:created  "2014-12-20T18:37:56.969000Z" .
+sw:starship-58  sw:edited  "2014-12-22T17:35:45.183075Z" .
+sw:starship-58  sw:url  "http://swapi.co/api/starships/58/" .

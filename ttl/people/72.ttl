@@ -1,0 +1,17 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-72  a  sw:People .
+sw:people-72  rdfs:label  "Lama Su" .
+sw:people-72  sw:height  "229" .
+sw:people-72  sw:mass  "88" .
+sw:people-72  sw:hair_color  "none" .
+sw:people-72  sw:skin_color  "grey" .
+sw:people-72  sw:eye_color  "black" .
+sw:people-72  sw:gender  "male" .
+sw:people-72  sw:homeworld  sw:planet-10 .
+sw:people-72  sw:flim  sw:flim-5 .
+sw:people-72  sw:species  sw:species-32 .
+sw:people-72  sw:created  "2014-12-20T17:30:50.416000Z" .
+sw:people-72  sw:edited  "2014-12-20T21:17:50.473000Z" .
+sw:people-72  sw:url  "http://swapi.co/api/people/72/" .

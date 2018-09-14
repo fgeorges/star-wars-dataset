@@ -1,0 +1,17 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-41  a  sw:People .
+sw:people-41  rdfs:label  "Sebulba" .
+sw:people-41  sw:height  "112" .
+sw:people-41  sw:mass  "40" .
+sw:people-41  sw:hair_color  "none" .
+sw:people-41  sw:skin_color  "grey, red" .
+sw:people-41  sw:eye_color  "orange" .
+sw:people-41  sw:gender  "male" .
+sw:people-41  sw:homeworld  sw:planet-35 .
+sw:people-41  sw:flim  sw:flim-4 .
+sw:people-41  sw:species  sw:species-14 .
+sw:people-41  sw:created  "2014-12-19T17:53:02.586000Z" .
+sw:people-41  sw:edited  "2014-12-20T21:17:50.397000Z" .
+sw:people-41  sw:url  "http://swapi.co/api/people/41/" .

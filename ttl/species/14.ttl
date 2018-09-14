@@ -1,0 +1,18 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:species-14  a  sw:Species .
+sw:species-14  rdfs:label  "Dug" .
+sw:species-14  sw:classification  "mammal" .
+sw:species-14  sw:designation  "sentient" .
+sw:species-14  sw:average_height  "100" .
+sw:species-14  sw:skin_colors  "brown, purple, grey, red" .
+sw:species-14  sw:hair_colors  "none" .
+sw:species-14  sw:eye_colors  "yellow, blue" .
+sw:species-14  sw:homeworld  sw:planet-35 .
+sw:species-14  sw:language  "Dugese" .
+sw:species-14  sw:people  sw:people-41 .
+sw:species-14  sw:flim  sw:flim-4 .
+sw:species-14  sw:created  "2014-12-19T17:53:11.214000Z" .
+sw:species-14  sw:edited  "2014-12-20T21:36:42.167000Z" .
+sw:species-14  sw:url  "http://swapi.co/api/species/14/" .

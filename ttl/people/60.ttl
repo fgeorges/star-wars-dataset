@@ -1,0 +1,18 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-60  a  sw:People .
+sw:people-60  rdfs:label  "Gregar Typho" .
+sw:people-60  sw:height  "185" .
+sw:people-60  sw:mass  "85" .
+sw:people-60  sw:hair_color  "black" .
+sw:people-60  sw:skin_color  "dark" .
+sw:people-60  sw:eye_color  "brown" .
+sw:people-60  sw:gender  "male" .
+sw:people-60  sw:homeworld  sw:planet-8 .
+sw:people-60  sw:flim  sw:flim-5 .
+sw:people-60  sw:species  sw:species-1 .
+sw:people-60  sw:starship  sw:starship-39 .
+sw:people-60  sw:created  "2014-12-20T11:10:10.381000Z" .
+sw:people-60  sw:edited  "2014-12-20T21:17:50.445000Z" .
+sw:people-60  sw:url  "http://swapi.co/api/people/60/" .

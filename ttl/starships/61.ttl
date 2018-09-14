@@ -1,0 +1,20 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:starship-61  a  sw:Starship .
+sw:starship-61  rdfs:label  "Theta-class T-2c shuttle" .
+sw:starship-61  sw:model  "Theta-class T-2c shuttle" .
+sw:starship-61  sw:manufacturer  "Cygnus Spaceworks" .
+sw:starship-61  sw:cost_in_credits  "1000000" .
+sw:starship-61  sw:length  "18.5" .
+sw:starship-61  sw:max_atmosphering_speed  "2000" .
+sw:starship-61  sw:crew  "5" .
+sw:starship-61  sw:passengers  "16" .
+sw:starship-61  sw:cargo_capacity  "50000" .
+sw:starship-61  sw:consumables  "56 days" .
+sw:starship-61  sw:hyperdrive_rating  "1.0" .
+sw:starship-61  sw:starship_class  "transport" .
+sw:starship-61  sw:flim  sw:flim-6 .
+sw:starship-61  sw:created  "2014-12-20T19:48:40.409000Z" .
+sw:starship-61  sw:edited  "2014-12-22T17:35:45.208584Z" .
+sw:starship-61  sw:url  "http://swapi.co/api/starships/61/" .

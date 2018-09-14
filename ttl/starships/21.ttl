@@ -1,0 +1,22 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:starship-21  a  sw:Starship .
+sw:starship-21  rdfs:label  "Slave 1" .
+sw:starship-21  sw:model  "Firespray-31-class patrol and attack" .
+sw:starship-21  sw:manufacturer  "Kuat Systems Engineering" .
+sw:starship-21  sw:length  "21.5" .
+sw:starship-21  sw:max_atmosphering_speed  "1000" .
+sw:starship-21  sw:crew  "1" .
+sw:starship-21  sw:passengers  "6" .
+sw:starship-21  sw:cargo_capacity  "70000" .
+sw:starship-21  sw:consumables  "1 month" .
+sw:starship-21  sw:hyperdrive_rating  "3.0" .
+sw:starship-21  sw:MGLT  "70" .
+sw:starship-21  sw:starship_class  "Patrol craft" .
+sw:starship-21  sw:pilot  sw:people-22 .
+sw:starship-21  sw:flim  sw:flim-5 .
+sw:starship-21  sw:flim  sw:flim-2 .
+sw:starship-21  sw:created  "2014-12-15T13:00:56.332000Z" .
+sw:starship-21  sw:edited  "2014-12-22T17:35:44.716273Z" .
+sw:starship-21  sw:url  "http://swapi.co/api/starships/21/" .

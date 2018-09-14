@@ -1,0 +1,17 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-71  a  sw:People .
+sw:people-71  rdfs:label  "Dexter Jettster" .
+sw:people-71  sw:height  "198" .
+sw:people-71  sw:mass  "102" .
+sw:people-71  sw:hair_color  "none" .
+sw:people-71  sw:skin_color  "brown" .
+sw:people-71  sw:eye_color  "yellow" .
+sw:people-71  sw:gender  "male" .
+sw:people-71  sw:homeworld  sw:planet-55 .
+sw:people-71  sw:flim  sw:flim-5 .
+sw:people-71  sw:species  sw:species-31 .
+sw:people-71  sw:created  "2014-12-20T17:28:27.248000Z" .
+sw:people-71  sw:edited  "2014-12-20T21:17:50.470000Z" .
+sw:people-71  sw:url  "http://swapi.co/api/people/71/" .

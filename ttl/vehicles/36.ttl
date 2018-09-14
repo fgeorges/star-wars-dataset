@@ -1,0 +1,20 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:vehicle-36  a  sw:Vehicle .
+sw:vehicle-36  rdfs:label  "Single Trooper Aerial Platform" .
+sw:vehicle-36  sw:model  "Single Trooper Aerial Platform" .
+sw:vehicle-36  sw:manufacturer  "Baktoid Armor Workshop" .
+sw:vehicle-36  sw:cost_in_credits  "2500" .
+sw:vehicle-36  sw:length  "2" .
+sw:vehicle-36  sw:max_atmosphering_speed  "400" .
+sw:vehicle-36  sw:crew  "1" .
+sw:vehicle-36  sw:passengers  "0" .
+sw:vehicle-36  sw:cargo_capacity  "none" .
+sw:vehicle-36  sw:consumables  "none" .
+sw:vehicle-36  sw:vehicle_class  "repulsorcraft" .
+sw:vehicle-36  sw:flim  sw:flim-4 .
+sw:vehicle-36  sw:created  "2014-12-19T17:15:09.511000Z" .
+sw:vehicle-36  sw:edited  "2014-12-22T18:21:16.008594Z" .
+sw:vehicle-36  sw:url  "http://swapi.co/api/vehicles/36/" .
+sw:vehicle-36  sw:desc  "Speeder bikes (also known as \u0022jumpspeeders\u0022 or \u0022hover bikes\u0022) and swoop bikes (or just \u0022swoops\u0022) are small, fast transports that use repulsorlift engines in the fictional Star Wars universe. Return of the Jedi includes a prominent speeder bike chase; speeders and swoops also appear in Star Wars: Episode I – The Phantom Menace, Star Wars: Episode II – Attack of the Clones, Star Wars: Episode III – Revenge of the Sith, Star Wars, and the Star Wars expanded universe's books, comics, and games." .

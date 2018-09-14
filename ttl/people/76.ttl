@@ -1,0 +1,16 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+
+sw:people-76  a  sw:People .
+sw:people-76  rdfs:label  "Wat Tambor" .
+sw:people-76  sw:height  "193" .
+sw:people-76  sw:mass  "48" .
+sw:people-76  sw:hair_color  "none" .
+sw:people-76  sw:skin_color  "green, grey" .
+sw:people-76  sw:gender  "male" .
+sw:people-76  sw:homeworld  sw:planet-56 .
+sw:people-76  sw:flim  sw:flim-5 .
+sw:people-76  sw:species  sw:species-33 .
+sw:people-76  sw:created  "2014-12-20T17:53:52.607000Z" .
+sw:people-76  sw:edited  "2014-12-20T21:17:50.481000Z" .
+sw:people-76  sw:url  "http://swapi.co/api/people/76/" .
