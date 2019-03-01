@@ -1,18 +1,19 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-30  a  sw:People .
-sw:people-30  rdfs:label  "Wicket Systri Warrick" .
-sw:people-30  sw:height  "88" .
-sw:people-30  sw:mass  "20" .
-sw:people-30  sw:hair_color  "brown" .
-sw:people-30  sw:skin_color  "brown" .
-sw:people-30  sw:eye_color  "brown" .
-sw:people-30  sw:birth_year  "8BBY" .
-sw:people-30  sw:gender  "male" .
+sw:people-30  rdfs:label  """Wicket Systri Warrick""" .
+sw:people-30  sw:height  """88""" .
+sw:people-30  sw:mass  """20""" .
+sw:people-30  sw:hair_color  """brown""" .
+sw:people-30  sw:skin_color  """brown""" .
+sw:people-30  sw:eye_color  """brown""" .
+sw:people-30  sw:birth_year  """8BBY""" .
+sw:people-30  sw:gender  """male""" .
 sw:people-30  sw:homeworld  sw:planet-7 .
 sw:people-30  sw:flim  sw:flim-3 .
 sw:people-30  sw:species  sw:species-9 .
-sw:people-30  sw:created  "2014-12-18T11:21:58.954000Z" .
-sw:people-30  sw:edited  "2014-12-20T21:17:50.369000Z" .
-sw:people-30  sw:url  "http://swapi.co/api/people/30/" .
+sw:people-30  sw:created  "2014-12-18T11:21:58.954000Z"^^xsd:dateTime .
+sw:people-30  sw:edited  "2014-12-20T21:17:50.369000Z"^^xsd:dateTime .
+sw:people-30  sw:url  """http://swapi.co/api/people/30/""" .

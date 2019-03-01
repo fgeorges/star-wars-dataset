@@ -1,16 +1,17 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-35  a  sw:Vehicle .
-sw:vehicle-35  rdfs:label  "Armored Assault Tank" .
-sw:vehicle-35  sw:model  "Armoured Assault Tank" .
-sw:vehicle-35  sw:manufacturer  "Baktoid Armor Workshop" .
-sw:vehicle-35  sw:length  "9.75" .
-sw:vehicle-35  sw:max_atmosphering_speed  "55" .
-sw:vehicle-35  sw:crew  "4" .
-sw:vehicle-35  sw:passengers  "6" .
-sw:vehicle-35  sw:vehicle_class  "repulsorcraft" .
+sw:vehicle-35  rdfs:label  """Armored Assault Tank""" .
+sw:vehicle-35  sw:model  """Armoured Assault Tank""" .
+sw:vehicle-35  sw:manufacturer  """Baktoid Armor Workshop""" .
+sw:vehicle-35  sw:length  9.75 .
+sw:vehicle-35  sw:max_atmosphering_speed  55 .
+sw:vehicle-35  sw:crew  4 .
+sw:vehicle-35  sw:passengers  6 .
+sw:vehicle-35  sw:vehicle_class  """repulsorcraft""" .
 sw:vehicle-35  sw:flim  sw:flim-4 .
-sw:vehicle-35  sw:created  "2014-12-19T17:13:29.799000Z" .
-sw:vehicle-35  sw:edited  "2014-12-22T18:21:15.984817Z" .
-sw:vehicle-35  sw:url  "http://swapi.co/api/vehicles/35/" .
+sw:vehicle-35  sw:created  "2014-12-19T17:13:29.799000Z"^^xsd:dateTime .
+sw:vehicle-35  sw:edited  "2014-12-22T18:21:15.984817Z"^^xsd:dateTime .
+sw:vehicle-35  sw:url  """http://swapi.co/api/vehicles/35/""" .

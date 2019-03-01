@@ -1,10 +1,11 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-28  a  sw:Planet .
-sw:planet-28  sw:rotation_period  "0" .
-sw:planet-28  sw:orbital_period  "0" .
-sw:planet-28  sw:diameter  "0" .
+sw:planet-28  sw:rotation_period  0 .
+sw:planet-28  sw:orbital_period  0 .
+sw:planet-28  sw:diameter  0 .
 sw:planet-28  sw:resident  sw:people-20 .
 sw:planet-28  sw:resident  sw:people-23 .
 sw:planet-28  sw:resident  sw:people-29 .
@@ -15,6 +16,6 @@ sw:planet-28  sw:resident  sw:people-85 .
 sw:planet-28  sw:resident  sw:people-86 .
 sw:planet-28  sw:resident  sw:people-87 .
 sw:planet-28  sw:resident  sw:people-88 .
-sw:planet-28  sw:created  "2014-12-15T12:25:59.569000Z" .
-sw:planet-28  sw:edited  "2014-12-20T20:58:18.466000Z" .
-sw:planet-28  sw:url  "http://swapi.co/api/planets/28/" .
+sw:planet-28  sw:created  "2014-12-15T12:25:59.569000Z"^^xsd:dateTime .
+sw:planet-28  sw:edited  "2014-12-20T20:58:18.466000Z"^^xsd:dateTime .
+sw:planet-28  sw:url  """http://swapi.co/api/planets/28/""" .

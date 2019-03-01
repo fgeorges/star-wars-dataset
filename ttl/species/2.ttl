@@ -1,11 +1,12 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:species-2  a  sw:Species .
-sw:species-2  rdfs:label  "Droid" .
-sw:species-2  sw:classification  "artificial" .
-sw:species-2  sw:designation  "sentient" .
-sw:species-2  sw:average_lifespan  "indefinite" .
+sw:species-2  rdfs:label  """Droid""" .
+sw:species-2  sw:classification  """artificial""" .
+sw:species-2  sw:designation  """sentient""" .
+sw:species-2  sw:average_lifespan  indefinite .
 sw:species-2  sw:people  sw:people-2 .
 sw:species-2  sw:people  sw:people-3 .
 sw:species-2  sw:people  sw:people-8 .
@@ -18,7 +19,7 @@ sw:species-2  sw:flim  sw:flim-6 .
 sw:species-2  sw:flim  sw:flim-3 .
 sw:species-2  sw:flim  sw:flim-2 .
 sw:species-2  sw:flim  sw:flim-1 .
-sw:species-2  sw:created  "2014-12-10T15:16:16.259000Z" .
-sw:species-2  sw:edited  "2015-04-17T06:59:43.869528Z" .
-sw:species-2  sw:url  "http://swapi.co/api/species/2/" .
-sw:species-2  sw:desc  "A droid is a fictional robot possessing some degree of artificial intelligence in the Star Wars science fiction franchise. Coined by special effects artist John Stears, the term is a clipped form of \u0022android\u0022,[1] a word originally reserved for robots designed to look and act like a human.[2] The word \u0022droid\u0022 has been a registered trademark of Lucasfilm Ltd since 1977.[3][4][5][6]" .
+sw:species-2  sw:created  "2014-12-10T15:16:16.259000Z"^^xsd:dateTime .
+sw:species-2  sw:edited  "2015-04-17T06:59:43.869528Z"^^xsd:dateTime .
+sw:species-2  sw:url  """http://swapi.co/api/species/2/""" .
+sw:species-2  sw:desc  """A droid is a fictional robot possessing some degree of artificial intelligence in the Star Wars science fiction franchise. Coined by special effects artist John Stears, the term is a clipped form of \u0022android\u0022,[1] a word originally reserved for robots designed to look and act like a human.[2] The word \u0022droid\u0022 has been a registered trademark of Lucasfilm Ltd since 1977.[3][4][5][6]""" .

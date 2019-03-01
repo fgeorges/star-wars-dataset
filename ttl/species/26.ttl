@@ -1,19 +1,20 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:species-26  a  sw:Species .
-sw:species-26  rdfs:label  "Kel Dor" .
-sw:species-26  sw:designation  "sentient" .
-sw:species-26  sw:average_height  "180" .
-sw:species-26  sw:skin_colors  "peach, orange, red" .
-sw:species-26  sw:hair_colors  "none" .
-sw:species-26  sw:eye_colors  "black, silver" .
-sw:species-26  sw:average_lifespan  "70" .
+sw:species-26  rdfs:label  """Kel Dor""" .
+sw:species-26  sw:designation  """sentient""" .
+sw:species-26  sw:average_height  180 .
+sw:species-26  sw:skin_colors  """peach, orange, red""" .
+sw:species-26  sw:hair_colors  """none""" .
+sw:species-26  sw:eye_colors  """black, silver""" .
+sw:species-26  sw:average_lifespan  70 .
 sw:species-26  sw:homeworld  sw:planet-49 .
-sw:species-26  sw:language  "Kel Dor" .
+sw:species-26  sw:language  """Kel Dor""" .
 sw:species-26  sw:people  sw:people-58 .
 sw:species-26  sw:flim  sw:flim-4 .
 sw:species-26  sw:flim  sw:flim-6 .
-sw:species-26  sw:created  "2014-12-20T10:49:21.692000Z" .
-sw:species-26  sw:edited  "2014-12-20T21:36:42.191000Z" .
-sw:species-26  sw:url  "http://swapi.co/api/species/26/" .
+sw:species-26  sw:created  "2014-12-20T10:49:21.692000Z"^^xsd:dateTime .
+sw:species-26  sw:edited  "2014-12-20T21:36:42.191000Z"^^xsd:dateTime .
+sw:species-26  sw:url  """http://swapi.co/api/species/26/""" .

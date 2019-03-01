@@ -1,20 +1,21 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:species-13  a  sw:Species .
-sw:species-13  rdfs:label  "Toydarian" .
-sw:species-13  sw:classification  "mammal" .
-sw:species-13  sw:designation  "sentient" .
-sw:species-13  sw:average_height  "120" .
-sw:species-13  sw:skin_colors  "blue, green, grey" .
-sw:species-13  sw:hair_colors  "none" .
-sw:species-13  sw:eye_colors  "yellow" .
-sw:species-13  sw:average_lifespan  "91" .
+sw:species-13  rdfs:label  """Toydarian""" .
+sw:species-13  sw:classification  """mammal""" .
+sw:species-13  sw:designation  """sentient""" .
+sw:species-13  sw:average_height  120 .
+sw:species-13  sw:skin_colors  """blue, green, grey""" .
+sw:species-13  sw:hair_colors  """none""" .
+sw:species-13  sw:eye_colors  """yellow""" .
+sw:species-13  sw:average_lifespan  91 .
 sw:species-13  sw:homeworld  sw:planet-34 .
-sw:species-13  sw:language  "Toydarian" .
+sw:species-13  sw:language  """Toydarian""" .
 sw:species-13  sw:people  sw:people-40 .
 sw:species-13  sw:flim  sw:flim-5 .
 sw:species-13  sw:flim  sw:flim-4 .
-sw:species-13  sw:created  "2014-12-19T17:48:56.893000Z" .
-sw:species-13  sw:edited  "2014-12-20T21:36:42.165000Z" .
-sw:species-13  sw:url  "http://swapi.co/api/species/13/" .
+sw:species-13  sw:created  "2014-12-19T17:48:56.893000Z"^^xsd:dateTime .
+sw:species-13  sw:edited  "2014-12-20T21:36:42.165000Z"^^xsd:dateTime .
+sw:species-13  sw:url  """http://swapi.co/api/species/13/""" .

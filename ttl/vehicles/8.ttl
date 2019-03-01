@@ -1,20 +1,21 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-8  a  sw:Vehicle .
-sw:vehicle-8  rdfs:label  "TIE/LN starfighter" .
-sw:vehicle-8  sw:model  "Twin Ion Engine/Ln Starfighter" .
-sw:vehicle-8  sw:manufacturer  "Sienar Fleet Systems" .
-sw:vehicle-8  sw:length  "6.4" .
-sw:vehicle-8  sw:max_atmosphering_speed  "1200" .
-sw:vehicle-8  sw:crew  "1" .
-sw:vehicle-8  sw:passengers  "0" .
-sw:vehicle-8  sw:cargo_capacity  "65" .
-sw:vehicle-8  sw:consumables  "2 days" .
-sw:vehicle-8  sw:vehicle_class  "starfighter" .
+sw:vehicle-8  rdfs:label  """TIE/LN starfighter""" .
+sw:vehicle-8  sw:model  """Twin Ion Engine/Ln Starfighter""" .
+sw:vehicle-8  sw:manufacturer  """Sienar Fleet Systems""" .
+sw:vehicle-8  sw:length  6.4 .
+sw:vehicle-8  sw:max_atmosphering_speed  1200 .
+sw:vehicle-8  sw:crew  1 .
+sw:vehicle-8  sw:passengers  0 .
+sw:vehicle-8  sw:cargo_capacity  65 .
+sw:vehicle-8  sw:consumables  2 days .
+sw:vehicle-8  sw:vehicle_class  """starfighter""" .
 sw:vehicle-8  sw:flim  sw:flim-3 .
 sw:vehicle-8  sw:flim  sw:flim-2 .
 sw:vehicle-8  sw:flim  sw:flim-1 .
-sw:vehicle-8  sw:created  "2014-12-10T16:33:52.860000Z" .
-sw:vehicle-8  sw:edited  "2014-12-22T18:21:15.606149Z" .
-sw:vehicle-8  sw:url  "http://swapi.co/api/vehicles/8/" .
+sw:vehicle-8  sw:created  "2014-12-10T16:33:52.860000Z"^^xsd:dateTime .
+sw:vehicle-8  sw:edited  "2014-12-22T18:21:15.606149Z"^^xsd:dateTime .
+sw:vehicle-8  sw:url  """http://swapi.co/api/vehicles/8/""" .

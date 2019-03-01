@@ -1,21 +1,22 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-9  a  sw:People .
-sw:people-9  rdfs:label  "Biggs Darklighter" .
-sw:people-9  sw:height  "183" .
-sw:people-9  sw:mass  "84" .
-sw:people-9  sw:hair_color  "black" .
-sw:people-9  sw:skin_color  "light" .
-sw:people-9  sw:eye_color  "brown" .
-sw:people-9  sw:birth_year  "24BBY" .
-sw:people-9  sw:gender  "male" .
+sw:people-9  rdfs:label  """Biggs Darklighter""" .
+sw:people-9  sw:height  """183""" .
+sw:people-9  sw:mass  """84""" .
+sw:people-9  sw:hair_color  """black""" .
+sw:people-9  sw:skin_color  """light""" .
+sw:people-9  sw:eye_color  """brown""" .
+sw:people-9  sw:birth_year  """24BBY""" .
+sw:people-9  sw:gender  """male""" .
 sw:people-9  sw:homeworld  sw:planet-1 .
 sw:people-9  sw:flim  sw:flim-1 .
 sw:people-9  sw:species  sw:species-1 .
 sw:people-9  sw:starship  sw:starship-12 .
-sw:people-9  sw:created  "2014-12-10T15:59:50.509000Z" .
-sw:people-9  sw:edited  "2014-12-20T21:17:50.323000Z" .
-sw:people-9  sw:url  "http://swapi.co/api/people/9/" .
-sw:people-9  sw:desc  "Rogue Squadron is a starfighter squadron in the Star Wars franchise. Many surviving members of Red Squadron, the X-wing attack force that Luke Skywalker joins during the Battle of Yavin in Star Wars Episode IV: A New Hope (1977), later join Rogue Squadron. The squadron appears in The Empire Strikes Back (1980) as Rogue Group. In the 2016 film Rogue One, Rebel fighters on a suicide mission to steal the plans for the Death Star self-identify as \u0022Rogue One\u0022, a possible precursor to Rogue Squadron.[1]" .
-sw:people-9  sw:desc  "Rogue Squadron is prominently featured in the comic book series Star Wars: X-wing, the ten-volume novel series Star Wars: X-wing, and the video game series Star Wars: Rogue Squadron. The unit is depicted as consisting of \u0022the best pilots and the best fighters\u0022.[2]" .
+sw:people-9  sw:created  "2014-12-10T15:59:50.509000Z"^^xsd:dateTime .
+sw:people-9  sw:edited  "2014-12-20T21:17:50.323000Z"^^xsd:dateTime .
+sw:people-9  sw:url  """http://swapi.co/api/people/9/""" .
+sw:people-9  sw:desc  """Rogue Squadron is a starfighter squadron in the Star Wars franchise. Many surviving members of Red Squadron, the X-wing attack force that Luke Skywalker joins during the Battle of Yavin in Star Wars Episode IV: A New Hope (1977), later join Rogue Squadron. The squadron appears in The Empire Strikes Back (1980) as Rogue Group. In the 2016 film Rogue One, Rebel fighters on a suicide mission to steal the plans for the Death Star self-identify as \u0022Rogue One\u0022, a possible precursor to Rogue Squadron.[1]""" .
+sw:people-9  sw:desc  """Rogue Squadron is prominently featured in the comic book series Star Wars: X-wing, the ten-volume novel series Star Wars: X-wing, and the video game series Star Wars: Rogue Squadron. The unit is depicted as consisting of \u0022the best pilots and the best fighters\u0022.[2]""" .

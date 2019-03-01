@@ -1,21 +1,22 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-30  a  sw:Vehicle .
-sw:vehicle-30  rdfs:label  "Imperial Speeder Bike" .
-sw:vehicle-30  sw:model  "74-Z speeder bike" .
-sw:vehicle-30  sw:manufacturer  "Aratech Repulsor Company" .
-sw:vehicle-30  sw:cost_in_credits  "8000" .
-sw:vehicle-30  sw:length  "3" .
-sw:vehicle-30  sw:max_atmosphering_speed  "360" .
-sw:vehicle-30  sw:crew  "1" .
-sw:vehicle-30  sw:passengers  "1" .
-sw:vehicle-30  sw:cargo_capacity  "4" .
-sw:vehicle-30  sw:consumables  "1 day" .
-sw:vehicle-30  sw:vehicle_class  "speeder" .
+sw:vehicle-30  rdfs:label  """Imperial Speeder Bike""" .
+sw:vehicle-30  sw:model  """74-Z speeder bike""" .
+sw:vehicle-30  sw:manufacturer  """Aratech Repulsor Company""" .
+sw:vehicle-30  sw:cost_in_credits  8000 .
+sw:vehicle-30  sw:length  3 .
+sw:vehicle-30  sw:max_atmosphering_speed  360 .
+sw:vehicle-30  sw:crew  1 .
+sw:vehicle-30  sw:passengers  1 .
+sw:vehicle-30  sw:cargo_capacity  4 .
+sw:vehicle-30  sw:consumables  1 day .
+sw:vehicle-30  sw:vehicle_class  """speeder""" .
 sw:vehicle-30  sw:pilot  sw:people-1 .
 sw:vehicle-30  sw:pilot  sw:people-5 .
 sw:vehicle-30  sw:flim  sw:flim-3 .
-sw:vehicle-30  sw:created  "2014-12-18T11:20:04.625000Z" .
-sw:vehicle-30  sw:edited  "2014-12-22T18:21:15.920537Z" .
-sw:vehicle-30  sw:url  "http://swapi.co/api/vehicles/30/" .
+sw:vehicle-30  sw:created  "2014-12-18T11:20:04.625000Z"^^xsd:dateTime .
+sw:vehicle-30  sw:edited  "2014-12-22T18:21:15.920537Z"^^xsd:dateTime .
+sw:vehicle-30  sw:url  """http://swapi.co/api/vehicles/30/""" .

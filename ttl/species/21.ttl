@@ -1,19 +1,20 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:species-21  a  sw:Species .
-sw:species-21  rdfs:label  "Nautolan" .
-sw:species-21  sw:classification  "amphibian" .
-sw:species-21  sw:designation  "sentient" .
-sw:species-21  sw:average_height  "180" .
-sw:species-21  sw:skin_colors  "green, blue, brown, red" .
-sw:species-21  sw:hair_colors  "none" .
-sw:species-21  sw:eye_colors  "black" .
-sw:species-21  sw:average_lifespan  "70" .
+sw:species-21  rdfs:label  """Nautolan""" .
+sw:species-21  sw:classification  """amphibian""" .
+sw:species-21  sw:designation  """sentient""" .
+sw:species-21  sw:average_height  180 .
+sw:species-21  sw:skin_colors  """green, blue, brown, red""" .
+sw:species-21  sw:hair_colors  """none""" .
+sw:species-21  sw:eye_colors  """black""" .
+sw:species-21  sw:average_lifespan  70 .
 sw:species-21  sw:homeworld  sw:planet-44 .
-sw:species-21  sw:language  "Nautila" .
+sw:species-21  sw:language  """Nautila""" .
 sw:species-21  sw:people  sw:people-53 .
 sw:species-21  sw:flim  sw:flim-4 .
-sw:species-21  sw:created  "2014-12-20T10:18:58.610000Z" .
-sw:species-21  sw:edited  "2014-12-20T21:36:42.181000Z" .
-sw:species-21  sw:url  "http://swapi.co/api/species/21/" .
+sw:species-21  sw:created  "2014-12-20T10:18:58.610000Z"^^xsd:dateTime .
+sw:species-21  sw:edited  "2014-12-20T21:36:42.181000Z"^^xsd:dateTime .
+sw:species-21  sw:url  """http://swapi.co/api/species/21/""" .

@@ -1,20 +1,21 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-60  a  sw:Vehicle .
-sw:vehicle-60  rdfs:label  "Tsmeu-6 personal wheel bike" .
-sw:vehicle-60  sw:model  "Tsmeu-6 personal wheel bike" .
-sw:vehicle-60  sw:manufacturer  "Z-Gomot Ternbuell Guppat Corporation" .
-sw:vehicle-60  sw:cost_in_credits  "15000" .
-sw:vehicle-60  sw:length  "3.5" .
-sw:vehicle-60  sw:max_atmosphering_speed  "330" .
-sw:vehicle-60  sw:crew  "1" .
-sw:vehicle-60  sw:passengers  "1" .
-sw:vehicle-60  sw:cargo_capacity  "10" .
-sw:vehicle-60  sw:consumables  "none" .
-sw:vehicle-60  sw:vehicle_class  "wheeled walker" .
+sw:vehicle-60  rdfs:label  """Tsmeu-6 personal wheel bike""" .
+sw:vehicle-60  sw:model  """Tsmeu-6 personal wheel bike""" .
+sw:vehicle-60  sw:manufacturer  """Z-Gomot Ternbuell Guppat Corporation""" .
+sw:vehicle-60  sw:cost_in_credits  15000 .
+sw:vehicle-60  sw:length  3.5 .
+sw:vehicle-60  sw:max_atmosphering_speed  330 .
+sw:vehicle-60  sw:crew  1 .
+sw:vehicle-60  sw:passengers  1 .
+sw:vehicle-60  sw:cargo_capacity  10 .
+sw:vehicle-60  sw:consumables  none .
+sw:vehicle-60  sw:vehicle_class  """wheeled walker""" .
 sw:vehicle-60  sw:pilot  sw:people-79 .
 sw:vehicle-60  sw:flim  sw:flim-6 .
-sw:vehicle-60  sw:created  "2014-12-20T19:43:54.870000Z" .
-sw:vehicle-60  sw:edited  "2014-12-22T18:21:16.422662Z" .
-sw:vehicle-60  sw:url  "http://swapi.co/api/vehicles/60/" .
+sw:vehicle-60  sw:created  "2014-12-20T19:43:54.870000Z"^^xsd:dateTime .
+sw:vehicle-60  sw:edited  "2014-12-22T18:21:16.422662Z"^^xsd:dateTime .
+sw:vehicle-60  sw:url  """http://swapi.co/api/vehicles/60/""" .

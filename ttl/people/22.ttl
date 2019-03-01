@@ -1,22 +1,23 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-22  a  sw:People .
-sw:people-22  rdfs:label  "Boba Fett" .
-sw:people-22  sw:height  "183" .
-sw:people-22  sw:mass  "78.2" .
-sw:people-22  sw:hair_color  "black" .
-sw:people-22  sw:skin_color  "fair" .
-sw:people-22  sw:eye_color  "brown" .
-sw:people-22  sw:birth_year  "31.5BBY" .
-sw:people-22  sw:gender  "male" .
+sw:people-22  rdfs:label  """Boba Fett""" .
+sw:people-22  sw:height  """183""" .
+sw:people-22  sw:mass  """78.2""" .
+sw:people-22  sw:hair_color  """black""" .
+sw:people-22  sw:skin_color  """fair""" .
+sw:people-22  sw:eye_color  """brown""" .
+sw:people-22  sw:birth_year  """31.5BBY""" .
+sw:people-22  sw:gender  """male""" .
 sw:people-22  sw:homeworld  sw:planet-10 .
 sw:people-22  sw:flim  sw:flim-5 .
 sw:people-22  sw:flim  sw:flim-3 .
 sw:people-22  sw:flim  sw:flim-2 .
 sw:people-22  sw:species  sw:species-1 .
 sw:people-22  sw:starship  sw:starship-21 .
-sw:people-22  sw:created  "2014-12-15T12:49:32.457000Z" .
-sw:people-22  sw:edited  "2014-12-20T21:17:50.349000Z" .
-sw:people-22  sw:url  "http://swapi.co/api/people/22/" .
-sw:people-22  sw:desc  "Boba Fett is a fictional character in the Star Wars franchise. In The Empire Strikes Back and Return of the Jedi, he is a bounty hunter hired by Darth Vader and also employed by Jabba the Hutt. He was also added briefly to the original film Star Wars when the film was digitally remastered. Star Wars: Episode II – Attack of the Clones establishes his origin as an unaltered clone of the bounty hunter Jango Fett raised as his son. He also appears in several episodes of Star Wars: The Clone Wars cartoon series which further describes his growth as a villain in the Star Wars universe. His aura of danger and mystery has created a cult following for the character." .
+sw:people-22  sw:created  "2014-12-15T12:49:32.457000Z"^^xsd:dateTime .
+sw:people-22  sw:edited  "2014-12-20T21:17:50.349000Z"^^xsd:dateTime .
+sw:people-22  sw:url  """http://swapi.co/api/people/22/""" .
+sw:people-22  sw:desc  """Boba Fett is a fictional character in the Star Wars franchise. In The Empire Strikes Back and Return of the Jedi, he is a bounty hunter hired by Darth Vader and also employed by Jabba the Hutt. He was also added briefly to the original film Star Wars when the film was digitally remastered. Star Wars: Episode II – Attack of the Clones establishes his origin as an unaltered clone of the bounty hunter Jango Fett raised as his son. He also appears in several episodes of Star Wars: The Clone Wars cartoon series which further describes his growth as a villain in the Star Wars universe. His aura of danger and mystery has created a cult following for the character.""" .

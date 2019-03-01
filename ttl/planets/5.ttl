@@ -1,20 +1,21 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-5  a  sw:Planet .
-sw:planet-5  rdfs:label  "Dagobah" .
-sw:planet-5  sw:rotation_period  "23" .
-sw:planet-5  sw:orbital_period  "341" .
-sw:planet-5  sw:diameter  "8900" .
-sw:planet-5  sw:climate  "murky" .
-sw:planet-5  sw:gravity  "N/A" .
-sw:planet-5  sw:terrain  "swamp, jungles" .
-sw:planet-5  sw:surface_water  "8" .
+sw:planet-5  rdfs:label  """Dagobah""" .
+sw:planet-5  sw:rotation_period  23 .
+sw:planet-5  sw:orbital_period  341 .
+sw:planet-5  sw:diameter  8900 .
+sw:planet-5  sw:climate  """murky""" .
+sw:planet-5  sw:gravity  """N/A""" .
+sw:planet-5  sw:terrain  """swamp, jungles""" .
+sw:planet-5  sw:surface_water  """8""" .
 sw:planet-5  sw:flim  sw:flim-6 .
 sw:planet-5  sw:flim  sw:flim-3 .
 sw:planet-5  sw:flim  sw:flim-2 .
-sw:planet-5  sw:created  "2014-12-10T11:42:22.590000Z" .
-sw:planet-5  sw:edited  "2014-12-20T20:58:18.425000Z" .
-sw:planet-5  sw:url  "http://swapi.co/api/planets/5/" .
-sw:planet-5  sw:desc  "Dagobah is a star system in the Star Wars films The Empire Strikes Back and Return of the Jedi. It also appears in a deleted scene from Revenge of the Sith. Yoda went into exile on Dagobah after a lightsaber battle with Darth Sidious." .
-sw:planet-5  sw:desc  "The planet shown in Dagobah, in the Sluis sector, is a world of murky swamps, steaming bayous, and petrified forests, resembling Earth during the Carboniferous Period." .
+sw:planet-5  sw:created  "2014-12-10T11:42:22.590000Z"^^xsd:dateTime .
+sw:planet-5  sw:edited  "2014-12-20T20:58:18.425000Z"^^xsd:dateTime .
+sw:planet-5  sw:url  """http://swapi.co/api/planets/5/""" .
+sw:planet-5  sw:desc  """Dagobah is a star system in the Star Wars films The Empire Strikes Back and Return of the Jedi. It also appears in a deleted scene from Revenge of the Sith. Yoda went into exile on Dagobah after a lightsaber battle with Darth Sidious.""" .
+sw:planet-5  sw:desc  """The planet shown in Dagobah, in the Sluis sector, is a world of murky swamps, steaming bayous, and petrified forests, resembling Earth during the Carboniferous Period.""" .

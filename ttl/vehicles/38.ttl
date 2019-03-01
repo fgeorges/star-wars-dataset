@@ -1,19 +1,20 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-38  a  sw:Vehicle .
-sw:vehicle-38  rdfs:label  "Tribubble bongo" .
-sw:vehicle-38  sw:model  "Tribubble bongo" .
-sw:vehicle-38  sw:manufacturer  "Otoh Gunga Bongameken Cooperative" .
-sw:vehicle-38  sw:length  "15" .
-sw:vehicle-38  sw:max_atmosphering_speed  "85" .
-sw:vehicle-38  sw:crew  "1" .
-sw:vehicle-38  sw:passengers  "2" .
-sw:vehicle-38  sw:cargo_capacity  "1600" .
-sw:vehicle-38  sw:vehicle_class  "submarine" .
+sw:vehicle-38  rdfs:label  """Tribubble bongo""" .
+sw:vehicle-38  sw:model  """Tribubble bongo""" .
+sw:vehicle-38  sw:manufacturer  """Otoh Gunga Bongameken Cooperative""" .
+sw:vehicle-38  sw:length  15 .
+sw:vehicle-38  sw:max_atmosphering_speed  85 .
+sw:vehicle-38  sw:crew  1 .
+sw:vehicle-38  sw:passengers  2 .
+sw:vehicle-38  sw:cargo_capacity  1600 .
+sw:vehicle-38  sw:vehicle_class  """submarine""" .
 sw:vehicle-38  sw:pilot  sw:people-10 .
 sw:vehicle-38  sw:pilot  sw:people-32 .
 sw:vehicle-38  sw:flim  sw:flim-4 .
-sw:vehicle-38  sw:created  "2014-12-19T17:37:37.924000Z" .
-sw:vehicle-38  sw:edited  "2014-12-22T18:21:16.072083Z" .
-sw:vehicle-38  sw:url  "http://swapi.co/api/vehicles/38/" .
+sw:vehicle-38  sw:created  "2014-12-19T17:37:37.924000Z"^^xsd:dateTime .
+sw:vehicle-38  sw:edited  "2014-12-22T18:21:16.072083Z"^^xsd:dateTime .
+sw:vehicle-38  sw:url  """http://swapi.co/api/vehicles/38/""" .

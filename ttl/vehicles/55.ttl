@@ -1,18 +1,19 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-55  a  sw:Vehicle .
-sw:vehicle-55  rdfs:label  "Flitknot speeder" .
-sw:vehicle-55  sw:model  "Flitknot speeder" .
-sw:vehicle-55  sw:manufacturer  "Huppla Pasa Tisc Shipwrights Collective" .
-sw:vehicle-55  sw:cost_in_credits  "8000" .
-sw:vehicle-55  sw:length  "2" .
-sw:vehicle-55  sw:max_atmosphering_speed  "634" .
-sw:vehicle-55  sw:crew  "1" .
-sw:vehicle-55  sw:passengers  "0" .
-sw:vehicle-55  sw:vehicle_class  "speeder" .
+sw:vehicle-55  rdfs:label  """Flitknot speeder""" .
+sw:vehicle-55  sw:model  """Flitknot speeder""" .
+sw:vehicle-55  sw:manufacturer  """Huppla Pasa Tisc Shipwrights Collective""" .
+sw:vehicle-55  sw:cost_in_credits  8000 .
+sw:vehicle-55  sw:length  2 .
+sw:vehicle-55  sw:max_atmosphering_speed  634 .
+sw:vehicle-55  sw:crew  1 .
+sw:vehicle-55  sw:passengers  0 .
+sw:vehicle-55  sw:vehicle_class  """speeder""" .
 sw:vehicle-55  sw:pilot  sw:people-67 .
 sw:vehicle-55  sw:flim  sw:flim-5 .
-sw:vehicle-55  sw:created  "2014-12-20T18:15:20.312000Z" .
-sw:vehicle-55  sw:edited  "2014-12-22T18:21:16.335005Z" .
-sw:vehicle-55  sw:url  "http://swapi.co/api/vehicles/55/" .
+sw:vehicle-55  sw:created  "2014-12-20T18:15:20.312000Z"^^xsd:dateTime .
+sw:vehicle-55  sw:edited  "2014-12-22T18:21:16.335005Z"^^xsd:dateTime .
+sw:vehicle-55  sw:url  """http://swapi.co/api/vehicles/55/""" .

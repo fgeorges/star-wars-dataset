@@ -1,19 +1,20 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-33  a  sw:People .
-sw:people-33  rdfs:label  "Nute Gunray" .
-sw:people-33  sw:height  "191" .
-sw:people-33  sw:mass  "90" .
-sw:people-33  sw:hair_color  "none" .
-sw:people-33  sw:skin_color  "mottled green" .
-sw:people-33  sw:eye_color  "red" .
-sw:people-33  sw:gender  "male" .
+sw:people-33  rdfs:label  """Nute Gunray""" .
+sw:people-33  sw:height  """191""" .
+sw:people-33  sw:mass  """90""" .
+sw:people-33  sw:hair_color  """none""" .
+sw:people-33  sw:skin_color  """mottled green""" .
+sw:people-33  sw:eye_color  """red""" .
+sw:people-33  sw:gender  """male""" .
 sw:people-33  sw:homeworld  sw:planet-18 .
 sw:people-33  sw:flim  sw:flim-5 .
 sw:people-33  sw:flim  sw:flim-4 .
 sw:people-33  sw:flim  sw:flim-6 .
 sw:people-33  sw:species  sw:species-11 .
-sw:people-33  sw:created  "2014-12-19T17:05:57.357000Z" .
-sw:people-33  sw:edited  "2014-12-20T21:17:50.377000Z" .
-sw:people-33  sw:url  "http://swapi.co/api/people/33/" .
+sw:people-33  sw:created  "2014-12-19T17:05:57.357000Z"^^xsd:dateTime .
+sw:people-33  sw:edited  "2014-12-20T21:17:50.377000Z"^^xsd:dateTime .
+sw:people-33  sw:url  """http://swapi.co/api/people/33/""" .

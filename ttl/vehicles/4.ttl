@@ -1,20 +1,21 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-4  a  sw:Vehicle .
-sw:vehicle-4  rdfs:label  "Sand Crawler" .
-sw:vehicle-4  sw:model  "Digger Crawler" .
-sw:vehicle-4  sw:manufacturer  "Corellia Mining Corporation" .
-sw:vehicle-4  sw:cost_in_credits  "150000" .
-sw:vehicle-4  sw:length  "36.8" .
-sw:vehicle-4  sw:max_atmosphering_speed  "30" .
-sw:vehicle-4  sw:crew  "46" .
-sw:vehicle-4  sw:passengers  "30" .
-sw:vehicle-4  sw:cargo_capacity  "50000" .
-sw:vehicle-4  sw:consumables  "2 months" .
-sw:vehicle-4  sw:vehicle_class  "wheeled" .
+sw:vehicle-4  rdfs:label  """Sand Crawler""" .
+sw:vehicle-4  sw:model  """Digger Crawler""" .
+sw:vehicle-4  sw:manufacturer  """Corellia Mining Corporation""" .
+sw:vehicle-4  sw:cost_in_credits  150000 .
+sw:vehicle-4  sw:length  36.8 .
+sw:vehicle-4  sw:max_atmosphering_speed  30 .
+sw:vehicle-4  sw:crew  46 .
+sw:vehicle-4  sw:passengers  30 .
+sw:vehicle-4  sw:cargo_capacity  50000 .
+sw:vehicle-4  sw:consumables  2 months .
+sw:vehicle-4  sw:vehicle_class  """wheeled""" .
 sw:vehicle-4  sw:flim  sw:flim-5 .
 sw:vehicle-4  sw:flim  sw:flim-1 .
-sw:vehicle-4  sw:created  "2014-12-10T15:36:25.724000Z" .
-sw:vehicle-4  sw:edited  "2014-12-22T18:21:15.523587Z" .
-sw:vehicle-4  sw:url  "http://swapi.co/api/vehicles/4/" .
+sw:vehicle-4  sw:created  "2014-12-10T15:36:25.724000Z"^^xsd:dateTime .
+sw:vehicle-4  sw:edited  "2014-12-22T18:21:15.523587Z"^^xsd:dateTime .
+sw:vehicle-4  sw:url  """http://swapi.co/api/vehicles/4/""" .

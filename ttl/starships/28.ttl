@@ -1,23 +1,24 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:starship-28  a  sw:Starship .
-sw:starship-28  rdfs:label  "A-wing" .
-sw:starship-28  sw:model  "RZ-1 A-wing Interceptor" .
-sw:starship-28  sw:manufacturer  "Alliance Underground Engineering, Incom Corporation" .
-sw:starship-28  sw:cost_in_credits  "175000" .
-sw:starship-28  sw:length  "9.6" .
-sw:starship-28  sw:max_atmosphering_speed  "1300" .
-sw:starship-28  sw:crew  "1" .
-sw:starship-28  sw:passengers  "0" .
-sw:starship-28  sw:cargo_capacity  "40" .
-sw:starship-28  sw:consumables  "1 week" .
-sw:starship-28  sw:hyperdrive_rating  "1.0" .
-sw:starship-28  sw:MGLT  "120" .
-sw:starship-28  sw:starship_class  "Starfighter" .
+sw:starship-28  rdfs:label  """A-wing""" .
+sw:starship-28  sw:model  """RZ-1 A-wing Interceptor""" .
+sw:starship-28  sw:manufacturer  """Alliance Underground Engineering, Incom Corporation""" .
+sw:starship-28  sw:cost_in_credits  175000 .
+sw:starship-28  sw:length  9.6 .
+sw:starship-28  sw:max_atmosphering_speed  1300 .
+sw:starship-28  sw:crew  1 .
+sw:starship-28  sw:passengers  0 .
+sw:starship-28  sw:cargo_capacity  40 .
+sw:starship-28  sw:consumables  1 week .
+sw:starship-28  sw:hyperdrive_rating  1.0 .
+sw:starship-28  sw:MGLT  """120""" .
+sw:starship-28  sw:starship_class  """Starfighter""" .
 sw:starship-28  sw:pilot  sw:people-29 .
 sw:starship-28  sw:flim  sw:flim-3 .
-sw:starship-28  sw:created  "2014-12-18T11:16:34.542000Z" .
-sw:starship-28  sw:edited  "2014-12-22T17:35:44.978754Z" .
-sw:starship-28  sw:url  "http://swapi.co/api/starships/28/" .
-sw:starship-28  sw:desc  "A-wings are fictional starfighters in the Star Wars franchise. They first appear in Return of the Jedi (1983) and later in numerous Star Wars materials and productions. It gained popularity through its depiction in several video games, and since 1985 the A-wing has been merchandised by several companies." .
+sw:starship-28  sw:created  "2014-12-18T11:16:34.542000Z"^^xsd:dateTime .
+sw:starship-28  sw:edited  "2014-12-22T17:35:44.978754Z"^^xsd:dateTime .
+sw:starship-28  sw:url  """http://swapi.co/api/starships/28/""" .
+sw:starship-28  sw:desc  """A-wings are fictional starfighters in the Star Wars franchise. They first appear in Return of the Jedi (1983) and later in numerous Star Wars materials and productions. It gained popularity through its depiction in several video games, and since 1985 the A-wing has been merchandised by several companies.""" .

@@ -1,22 +1,23 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-67  a  sw:People .
-sw:people-67  rdfs:label  "Dooku" .
-sw:people-67  sw:height  "193" .
-sw:people-67  sw:mass  "80" .
-sw:people-67  sw:hair_color  "white" .
-sw:people-67  sw:skin_color  "fair" .
-sw:people-67  sw:eye_color  "brown" .
-sw:people-67  sw:birth_year  "102BBY" .
-sw:people-67  sw:gender  "male" .
+sw:people-67  rdfs:label  """Dooku""" .
+sw:people-67  sw:height  """193""" .
+sw:people-67  sw:mass  """80""" .
+sw:people-67  sw:hair_color  """white""" .
+sw:people-67  sw:skin_color  """fair""" .
+sw:people-67  sw:eye_color  """brown""" .
+sw:people-67  sw:birth_year  """102BBY""" .
+sw:people-67  sw:gender  """male""" .
 sw:people-67  sw:homeworld  sw:planet-52 .
 sw:people-67  sw:flim  sw:flim-5 .
 sw:people-67  sw:flim  sw:flim-6 .
 sw:people-67  sw:species  sw:species-1 .
 sw:people-67  sw:vehicle  sw:vehicle-55 .
-sw:people-67  sw:created  "2014-12-20T16:52:14.726000Z" .
-sw:people-67  sw:edited  "2014-12-20T21:17:50.462000Z" .
-sw:people-67  sw:url  "http://swapi.co/api/people/67/" .
-sw:people-67  sw:desc  "Count Dooku is a fictional character from the Star Wars franchise, appearing in Star Wars: Episode II – Attack of the Clones and Star Wars: Episode III – Revenge of the Sith (portrayed by Christopher Lee).[1] He was also voiced by Corey Burton in the animated series Star Wars: The Clone Wars and Star Wars: Clone Wars." .
-sw:people-67  sw:desc  "Once a respected Jedi Master, he falls to the dark side of the Force after the death of his former Padawan, Qui-Gon Jinn, and becomes Darth Sidious' second apprentice under the name Darth Tyranus. As the founder of the Confederacy of Independent Systems, he is instrumental in the Clone Wars. Dooku was trained by Yoda as a Padawan learner." .
+sw:people-67  sw:created  "2014-12-20T16:52:14.726000Z"^^xsd:dateTime .
+sw:people-67  sw:edited  "2014-12-20T21:17:50.462000Z"^^xsd:dateTime .
+sw:people-67  sw:url  """http://swapi.co/api/people/67/""" .
+sw:people-67  sw:desc  """Count Dooku is a fictional character from the Star Wars franchise, appearing in Star Wars: Episode II – Attack of the Clones and Star Wars: Episode III – Revenge of the Sith (portrayed by Christopher Lee).[1] He was also voiced by Corey Burton in the animated series Star Wars: The Clone Wars and Star Wars: Clone Wars.""" .
+sw:people-67  sw:desc  """Once a respected Jedi Master, he falls to the dark side of the Force after the death of his former Padawan, Qui-Gon Jinn, and becomes Darth Sidious' second apprentice under the name Darth Tyranus. As the founder of the Confederacy of Independent Systems, he is instrumental in the Clone Wars. Dooku was trained by Yoda as a Padawan learner.""" .

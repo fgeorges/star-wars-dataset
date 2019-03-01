@@ -1,18 +1,19 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-34  a  sw:Vehicle .
-sw:vehicle-34  rdfs:label  "Multi-Troop Transport" .
-sw:vehicle-34  sw:model  "Multi-Troop Transport" .
-sw:vehicle-34  sw:manufacturer  "Baktoid Armor Workshop" .
-sw:vehicle-34  sw:cost_in_credits  "138000" .
-sw:vehicle-34  sw:length  "31" .
-sw:vehicle-34  sw:max_atmosphering_speed  "35" .
-sw:vehicle-34  sw:crew  "4" .
-sw:vehicle-34  sw:passengers  "112" .
-sw:vehicle-34  sw:cargo_capacity  "12000" .
-sw:vehicle-34  sw:vehicle_class  "repulsorcraft" .
+sw:vehicle-34  rdfs:label  """Multi-Troop Transport""" .
+sw:vehicle-34  sw:model  """Multi-Troop Transport""" .
+sw:vehicle-34  sw:manufacturer  """Baktoid Armor Workshop""" .
+sw:vehicle-34  sw:cost_in_credits  138000 .
+sw:vehicle-34  sw:length  31 .
+sw:vehicle-34  sw:max_atmosphering_speed  35 .
+sw:vehicle-34  sw:crew  4 .
+sw:vehicle-34  sw:passengers  112 .
+sw:vehicle-34  sw:cargo_capacity  12000 .
+sw:vehicle-34  sw:vehicle_class  """repulsorcraft""" .
 sw:vehicle-34  sw:flim  sw:flim-4 .
-sw:vehicle-34  sw:created  "2014-12-19T17:12:04.400000Z" .
-sw:vehicle-34  sw:edited  "2014-12-22T18:21:15.975171Z" .
-sw:vehicle-34  sw:url  "http://swapi.co/api/vehicles/34/" .
+sw:vehicle-34  sw:created  "2014-12-19T17:12:04.400000Z"^^xsd:dateTime .
+sw:vehicle-34  sw:edited  "2014-12-22T18:21:15.975171Z"^^xsd:dateTime .
+sw:vehicle-34  sw:url  """http://swapi.co/api/vehicles/34/""" .

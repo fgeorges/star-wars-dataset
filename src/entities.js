@@ -56,6 +56,22 @@ function endProp(file, i, len)
 
 function triple(file, rsrc, prop, content)
 {
+    const numbers = [
+        'sw:average_height',
+        'sw:average_lifespan',
+        'sw:cargo_capacity',
+        'sw:consumables',
+        'sw:cost_in_credits',
+        'sw:crew',
+        'sw:diameter',
+        'sw:episode_id',
+        'sw:hyperdrive_rating',
+        'sw:length',
+        'sw:max_atmosphering_speed',
+        'sw:orbital_period',
+        'sw:passengers',
+        'sw:rotation_period'
+    ];
     if ( prop === 'title' || prop === 'name' ) {
 	prop = 'rdfs:label';
     }
@@ -92,14 +108,21 @@ function triple(file, rsrc, prop, content)
     else if ( prop === 'sw:vehicles' ) {
 	fs.writeSync(file, rsrc + '  sw:vehicle  sw:vehicle-' + content.slice(29).slice(0, -1) + ' .\n');
     }
+    else if ( prop === 'sw:release_date' ) {
+	fs.writeSync(file, `${rsrc}  ${prop}  "${content}"^^xsd:date .\n`);
+    }
+    else if ( ['sw:created', 'sw:edited'].includes(prop) ) {
+	fs.writeSync(file, `${rsrc}  ${prop}  "${content}"^^xsd:dateTime .\n`);
+    }
+    else if ( numbers.includes(prop) ) {
+	fs.writeSync(file, `${rsrc}  ${prop}  ${content} .\n`);
+    }
     else {
-	if ( typeof content === 'string' ) {
-	    if ( prop !== 'sw:url' && content.startsWith('http://swapi.co/api/') ) {
-		throw new Error('Should not this be a resource link? - ' + prop);
-	    }
-	    content = '"' + content.replace(/"/g, '\\u0022') + '"';
+	if ( prop !== 'sw:url' && content.startsWith('http://swapi.co/api/') ) {
+	    throw new Error('Should not this be a resource link? - ' + prop);
 	}
-	fs.writeSync(file, rsrc + '  ' + prop + '  ' + content + ' .\n');
+	content = content.replace(/"/g, '\\u0022');
+	fs.writeSync(file, `${rsrc}  ${prop}  """${content}""" .\n`);
     }
 }
 
@@ -123,7 +146,8 @@ function writeEntity(entity, dir, root)
     const clazz = root.slice(0, 1).toUpperCase() + root.slice(1);
     fs.writeSync(json, '{ "' + root + '": {\n');
     fs.writeSync(ttl,  '@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n');
-    fs.writeSync(ttl,  '@prefix sw:   <http://h2o.consulting/ns/star-wars#> .\n\n');
+    fs.writeSync(ttl,  '@prefix sw:   <http://h2o.consulting/ns/star-wars#> .\n');
+    fs.writeSync(ttl,  '@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .\n\n');
     fs.writeSync(ttl,  rsrc + '  a  sw:' + clazz + ' .\n');
     fs.writeSync(xml,  '<' + root + '>\n');
     const props = Object.keys(entity);

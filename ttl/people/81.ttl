@@ -1,18 +1,19 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-81  a  sw:People .
-sw:people-81  rdfs:label  "Raymus Antilles" .
-sw:people-81  sw:height  "188" .
-sw:people-81  sw:mass  "79" .
-sw:people-81  sw:hair_color  "brown" .
-sw:people-81  sw:skin_color  "light" .
-sw:people-81  sw:eye_color  "brown" .
-sw:people-81  sw:gender  "male" .
+sw:people-81  rdfs:label  """Raymus Antilles""" .
+sw:people-81  sw:height  """188""" .
+sw:people-81  sw:mass  """79""" .
+sw:people-81  sw:hair_color  """brown""" .
+sw:people-81  sw:skin_color  """light""" .
+sw:people-81  sw:eye_color  """brown""" .
+sw:people-81  sw:gender  """male""" .
 sw:people-81  sw:homeworld  sw:planet-2 .
 sw:people-81  sw:flim  sw:flim-1 .
 sw:people-81  sw:flim  sw:flim-6 .
 sw:people-81  sw:species  sw:species-1 .
-sw:people-81  sw:created  "2014-12-20T19:49:35.583000Z" .
-sw:people-81  sw:edited  "2014-12-20T21:17:50.493000Z" .
-sw:people-81  sw:url  "http://swapi.co/api/people/81/" .
+sw:people-81  sw:created  "2014-12-20T19:49:35.583000Z"^^xsd:dateTime .
+sw:people-81  sw:edited  "2014-12-20T21:17:50.493000Z"^^xsd:dateTime .
+sw:people-81  sw:url  """http://swapi.co/api/people/81/""" .

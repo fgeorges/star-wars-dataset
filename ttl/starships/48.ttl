@@ -1,23 +1,24 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:starship-48  a  sw:Starship .
-sw:starship-48  rdfs:label  "Jedi starfighter" .
-sw:starship-48  sw:model  "Delta-7 Aethersprite-class interceptor" .
-sw:starship-48  sw:manufacturer  "Kuat Systems Engineering" .
-sw:starship-48  sw:cost_in_credits  "180000" .
-sw:starship-48  sw:length  "8" .
-sw:starship-48  sw:max_atmosphering_speed  "1150" .
-sw:starship-48  sw:crew  "1" .
-sw:starship-48  sw:passengers  "0" .
-sw:starship-48  sw:cargo_capacity  "60" .
-sw:starship-48  sw:consumables  "7 days" .
-sw:starship-48  sw:hyperdrive_rating  "1.0" .
-sw:starship-48  sw:starship_class  "Starfighter" .
+sw:starship-48  rdfs:label  """Jedi starfighter""" .
+sw:starship-48  sw:model  """Delta-7 Aethersprite-class interceptor""" .
+sw:starship-48  sw:manufacturer  """Kuat Systems Engineering""" .
+sw:starship-48  sw:cost_in_credits  180000 .
+sw:starship-48  sw:length  8 .
+sw:starship-48  sw:max_atmosphering_speed  1150 .
+sw:starship-48  sw:crew  1 .
+sw:starship-48  sw:passengers  0 .
+sw:starship-48  sw:cargo_capacity  60 .
+sw:starship-48  sw:consumables  7 days .
+sw:starship-48  sw:hyperdrive_rating  1.0 .
+sw:starship-48  sw:starship_class  """Starfighter""" .
 sw:starship-48  sw:pilot  sw:people-10 .
 sw:starship-48  sw:pilot  sw:people-58 .
 sw:starship-48  sw:flim  sw:flim-5 .
 sw:starship-48  sw:flim  sw:flim-6 .
-sw:starship-48  sw:created  "2014-12-20T17:35:23.906000Z" .
-sw:starship-48  sw:edited  "2014-12-22T17:35:45.147746Z" .
-sw:starship-48  sw:url  "http://swapi.co/api/starships/48/" .
+sw:starship-48  sw:created  "2014-12-20T17:35:23.906000Z"^^xsd:dateTime .
+sw:starship-48  sw:edited  "2014-12-22T17:35:45.147746Z"^^xsd:dateTime .
+sw:starship-48  sw:url  """http://swapi.co/api/starships/48/""" .

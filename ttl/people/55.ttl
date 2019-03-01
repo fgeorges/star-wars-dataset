@@ -1,18 +1,19 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-55  a  sw:People .
-sw:people-55  rdfs:label  "Adi Gallia" .
-sw:people-55  sw:height  "184" .
-sw:people-55  sw:mass  "50" .
-sw:people-55  sw:hair_color  "none" .
-sw:people-55  sw:skin_color  "dark" .
-sw:people-55  sw:eye_color  "blue" .
-sw:people-55  sw:gender  "female" .
+sw:people-55  rdfs:label  """Adi Gallia""" .
+sw:people-55  sw:height  """184""" .
+sw:people-55  sw:mass  """50""" .
+sw:people-55  sw:hair_color  """none""" .
+sw:people-55  sw:skin_color  """dark""" .
+sw:people-55  sw:eye_color  """blue""" .
+sw:people-55  sw:gender  """female""" .
 sw:people-55  sw:homeworld  sw:planet-9 .
 sw:people-55  sw:flim  sw:flim-4 .
 sw:people-55  sw:flim  sw:flim-6 .
 sw:people-55  sw:species  sw:species-23 .
-sw:people-55  sw:created  "2014-12-20T10:29:11.661000Z" .
-sw:people-55  sw:edited  "2014-12-20T21:17:50.432000Z" .
-sw:people-55  sw:url  "http://swapi.co/api/people/55/" .
+sw:people-55  sw:created  "2014-12-20T10:29:11.661000Z"^^xsd:dateTime .
+sw:people-55  sw:edited  "2014-12-20T21:17:50.432000Z"^^xsd:dateTime .
+sw:people-55  sw:url  """http://swapi.co/api/people/55/""" .

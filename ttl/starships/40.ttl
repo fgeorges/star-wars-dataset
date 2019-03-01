@@ -1,17 +1,18 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:starship-40  a  sw:Starship .
-sw:starship-40  rdfs:label  "Naboo Royal Starship" .
-sw:starship-40  sw:model  "J-type 327 Nubian royal starship" .
-sw:starship-40  sw:manufacturer  "Theed Palace Space Vessel Engineering Corps, Nubia Star Drives" .
-sw:starship-40  sw:length  "76" .
-sw:starship-40  sw:max_atmosphering_speed  "920" .
-sw:starship-40  sw:crew  "8" .
-sw:starship-40  sw:hyperdrive_rating  "1.8" .
-sw:starship-40  sw:starship_class  "yacht" .
+sw:starship-40  rdfs:label  """Naboo Royal Starship""" .
+sw:starship-40  sw:model  """J-type 327 Nubian royal starship""" .
+sw:starship-40  sw:manufacturer  """Theed Palace Space Vessel Engineering Corps, Nubia Star Drives""" .
+sw:starship-40  sw:length  76 .
+sw:starship-40  sw:max_atmosphering_speed  920 .
+sw:starship-40  sw:crew  8 .
+sw:starship-40  sw:hyperdrive_rating  1.8 .
+sw:starship-40  sw:starship_class  """yacht""" .
 sw:starship-40  sw:pilot  sw:people-39 .
 sw:starship-40  sw:flim  sw:flim-4 .
-sw:starship-40  sw:created  "2014-12-19T17:45:03.506000Z" .
-sw:starship-40  sw:edited  "2014-12-22T17:35:45.091925Z" .
-sw:starship-40  sw:url  "http://swapi.co/api/starships/40/" .
+sw:starship-40  sw:created  "2014-12-19T17:45:03.506000Z"^^xsd:dateTime .
+sw:starship-40  sw:edited  "2014-12-22T17:35:45.091925Z"^^xsd:dateTime .
+sw:starship-40  sw:url  """http://swapi.co/api/starships/40/""" .

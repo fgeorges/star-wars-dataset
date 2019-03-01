@@ -1,17 +1,18 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-31  a  sw:Planet .
-sw:planet-31  rdfs:label  "Mon Cala" .
-sw:planet-31  sw:rotation_period  "21" .
-sw:planet-31  sw:orbital_period  "398" .
-sw:planet-31  sw:diameter  "11030" .
-sw:planet-31  sw:climate  "temperate" .
-sw:planet-31  sw:gravity  "1" .
-sw:planet-31  sw:terrain  "oceans, reefs, islands" .
-sw:planet-31  sw:surface_water  "100" .
-sw:planet-31  sw:population  "27000000000" .
+sw:planet-31  rdfs:label  """Mon Cala""" .
+sw:planet-31  sw:rotation_period  21 .
+sw:planet-31  sw:orbital_period  398 .
+sw:planet-31  sw:diameter  11030 .
+sw:planet-31  sw:climate  """temperate""" .
+sw:planet-31  sw:gravity  """1""" .
+sw:planet-31  sw:terrain  """oceans, reefs, islands""" .
+sw:planet-31  sw:surface_water  """100""" .
+sw:planet-31  sw:population  """27000000000""" .
 sw:planet-31  sw:resident  sw:people-27 .
-sw:planet-31  sw:created  "2014-12-18T11:07:01.792000Z" .
-sw:planet-31  sw:edited  "2014-12-20T20:58:18.471000Z" .
-sw:planet-31  sw:url  "http://swapi.co/api/planets/31/" .
+sw:planet-31  sw:created  "2014-12-18T11:07:01.792000Z"^^xsd:dateTime .
+sw:planet-31  sw:edited  "2014-12-20T20:58:18.471000Z"^^xsd:dateTime .
+sw:planet-31  sw:url  """http://swapi.co/api/planets/31/""" .

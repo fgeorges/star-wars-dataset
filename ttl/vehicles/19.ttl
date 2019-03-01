@@ -1,22 +1,23 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-19  a  sw:Vehicle .
-sw:vehicle-19  rdfs:label  "AT-ST" .
-sw:vehicle-19  sw:model  "All Terrain Scout Transport" .
-sw:vehicle-19  sw:manufacturer  "Kuat Drive Yards, Imperial Department of Military Research" .
-sw:vehicle-19  sw:length  "2" .
-sw:vehicle-19  sw:max_atmosphering_speed  "90" .
-sw:vehicle-19  sw:crew  "2" .
-sw:vehicle-19  sw:passengers  "0" .
-sw:vehicle-19  sw:cargo_capacity  "200" .
-sw:vehicle-19  sw:consumables  "none" .
-sw:vehicle-19  sw:vehicle_class  "walker" .
+sw:vehicle-19  rdfs:label  """AT-ST""" .
+sw:vehicle-19  sw:model  """All Terrain Scout Transport""" .
+sw:vehicle-19  sw:manufacturer  """Kuat Drive Yards, Imperial Department of Military Research""" .
+sw:vehicle-19  sw:length  2 .
+sw:vehicle-19  sw:max_atmosphering_speed  90 .
+sw:vehicle-19  sw:crew  2 .
+sw:vehicle-19  sw:passengers  0 .
+sw:vehicle-19  sw:cargo_capacity  200 .
+sw:vehicle-19  sw:consumables  none .
+sw:vehicle-19  sw:vehicle_class  """walker""" .
 sw:vehicle-19  sw:pilot  sw:people-13 .
 sw:vehicle-19  sw:flim  sw:flim-3 .
 sw:vehicle-19  sw:flim  sw:flim-2 .
-sw:vehicle-19  sw:created  "2014-12-15T12:46:42.384000Z" .
-sw:vehicle-19  sw:edited  "2014-12-22T18:21:15.761584Z" .
-sw:vehicle-19  sw:url  "http://swapi.co/api/vehicles/19/" .
-sw:vehicle-19  sw:desc  "Walkers are vehicles from the Star Wars universe that traverse the landscape on mechanical legs. They are used by the Old Republic and the Galactic Empire for ground assault or transport. Throughout the saga, walkers have played a pivotal role in the fate of characters and the outcome of battles. Industrial Light and Magic (ILM) is responsible for their animation and design, often using models, stop-motion animation, and relevant matte paintings to depict their presence in the films." .
-sw:vehicle-19  sw:desc  "There are a variety of walkers: The Empire Strikes Back introduces the All Terrain Armored Transport (AT-AT) and All Terrain Scout Transport (AT-ST). Star Wars: Episode II – Attack of the Clones and Star Wars: Episode III – Revenge of the Sith introduced earlier models of walkers, such as the AT-TE, and the Star Wars expanded universe features numerous others. Walker variants have been merchandised and featured in popular culture." .
+sw:vehicle-19  sw:created  "2014-12-15T12:46:42.384000Z"^^xsd:dateTime .
+sw:vehicle-19  sw:edited  "2014-12-22T18:21:15.761584Z"^^xsd:dateTime .
+sw:vehicle-19  sw:url  """http://swapi.co/api/vehicles/19/""" .
+sw:vehicle-19  sw:desc  """Walkers are vehicles from the Star Wars universe that traverse the landscape on mechanical legs. They are used by the Old Republic and the Galactic Empire for ground assault or transport. Throughout the saga, walkers have played a pivotal role in the fate of characters and the outcome of battles. Industrial Light and Magic (ILM) is responsible for their animation and design, often using models, stop-motion animation, and relevant matte paintings to depict their presence in the films.""" .
+sw:vehicle-19  sw:desc  """There are a variety of walkers: The Empire Strikes Back introduces the All Terrain Armored Transport (AT-AT) and All Terrain Scout Transport (AT-ST). Star Wars: Episode II – Attack of the Clones and Star Wars: Episode III – Revenge of the Sith introduced earlier models of walkers, such as the AT-TE, and the Star Wars expanded universe features numerous others. Walker variants have been merchandised and featured in popular culture.""" .

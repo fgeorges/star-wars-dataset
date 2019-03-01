@@ -1,17 +1,18 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-28  a  sw:People .
-sw:people-28  rdfs:label  "Mon Mothma" .
-sw:people-28  sw:height  "150" .
-sw:people-28  sw:hair_color  "auburn" .
-sw:people-28  sw:skin_color  "fair" .
-sw:people-28  sw:eye_color  "blue" .
-sw:people-28  sw:birth_year  "48BBY" .
-sw:people-28  sw:gender  "female" .
+sw:people-28  rdfs:label  """Mon Mothma""" .
+sw:people-28  sw:height  """150""" .
+sw:people-28  sw:hair_color  """auburn""" .
+sw:people-28  sw:skin_color  """fair""" .
+sw:people-28  sw:eye_color  """blue""" .
+sw:people-28  sw:birth_year  """48BBY""" .
+sw:people-28  sw:gender  """female""" .
 sw:people-28  sw:homeworld  sw:planet-32 .
 sw:people-28  sw:flim  sw:flim-3 .
 sw:people-28  sw:species  sw:species-1 .
-sw:people-28  sw:created  "2014-12-18T11:12:38.895000Z" .
-sw:people-28  sw:edited  "2014-12-20T21:17:50.364000Z" .
-sw:people-28  sw:url  "http://swapi.co/api/people/28/" .
+sw:people-28  sw:created  "2014-12-18T11:12:38.895000Z"^^xsd:dateTime .
+sw:people-28  sw:edited  "2014-12-20T21:17:50.364000Z"^^xsd:dateTime .
+sw:people-28  sw:url  """http://swapi.co/api/people/28/""" .

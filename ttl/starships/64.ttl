@@ -1,19 +1,20 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:starship-64  a  sw:Starship .
-sw:starship-64  rdfs:label  "Naboo star skiff" .
-sw:starship-64  sw:model  "J-type star skiff" .
-sw:starship-64  sw:manufacturer  "Theed Palace Space Vessel Engineering Corps/Nubia Star Drives, Incorporated" .
-sw:starship-64  sw:length  "29.2" .
-sw:starship-64  sw:max_atmosphering_speed  "1050" .
-sw:starship-64  sw:crew  "3" .
-sw:starship-64  sw:passengers  "3" .
-sw:starship-64  sw:hyperdrive_rating  "0.5" .
-sw:starship-64  sw:starship_class  "yacht" .
+sw:starship-64  rdfs:label  """Naboo star skiff""" .
+sw:starship-64  sw:model  """J-type star skiff""" .
+sw:starship-64  sw:manufacturer  """Theed Palace Space Vessel Engineering Corps/Nubia Star Drives, Incorporated""" .
+sw:starship-64  sw:length  29.2 .
+sw:starship-64  sw:max_atmosphering_speed  1050 .
+sw:starship-64  sw:crew  3 .
+sw:starship-64  sw:passengers  3 .
+sw:starship-64  sw:hyperdrive_rating  0.5 .
+sw:starship-64  sw:starship_class  """yacht""" .
 sw:starship-64  sw:pilot  sw:people-10 .
 sw:starship-64  sw:pilot  sw:people-35 .
 sw:starship-64  sw:flim  sw:flim-6 .
-sw:starship-64  sw:created  "2014-12-20T19:55:15.396000Z" .
-sw:starship-64  sw:edited  "2014-12-22T17:35:45.258859Z" .
-sw:starship-64  sw:url  "http://swapi.co/api/starships/64/" .
+sw:starship-64  sw:created  "2014-12-20T19:55:15.396000Z"^^xsd:dateTime .
+sw:starship-64  sw:edited  "2014-12-22T17:35:45.258859Z"^^xsd:dateTime .
+sw:starship-64  sw:url  """http://swapi.co/api/starships/64/""" .

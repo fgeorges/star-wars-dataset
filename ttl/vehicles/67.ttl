@@ -1,19 +1,20 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-67  a  sw:Vehicle .
-sw:vehicle-67  rdfs:label  "Droid tri-fighter" .
-sw:vehicle-67  sw:model  "tri-fighter" .
-sw:vehicle-67  sw:manufacturer  "Colla Designs, Phlac-Arphocc Automata Industries" .
-sw:vehicle-67  sw:cost_in_credits  "20000" .
-sw:vehicle-67  sw:length  "5.4" .
-sw:vehicle-67  sw:max_atmosphering_speed  "1180" .
-sw:vehicle-67  sw:crew  "1" .
-sw:vehicle-67  sw:passengers  "0" .
-sw:vehicle-67  sw:cargo_capacity  "0" .
-sw:vehicle-67  sw:consumables  "none" .
-sw:vehicle-67  sw:vehicle_class  "droid starfighter" .
+sw:vehicle-67  rdfs:label  """Droid tri-fighter""" .
+sw:vehicle-67  sw:model  """tri-fighter""" .
+sw:vehicle-67  sw:manufacturer  """Colla Designs, Phlac-Arphocc Automata Industries""" .
+sw:vehicle-67  sw:cost_in_credits  20000 .
+sw:vehicle-67  sw:length  5.4 .
+sw:vehicle-67  sw:max_atmosphering_speed  1180 .
+sw:vehicle-67  sw:crew  1 .
+sw:vehicle-67  sw:passengers  0 .
+sw:vehicle-67  sw:cargo_capacity  0 .
+sw:vehicle-67  sw:consumables  none .
+sw:vehicle-67  sw:vehicle_class  """droid starfighter""" .
 sw:vehicle-67  sw:flim  sw:flim-6 .
-sw:vehicle-67  sw:created  "2014-12-20T20:05:19.992000Z" .
-sw:vehicle-67  sw:edited  "2014-12-22T18:21:16.478901Z" .
-sw:vehicle-67  sw:url  "http://swapi.co/api/vehicles/67/" .
+sw:vehicle-67  sw:created  "2014-12-20T20:05:19.992000Z"^^xsd:dateTime .
+sw:vehicle-67  sw:edited  "2014-12-22T18:21:16.478901Z"^^xsd:dateTime .
+sw:vehicle-67  sw:url  """http://swapi.co/api/vehicles/67/""" .

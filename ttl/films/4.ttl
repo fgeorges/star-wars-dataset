@@ -1,10 +1,11 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:film-4  a  sw:Film .
-sw:film-4  rdfs:label  "The Phantom Menace" .
+sw:film-4  rdfs:label  """The Phantom Menace""" .
 sw:film-4  sw:episode_id  1 .
-sw:film-4  sw:opening_crawl  "Turmoil has engulfed the
+sw:film-4  sw:opening_crawl  """Turmoil has engulfed the
 Galactic Republic. The taxation
 of trade routes to outlying star
 systems is in dispute.
@@ -23,10 +24,10 @@ the Supreme Chancellor has
 secretly dispatched two Jedi
 Knights, the guardians of
 peace and justice in the
-galaxy, to settle the conflict...." .
-sw:film-4  sw:director  "George Lucas" .
-sw:film-4  sw:producer  "Rick McCallum" .
-sw:film-4  sw:release_date  "1999-05-19" .
+galaxy, to settle the conflict....""" .
+sw:film-4  sw:director  """George Lucas""" .
+sw:film-4  sw:producer  """Rick McCallum""" .
+sw:film-4  sw:release_date  "1999-05-19"^^xsd:date .
 sw:film-4  sw:character  sw:people-2 .
 sw:film-4  sw:character  sw:people-3 .
 sw:film-4  sw:character  sw:people-10 .
@@ -96,6 +97,6 @@ sw:film-4  sw:species  sw:species-24 .
 sw:film-4  sw:species  sw:species-25 .
 sw:film-4  sw:species  sw:species-26 .
 sw:film-4  sw:species  sw:species-27 .
-sw:film-4  sw:created  "2014-12-19T16:52:55.740000Z" .
-sw:film-4  sw:edited  "2015-04-11T09:45:18.689301Z" .
-sw:film-4  sw:url  "http://swapi.co/api/films/4/" .
+sw:film-4  sw:created  "2014-12-19T16:52:55.740000Z"^^xsd:dateTime .
+sw:film-4  sw:edited  "2015-04-11T09:45:18.689301Z"^^xsd:dateTime .
+sw:film-4  sw:url  """http://swapi.co/api/films/4/""" .

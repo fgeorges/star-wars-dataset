@@ -1,19 +1,20 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-64  a  sw:People .
-sw:people-64  rdfs:label  "Luminara Unduli" .
-sw:people-64  sw:height  "170" .
-sw:people-64  sw:mass  "56.2" .
-sw:people-64  sw:hair_color  "black" .
-sw:people-64  sw:skin_color  "yellow" .
-sw:people-64  sw:eye_color  "blue" .
-sw:people-64  sw:birth_year  "58BBY" .
-sw:people-64  sw:gender  "female" .
+sw:people-64  rdfs:label  """Luminara Unduli""" .
+sw:people-64  sw:height  """170""" .
+sw:people-64  sw:mass  """56.2""" .
+sw:people-64  sw:hair_color  """black""" .
+sw:people-64  sw:skin_color  """yellow""" .
+sw:people-64  sw:eye_color  """blue""" .
+sw:people-64  sw:birth_year  """58BBY""" .
+sw:people-64  sw:gender  """female""" .
 sw:people-64  sw:homeworld  sw:planet-51 .
 sw:people-64  sw:flim  sw:flim-5 .
 sw:people-64  sw:flim  sw:flim-6 .
 sw:people-64  sw:species  sw:species-29 .
-sw:people-64  sw:created  "2014-12-20T16:45:53.668000Z" .
-sw:people-64  sw:edited  "2014-12-20T21:17:50.455000Z" .
-sw:people-64  sw:url  "http://swapi.co/api/people/64/" .
+sw:people-64  sw:created  "2014-12-20T16:45:53.668000Z"^^xsd:dateTime .
+sw:people-64  sw:edited  "2014-12-20T21:17:50.455000Z"^^xsd:dateTime .
+sw:people-64  sw:url  """http://swapi.co/api/people/64/""" .

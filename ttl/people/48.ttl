@@ -1,17 +1,18 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-48  a  sw:People .
-sw:people-48  rdfs:label  "Dud Bolt" .
-sw:people-48  sw:height  "94" .
-sw:people-48  sw:mass  "45" .
-sw:people-48  sw:hair_color  "none" .
-sw:people-48  sw:skin_color  "blue, grey" .
-sw:people-48  sw:eye_color  "yellow" .
-sw:people-48  sw:gender  "male" .
+sw:people-48  rdfs:label  """Dud Bolt""" .
+sw:people-48  sw:height  """94""" .
+sw:people-48  sw:mass  """45""" .
+sw:people-48  sw:hair_color  """none""" .
+sw:people-48  sw:skin_color  """blue, grey""" .
+sw:people-48  sw:eye_color  """yellow""" .
+sw:people-48  sw:gender  """male""" .
 sw:people-48  sw:homeworld  sw:planet-39 .
 sw:people-48  sw:flim  sw:flim-4 .
 sw:people-48  sw:species  sw:species-17 .
-sw:people-48  sw:created  "2014-12-20T09:57:31.858000Z" .
-sw:people-48  sw:edited  "2014-12-20T21:17:50.414000Z" .
-sw:people-48  sw:url  "http://swapi.co/api/people/48/" .
+sw:people-48  sw:created  "2014-12-20T09:57:31.858000Z"^^xsd:dateTime .
+sw:people-48  sw:edited  "2014-12-20T21:17:50.414000Z"^^xsd:dateTime .
+sw:people-48  sw:url  """http://swapi.co/api/people/48/""" .

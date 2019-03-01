@@ -1,19 +1,20 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-56  a  sw:Vehicle .
-sw:vehicle-56  rdfs:label  "Neimoidian shuttle" .
-sw:vehicle-56  sw:model  "Sheathipede-class transport shuttle" .
-sw:vehicle-56  sw:manufacturer  "Haor Chall Engineering" .
-sw:vehicle-56  sw:length  "20" .
-sw:vehicle-56  sw:max_atmosphering_speed  "880" .
-sw:vehicle-56  sw:crew  "2" .
-sw:vehicle-56  sw:passengers  "6" .
-sw:vehicle-56  sw:cargo_capacity  "1000" .
-sw:vehicle-56  sw:consumables  "7 days" .
-sw:vehicle-56  sw:vehicle_class  "transport" .
+sw:vehicle-56  rdfs:label  """Neimoidian shuttle""" .
+sw:vehicle-56  sw:model  """Sheathipede-class transport shuttle""" .
+sw:vehicle-56  sw:manufacturer  """Haor Chall Engineering""" .
+sw:vehicle-56  sw:length  20 .
+sw:vehicle-56  sw:max_atmosphering_speed  880 .
+sw:vehicle-56  sw:crew  2 .
+sw:vehicle-56  sw:passengers  6 .
+sw:vehicle-56  sw:cargo_capacity  1000 .
+sw:vehicle-56  sw:consumables  7 days .
+sw:vehicle-56  sw:vehicle_class  """transport""" .
 sw:vehicle-56  sw:flim  sw:flim-5 .
 sw:vehicle-56  sw:flim  sw:flim-6 .
-sw:vehicle-56  sw:created  "2014-12-20T18:25:44.912000Z" .
-sw:vehicle-56  sw:edited  "2014-12-22T18:21:16.366134Z" .
-sw:vehicle-56  sw:url  "http://swapi.co/api/vehicles/56/" .
+sw:vehicle-56  sw:created  "2014-12-20T18:25:44.912000Z"^^xsd:dateTime .
+sw:vehicle-56  sw:edited  "2014-12-22T18:21:16.366134Z"^^xsd:dateTime .
+sw:vehicle-56  sw:url  """http://swapi.co/api/vehicles/56/""" .

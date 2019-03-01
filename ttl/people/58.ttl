@@ -1,21 +1,22 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-58  a  sw:People .
-sw:people-58  rdfs:label  "Plo Koon" .
-sw:people-58  sw:height  "188" .
-sw:people-58  sw:mass  "80" .
-sw:people-58  sw:hair_color  "none" .
-sw:people-58  sw:skin_color  "orange" .
-sw:people-58  sw:eye_color  "black" .
-sw:people-58  sw:birth_year  "22BBY" .
-sw:people-58  sw:gender  "male" .
+sw:people-58  rdfs:label  """Plo Koon""" .
+sw:people-58  sw:height  """188""" .
+sw:people-58  sw:mass  """80""" .
+sw:people-58  sw:hair_color  """none""" .
+sw:people-58  sw:skin_color  """orange""" .
+sw:people-58  sw:eye_color  """black""" .
+sw:people-58  sw:birth_year  """22BBY""" .
+sw:people-58  sw:gender  """male""" .
 sw:people-58  sw:homeworld  sw:planet-49 .
 sw:people-58  sw:flim  sw:flim-5 .
 sw:people-58  sw:flim  sw:flim-4 .
 sw:people-58  sw:flim  sw:flim-6 .
 sw:people-58  sw:species  sw:species-26 .
 sw:people-58  sw:starship  sw:starship-48 .
-sw:people-58  sw:created  "2014-12-20T10:49:19.859000Z" .
-sw:people-58  sw:edited  "2014-12-20T21:17:50.439000Z" .
-sw:people-58  sw:url  "http://swapi.co/api/people/58/" .
+sw:people-58  sw:created  "2014-12-20T10:49:19.859000Z"^^xsd:dateTime .
+sw:people-58  sw:edited  "2014-12-20T21:17:50.439000Z"^^xsd:dateTime .
+sw:people-58  sw:url  """http://swapi.co/api/people/58/""" .

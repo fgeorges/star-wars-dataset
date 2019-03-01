@@ -1,17 +1,18 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-59  a  sw:People .
-sw:people-59  rdfs:label  "Mas Amedda" .
-sw:people-59  sw:height  "196" .
-sw:people-59  sw:hair_color  "none" .
-sw:people-59  sw:skin_color  "blue" .
-sw:people-59  sw:eye_color  "blue" .
-sw:people-59  sw:gender  "male" .
+sw:people-59  rdfs:label  """Mas Amedda""" .
+sw:people-59  sw:height  """196""" .
+sw:people-59  sw:hair_color  """none""" .
+sw:people-59  sw:skin_color  """blue""" .
+sw:people-59  sw:eye_color  """blue""" .
+sw:people-59  sw:gender  """male""" .
 sw:people-59  sw:homeworld  sw:planet-50 .
 sw:people-59  sw:flim  sw:flim-5 .
 sw:people-59  sw:flim  sw:flim-4 .
 sw:people-59  sw:species  sw:species-27 .
-sw:people-59  sw:created  "2014-12-20T10:53:26.457000Z" .
-sw:people-59  sw:edited  "2014-12-20T21:17:50.442000Z" .
-sw:people-59  sw:url  "http://swapi.co/api/people/59/" .
+sw:people-59  sw:created  "2014-12-20T10:53:26.457000Z"^^xsd:dateTime .
+sw:people-59  sw:edited  "2014-12-20T21:17:50.442000Z"^^xsd:dateTime .
+sw:people-59  sw:url  """http://swapi.co/api/people/59/""" .

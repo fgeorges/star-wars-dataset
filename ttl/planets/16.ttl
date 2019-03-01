@@ -1,16 +1,17 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-16  a  sw:Planet .
-sw:planet-16  rdfs:label  "Mygeeto" .
-sw:planet-16  sw:rotation_period  "12" .
-sw:planet-16  sw:orbital_period  "167" .
-sw:planet-16  sw:diameter  "10088" .
-sw:planet-16  sw:climate  "frigid" .
-sw:planet-16  sw:gravity  "1 standard" .
-sw:planet-16  sw:terrain  "glaciers, mountains, ice canyons" .
-sw:planet-16  sw:population  "19000000" .
+sw:planet-16  rdfs:label  """Mygeeto""" .
+sw:planet-16  sw:rotation_period  12 .
+sw:planet-16  sw:orbital_period  167 .
+sw:planet-16  sw:diameter  10088 .
+sw:planet-16  sw:climate  """frigid""" .
+sw:planet-16  sw:gravity  """1 standard""" .
+sw:planet-16  sw:terrain  """glaciers, mountains, ice canyons""" .
+sw:planet-16  sw:population  """19000000""" .
 sw:planet-16  sw:flim  sw:flim-6 .
-sw:planet-16  sw:created  "2014-12-10T13:43:39.139000Z" .
-sw:planet-16  sw:edited  "2014-12-20T20:58:18.446000Z" .
-sw:planet-16  sw:url  "http://swapi.co/api/planets/16/" .
+sw:planet-16  sw:created  "2014-12-10T13:43:39.139000Z"^^xsd:dateTime .
+sw:planet-16  sw:edited  "2014-12-20T20:58:18.446000Z"^^xsd:dateTime .
+sw:planet-16  sw:url  """http://swapi.co/api/planets/16/""" .

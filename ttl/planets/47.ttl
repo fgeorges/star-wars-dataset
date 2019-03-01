@@ -1,14 +1,15 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-47  a  sw:Planet .
-sw:planet-47  rdfs:label  "Iktotch" .
-sw:planet-47  sw:rotation_period  "22" .
-sw:planet-47  sw:orbital_period  "481" .
-sw:planet-47  sw:climate  "arid, rocky, windy" .
-sw:planet-47  sw:gravity  "1" .
-sw:planet-47  sw:terrain  "rocky" .
+sw:planet-47  rdfs:label  """Iktotch""" .
+sw:planet-47  sw:rotation_period  22 .
+sw:planet-47  sw:orbital_period  481 .
+sw:planet-47  sw:climate  """arid, rocky, windy""" .
+sw:planet-47  sw:gravity  """1""" .
+sw:planet-47  sw:terrain  """rocky""" .
 sw:planet-47  sw:resident  sw:people-56 .
-sw:planet-47  sw:created  "2014-12-20T10:31:32.413000Z" .
-sw:planet-47  sw:edited  "2014-12-20T20:58:18.500000Z" .
-sw:planet-47  sw:url  "http://swapi.co/api/planets/47/" .
+sw:planet-47  sw:created  "2014-12-20T10:31:32.413000Z"^^xsd:dateTime .
+sw:planet-47  sw:edited  "2014-12-20T20:58:18.500000Z"^^xsd:dateTime .
+sw:planet-47  sw:url  """http://swapi.co/api/planets/47/""" .

@@ -1,19 +1,20 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-42  a  sw:Vehicle .
-sw:vehicle-42  rdfs:label  "Sith speeder" .
-sw:vehicle-42  sw:model  "FC-20 speeder bike" .
-sw:vehicle-42  sw:manufacturer  "Razalon" .
-sw:vehicle-42  sw:cost_in_credits  "4000" .
-sw:vehicle-42  sw:length  "1.5" .
-sw:vehicle-42  sw:max_atmosphering_speed  "180" .
-sw:vehicle-42  sw:crew  "1" .
-sw:vehicle-42  sw:passengers  "0" .
-sw:vehicle-42  sw:cargo_capacity  "2" .
-sw:vehicle-42  sw:vehicle_class  "speeder" .
+sw:vehicle-42  rdfs:label  """Sith speeder""" .
+sw:vehicle-42  sw:model  """FC-20 speeder bike""" .
+sw:vehicle-42  sw:manufacturer  """Razalon""" .
+sw:vehicle-42  sw:cost_in_credits  4000 .
+sw:vehicle-42  sw:length  1.5 .
+sw:vehicle-42  sw:max_atmosphering_speed  180 .
+sw:vehicle-42  sw:crew  1 .
+sw:vehicle-42  sw:passengers  0 .
+sw:vehicle-42  sw:cargo_capacity  2 .
+sw:vehicle-42  sw:vehicle_class  """speeder""" .
 sw:vehicle-42  sw:pilot  sw:people-44 .
 sw:vehicle-42  sw:flim  sw:flim-4 .
-sw:vehicle-42  sw:created  "2014-12-20T10:09:56.095000Z" .
-sw:vehicle-42  sw:edited  "2014-12-22T18:21:16.095041Z" .
-sw:vehicle-42  sw:url  "http://swapi.co/api/vehicles/42/" .
+sw:vehicle-42  sw:created  "2014-12-20T10:09:56.095000Z"^^xsd:dateTime .
+sw:vehicle-42  sw:edited  "2014-12-22T18:21:16.095041Z"^^xsd:dateTime .
+sw:vehicle-42  sw:url  """http://swapi.co/api/vehicles/42/""" .

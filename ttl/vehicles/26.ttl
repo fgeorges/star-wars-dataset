@@ -1,18 +1,19 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-26  a  sw:Vehicle .
-sw:vehicle-26  rdfs:label  "TIE/IN interceptor" .
-sw:vehicle-26  sw:model  "Twin Ion Engine Interceptor" .
-sw:vehicle-26  sw:manufacturer  "Sienar Fleet Systems" .
-sw:vehicle-26  sw:length  "9.6" .
-sw:vehicle-26  sw:max_atmosphering_speed  "1250" .
-sw:vehicle-26  sw:crew  "1" .
-sw:vehicle-26  sw:passengers  "0" .
-sw:vehicle-26  sw:cargo_capacity  "75" .
-sw:vehicle-26  sw:consumables  "2 days" .
-sw:vehicle-26  sw:vehicle_class  "starfighter" .
+sw:vehicle-26  rdfs:label  """TIE/IN interceptor""" .
+sw:vehicle-26  sw:model  """Twin Ion Engine Interceptor""" .
+sw:vehicle-26  sw:manufacturer  """Sienar Fleet Systems""" .
+sw:vehicle-26  sw:length  9.6 .
+sw:vehicle-26  sw:max_atmosphering_speed  1250 .
+sw:vehicle-26  sw:crew  1 .
+sw:vehicle-26  sw:passengers  0 .
+sw:vehicle-26  sw:cargo_capacity  75 .
+sw:vehicle-26  sw:consumables  2 days .
+sw:vehicle-26  sw:vehicle_class  """starfighter""" .
 sw:vehicle-26  sw:flim  sw:flim-3 .
-sw:vehicle-26  sw:created  "2014-12-18T10:50:28.225000Z" .
-sw:vehicle-26  sw:edited  "2014-12-22T18:21:15.882388Z" .
-sw:vehicle-26  sw:url  "http://swapi.co/api/vehicles/26/" .
+sw:vehicle-26  sw:created  "2014-12-18T10:50:28.225000Z"^^xsd:dateTime .
+sw:vehicle-26  sw:edited  "2014-12-22T18:21:15.882388Z"^^xsd:dateTime .
+sw:vehicle-26  sw:url  """http://swapi.co/api/vehicles/26/""" .

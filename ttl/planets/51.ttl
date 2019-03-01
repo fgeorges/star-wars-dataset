@@ -1,11 +1,12 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-51  a  sw:Planet .
-sw:planet-51  rdfs:label  "Mirial" .
-sw:planet-51  sw:terrain  "deserts" .
+sw:planet-51  rdfs:label  """Mirial""" .
+sw:planet-51  sw:terrain  """deserts""" .
 sw:planet-51  sw:resident  sw:people-64 .
 sw:planet-51  sw:resident  sw:people-65 .
-sw:planet-51  sw:created  "2014-12-20T16:44:46.318000Z" .
-sw:planet-51  sw:edited  "2014-12-20T20:58:18.508000Z" .
-sw:planet-51  sw:url  "http://swapi.co/api/planets/51/" .
+sw:planet-51  sw:created  "2014-12-20T16:44:46.318000Z"^^xsd:dateTime .
+sw:planet-51  sw:edited  "2014-12-20T20:58:18.508000Z"^^xsd:dateTime .
+sw:planet-51  sw:url  """http://swapi.co/api/planets/51/""" .

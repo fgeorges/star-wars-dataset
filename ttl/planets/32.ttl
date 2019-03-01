@@ -1,17 +1,18 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-32  a  sw:Planet .
-sw:planet-32  rdfs:label  "Chandrila" .
-sw:planet-32  sw:rotation_period  "20" .
-sw:planet-32  sw:orbital_period  "368" .
-sw:planet-32  sw:diameter  "13500" .
-sw:planet-32  sw:climate  "temperate" .
-sw:planet-32  sw:gravity  "1" .
-sw:planet-32  sw:terrain  "plains, forests" .
-sw:planet-32  sw:surface_water  "40" .
-sw:planet-32  sw:population  "1200000000" .
+sw:planet-32  rdfs:label  """Chandrila""" .
+sw:planet-32  sw:rotation_period  20 .
+sw:planet-32  sw:orbital_period  368 .
+sw:planet-32  sw:diameter  13500 .
+sw:planet-32  sw:climate  """temperate""" .
+sw:planet-32  sw:gravity  """1""" .
+sw:planet-32  sw:terrain  """plains, forests""" .
+sw:planet-32  sw:surface_water  """40""" .
+sw:planet-32  sw:population  """1200000000""" .
 sw:planet-32  sw:resident  sw:people-28 .
-sw:planet-32  sw:created  "2014-12-18T11:11:51.872000Z" .
-sw:planet-32  sw:edited  "2014-12-20T20:58:18.472000Z" .
-sw:planet-32  sw:url  "http://swapi.co/api/planets/32/" .
+sw:planet-32  sw:created  "2014-12-18T11:11:51.872000Z"^^xsd:dateTime .
+sw:planet-32  sw:edited  "2014-12-20T20:58:18.472000Z"^^xsd:dateTime .
+sw:planet-32  sw:url  """http://swapi.co/api/planets/32/""" .

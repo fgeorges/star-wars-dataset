@@ -1,13 +1,14 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-55  a  sw:Planet .
-sw:planet-55  rdfs:label  "Ojom" .
-sw:planet-55  sw:climate  "frigid" .
-sw:planet-55  sw:terrain  "oceans, glaciers" .
-sw:planet-55  sw:surface_water  "100" .
-sw:planet-55  sw:population  "500000000" .
+sw:planet-55  rdfs:label  """Ojom""" .
+sw:planet-55  sw:climate  """frigid""" .
+sw:planet-55  sw:terrain  """oceans, glaciers""" .
+sw:planet-55  sw:surface_water  """100""" .
+sw:planet-55  sw:population  """500000000""" .
 sw:planet-55  sw:resident  sw:people-71 .
-sw:planet-55  sw:created  "2014-12-20T17:27:41.286000Z" .
-sw:planet-55  sw:edited  "2014-12-20T20:58:18.516000Z" .
-sw:planet-55  sw:url  "http://swapi.co/api/planets/55/" .
+sw:planet-55  sw:created  "2014-12-20T17:27:41.286000Z"^^xsd:dateTime .
+sw:planet-55  sw:edited  "2014-12-20T20:58:18.516000Z"^^xsd:dateTime .
+sw:planet-55  sw:url  """http://swapi.co/api/planets/55/""" .

@@ -1,17 +1,18 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-51  a  sw:Vehicle .
-sw:vehicle-51  rdfs:label  "LAAT/c" .
-sw:vehicle-51  sw:model  "Low Altitude Assault Transport/carrier" .
-sw:vehicle-51  sw:manufacturer  "Rothana Heavy Engineering" .
-sw:vehicle-51  sw:length  "28.82" .
-sw:vehicle-51  sw:max_atmosphering_speed  "620" .
-sw:vehicle-51  sw:crew  "1" .
-sw:vehicle-51  sw:passengers  "0" .
-sw:vehicle-51  sw:cargo_capacity  "40000" .
-sw:vehicle-51  sw:vehicle_class  "gunship" .
+sw:vehicle-51  rdfs:label  """LAAT/c""" .
+sw:vehicle-51  sw:model  """Low Altitude Assault Transport/carrier""" .
+sw:vehicle-51  sw:manufacturer  """Rothana Heavy Engineering""" .
+sw:vehicle-51  sw:length  28.82 .
+sw:vehicle-51  sw:max_atmosphering_speed  620 .
+sw:vehicle-51  sw:crew  1 .
+sw:vehicle-51  sw:passengers  0 .
+sw:vehicle-51  sw:cargo_capacity  40000 .
+sw:vehicle-51  sw:vehicle_class  """gunship""" .
 sw:vehicle-51  sw:flim  sw:flim-5 .
-sw:vehicle-51  sw:created  "2014-12-20T18:02:46.802000Z" .
-sw:vehicle-51  sw:edited  "2014-12-22T18:21:16.229733Z" .
-sw:vehicle-51  sw:url  "http://swapi.co/api/vehicles/51/" .
+sw:vehicle-51  sw:created  "2014-12-20T18:02:46.802000Z"^^xsd:dateTime .
+sw:vehicle-51  sw:edited  "2014-12-22T18:21:16.229733Z"^^xsd:dateTime .
+sw:vehicle-51  sw:url  """http://swapi.co/api/vehicles/51/""" .

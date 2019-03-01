@@ -1,18 +1,19 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-70  a  sw:People .
-sw:people-70  rdfs:label  "Zam Wesell" .
-sw:people-70  sw:height  "168" .
-sw:people-70  sw:mass  "55" .
-sw:people-70  sw:hair_color  "blonde" .
-sw:people-70  sw:skin_color  "fair, green, yellow" .
-sw:people-70  sw:eye_color  "yellow" .
-sw:people-70  sw:gender  "female" .
+sw:people-70  rdfs:label  """Zam Wesell""" .
+sw:people-70  sw:height  """168""" .
+sw:people-70  sw:mass  """55""" .
+sw:people-70  sw:hair_color  """blonde""" .
+sw:people-70  sw:skin_color  """fair, green, yellow""" .
+sw:people-70  sw:eye_color  """yellow""" .
+sw:people-70  sw:gender  """female""" .
 sw:people-70  sw:homeworld  sw:planet-54 .
 sw:people-70  sw:flim  sw:flim-5 .
 sw:people-70  sw:species  sw:species-30 .
 sw:people-70  sw:vehicle  sw:vehicle-45 .
-sw:people-70  sw:created  "2014-12-20T16:57:44.471000Z" .
-sw:people-70  sw:edited  "2014-12-20T21:17:50.468000Z" .
-sw:people-70  sw:url  "http://swapi.co/api/people/70/" .
+sw:people-70  sw:created  "2014-12-20T16:57:44.471000Z"^^xsd:dateTime .
+sw:people-70  sw:edited  "2014-12-20T21:17:50.468000Z"^^xsd:dateTime .
+sw:people-70  sw:url  """http://swapi.co/api/people/70/""" .

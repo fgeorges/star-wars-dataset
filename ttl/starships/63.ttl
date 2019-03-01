@@ -1,20 +1,21 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:starship-63  a  sw:Starship .
-sw:starship-63  rdfs:label  "Republic attack cruiser" .
-sw:starship-63  sw:model  "Senator-class Star Destroyer" .
-sw:starship-63  sw:manufacturer  "Kuat Drive Yards, Allanteen Six shipyards" .
-sw:starship-63  sw:cost_in_credits  "59000000" .
-sw:starship-63  sw:length  "1137" .
-sw:starship-63  sw:max_atmosphering_speed  "975" .
-sw:starship-63  sw:crew  "7400" .
-sw:starship-63  sw:passengers  "2000" .
-sw:starship-63  sw:cargo_capacity  "20000000" .
-sw:starship-63  sw:consumables  "2 years" .
-sw:starship-63  sw:hyperdrive_rating  "1.0" .
-sw:starship-63  sw:starship_class  "star destroyer" .
+sw:starship-63  rdfs:label  """Republic attack cruiser""" .
+sw:starship-63  sw:model  """Senator-class Star Destroyer""" .
+sw:starship-63  sw:manufacturer  """Kuat Drive Yards, Allanteen Six shipyards""" .
+sw:starship-63  sw:cost_in_credits  59000000 .
+sw:starship-63  sw:length  1137 .
+sw:starship-63  sw:max_atmosphering_speed  975 .
+sw:starship-63  sw:crew  7400 .
+sw:starship-63  sw:passengers  2000 .
+sw:starship-63  sw:cargo_capacity  20000000 .
+sw:starship-63  sw:consumables  2 years .
+sw:starship-63  sw:hyperdrive_rating  1.0 .
+sw:starship-63  sw:starship_class  """star destroyer""" .
 sw:starship-63  sw:flim  sw:flim-6 .
-sw:starship-63  sw:created  "2014-12-20T19:52:56.232000Z" .
-sw:starship-63  sw:edited  "2014-12-22T17:35:45.224540Z" .
-sw:starship-63  sw:url  "http://swapi.co/api/starships/63/" .
+sw:starship-63  sw:created  "2014-12-20T19:52:56.232000Z"^^xsd:dateTime .
+sw:starship-63  sw:edited  "2014-12-22T17:35:45.224540Z"^^xsd:dateTime .
+sw:starship-63  sw:url  """http://swapi.co/api/starships/63/""" .

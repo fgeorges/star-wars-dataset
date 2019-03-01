@@ -1,10 +1,11 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:film-5  a  sw:Film .
-sw:film-5  rdfs:label  "Attack of the Clones" .
+sw:film-5  rdfs:label  """Attack of the Clones""" .
 sw:film-5  sw:episode_id  2 .
-sw:film-5  sw:opening_crawl  "There is unrest in the Galactic
+sw:film-5  sw:opening_crawl  """There is unrest in the Galactic
 Senate. Several thousand solar
 systems have declared their
 intentions to leave the Republic.
@@ -22,10 +23,10 @@ to the Galactic Senate to vote
 on the critical issue of creating
 an ARMY OF THE REPUBLIC
 to assist the overwhelmed
-Jedi...." .
-sw:film-5  sw:director  "George Lucas" .
-sw:film-5  sw:producer  "Rick McCallum" .
-sw:film-5  sw:release_date  "2002-05-16" .
+Jedi....""" .
+sw:film-5  sw:director  """George Lucas""" .
+sw:film-5  sw:producer  """Rick McCallum""" .
+sw:film-5  sw:release_date  "2002-05-16"^^xsd:date .
 sw:film-5  sw:character  sw:people-2 .
 sw:film-5  sw:character  sw:people-3 .
 sw:film-5  sw:character  sw:people-6 .
@@ -105,10 +106,10 @@ sw:film-5  sw:species  sw:species-28 .
 sw:film-5  sw:species  sw:species-29 .
 sw:film-5  sw:species  sw:species-30 .
 sw:film-5  sw:species  sw:species-31 .
-sw:film-5  sw:created  "2014-12-20T10:57:57.886000Z" .
-sw:film-5  sw:edited  "2015-04-11T09:45:01.623982Z" .
-sw:film-5  sw:url  "http://swapi.co/api/films/5/" .
-sw:film-5  sw:desc  "Star Wars: Episode II – Attack of the Clones is a 2002 American epic space opera film directed by George Lucas and written by Lucas and Jonathan Hales. It is the second installment of the Star Wars prequel trilogy, and stars Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid, Samuel L. Jackson, Christopher Lee, Temuera Morrison, Anthony Daniels, Kenny Baker and Frank Oz." .
-sw:film-5  sw:desc  "Set ten years after the events in The Phantom Menace, the galaxy is on the brink of civil war. Led by a former Jedi named Count Dooku, thousands of planetary systems threaten to secede from the Galactic Republic. After Senator Padmé Amidala evades assassination, Jedi apprentice Anakin Skywalker becomes her protector, while his mentor Obi-Wan Kenobi investigates the attempt on Padmé's life. Soon Anakin, Padmé and Obi-Wan witness the onset of a new threat to the galaxy, the Clone Wars." .
-sw:film-5  sw:desc  "Development of Attack of the Clones began in March 2000, after the release of The Phantom Menace. By June 2000, Lucas and Hales completed a draft of the script and principal photography took place from June to September 2000. The film crew primarily shot at Fox Studios Australia in Sydney, Australia, with additional footage filmed in Tunisia, Spain and Italy. It was one of the first motion pictures shot completely on a high-definition digital 24-frame system." .
-sw:film-5  sw:desc  "The film was released in the United States on May 16, 2002. Some critics hailed it as an improvement over The Phantom Menace, while others called it the worst entry of the franchise.[5][6] The visual effects, costume design, musical score, action scenes and Ewan McGregor’s performance as Obi-Wan Kenobi were all praised, however the romance of Anakin and Padmé, the dialogue and the film's long runtime were all criticized. The film was a financial success, making over $649 million worldwide; however, it also became the first Star Wars film to be outgrossed in its year of release, placing third domestically and fourth internationally. The film was released on VHS and DVD on November 12, 2002 and was later released on Blu-ray on September 16, 2011. Following Attack of the Clones, the third and final film of the prequel trilogy, Revenge of the Sith, premiered in 2005." .
+sw:film-5  sw:created  "2014-12-20T10:57:57.886000Z"^^xsd:dateTime .
+sw:film-5  sw:edited  "2015-04-11T09:45:01.623982Z"^^xsd:dateTime .
+sw:film-5  sw:url  """http://swapi.co/api/films/5/""" .
+sw:film-5  sw:desc  """Star Wars: Episode II – Attack of the Clones is a 2002 American epic space opera film directed by George Lucas and written by Lucas and Jonathan Hales. It is the second installment of the Star Wars prequel trilogy, and stars Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid, Samuel L. Jackson, Christopher Lee, Temuera Morrison, Anthony Daniels, Kenny Baker and Frank Oz.""" .
+sw:film-5  sw:desc  """Set ten years after the events in The Phantom Menace, the galaxy is on the brink of civil war. Led by a former Jedi named Count Dooku, thousands of planetary systems threaten to secede from the Galactic Republic. After Senator Padmé Amidala evades assassination, Jedi apprentice Anakin Skywalker becomes her protector, while his mentor Obi-Wan Kenobi investigates the attempt on Padmé's life. Soon Anakin, Padmé and Obi-Wan witness the onset of a new threat to the galaxy, the Clone Wars.""" .
+sw:film-5  sw:desc  """Development of Attack of the Clones began in March 2000, after the release of The Phantom Menace. By June 2000, Lucas and Hales completed a draft of the script and principal photography took place from June to September 2000. The film crew primarily shot at Fox Studios Australia in Sydney, Australia, with additional footage filmed in Tunisia, Spain and Italy. It was one of the first motion pictures shot completely on a high-definition digital 24-frame system.""" .
+sw:film-5  sw:desc  """The film was released in the United States on May 16, 2002. Some critics hailed it as an improvement over The Phantom Menace, while others called it the worst entry of the franchise.[5][6] The visual effects, costume design, musical score, action scenes and Ewan McGregor’s performance as Obi-Wan Kenobi were all praised, however the romance of Anakin and Padmé, the dialogue and the film's long runtime were all criticized. The film was a financial success, making over $649 million worldwide; however, it also became the first Star Wars film to be outgrossed in its year of release, placing third domestically and fourth internationally. The film was released on VHS and DVD on November 12, 2002 and was later released on Blu-ray on September 16, 2011. Following Attack of the Clones, the third and final film of the prequel trilogy, Revenge of the Sith, premiered in 2005.""" .

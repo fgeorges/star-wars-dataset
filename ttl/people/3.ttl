@@ -1,13 +1,14 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-3  a  sw:People .
-sw:people-3  rdfs:label  "R2-D2" .
-sw:people-3  sw:height  "96" .
-sw:people-3  sw:mass  "32" .
-sw:people-3  sw:skin_color  "white, blue" .
-sw:people-3  sw:eye_color  "red" .
-sw:people-3  sw:birth_year  "33BBY" .
+sw:people-3  rdfs:label  """R2-D2""" .
+sw:people-3  sw:height  """96""" .
+sw:people-3  sw:mass  """32""" .
+sw:people-3  sw:skin_color  """white, blue""" .
+sw:people-3  sw:eye_color  """red""" .
+sw:people-3  sw:birth_year  """33BBY""" .
 sw:people-3  sw:homeworld  sw:planet-8 .
 sw:people-3  sw:flim  sw:flim-5 .
 sw:people-3  sw:flim  sw:flim-4 .
@@ -17,8 +18,8 @@ sw:people-3  sw:flim  sw:flim-2 .
 sw:people-3  sw:flim  sw:flim-1 .
 sw:people-3  sw:flim  sw:flim-7 .
 sw:people-3  sw:species  sw:species-2 .
-sw:people-3  sw:created  "2014-12-10T15:11:50.376000Z" .
-sw:people-3  sw:edited  "2014-12-20T21:17:50.311000Z" .
-sw:people-3  sw:url  "http://swapi.co/api/people/3/" .
-sw:people-3  sw:desc  "R2-D2 is a fictional robot character in the Star Wars franchise created by George Lucas, who appears in the original trilogy, the prequel trilogy, the sequel trilogy, and Rogue One. A small astromech droid, R2-D2 is a major character and appears in all Star Wars films to date. Throughout the course of the films, he joins or supports Padmé Amidala, Anakin Skywalker, Leia Organa, Luke Skywalker, and Obi-Wan Kenobi in various points in the saga." .
-sw:people-3  sw:desc  "English actor Kenny Baker played R2-D2 in all three original Star Wars films, and received billing credit for the character in the prequel trilogy, where Baker's role was reduced, as R2-D2 was portrayed mainly by radio controlled props and CGI models. In the sequel trilogy, Baker was credited as consultant for The Force Awakens, however Jimmy Vee also co-performed the character in some scenes. Vee later took over the role beginning in The Last Jedi.[1] R2-D2's sounds and vocal effects were created by Ben Burtt. R2-D2 was designed in artwork by Ralph McQuarrie, co-developed by John Stears and built by Tony Dyson." .
+sw:people-3  sw:created  "2014-12-10T15:11:50.376000Z"^^xsd:dateTime .
+sw:people-3  sw:edited  "2014-12-20T21:17:50.311000Z"^^xsd:dateTime .
+sw:people-3  sw:url  """http://swapi.co/api/people/3/""" .
+sw:people-3  sw:desc  """R2-D2 is a fictional robot character in the Star Wars franchise created by George Lucas, who appears in the original trilogy, the prequel trilogy, the sequel trilogy, and Rogue One. A small astromech droid, R2-D2 is a major character and appears in all Star Wars films to date. Throughout the course of the films, he joins or supports Padmé Amidala, Anakin Skywalker, Leia Organa, Luke Skywalker, and Obi-Wan Kenobi in various points in the saga.""" .
+sw:people-3  sw:desc  """English actor Kenny Baker played R2-D2 in all three original Star Wars films, and received billing credit for the character in the prequel trilogy, where Baker's role was reduced, as R2-D2 was portrayed mainly by radio controlled props and CGI models. In the sequel trilogy, Baker was credited as consultant for The Force Awakens, however Jimmy Vee also co-performed the character in some scenes. Vee later took over the role beginning in The Last Jedi.[1] R2-D2's sounds and vocal effects were created by Ben Burtt. R2-D2 was designed in artwork by Ralph McQuarrie, co-developed by John Stears and built by Tony Dyson.""" .

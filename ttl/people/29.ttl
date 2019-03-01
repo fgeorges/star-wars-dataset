@@ -1,16 +1,17 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-29  a  sw:People .
-sw:people-29  rdfs:label  "Arvel Crynyd" .
-sw:people-29  sw:hair_color  "brown" .
-sw:people-29  sw:skin_color  "fair" .
-sw:people-29  sw:eye_color  "brown" .
-sw:people-29  sw:gender  "male" .
+sw:people-29  rdfs:label  """Arvel Crynyd""" .
+sw:people-29  sw:hair_color  """brown""" .
+sw:people-29  sw:skin_color  """fair""" .
+sw:people-29  sw:eye_color  """brown""" .
+sw:people-29  sw:gender  """male""" .
 sw:people-29  sw:homeworld  sw:planet-28 .
 sw:people-29  sw:flim  sw:flim-3 .
 sw:people-29  sw:species  sw:species-1 .
 sw:people-29  sw:starship  sw:starship-28 .
-sw:people-29  sw:created  "2014-12-18T11:16:33.020000Z" .
-sw:people-29  sw:edited  "2014-12-20T21:17:50.367000Z" .
-sw:people-29  sw:url  "http://swapi.co/api/people/29/" .
+sw:people-29  sw:created  "2014-12-18T11:16:33.020000Z"^^xsd:dateTime .
+sw:people-29  sw:edited  "2014-12-20T21:17:50.367000Z"^^xsd:dateTime .
+sw:people-29  sw:url  """http://swapi.co/api/people/29/""" .

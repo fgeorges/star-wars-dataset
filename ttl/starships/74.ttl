@@ -1,22 +1,23 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:starship-74  a  sw:Starship .
-sw:starship-74  rdfs:label  "Belbullab-22 starfighter" .
-sw:starship-74  sw:model  "Belbullab-22 starfighter" .
-sw:starship-74  sw:manufacturer  "Feethan Ottraw Scalable Assemblies" .
-sw:starship-74  sw:cost_in_credits  "168000" .
-sw:starship-74  sw:length  "6.71" .
-sw:starship-74  sw:max_atmosphering_speed  "1100" .
-sw:starship-74  sw:crew  "1" .
-sw:starship-74  sw:passengers  "0" .
-sw:starship-74  sw:cargo_capacity  "140" .
-sw:starship-74  sw:consumables  "7 days" .
-sw:starship-74  sw:hyperdrive_rating  "6" .
-sw:starship-74  sw:starship_class  "starfighter" .
+sw:starship-74  rdfs:label  """Belbullab-22 starfighter""" .
+sw:starship-74  sw:model  """Belbullab-22 starfighter""" .
+sw:starship-74  sw:manufacturer  """Feethan Ottraw Scalable Assemblies""" .
+sw:starship-74  sw:cost_in_credits  168000 .
+sw:starship-74  sw:length  6.71 .
+sw:starship-74  sw:max_atmosphering_speed  1100 .
+sw:starship-74  sw:crew  1 .
+sw:starship-74  sw:passengers  0 .
+sw:starship-74  sw:cargo_capacity  140 .
+sw:starship-74  sw:consumables  7 days .
+sw:starship-74  sw:hyperdrive_rating  6 .
+sw:starship-74  sw:starship_class  """starfighter""" .
 sw:starship-74  sw:pilot  sw:people-10 .
 sw:starship-74  sw:pilot  sw:people-79 .
 sw:starship-74  sw:flim  sw:flim-6 .
-sw:starship-74  sw:created  "2014-12-20T20:38:05.031000Z" .
-sw:starship-74  sw:edited  "2014-12-22T17:35:45.381900Z" .
-sw:starship-74  sw:url  "http://swapi.co/api/starships/74/" .
+sw:starship-74  sw:created  "2014-12-20T20:38:05.031000Z"^^xsd:dateTime .
+sw:starship-74  sw:edited  "2014-12-22T17:35:45.381900Z"^^xsd:dateTime .
+sw:starship-74  sw:url  """http://swapi.co/api/starships/74/""" .

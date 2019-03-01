@@ -1,18 +1,19 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-15  a  sw:People .
-sw:people-15  rdfs:label  "Greedo" .
-sw:people-15  sw:height  "173" .
-sw:people-15  sw:mass  "74" .
-sw:people-15  sw:skin_color  "green" .
-sw:people-15  sw:eye_color  "black" .
-sw:people-15  sw:birth_year  "44BBY" .
-sw:people-15  sw:gender  "male" .
+sw:people-15  rdfs:label  """Greedo""" .
+sw:people-15  sw:height  """173""" .
+sw:people-15  sw:mass  """74""" .
+sw:people-15  sw:skin_color  """green""" .
+sw:people-15  sw:eye_color  """black""" .
+sw:people-15  sw:birth_year  """44BBY""" .
+sw:people-15  sw:gender  """male""" .
 sw:people-15  sw:homeworld  sw:planet-23 .
 sw:people-15  sw:flim  sw:flim-1 .
 sw:people-15  sw:species  sw:species-4 .
-sw:people-15  sw:created  "2014-12-10T17:03:30.334000Z" .
-sw:people-15  sw:edited  "2014-12-20T21:17:50.336000Z" .
-sw:people-15  sw:url  "http://swapi.co/api/people/15/" .
-sw:people-15  sw:desc  "Greedo (or Greedo the Young) is a fictional character from the Star Wars franchise. He is portrayed by Paul Blake as well as Maria De Aragon in some close-in pickup shots in Star Wars (1977). The character is part of a fan controversy known as \u0022Han shot first\u0022." .
+sw:people-15  sw:created  "2014-12-10T17:03:30.334000Z"^^xsd:dateTime .
+sw:people-15  sw:edited  "2014-12-20T21:17:50.336000Z"^^xsd:dateTime .
+sw:people-15  sw:url  """http://swapi.co/api/people/15/""" .
+sw:people-15  sw:desc  """Greedo (or Greedo the Young) is a fictional character from the Star Wars franchise. He is portrayed by Paul Blake as well as Maria De Aragon in some close-in pickup shots in Star Wars (1977). The character is part of a fan controversy known as \u0022Han shot first\u0022.""" .

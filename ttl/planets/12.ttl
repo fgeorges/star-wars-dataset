@@ -1,18 +1,19 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-12  a  sw:Planet .
-sw:planet-12  rdfs:label  "Utapau" .
-sw:planet-12  sw:rotation_period  "27" .
-sw:planet-12  sw:orbital_period  "351" .
-sw:planet-12  sw:diameter  "12900" .
-sw:planet-12  sw:climate  "temperate, arid, windy" .
-sw:planet-12  sw:gravity  "1 standard" .
-sw:planet-12  sw:terrain  "scrublands, savanna, canyons, sinkholes" .
-sw:planet-12  sw:surface_water  "0.9" .
-sw:planet-12  sw:population  "95000000" .
+sw:planet-12  rdfs:label  """Utapau""" .
+sw:planet-12  sw:rotation_period  27 .
+sw:planet-12  sw:orbital_period  351 .
+sw:planet-12  sw:diameter  12900 .
+sw:planet-12  sw:climate  """temperate, arid, windy""" .
+sw:planet-12  sw:gravity  """1 standard""" .
+sw:planet-12  sw:terrain  """scrublands, savanna, canyons, sinkholes""" .
+sw:planet-12  sw:surface_water  """0.9""" .
+sw:planet-12  sw:population  """95000000""" .
 sw:planet-12  sw:resident  sw:people-83 .
 sw:planet-12  sw:flim  sw:flim-6 .
-sw:planet-12  sw:created  "2014-12-10T12:49:01.491000Z" .
-sw:planet-12  sw:edited  "2014-12-20T20:58:18.439000Z" .
-sw:planet-12  sw:url  "http://swapi.co/api/planets/12/" .
+sw:planet-12  sw:created  "2014-12-10T12:49:01.491000Z"^^xsd:dateTime .
+sw:planet-12  sw:edited  "2014-12-20T20:58:18.439000Z"^^xsd:dateTime .
+sw:planet-12  sw:url  """http://swapi.co/api/planets/12/""" .

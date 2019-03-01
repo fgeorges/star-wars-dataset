@@ -1,19 +1,20 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-3  a  sw:Planet .
-sw:planet-3  rdfs:label  "Yavin IV" .
-sw:planet-3  sw:rotation_period  "24" .
-sw:planet-3  sw:orbital_period  "4818" .
-sw:planet-3  sw:diameter  "10200" .
-sw:planet-3  sw:climate  "temperate, tropical" .
-sw:planet-3  sw:gravity  "1 standard" .
-sw:planet-3  sw:terrain  "jungle, rainforests" .
-sw:planet-3  sw:surface_water  "8" .
-sw:planet-3  sw:population  "1000" .
+sw:planet-3  rdfs:label  """Yavin IV""" .
+sw:planet-3  sw:rotation_period  24 .
+sw:planet-3  sw:orbital_period  4818 .
+sw:planet-3  sw:diameter  10200 .
+sw:planet-3  sw:climate  """temperate, tropical""" .
+sw:planet-3  sw:gravity  """1 standard""" .
+sw:planet-3  sw:terrain  """jungle, rainforests""" .
+sw:planet-3  sw:surface_water  """8""" .
+sw:planet-3  sw:population  """1000""" .
 sw:planet-3  sw:flim  sw:flim-1 .
-sw:planet-3  sw:created  "2014-12-10T11:37:19.144000Z" .
-sw:planet-3  sw:edited  "2014-12-20T20:58:18.421000Z" .
-sw:planet-3  sw:url  "http://swapi.co/api/planets/3/" .
-sw:planet-3  sw:desc  "Yavin (also known as Yavin Prime) is a fictional planet in the Star Wars universe. It first appeared in the 1977 film Star Wars and is depicted as a large red gas giant with an extensive satellite system of moons. Within the Star Wars narrative, Yavin is noted as the hidden military base of the Rebel Alliance located on its fourth moon, known as Yavin IV." .
-sw:planet-3  sw:desc  "The climactic space battle at the end of the film, in which the Rebel Alliance destroys the Death Star, takes place in orbit around the planet Yavin. In Star Wars fandom and the Star Wars expanded universe, this event is especially significant as it is used to mark an epoch in the fictional Star Wars universe. Events in Star Wars stories are typically dated in terms of years BBY (Before the Battle of Yavin) or ABY (After the Battle of Yavin).[1][2]" .
+sw:planet-3  sw:created  "2014-12-10T11:37:19.144000Z"^^xsd:dateTime .
+sw:planet-3  sw:edited  "2014-12-20T20:58:18.421000Z"^^xsd:dateTime .
+sw:planet-3  sw:url  """http://swapi.co/api/planets/3/""" .
+sw:planet-3  sw:desc  """Yavin (also known as Yavin Prime) is a fictional planet in the Star Wars universe. It first appeared in the 1977 film Star Wars and is depicted as a large red gas giant with an extensive satellite system of moons. Within the Star Wars narrative, Yavin is noted as the hidden military base of the Rebel Alliance located on its fourth moon, known as Yavin IV.""" .
+sw:planet-3  sw:desc  """The climactic space battle at the end of the film, in which the Rebel Alliance destroys the Death Star, takes place in orbit around the planet Yavin. In Star Wars fandom and the Star Wars expanded universe, this event is especially significant as it is used to mark an epoch in the fictional Star Wars universe. Events in Star Wars stories are typically dated in terms of years BBY (Before the Battle of Yavin) or ABY (After the Battle of Yavin).[1][2]""" .

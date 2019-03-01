@@ -1,18 +1,19 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:starship-52  a  sw:Starship .
-sw:starship-52  rdfs:label  "Republic Assault ship" .
-sw:starship-52  sw:model  "Acclamator I-class assault ship" .
-sw:starship-52  sw:manufacturer  "Rothana Heavy Engineering" .
-sw:starship-52  sw:length  "752" .
-sw:starship-52  sw:crew  "700" .
-sw:starship-52  sw:passengers  "16000" .
-sw:starship-52  sw:cargo_capacity  "11250000" .
-sw:starship-52  sw:consumables  "2 years" .
-sw:starship-52  sw:hyperdrive_rating  "0.6" .
-sw:starship-52  sw:starship_class  "assault ship" .
+sw:starship-52  rdfs:label  """Republic Assault ship""" .
+sw:starship-52  sw:model  """Acclamator I-class assault ship""" .
+sw:starship-52  sw:manufacturer  """Rothana Heavy Engineering""" .
+sw:starship-52  sw:length  752 .
+sw:starship-52  sw:crew  700 .
+sw:starship-52  sw:passengers  16000 .
+sw:starship-52  sw:cargo_capacity  11250000 .
+sw:starship-52  sw:consumables  2 years .
+sw:starship-52  sw:hyperdrive_rating  0.6 .
+sw:starship-52  sw:starship_class  """assault ship""" .
 sw:starship-52  sw:flim  sw:flim-5 .
-sw:starship-52  sw:created  "2014-12-20T18:08:42.926000Z" .
-sw:starship-52  sw:edited  "2014-12-22T17:35:45.171653Z" .
-sw:starship-52  sw:url  "http://swapi.co/api/starships/52/" .
+sw:starship-52  sw:created  "2014-12-20T18:08:42.926000Z"^^xsd:dateTime .
+sw:starship-52  sw:edited  "2014-12-22T17:35:45.171653Z"^^xsd:dateTime .
+sw:starship-52  sw:url  """http://swapi.co/api/starships/52/""" .

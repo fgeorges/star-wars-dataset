@@ -1,19 +1,20 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:starship-43  a  sw:Starship .
-sw:starship-43  rdfs:label  "J-type diplomatic barge" .
-sw:starship-43  sw:model  "J-type diplomatic barge" .
-sw:starship-43  sw:manufacturer  "Theed Palace Space Vessel Engineering Corps, Nubia Star Drives" .
-sw:starship-43  sw:cost_in_credits  "2000000" .
-sw:starship-43  sw:length  "39" .
-sw:starship-43  sw:max_atmosphering_speed  "2000" .
-sw:starship-43  sw:crew  "5" .
-sw:starship-43  sw:passengers  "10" .
-sw:starship-43  sw:consumables  "1 year" .
-sw:starship-43  sw:hyperdrive_rating  "0.7" .
-sw:starship-43  sw:starship_class  "Diplomatic barge" .
+sw:starship-43  rdfs:label  """J-type diplomatic barge""" .
+sw:starship-43  sw:model  """J-type diplomatic barge""" .
+sw:starship-43  sw:manufacturer  """Theed Palace Space Vessel Engineering Corps, Nubia Star Drives""" .
+sw:starship-43  sw:cost_in_credits  2000000 .
+sw:starship-43  sw:length  39 .
+sw:starship-43  sw:max_atmosphering_speed  2000 .
+sw:starship-43  sw:crew  5 .
+sw:starship-43  sw:passengers  10 .
+sw:starship-43  sw:consumables  1 year .
+sw:starship-43  sw:hyperdrive_rating  0.7 .
+sw:starship-43  sw:starship_class  """Diplomatic barge""" .
 sw:starship-43  sw:flim  sw:flim-5 .
-sw:starship-43  sw:created  "2014-12-20T11:05:51.237000Z" .
-sw:starship-43  sw:edited  "2014-12-22T17:35:45.124386Z" .
-sw:starship-43  sw:url  "http://swapi.co/api/starships/43/" .
+sw:starship-43  sw:created  "2014-12-20T11:05:51.237000Z"^^xsd:dateTime .
+sw:starship-43  sw:edited  "2014-12-22T17:35:45.124386Z"^^xsd:dateTime .
+sw:starship-43  sw:url  """http://swapi.co/api/starships/43/""" .

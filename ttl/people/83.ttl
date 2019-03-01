@@ -1,17 +1,18 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-83  a  sw:People .
-sw:people-83  rdfs:label  "Tion Medon" .
-sw:people-83  sw:height  "206" .
-sw:people-83  sw:mass  "80" .
-sw:people-83  sw:hair_color  "none" .
-sw:people-83  sw:skin_color  "grey" .
-sw:people-83  sw:eye_color  "black" .
-sw:people-83  sw:gender  "male" .
+sw:people-83  rdfs:label  """Tion Medon""" .
+sw:people-83  sw:height  """206""" .
+sw:people-83  sw:mass  """80""" .
+sw:people-83  sw:hair_color  """none""" .
+sw:people-83  sw:skin_color  """grey""" .
+sw:people-83  sw:eye_color  """black""" .
+sw:people-83  sw:gender  """male""" .
 sw:people-83  sw:homeworld  sw:planet-12 .
 sw:people-83  sw:flim  sw:flim-6 .
 sw:people-83  sw:species  sw:species-37 .
-sw:people-83  sw:created  "2014-12-20T20:35:04.260000Z" .
-sw:people-83  sw:edited  "2014-12-20T21:17:50.498000Z" .
-sw:people-83  sw:url  "http://swapi.co/api/people/83/" .
+sw:people-83  sw:created  "2014-12-20T20:35:04.260000Z"^^xsd:dateTime .
+sw:people-83  sw:edited  "2014-12-20T21:17:50.498000Z"^^xsd:dateTime .
+sw:people-83  sw:url  """http://swapi.co/api/people/83/""" .
