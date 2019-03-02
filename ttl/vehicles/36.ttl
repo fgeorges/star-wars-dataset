@@ -11,8 +11,8 @@ sw:vehicle-36  sw:length  2 .
 sw:vehicle-36  sw:max_atmosphering_speed  400 .
 sw:vehicle-36  sw:crew  1 .
 sw:vehicle-36  sw:passengers  0 .
-sw:vehicle-36  sw:cargo_capacity  none .
-sw:vehicle-36  sw:consumables  none .
+sw:vehicle-36  sw:cargo_capacity  """none""" .
+sw:vehicle-36  sw:consumables  """none""" .
 sw:vehicle-36  sw:vehicle_class  """repulsorcraft""" .
 sw:vehicle-36  sw:flim  sw:flim-4 .
 sw:vehicle-36  sw:created  "2014-12-19T17:15:09.511000Z"^^xs:dateTime .

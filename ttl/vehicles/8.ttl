@@ -11,7 +11,7 @@ sw:vehicle-8  sw:max_atmosphering_speed  1200 .
 sw:vehicle-8  sw:crew  1 .
 sw:vehicle-8  sw:passengers  0 .
 sw:vehicle-8  sw:cargo_capacity  65 .
-sw:vehicle-8  sw:consumables  2 days .
+sw:vehicle-8  sw:consumables  """2 days""" .
 sw:vehicle-8  sw:vehicle_class  """starfighter""" .
 sw:vehicle-8  sw:flim  sw:flim-3 .
 sw:vehicle-8  sw:flim  sw:flim-2 .

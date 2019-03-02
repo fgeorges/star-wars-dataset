@@ -11,8 +11,8 @@ sw:vehicle-72  sw:length  10.96 .
 sw:vehicle-72  sw:max_atmosphering_speed  100 .
 sw:vehicle-72  sw:crew  0 .
 sw:vehicle-72  sw:passengers  4 .
-sw:vehicle-72  sw:cargo_capacity  none .
-sw:vehicle-72  sw:consumables  none .
+sw:vehicle-72  sw:cargo_capacity  """none""" .
+sw:vehicle-72  sw:consumables  """none""" .
 sw:vehicle-72  sw:vehicle_class  """droid tank""" .
 sw:vehicle-72  sw:flim  sw:flim-6 .
 sw:vehicle-72  sw:created  "2014-12-20T20:26:55.522000Z"^^xs:dateTime .

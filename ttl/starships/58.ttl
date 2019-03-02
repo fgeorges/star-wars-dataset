@@ -12,7 +12,7 @@ sw:starship-58  sw:max_atmosphering_speed  1600 .
 sw:starship-58  sw:crew  3 .
 sw:starship-58  sw:passengers  11 .
 sw:starship-58  sw:cargo_capacity  240 .
-sw:starship-58  sw:consumables  7 days .
+sw:starship-58  sw:consumables  """7 days""" .
 sw:starship-58  sw:hyperdrive_rating  1.5 .
 sw:starship-58  sw:starship_class  """yacht""" .
 sw:starship-58  sw:flim  sw:flim-5 .

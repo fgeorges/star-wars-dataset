@@ -12,7 +12,7 @@ sw:vehicle-20  sw:max_atmosphering_speed  1500 .
 sw:vehicle-20  sw:crew  2 .
 sw:vehicle-20  sw:passengers  0 .
 sw:vehicle-20  sw:cargo_capacity  10 .
-sw:vehicle-20  sw:consumables  1 day .
+sw:vehicle-20  sw:consumables  """1 day""" .
 sw:vehicle-20  sw:vehicle_class  """repulsorcraft""" .
 sw:vehicle-20  sw:flim  sw:flim-2 .
 sw:vehicle-20  sw:created  "2014-12-15T12:58:50.530000Z"^^xs:dateTime .

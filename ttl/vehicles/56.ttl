@@ -11,7 +11,7 @@ sw:vehicle-56  sw:max_atmosphering_speed  880 .
 sw:vehicle-56  sw:crew  2 .
 sw:vehicle-56  sw:passengers  6 .
 sw:vehicle-56  sw:cargo_capacity  1000 .
-sw:vehicle-56  sw:consumables  7 days .
+sw:vehicle-56  sw:consumables  """7 days""" .
 sw:vehicle-56  sw:vehicle_class  """transport""" .
 sw:vehicle-56  sw:flim  sw:flim-5 .
 sw:vehicle-56  sw:flim  sw:flim-6 .

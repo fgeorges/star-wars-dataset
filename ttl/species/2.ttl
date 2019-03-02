@@ -6,7 +6,7 @@ sw:species-2  a  sw:Species .
 sw:species-2  rdfs:label  """Droid""" .
 sw:species-2  sw:classification  """artificial""" .
 sw:species-2  sw:designation  """sentient""" .
-sw:species-2  sw:average_lifespan  indefinite .
+sw:species-2  sw:average_lifespan  """indefinite""" .
 sw:species-2  sw:people  sw:people-2 .
 sw:species-2  sw:people  sw:people-3 .
 sw:species-2  sw:people  sw:people-8 .

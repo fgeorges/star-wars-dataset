@@ -12,7 +12,7 @@ sw:vehicle-67  sw:max_atmosphering_speed  1180 .
 sw:vehicle-67  sw:crew  1 .
 sw:vehicle-67  sw:passengers  0 .
 sw:vehicle-67  sw:cargo_capacity  0 .
-sw:vehicle-67  sw:consumables  none .
+sw:vehicle-67  sw:consumables  """none""" .
 sw:vehicle-67  sw:vehicle_class  """droid starfighter""" .
 sw:vehicle-67  sw:flim  sw:flim-6 .
 sw:vehicle-67  sw:created  "2014-12-20T20:05:19.992000Z"^^xs:dateTime .

@@ -11,7 +11,7 @@ sw:starship-13  sw:max_atmosphering_speed  1200 .
 sw:starship-13  sw:crew  1 .
 sw:starship-13  sw:passengers  0 .
 sw:starship-13  sw:cargo_capacity  150 .
-sw:starship-13  sw:consumables  5 days .
+sw:starship-13  sw:consumables  """5 days""" .
 sw:starship-13  sw:hyperdrive_rating  1.0 .
 sw:starship-13  sw:MGLT  """105""" .
 sw:starship-13  sw:starship_class  """Starfighter""" .

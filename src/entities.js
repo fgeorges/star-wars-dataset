@@ -114,7 +114,7 @@ function triple(file, rsrc, prop, content)
     else if ( ['sw:created', 'sw:edited'].includes(prop) ) {
 	fs.writeSync(file, `${rsrc}  ${prop}  "${content}"^^xs:dateTime .\n`);
     }
-    else if ( numbers.includes(prop) ) {
+    else if ( numbers.includes(prop) && ! isNaN(content) ) {
 	fs.writeSync(file, `${rsrc}  ${prop}  ${content} .\n`);
     }
     else {

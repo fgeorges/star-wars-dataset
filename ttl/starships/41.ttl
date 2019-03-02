@@ -12,7 +12,7 @@ sw:starship-41  sw:max_atmosphering_speed  1180 .
 sw:starship-41  sw:crew  1 .
 sw:starship-41  sw:passengers  6 .
 sw:starship-41  sw:cargo_capacity  2500000 .
-sw:starship-41  sw:consumables  30 days .
+sw:starship-41  sw:consumables  """30 days""" .
 sw:starship-41  sw:hyperdrive_rating  1.5 .
 sw:starship-41  sw:starship_class  """Space Transport""" .
 sw:starship-41  sw:pilot  sw:people-44 .

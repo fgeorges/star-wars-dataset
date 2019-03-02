@@ -10,7 +10,7 @@ sw:starship-68  sw:cost_in_credits  57000000 .
 sw:starship-68  sw:length  825 .
 sw:starship-68  sw:crew  200 .
 sw:starship-68  sw:cargo_capacity  40000000 .
-sw:starship-68  sw:consumables  2 years .
+sw:starship-68  sw:consumables  """2 years""" .
 sw:starship-68  sw:hyperdrive_rating  1.0 .
 sw:starship-68  sw:starship_class  """cruiser""" .
 sw:starship-68  sw:flim  sw:flim-6 .

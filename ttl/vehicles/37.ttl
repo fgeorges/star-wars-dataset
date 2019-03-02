@@ -12,7 +12,7 @@ sw:vehicle-37  sw:max_atmosphering_speed  587 .
 sw:vehicle-37  sw:crew  140 .
 sw:vehicle-37  sw:passengers  284 .
 sw:vehicle-37  sw:cargo_capacity  1800000 .
-sw:vehicle-37  sw:consumables  1 day .
+sw:vehicle-37  sw:consumables  """1 day""" .
 sw:vehicle-37  sw:vehicle_class  """landing craft""" .
 sw:vehicle-37  sw:flim  sw:flim-4 .
 sw:vehicle-37  sw:created  "2014-12-19T17:20:36.373000Z"^^xs:dateTime .

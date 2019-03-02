@@ -12,7 +12,7 @@ sw:starship-66  sw:max_atmosphering_speed  1000 .
 sw:starship-66  sw:crew  3 .
 sw:starship-66  sw:passengers  0 .
 sw:starship-66  sw:cargo_capacity  110 .
-sw:starship-66  sw:consumables  5 days .
+sw:starship-66  sw:consumables  """5 days""" .
 sw:starship-66  sw:hyperdrive_rating  1.0 .
 sw:starship-66  sw:MGLT  """100""" .
 sw:starship-66  sw:starship_class  """starfighter""" .

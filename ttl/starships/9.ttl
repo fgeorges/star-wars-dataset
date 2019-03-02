@@ -11,7 +11,7 @@ sw:starship-9  sw:length  120000 .
 sw:starship-9  sw:crew  342953 .
 sw:starship-9  sw:passengers  843342 .
 sw:starship-9  sw:cargo_capacity  1000000000000 .
-sw:starship-9  sw:consumables  3 years .
+sw:starship-9  sw:consumables  """3 years""" .
 sw:starship-9  sw:hyperdrive_rating  4.0 .
 sw:starship-9  sw:MGLT  """10""" .
 sw:starship-9  sw:starship_class  """Deep Space Mobile Battlestation""" .

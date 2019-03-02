@@ -10,7 +10,7 @@ sw:starship-27  sw:cost_in_credits  104000000 .
 sw:starship-27  sw:length  1200 .
 sw:starship-27  sw:crew  5400 .
 sw:starship-27  sw:passengers  1200 .
-sw:starship-27  sw:consumables  2 years .
+sw:starship-27  sw:consumables  """2 years""" .
 sw:starship-27  sw:hyperdrive_rating  1.0 .
 sw:starship-27  sw:MGLT  """60""" .
 sw:starship-27  sw:starship_class  """Star Cruiser""" .

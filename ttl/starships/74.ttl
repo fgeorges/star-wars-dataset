@@ -12,7 +12,7 @@ sw:starship-74  sw:max_atmosphering_speed  1100 .
 sw:starship-74  sw:crew  1 .
 sw:starship-74  sw:passengers  0 .
 sw:starship-74  sw:cargo_capacity  140 .
-sw:starship-74  sw:consumables  7 days .
+sw:starship-74  sw:consumables  """7 days""" .
 sw:starship-74  sw:hyperdrive_rating  6 .
 sw:starship-74  sw:starship_class  """starfighter""" .
 sw:starship-74  sw:pilot  sw:people-10 .

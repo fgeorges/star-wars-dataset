@@ -11,7 +11,7 @@ sw:starship-21  sw:max_atmosphering_speed  1000 .
 sw:starship-21  sw:crew  1 .
 sw:starship-21  sw:passengers  6 .
 sw:starship-21  sw:cargo_capacity  70000 .
-sw:starship-21  sw:consumables  1 month .
+sw:starship-21  sw:consumables  """1 month""" .
 sw:starship-21  sw:hyperdrive_rating  3.0 .
 sw:starship-21  sw:MGLT  """70""" .
 sw:starship-21  sw:starship_class  """Patrol craft""" .

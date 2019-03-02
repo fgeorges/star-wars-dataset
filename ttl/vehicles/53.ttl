@@ -11,7 +11,7 @@ sw:vehicle-53  sw:max_atmosphering_speed  60 .
 sw:vehicle-53  sw:crew  6 .
 sw:vehicle-53  sw:passengers  36 .
 sw:vehicle-53  sw:cargo_capacity  10000 .
-sw:vehicle-53  sw:consumables  21 days .
+sw:vehicle-53  sw:consumables  """21 days""" .
 sw:vehicle-53  sw:vehicle_class  """walker""" .
 sw:vehicle-53  sw:flim  sw:flim-5 .
 sw:vehicle-53  sw:flim  sw:flim-6 .

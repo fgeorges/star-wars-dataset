@@ -11,7 +11,7 @@ sw:starship-43  sw:length  39 .
 sw:starship-43  sw:max_atmosphering_speed  2000 .
 sw:starship-43  sw:crew  5 .
 sw:starship-43  sw:passengers  10 .
-sw:starship-43  sw:consumables  1 year .
+sw:starship-43  sw:consumables  """1 year""" .
 sw:starship-43  sw:hyperdrive_rating  0.7 .
 sw:starship-43  sw:starship_class  """Diplomatic barge""" .
 sw:starship-43  sw:flim  sw:flim-5 .

@@ -12,7 +12,7 @@ sw:vehicle-30  sw:max_atmosphering_speed  360 .
 sw:vehicle-30  sw:crew  1 .
 sw:vehicle-30  sw:passengers  1 .
 sw:vehicle-30  sw:cargo_capacity  4 .
-sw:vehicle-30  sw:consumables  1 day .
+sw:vehicle-30  sw:consumables  """1 day""" .
 sw:vehicle-30  sw:vehicle_class  """speeder""" .
 sw:vehicle-30  sw:pilot  sw:people-1 .
 sw:vehicle-30  sw:pilot  sw:people-5 .

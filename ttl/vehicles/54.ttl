@@ -11,7 +11,7 @@ sw:vehicle-54  sw:max_atmosphering_speed  35 .
 sw:vehicle-54  sw:crew  25 .
 sw:vehicle-54  sw:passengers  30 .
 sw:vehicle-54  sw:cargo_capacity  500 .
-sw:vehicle-54  sw:consumables  7 days .
+sw:vehicle-54  sw:consumables  """7 days""" .
 sw:vehicle-54  sw:vehicle_class  """walker""" .
 sw:vehicle-54  sw:flim  sw:flim-5 .
 sw:vehicle-54  sw:created  "2014-12-20T18:12:32.315000Z"^^xs:dateTime .

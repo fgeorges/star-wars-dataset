@@ -11,7 +11,7 @@ sw:vehicle-33  sw:max_atmosphering_speed  1200 .
 sw:vehicle-33  sw:crew  0 .
 sw:vehicle-33  sw:passengers  0 .
 sw:vehicle-33  sw:cargo_capacity  0 .
-sw:vehicle-33  sw:consumables  none .
+sw:vehicle-33  sw:consumables  """none""" .
 sw:vehicle-33  sw:vehicle_class  """starfighter""" .
 sw:vehicle-33  sw:flim  sw:flim-4 .
 sw:vehicle-33  sw:flim  sw:flim-6 .

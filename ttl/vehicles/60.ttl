@@ -12,7 +12,7 @@ sw:vehicle-60  sw:max_atmosphering_speed  330 .
 sw:vehicle-60  sw:crew  1 .
 sw:vehicle-60  sw:passengers  1 .
 sw:vehicle-60  sw:cargo_capacity  10 .
-sw:vehicle-60  sw:consumables  none .
+sw:vehicle-60  sw:consumables  """none""" .
 sw:vehicle-60  sw:vehicle_class  """wheeled walker""" .
 sw:vehicle-60  sw:pilot  sw:people-79 .
 sw:vehicle-60  sw:flim  sw:flim-6 .

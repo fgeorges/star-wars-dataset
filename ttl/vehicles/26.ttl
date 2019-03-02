@@ -11,7 +11,7 @@ sw:vehicle-26  sw:max_atmosphering_speed  1250 .
 sw:vehicle-26  sw:crew  1 .
 sw:vehicle-26  sw:passengers  0 .
 sw:vehicle-26  sw:cargo_capacity  75 .
-sw:vehicle-26  sw:consumables  2 days .
+sw:vehicle-26  sw:consumables  """2 days""" .
 sw:vehicle-26  sw:vehicle_class  """starfighter""" .
 sw:vehicle-26  sw:flim  sw:flim-3 .
 sw:vehicle-26  sw:created  "2014-12-18T10:50:28.225000Z"^^xs:dateTime .

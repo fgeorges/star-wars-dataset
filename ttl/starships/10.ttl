@@ -12,7 +12,7 @@ sw:starship-10  sw:max_atmosphering_speed  1050 .
 sw:starship-10  sw:crew  4 .
 sw:starship-10  sw:passengers  6 .
 sw:starship-10  sw:cargo_capacity  100000 .
-sw:starship-10  sw:consumables  2 months .
+sw:starship-10  sw:consumables  """2 months""" .
 sw:starship-10  sw:hyperdrive_rating  0.5 .
 sw:starship-10  sw:MGLT  """75""" .
 sw:starship-10  sw:starship_class  """Light freighter""" .

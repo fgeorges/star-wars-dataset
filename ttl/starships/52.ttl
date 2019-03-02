@@ -10,7 +10,7 @@ sw:starship-52  sw:length  752 .
 sw:starship-52  sw:crew  700 .
 sw:starship-52  sw:passengers  16000 .
 sw:starship-52  sw:cargo_capacity  11250000 .
-sw:starship-52  sw:consumables  2 years .
+sw:starship-52  sw:consumables  """2 years""" .
 sw:starship-52  sw:hyperdrive_rating  0.6 .
 sw:starship-52  sw:starship_class  """assault ship""" .
 sw:starship-52  sw:flim  sw:flim-5 .

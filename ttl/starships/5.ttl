@@ -12,7 +12,7 @@ sw:starship-5  sw:max_atmosphering_speed  1000 .
 sw:starship-5  sw:crew  5 .
 sw:starship-5  sw:passengers  75 .
 sw:starship-5  sw:cargo_capacity  180000 .
-sw:starship-5  sw:consumables  1 month .
+sw:starship-5  sw:consumables  """1 month""" .
 sw:starship-5  sw:hyperdrive_rating  1.0 .
 sw:starship-5  sw:MGLT  """70""" .
 sw:starship-5  sw:starship_class  """landing craft""" .

@@ -10,8 +10,8 @@ sw:vehicle-16  sw:length  7.8 .
 sw:vehicle-16  sw:max_atmosphering_speed  850 .
 sw:vehicle-16  sw:crew  1 .
 sw:vehicle-16  sw:passengers  0 .
-sw:vehicle-16  sw:cargo_capacity  none .
-sw:vehicle-16  sw:consumables  2 days .
+sw:vehicle-16  sw:cargo_capacity  """none""" .
+sw:vehicle-16  sw:consumables  """2 days""" .
 sw:vehicle-16  sw:vehicle_class  """space/planetary bomber""" .
 sw:vehicle-16  sw:flim  sw:flim-3 .
 sw:vehicle-16  sw:flim  sw:flim-2 .

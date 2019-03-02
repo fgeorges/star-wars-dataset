@@ -12,7 +12,7 @@ sw:vehicle-24  sw:max_atmosphering_speed  100 .
 sw:vehicle-24  sw:crew  26 .
 sw:vehicle-24  sw:passengers  500 .
 sw:vehicle-24  sw:cargo_capacity  2000000 .
-sw:vehicle-24  sw:consumables  Live food tanks .
+sw:vehicle-24  sw:consumables  """Live food tanks""" .
 sw:vehicle-24  sw:vehicle_class  """sail barge""" .
 sw:vehicle-24  sw:flim  sw:flim-3 .
 sw:vehicle-24  sw:created  "2014-12-18T10:44:14.217000Z"^^xs:dateTime .

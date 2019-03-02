@@ -12,7 +12,7 @@ sw:starship-65  sw:max_atmosphering_speed  1500 .
 sw:starship-65  sw:crew  1 .
 sw:starship-65  sw:passengers  0 .
 sw:starship-65  sw:cargo_capacity  60 .
-sw:starship-65  sw:consumables  2 days .
+sw:starship-65  sw:consumables  """2 days""" .
 sw:starship-65  sw:hyperdrive_rating  1.0 .
 sw:starship-65  sw:starship_class  """starfighter""" .
 sw:starship-65  sw:pilot  sw:people-10 .

@@ -8,11 +8,11 @@ sw:starship-11  sw:model  """BTL Y-wing""" .
 sw:starship-11  sw:manufacturer  """Koensayr Manufacturing""" .
 sw:starship-11  sw:cost_in_credits  134999 .
 sw:starship-11  sw:length  14 .
-sw:starship-11  sw:max_atmosphering_speed  1000km .
+sw:starship-11  sw:max_atmosphering_speed  """1000km""" .
 sw:starship-11  sw:crew  2 .
 sw:starship-11  sw:passengers  0 .
 sw:starship-11  sw:cargo_capacity  110 .
-sw:starship-11  sw:consumables  1 week .
+sw:starship-11  sw:consumables  """1 week""" .
 sw:starship-11  sw:hyperdrive_rating  1.0 .
 sw:starship-11  sw:MGLT  """80""" .
 sw:starship-11  sw:starship_class  """assault starfighter""" .

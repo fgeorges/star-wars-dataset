@@ -12,7 +12,7 @@ sw:starship-22  sw:max_atmosphering_speed  850 .
 sw:starship-22  sw:crew  6 .
 sw:starship-22  sw:passengers  20 .
 sw:starship-22  sw:cargo_capacity  80000 .
-sw:starship-22  sw:consumables  2 months .
+sw:starship-22  sw:consumables  """2 months""" .
 sw:starship-22  sw:hyperdrive_rating  1.0 .
 sw:starship-22  sw:MGLT  """50""" .
 sw:starship-22  sw:starship_class  """Armed government transport""" .

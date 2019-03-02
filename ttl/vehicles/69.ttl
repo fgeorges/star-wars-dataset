@@ -12,7 +12,7 @@ sw:vehicle-69  sw:max_atmosphering_speed  420 .
 sw:vehicle-69  sw:crew  2 .
 sw:vehicle-69  sw:passengers  2 .
 sw:vehicle-69  sw:cargo_capacity  50 .
-sw:vehicle-69  sw:consumables  3 days .
+sw:vehicle-69  sw:consumables  """3 days""" .
 sw:vehicle-69  sw:vehicle_class  """airspeeder""" .
 sw:vehicle-69  sw:flim  sw:flim-6 .
 sw:vehicle-69  sw:created  "2014-12-20T20:20:53.931000Z"^^xs:dateTime .

@@ -12,7 +12,7 @@ sw:starship-12  sw:max_atmosphering_speed  1050 .
 sw:starship-12  sw:crew  1 .
 sw:starship-12  sw:passengers  0 .
 sw:starship-12  sw:cargo_capacity  110 .
-sw:starship-12  sw:consumables  1 week .
+sw:starship-12  sw:consumables  """1 week""" .
 sw:starship-12  sw:hyperdrive_rating  1.0 .
 sw:starship-12  sw:MGLT  """100""" .
 sw:starship-12  sw:starship_class  """Starfighter""" .

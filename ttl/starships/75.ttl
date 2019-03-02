@@ -12,7 +12,7 @@ sw:starship-75  sw:max_atmosphering_speed  1050 .
 sw:starship-75  sw:crew  1 .
 sw:starship-75  sw:passengers  0 .
 sw:starship-75  sw:cargo_capacity  60 .
-sw:starship-75  sw:consumables  15 hours .
+sw:starship-75  sw:consumables  """15 hours""" .
 sw:starship-75  sw:hyperdrive_rating  1.0 .
 sw:starship-75  sw:starship_class  """starfighter""" .
 sw:starship-75  sw:flim  sw:flim-6 .

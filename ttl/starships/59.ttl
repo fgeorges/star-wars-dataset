@@ -12,7 +12,7 @@ sw:starship-59  sw:max_atmosphering_speed  1050 .
 sw:starship-59  sw:crew  600 .
 sw:starship-59  sw:passengers  48247 .
 sw:starship-59  sw:cargo_capacity  50000000 .
-sw:starship-59  sw:consumables  4 years .
+sw:starship-59  sw:consumables  """4 years""" .
 sw:starship-59  sw:hyperdrive_rating  1.5 .
 sw:starship-59  sw:starship_class  """capital ship""" .
 sw:starship-59  sw:pilot  sw:people-10 .

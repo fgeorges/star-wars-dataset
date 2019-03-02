@@ -12,7 +12,7 @@ sw:vehicle-44  sw:max_atmosphering_speed  350 .
 sw:vehicle-44  sw:crew  1 .
 sw:vehicle-44  sw:passengers  1 .
 sw:vehicle-44  sw:cargo_capacity  200 .
-sw:vehicle-44  sw:consumables  none .
+sw:vehicle-44  sw:consumables  """none""" .
 sw:vehicle-44  sw:vehicle_class  """repulsorcraft""" .
 sw:vehicle-44  sw:pilot  sw:people-11 .
 sw:vehicle-44  sw:flim  sw:flim-5 .

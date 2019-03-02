@@ -12,7 +12,7 @@ sw:starship-61  sw:max_atmosphering_speed  2000 .
 sw:starship-61  sw:crew  5 .
 sw:starship-61  sw:passengers  16 .
 sw:starship-61  sw:cargo_capacity  50000 .
-sw:starship-61  sw:consumables  56 days .
+sw:starship-61  sw:consumables  """56 days""" .
 sw:starship-61  sw:hyperdrive_rating  1.0 .
 sw:starship-61  sw:starship_class  """transport""" .
 sw:starship-61  sw:flim  sw:flim-6 .

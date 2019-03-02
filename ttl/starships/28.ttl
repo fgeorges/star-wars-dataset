@@ -12,7 +12,7 @@ sw:starship-28  sw:max_atmosphering_speed  1300 .
 sw:starship-28  sw:crew  1 .
 sw:starship-28  sw:passengers  0 .
 sw:starship-28  sw:cargo_capacity  40 .
-sw:starship-28  sw:consumables  1 week .
+sw:starship-28  sw:consumables  """1 week""" .
 sw:starship-28  sw:hyperdrive_rating  1.0 .
 sw:starship-28  sw:MGLT  """120""" .
 sw:starship-28  sw:starship_class  """Starfighter""" .

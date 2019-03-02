@@ -7,11 +7,11 @@ sw:starship-15  rdfs:label  """Executor""" .
 sw:starship-15  sw:model  """Executor-class star dreadnought""" .
 sw:starship-15  sw:manufacturer  """Kuat Drive Yards, Fondor Shipyards""" .
 sw:starship-15  sw:cost_in_credits  1143350000 .
-sw:starship-15  sw:length  19,000 .
+sw:starship-15  sw:length  """19,000""" .
 sw:starship-15  sw:crew  279144 .
 sw:starship-15  sw:passengers  38000 .
 sw:starship-15  sw:cargo_capacity  250000000 .
-sw:starship-15  sw:consumables  6 years .
+sw:starship-15  sw:consumables  """6 years""" .
 sw:starship-15  sw:hyperdrive_rating  2.0 .
 sw:starship-15  sw:MGLT  """40""" .
 sw:starship-15  sw:starship_class  """Star dreadnought""" .

@@ -11,7 +11,7 @@ sw:vehicle-14  sw:max_atmosphering_speed  650 .
 sw:vehicle-14  sw:crew  2 .
 sw:vehicle-14  sw:passengers  0 .
 sw:vehicle-14  sw:cargo_capacity  10 .
-sw:vehicle-14  sw:consumables  none .
+sw:vehicle-14  sw:consumables  """none""" .
 sw:vehicle-14  sw:vehicle_class  """airspeeder""" .
 sw:vehicle-14  sw:pilot  sw:people-1 .
 sw:vehicle-14  sw:pilot  sw:people-18 .

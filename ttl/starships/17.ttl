@@ -11,7 +11,7 @@ sw:starship-17  sw:max_atmosphering_speed  650 .
 sw:starship-17  sw:crew  6 .
 sw:starship-17  sw:passengers  90 .
 sw:starship-17  sw:cargo_capacity  19000000 .
-sw:starship-17  sw:consumables  6 months .
+sw:starship-17  sw:consumables  """6 months""" .
 sw:starship-17  sw:hyperdrive_rating  4.0 .
 sw:starship-17  sw:MGLT  """20""" .
 sw:starship-17  sw:starship_class  """Medium transport""" .

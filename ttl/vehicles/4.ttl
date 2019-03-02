@@ -12,7 +12,7 @@ sw:vehicle-4  sw:max_atmosphering_speed  30 .
 sw:vehicle-4  sw:crew  46 .
 sw:vehicle-4  sw:passengers  30 .
 sw:vehicle-4  sw:cargo_capacity  50000 .
-sw:vehicle-4  sw:consumables  2 months .
+sw:vehicle-4  sw:consumables  """2 months""" .
 sw:vehicle-4  sw:vehicle_class  """wheeled""" .
 sw:vehicle-4  sw:flim  sw:flim-5 .
 sw:vehicle-4  sw:flim  sw:flim-1 .

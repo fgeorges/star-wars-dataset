@@ -11,7 +11,7 @@ sw:vehicle-19  sw:max_atmosphering_speed  90 .
 sw:vehicle-19  sw:crew  2 .
 sw:vehicle-19  sw:passengers  0 .
 sw:vehicle-19  sw:cargo_capacity  200 .
-sw:vehicle-19  sw:consumables  none .
+sw:vehicle-19  sw:consumables  """none""" .
 sw:vehicle-19  sw:vehicle_class  """walker""" .
 sw:vehicle-19  sw:pilot  sw:people-13 .
 sw:vehicle-19  sw:flim  sw:flim-3 .
