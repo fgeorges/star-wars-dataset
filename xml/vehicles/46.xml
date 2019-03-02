@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>XJ-6 airspeeder</name>
    <model>XJ-6 airspeeder</model>
    <manufacturer>Narglatch AirTech prefabricated kit</manufacturer>

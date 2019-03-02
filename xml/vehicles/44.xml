@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Zephyr-G swoop bike</name>
    <model>Zephyr-G swoop bike</model>
    <manufacturer>Mobquet Swoops and Speeders</manufacturer>

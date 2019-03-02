@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <name>Corellia</name>
    <rotation_period>25</rotation_period>
    <orbital_period>329</orbital_period>

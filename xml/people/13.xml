@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Chewbacca</name>
    <height>228</height>
    <mass>112</mass>

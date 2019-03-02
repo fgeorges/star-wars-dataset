@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <name>Felucia</name>
    <rotation_period>34</rotation_period>
    <orbital_period>231</orbital_period>

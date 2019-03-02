@@ -3,16 +3,16 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-44  a  sw:Planet .
-sw:planet-44  rdfs:label  """Glee Anselm""" .
+sw:planet-44  rdfs:label  "Glee Anselm" .
 sw:planet-44  sw:rotation_period  33 .
 sw:planet-44  sw:orbital_period  206 .
 sw:planet-44  sw:diameter  15600 .
-sw:planet-44  sw:climate  """tropical, temperate""" .
-sw:planet-44  sw:gravity  """1""" .
-sw:planet-44  sw:terrain  """lakes, islands, swamps, seas""" .
-sw:planet-44  sw:surface_water  """80""" .
-sw:planet-44  sw:population  """500000000""" .
+sw:planet-44  sw:climate  "tropical, temperate" .
+sw:planet-44  sw:gravity  "1" .
+sw:planet-44  sw:terrain  "lakes, islands, swamps, seas" .
+sw:planet-44  sw:surface_water  "80" .
+sw:planet-44  sw:population  "500000000" .
 sw:planet-44  sw:resident  sw:people-53 .
 sw:planet-44  sw:created  "2014-12-20T10:18:26.110000Z"^^xs:dateTime .
 sw:planet-44  sw:edited  "2014-12-20T20:58:18.495000Z"^^xs:dateTime .
-sw:planet-44  sw:url  """http://swapi.co/api/planets/44/""" .
+sw:planet-44  sw:url  "http://swapi.co/api/planets/44/" .

@@ -3,19 +3,19 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:species-32  a  sw:Species .
-sw:species-32  rdfs:label  """Kaminoan""" .
-sw:species-32  sw:classification  """amphibian""" .
-sw:species-32  sw:designation  """sentient""" .
+sw:species-32  rdfs:label  "Kaminoan" .
+sw:species-32  sw:classification  "amphibian" .
+sw:species-32  sw:designation  "sentient" .
 sw:species-32  sw:average_height  220 .
-sw:species-32  sw:skin_colors  """grey, blue""" .
-sw:species-32  sw:hair_colors  """none""" .
-sw:species-32  sw:eye_colors  """black""" .
+sw:species-32  sw:skin_colors  "grey, blue" .
+sw:species-32  sw:hair_colors  "none" .
+sw:species-32  sw:eye_colors  "black" .
 sw:species-32  sw:average_lifespan  80 .
 sw:species-32  sw:homeworld  sw:planet-10 .
-sw:species-32  sw:language  """Kaminoan""" .
+sw:species-32  sw:language  "Kaminoan" .
 sw:species-32  sw:people  sw:people-72 .
 sw:species-32  sw:people  sw:people-73 .
 sw:species-32  sw:flim  sw:flim-5 .
 sw:species-32  sw:created  "2014-12-20T17:31:24.838000Z"^^xs:dateTime .
 sw:species-32  sw:edited  "2014-12-20T21:36:42.202000Z"^^xs:dateTime .
-sw:species-32  sw:url  """http://swapi.co/api/species/32/""" .
+sw:species-32  sw:url  "http://swapi.co/api/species/32/" .

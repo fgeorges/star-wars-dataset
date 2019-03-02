@@ -3,16 +3,16 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:starship-49  a  sw:Starship .
-sw:starship-49  rdfs:label  """H-type Nubian yacht""" .
-sw:starship-49  sw:model  """H-type Nubian yacht""" .
-sw:starship-49  sw:manufacturer  """Theed Palace Space Vessel Engineering Corps""" .
+sw:starship-49  rdfs:label  "H-type Nubian yacht" .
+sw:starship-49  sw:model  "H-type Nubian yacht" .
+sw:starship-49  sw:manufacturer  "Theed Palace Space Vessel Engineering Corps" .
 sw:starship-49  sw:length  47.9 .
 sw:starship-49  sw:max_atmosphering_speed  8000 .
 sw:starship-49  sw:crew  4 .
 sw:starship-49  sw:hyperdrive_rating  0.9 .
-sw:starship-49  sw:starship_class  """yacht""" .
+sw:starship-49  sw:starship_class  "yacht" .
 sw:starship-49  sw:pilot  sw:people-35 .
 sw:starship-49  sw:flim  sw:flim-5 .
 sw:starship-49  sw:created  "2014-12-20T17:46:46.847000Z"^^xs:dateTime .
 sw:starship-49  sw:edited  "2014-12-22T17:35:45.158969Z"^^xs:dateTime .
-sw:starship-49  sw:url  """http://swapi.co/api/starships/49/""" .
+sw:starship-49  sw:url  "http://swapi.co/api/starships/49/" .

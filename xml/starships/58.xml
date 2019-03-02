@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Solar Sailer</name>
    <model>Punworcca 116-class interstellar sloop</model>
    <manufacturer>Huppla Pasa Tisc Shipwrights Collective</manufacturer>

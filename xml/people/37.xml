@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Roos Tarpals</name>
    <height>224</height>
    <mass>82</mass>

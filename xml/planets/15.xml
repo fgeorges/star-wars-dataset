@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <name>Polis Massa</name>
    <rotation_period>24</rotation_period>
    <orbital_period>590</orbital_period>

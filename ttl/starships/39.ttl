@@ -3,18 +3,18 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:starship-39  a  sw:Starship .
-sw:starship-39  rdfs:label  """Naboo fighter""" .
-sw:starship-39  sw:model  """N-1 starfighter""" .
-sw:starship-39  sw:manufacturer  """Theed Palace Space Vessel Engineering Corps""" .
+sw:starship-39  rdfs:label  "Naboo fighter" .
+sw:starship-39  sw:model  "N-1 starfighter" .
+sw:starship-39  sw:manufacturer  "Theed Palace Space Vessel Engineering Corps" .
 sw:starship-39  sw:cost_in_credits  200000 .
 sw:starship-39  sw:length  11 .
 sw:starship-39  sw:max_atmosphering_speed  1100 .
 sw:starship-39  sw:crew  1 .
 sw:starship-39  sw:passengers  0 .
 sw:starship-39  sw:cargo_capacity  65 .
-sw:starship-39  sw:consumables  """7 days""" .
+sw:starship-39  sw:consumables  "7 days" .
 sw:starship-39  sw:hyperdrive_rating  1.0 .
-sw:starship-39  sw:starship_class  """Starfighter""" .
+sw:starship-39  sw:starship_class  "Starfighter" .
 sw:starship-39  sw:pilot  sw:people-11 .
 sw:starship-39  sw:pilot  sw:people-60 .
 sw:starship-39  sw:pilot  sw:people-35 .
@@ -22,4 +22,4 @@ sw:starship-39  sw:flim  sw:flim-5 .
 sw:starship-39  sw:flim  sw:flim-4 .
 sw:starship-39  sw:created  "2014-12-19T17:39:17.582000Z"^^xs:dateTime .
 sw:starship-39  sw:edited  "2014-12-22T17:35:45.079452Z"^^xs:dateTime .
-sw:starship-39  sw:url  """http://swapi.co/api/starships/39/""" .
+sw:starship-39  sw:url  "http://swapi.co/api/starships/39/" .

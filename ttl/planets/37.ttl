@@ -3,17 +3,17 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-37  a  sw:Planet .
-sw:planet-37  rdfs:label  """Ryloth""" .
+sw:planet-37  rdfs:label  "Ryloth" .
 sw:planet-37  sw:rotation_period  30 .
 sw:planet-37  sw:orbital_period  305 .
 sw:planet-37  sw:diameter  10600 .
-sw:planet-37  sw:climate  """temperate, arid, subartic""" .
-sw:planet-37  sw:gravity  """1""" .
-sw:planet-37  sw:terrain  """mountains, valleys, deserts, tundra""" .
-sw:planet-37  sw:surface_water  """5""" .
-sw:planet-37  sw:population  """1500000000""" .
+sw:planet-37  sw:climate  "temperate, arid, subartic" .
+sw:planet-37  sw:gravity  "1" .
+sw:planet-37  sw:terrain  "mountains, valleys, deserts, tundra" .
+sw:planet-37  sw:surface_water  "5" .
+sw:planet-37  sw:population  "1500000000" .
 sw:planet-37  sw:resident  sw:people-45 .
 sw:planet-37  sw:resident  sw:people-46 .
 sw:planet-37  sw:created  "2014-12-20T09:46:25.740000Z"^^xs:dateTime .
 sw:planet-37  sw:edited  "2014-12-20T20:58:18.481000Z"^^xs:dateTime .
-sw:planet-37  sw:url  """http://swapi.co/api/planets/37/""" .
+sw:planet-37  sw:url  "http://swapi.co/api/planets/37/" .

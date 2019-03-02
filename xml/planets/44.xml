@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <name>Glee Anselm</name>
    <rotation_period>33</rotation_period>
    <orbital_period>206</orbital_period>

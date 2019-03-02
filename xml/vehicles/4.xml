@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Sand Crawler</name>
    <model>Digger Crawler</model>
    <manufacturer>Corellia Mining Corporation</manufacturer>

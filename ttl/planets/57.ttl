@@ -3,16 +3,16 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-57  a  sw:Planet .
-sw:planet-57  rdfs:label  """Muunilinst""" .
+sw:planet-57  rdfs:label  "Muunilinst" .
 sw:planet-57  sw:rotation_period  28 .
 sw:planet-57  sw:orbital_period  412 .
 sw:planet-57  sw:diameter  13800 .
-sw:planet-57  sw:climate  """temperate""" .
-sw:planet-57  sw:gravity  """1""" .
-sw:planet-57  sw:terrain  """plains, forests, hills, mountains""" .
-sw:planet-57  sw:surface_water  """25""" .
-sw:planet-57  sw:population  """5000000000""" .
+sw:planet-57  sw:climate  "temperate" .
+sw:planet-57  sw:gravity  "1" .
+sw:planet-57  sw:terrain  "plains, forests, hills, mountains" .
+sw:planet-57  sw:surface_water  "25" .
+sw:planet-57  sw:population  "5000000000" .
 sw:planet-57  sw:resident  sw:people-77 .
 sw:planet-57  sw:created  "2014-12-20T17:57:47.420000Z"^^xs:dateTime .
 sw:planet-57  sw:edited  "2014-12-20T20:58:18.519000Z"^^xs:dateTime .
-sw:planet-57  sw:url  """http://swapi.co/api/planets/57/""" .
+sw:planet-57  sw:url  "http://swapi.co/api/planets/57/" .

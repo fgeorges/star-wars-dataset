@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Yarael Poof</name>
    <height>264</height>
    <hair_color>none</hair_color>

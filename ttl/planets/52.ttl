@@ -3,9 +3,9 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-52  a  sw:Planet .
-sw:planet-52  rdfs:label  """Serenno""" .
-sw:planet-52  sw:terrain  """rainforests, rivers, mountains""" .
+sw:planet-52  rdfs:label  "Serenno" .
+sw:planet-52  sw:terrain  "rainforests, rivers, mountains" .
 sw:planet-52  sw:resident  sw:people-67 .
 sw:planet-52  sw:created  "2014-12-20T16:52:13.357000Z"^^xs:dateTime .
 sw:planet-52  sw:edited  "2014-12-20T20:58:18.510000Z"^^xs:dateTime .
-sw:planet-52  sw:url  """http://swapi.co/api/planets/52/""" .
+sw:planet-52  sw:url  "http://swapi.co/api/planets/52/" .

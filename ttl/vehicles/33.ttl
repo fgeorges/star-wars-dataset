@@ -3,18 +3,18 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-33  a  sw:Vehicle .
-sw:vehicle-33  rdfs:label  """Vulture Droid""" .
-sw:vehicle-33  sw:model  """Vulture-class droid starfighter""" .
-sw:vehicle-33  sw:manufacturer  """Haor Chall Engineering, Baktoid Armor Workshop""" .
+sw:vehicle-33  rdfs:label  "Vulture Droid" .
+sw:vehicle-33  sw:model  "Vulture-class droid starfighter" .
+sw:vehicle-33  sw:manufacturer  "Haor Chall Engineering, Baktoid Armor Workshop" .
 sw:vehicle-33  sw:length  3.5 .
 sw:vehicle-33  sw:max_atmosphering_speed  1200 .
 sw:vehicle-33  sw:crew  0 .
 sw:vehicle-33  sw:passengers  0 .
 sw:vehicle-33  sw:cargo_capacity  0 .
-sw:vehicle-33  sw:consumables  """none""" .
-sw:vehicle-33  sw:vehicle_class  """starfighter""" .
+sw:vehicle-33  sw:consumables  "none" .
+sw:vehicle-33  sw:vehicle_class  "starfighter" .
 sw:vehicle-33  sw:flim  sw:flim-4 .
 sw:vehicle-33  sw:flim  sw:flim-6 .
 sw:vehicle-33  sw:created  "2014-12-19T17:09:53.584000Z"^^xs:dateTime .
 sw:vehicle-33  sw:edited  "2014-12-22T18:21:15.953870Z"^^xs:dateTime .
-sw:vehicle-33  sw:url  """http://swapi.co/api/vehicles/33/""" .
+sw:vehicle-33  sw:url  "http://swapi.co/api/vehicles/33/" .

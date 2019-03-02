@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Sly Moore</name>
    <height>178</height>
    <mass>48</mass>

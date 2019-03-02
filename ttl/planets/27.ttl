@@ -3,16 +3,16 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-27  a  sw:Planet .
-sw:planet-27  rdfs:label  """Ord Mantell""" .
+sw:planet-27  rdfs:label  "Ord Mantell" .
 sw:planet-27  sw:rotation_period  26 .
 sw:planet-27  sw:orbital_period  334 .
 sw:planet-27  sw:diameter  14050 .
-sw:planet-27  sw:climate  """temperate""" .
-sw:planet-27  sw:gravity  """1 standard""" .
-sw:planet-27  sw:terrain  """plains, seas, mesas""" .
-sw:planet-27  sw:surface_water  """10""" .
-sw:planet-27  sw:population  """4000000000""" .
+sw:planet-27  sw:climate  "temperate" .
+sw:planet-27  sw:gravity  "1 standard" .
+sw:planet-27  sw:terrain  "plains, seas, mesas" .
+sw:planet-27  sw:surface_water  "10" .
+sw:planet-27  sw:population  "4000000000" .
 sw:planet-27  sw:flim  sw:flim-2 .
 sw:planet-27  sw:created  "2014-12-15T12:23:41.661000Z"^^xs:dateTime .
 sw:planet-27  sw:edited  "2014-12-20T20:58:18.464000Z"^^xs:dateTime .
-sw:planet-27  sw:url  """http://swapi.co/api/planets/27/""" .
+sw:planet-27  sw:url  "http://swapi.co/api/planets/27/" .

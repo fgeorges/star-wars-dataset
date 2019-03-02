@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Droid tri-fighter</name>
    <model>tri-fighter</model>
    <manufacturer>Colla Designs, Phlac-Arphocc Automata Industries</manufacturer>

@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>AA-9 Coruscant freighter</name>
    <model>Botajef AA-9 Freighter-Liner</model>
    <manufacturer>Botajef Shipyards</manufacturer>

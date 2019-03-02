@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>CR90 corvette</name>
    <model>CR90 corvette</model>
    <manufacturer>Corellian Engineering Corporation</manufacturer>

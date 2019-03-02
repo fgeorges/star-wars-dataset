@@ -3,17 +3,17 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-63  a  sw:People .
-sw:people-63  rdfs:label  """Poggle the Lesser""" .
-sw:people-63  sw:height  """183""" .
-sw:people-63  sw:mass  """80""" .
-sw:people-63  sw:hair_color  """none""" .
-sw:people-63  sw:skin_color  """green""" .
-sw:people-63  sw:eye_color  """yellow""" .
-sw:people-63  sw:gender  """male""" .
+sw:people-63  rdfs:label  "Poggle the Lesser" .
+sw:people-63  sw:height  "183" .
+sw:people-63  sw:mass  "80" .
+sw:people-63  sw:hair_color  "none" .
+sw:people-63  sw:skin_color  "green" .
+sw:people-63  sw:eye_color  "yellow" .
+sw:people-63  sw:gender  "male" .
 sw:people-63  sw:homeworld  sw:planet-11 .
 sw:people-63  sw:flim  sw:flim-5 .
 sw:people-63  sw:flim  sw:flim-6 .
 sw:people-63  sw:species  sw:species-28 .
 sw:people-63  sw:created  "2014-12-20T16:40:43.977000Z"^^xs:dateTime .
 sw:people-63  sw:edited  "2014-12-20T21:17:50.453000Z"^^xs:dateTime .
-sw:people-63  sw:url  """http://swapi.co/api/people/63/""" .
+sw:people-63  sw:url  "http://swapi.co/api/people/63/" .

@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Owen Lars</name>
    <height>178</height>
    <mass>120</mass>

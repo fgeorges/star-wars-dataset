@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <name>Endor</name>
    <rotation_period>18</rotation_period>
    <orbital_period>402</orbital_period>

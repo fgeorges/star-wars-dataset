@@ -3,21 +3,21 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:starship-15  a  sw:Starship .
-sw:starship-15  rdfs:label  """Executor""" .
-sw:starship-15  sw:model  """Executor-class star dreadnought""" .
-sw:starship-15  sw:manufacturer  """Kuat Drive Yards, Fondor Shipyards""" .
+sw:starship-15  rdfs:label  "Executor" .
+sw:starship-15  sw:model  "Executor-class star dreadnought" .
+sw:starship-15  sw:manufacturer  "Kuat Drive Yards, Fondor Shipyards" .
 sw:starship-15  sw:cost_in_credits  1143350000 .
-sw:starship-15  sw:length  """19,000""" .
+sw:starship-15  sw:length  "19,000" .
 sw:starship-15  sw:crew  279144 .
 sw:starship-15  sw:passengers  38000 .
 sw:starship-15  sw:cargo_capacity  250000000 .
-sw:starship-15  sw:consumables  """6 years""" .
+sw:starship-15  sw:consumables  "6 years" .
 sw:starship-15  sw:hyperdrive_rating  2.0 .
-sw:starship-15  sw:MGLT  """40""" .
-sw:starship-15  sw:starship_class  """Star dreadnought""" .
+sw:starship-15  sw:MGLT  "40" .
+sw:starship-15  sw:starship_class  "Star dreadnought" .
 sw:starship-15  sw:flim  sw:flim-3 .
 sw:starship-15  sw:flim  sw:flim-2 .
 sw:starship-15  sw:created  "2014-12-15T12:31:42.547000Z"^^xs:dateTime .
 sw:starship-15  sw:edited  "2014-12-22T17:35:44.638231Z"^^xs:dateTime .
-sw:starship-15  sw:url  """http://swapi.co/api/starships/15/""" .
-sw:starship-15  sw:desc  """An executor is someone who is responsible for executing, or following through on, an assigned task or duty. The feminine form, executrix, may sometimes be used. The role of an executor should not be confused with that of an executioner, a person who carries out a death sentence ordered by the state or other legal authority.""" .
+sw:starship-15  sw:url  "http://swapi.co/api/starships/15/" .
+sw:starship-15  sw:desc  "An executor is someone who is responsible for executing, or following through on, an assigned task or duty. The feminine form, executrix, may sometimes be used. The role of an executor should not be confused with that of an executioner, a person who carries out a death sentence ordered by the state or other legal authority." .

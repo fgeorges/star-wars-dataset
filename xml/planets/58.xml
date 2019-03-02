@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <name>Shili</name>
    <climate>temperate</climate>
    <gravity>1</gravity>

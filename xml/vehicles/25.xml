@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Bantha-II cargo skiff</name>
    <model>Bantha-II</model>
    <manufacturer>Ubrikkian Industries</manufacturer>

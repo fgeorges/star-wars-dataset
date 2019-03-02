@@ -3,14 +3,14 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-5  a  sw:People .
-sw:people-5  rdfs:label  """Leia Organa""" .
-sw:people-5  sw:height  """150""" .
-sw:people-5  sw:mass  """49""" .
-sw:people-5  sw:hair_color  """brown""" .
-sw:people-5  sw:skin_color  """light""" .
-sw:people-5  sw:eye_color  """brown""" .
-sw:people-5  sw:birth_year  """19BBY""" .
-sw:people-5  sw:gender  """female""" .
+sw:people-5  rdfs:label  "Leia Organa" .
+sw:people-5  sw:height  "150" .
+sw:people-5  sw:mass  "49" .
+sw:people-5  sw:hair_color  "brown" .
+sw:people-5  sw:skin_color  "light" .
+sw:people-5  sw:eye_color  "brown" .
+sw:people-5  sw:birth_year  "19BBY" .
+sw:people-5  sw:gender  "female" .
 sw:people-5  sw:homeworld  sw:planet-2 .
 sw:people-5  sw:flim  sw:flim-6 .
 sw:people-5  sw:flim  sw:flim-3 .
@@ -21,7 +21,7 @@ sw:people-5  sw:species  sw:species-1 .
 sw:people-5  sw:vehicle  sw:vehicle-30 .
 sw:people-5  sw:created  "2014-12-10T15:20:09.791000Z"^^xs:dateTime .
 sw:people-5  sw:edited  "2014-12-20T21:17:50.315000Z"^^xs:dateTime .
-sw:people-5  sw:url  """http://swapi.co/api/people/5/""" .
-sw:people-5  sw:desc  """Princess Leia Organa of Alderaan (also Senator Leia Organa or General Leia Organa) is a fictional character in the Star Wars franchise, portrayed in films by Carrie Fisher. Introduced in the original Star Wars film in 1977, Leia is princess of the planet Alderaan, a member of the Imperial Senate and an agent of the Rebel Alliance. She thwarts the sinister Sith Lord Darth Vader and helps bring about the destruction of the Empire's cataclysmic superweapon, the Death Star. In The Empire Strikes Back (1980), Leia commands a Rebel base and evades Vader as she falls in love with the smuggler, Han Solo. In Return of the Jedi (1983), Leia leads the operation to rescue Han from the crime lord Jabba the Hutt, and is revealed to be Vader's daughter and the twin sister of Luke Skywalker. The prequel film Revenge of the Sith (2005) establishes that the twins' mother is Senator (and former queen) Padmé Amidala of Naboo, who dies after childbirth. Leia is adopted by Senator Bail and Queen Breha Organa of Alderaan. In The Force Awakens (2015), Leia is the founder and General of the Resistance against the First Order and has a son with Han named Ben, who goes by the name Kylo Ren.""" .
-sw:people-5  sw:desc  """In the original Star Wars expanded universe (1977–2014) of novels, comics and video games, which are set in an alternate continuity, Leia continues her adventures with Han and Luke after Return of the Jedi, fighting Imperial resurgences and new threats to the galaxy. She becomes the Chief of State of the New Republic and a Jedi Master, and is the mother to three children by Han: Jaina, Jacen and Anakin Solo.""" .
-sw:people-5  sw:desc  """One of the more popular Star Wars characters, Leia has been called a 1980s icon, a feminist hero and model for other adventure heroines. She has appeared in many derivative works and merchandising, and has been referenced or parodied in several TV shows and films. Her \u0022cinnamon buns\u0022 hairstyle from Star Wars (1977) and metal bikini from Return of the Jedi have become cultural icons.""" .
+sw:people-5  sw:url  "http://swapi.co/api/people/5/" .
+sw:people-5  sw:desc  "Princess Leia Organa of Alderaan (also Senator Leia Organa or General Leia Organa) is a fictional character in the Star Wars franchise, portrayed in films by Carrie Fisher. Introduced in the original Star Wars film in 1977, Leia is princess of the planet Alderaan, a member of the Imperial Senate and an agent of the Rebel Alliance. She thwarts the sinister Sith Lord Darth Vader and helps bring about the destruction of the Empire's cataclysmic superweapon, the Death Star. In The Empire Strikes Back (1980), Leia commands a Rebel base and evades Vader as she falls in love with the smuggler, Han Solo. In Return of the Jedi (1983), Leia leads the operation to rescue Han from the crime lord Jabba the Hutt, and is revealed to be Vader's daughter and the twin sister of Luke Skywalker. The prequel film Revenge of the Sith (2005) establishes that the twins' mother is Senator (and former queen) Padmé Amidala of Naboo, who dies after childbirth. Leia is adopted by Senator Bail and Queen Breha Organa of Alderaan. In The Force Awakens (2015), Leia is the founder and General of the Resistance against the First Order and has a son with Han named Ben, who goes by the name Kylo Ren." .
+sw:people-5  sw:desc  "In the original Star Wars expanded universe (1977–2014) of novels, comics and video games, which are set in an alternate continuity, Leia continues her adventures with Han and Luke after Return of the Jedi, fighting Imperial resurgences and new threats to the galaxy. She becomes the Chief of State of the New Republic and a Jedi Master, and is the mother to three children by Han: Jaina, Jacen and Anakin Solo." .
+sw:people-5  sw:desc  "One of the more popular Star Wars characters, Leia has been called a 1980s icon, a feminist hero and model for other adventure heroines. She has appeared in many derivative works and merchandising, and has been referenced or parodied in several TV shows and films. Her \u0022cinnamon buns\u0022 hairstyle from Star Wars (1977) and metal bikini from Return of the Jedi have become cultural icons." .

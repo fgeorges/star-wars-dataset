@@ -3,19 +3,19 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-32  a  sw:People .
-sw:people-32  rdfs:label  """Qui-Gon Jinn""" .
-sw:people-32  sw:height  """193""" .
-sw:people-32  sw:mass  """89""" .
-sw:people-32  sw:hair_color  """brown""" .
-sw:people-32  sw:skin_color  """fair""" .
-sw:people-32  sw:eye_color  """blue""" .
-sw:people-32  sw:birth_year  """92BBY""" .
-sw:people-32  sw:gender  """male""" .
+sw:people-32  rdfs:label  "Qui-Gon Jinn" .
+sw:people-32  sw:height  "193" .
+sw:people-32  sw:mass  "89" .
+sw:people-32  sw:hair_color  "brown" .
+sw:people-32  sw:skin_color  "fair" .
+sw:people-32  sw:eye_color  "blue" .
+sw:people-32  sw:birth_year  "92BBY" .
+sw:people-32  sw:gender  "male" .
 sw:people-32  sw:homeworld  sw:planet-28 .
 sw:people-32  sw:flim  sw:flim-4 .
 sw:people-32  sw:species  sw:species-1 .
 sw:people-32  sw:vehicle  sw:vehicle-38 .
 sw:people-32  sw:created  "2014-12-19T16:54:53.618000Z"^^xs:dateTime .
 sw:people-32  sw:edited  "2014-12-20T21:17:50.375000Z"^^xs:dateTime .
-sw:people-32  sw:url  """http://swapi.co/api/people/32/""" .
-sw:people-32  sw:desc  """Qui-Gon Jinn is a fictional character in the Star Wars franchise, portrayed by Liam Neeson as the main protagonist of the 1999 film Star Wars: Episode I – The Phantom Menace.""" .
+sw:people-32  sw:url  "http://swapi.co/api/people/32/" .
+sw:people-32  sw:desc  "Qui-Gon Jinn is a fictional character in the Star Wars franchise, portrayed by Liam Neeson as the main protagonist of the 1999 film Star Wars: Episode I – The Phantom Menace." .

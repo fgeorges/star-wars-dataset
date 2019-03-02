@@ -3,15 +3,15 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:species-23  a  sw:Species .
-sw:species-23  rdfs:label  """Tholothian""" .
-sw:species-23  sw:classification  """mammal""" .
-sw:species-23  sw:designation  """sentient""" .
-sw:species-23  sw:skin_colors  """dark""" .
-sw:species-23  sw:eye_colors  """blue, indigo""" .
+sw:species-23  rdfs:label  "Tholothian" .
+sw:species-23  sw:classification  "mammal" .
+sw:species-23  sw:designation  "sentient" .
+sw:species-23  sw:skin_colors  "dark" .
+sw:species-23  sw:eye_colors  "blue, indigo" .
 sw:species-23  sw:homeworld  sw:planet-46 .
 sw:species-23  sw:people  sw:people-55 .
 sw:species-23  sw:flim  sw:flim-4 .
 sw:species-23  sw:flim  sw:flim-6 .
 sw:species-23  sw:created  "2014-12-20T10:29:13.798000Z"^^xs:dateTime .
 sw:species-23  sw:edited  "2014-12-20T21:36:42.186000Z"^^xs:dateTime .
-sw:species-23  sw:url  """http://swapi.co/api/species/23/""" .
+sw:species-23  sw:url  "http://swapi.co/api/species/23/" .

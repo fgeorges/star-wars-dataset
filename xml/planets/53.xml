@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <name>Concord Dawn</name>
    <terrain>jungles, forests, deserts</terrain>
    <residents>http://swapi.co/api/people/69/</residents>

@@ -3,11 +3,11 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-62  a  sw:Vehicle .
-sw:vehicle-62  rdfs:label  """Emergency Firespeeder""" .
-sw:vehicle-62  sw:model  """Fire suppression speeder""" .
+sw:vehicle-62  rdfs:label  "Emergency Firespeeder" .
+sw:vehicle-62  sw:model  "Fire suppression speeder" .
 sw:vehicle-62  sw:crew  2 .
-sw:vehicle-62  sw:vehicle_class  """fire suppression ship""" .
+sw:vehicle-62  sw:vehicle_class  "fire suppression ship" .
 sw:vehicle-62  sw:flim  sw:flim-6 .
 sw:vehicle-62  sw:created  "2014-12-20T19:50:58.559000Z"^^xs:dateTime .
 sw:vehicle-62  sw:edited  "2014-12-22T18:21:16.450655Z"^^xs:dateTime .
-sw:vehicle-62  sw:url  """http://swapi.co/api/vehicles/62/""" .
+sw:vehicle-62  sw:url  "http://swapi.co/api/vehicles/62/" .

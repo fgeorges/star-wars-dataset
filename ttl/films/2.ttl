@@ -3,7 +3,7 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:film-2  a  sw:Film .
-sw:film-2  rdfs:label  """The Empire Strikes Back""" .
+sw:film-2  rdfs:label  "The Empire Strikes Back" .
 sw:film-2  sw:episode_id  5 .
 sw:film-2  sw:opening_crawl  """It is a dark time for the
 Rebellion. Although the Death
@@ -25,8 +25,8 @@ obsessed with finding young
 Skywalker, has dispatched
 thousands of remote probes into
 the far reaches of space....""" .
-sw:film-2  sw:director  """Irvin Kershner""" .
-sw:film-2  sw:producer  """Gary Kutz, Rick McCallum""" .
+sw:film-2  sw:director  "Irvin Kershner" .
+sw:film-2  sw:producer  "Gary Kutz, Rick McCallum" .
 sw:film-2  sw:release_date  "1980-05-17"^^xs:date .
 sw:film-2  sw:character  sw:people-1 .
 sw:film-2  sw:character  sw:people-2 .
@@ -70,8 +70,8 @@ sw:film-2  sw:species  sw:species-2 .
 sw:film-2  sw:species  sw:species-1 .
 sw:film-2  sw:created  "2014-12-12T11:26:24.656000Z"^^xs:dateTime .
 sw:film-2  sw:edited  "2015-04-11T09:46:31.433607Z"^^xs:dateTime .
-sw:film-2  sw:url  """http://swapi.co/api/films/2/""" .
-sw:film-2  sw:desc  """The Empire Strikes Back (also known as Star Wars: Episode V – The Empire Strikes Back) is a 1980 American epic space opera film directed by Irvin Kershner. Leigh Brackett and Lawrence Kasdan wrote the screenplay, with George Lucas writing the film's story and serving as executive producer. The second installment in the original Star Wars trilogy, it was produced by Gary Kurtz for Lucasfilm and stars Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse, Kenny Baker, Peter Mayhew, and Frank Oz.""" .
-sw:film-2  sw:desc  """The film is set three years after Star Wars. The Galactic Empire, under the leadership of the villainous Darth Vader and the Emperor, is in pursuit of Luke Skywalker and the rest of the Rebel Alliance. While Vader relentlessly pursues the small band of Luke's friends—Han Solo, Princess Leia Organa, and others—across the galaxy, Luke studies the Force under Jedi Master Yoda. When Vader captures Luke's friends, Luke must decide whether to complete his training and become a full Jedi Knight or to confront Vader and save them.""" .
-sw:film-2  sw:desc  """Following a difficult production, The Empire Strikes Back was released on May 21, 1980. It received mixed reviews from critics initially but has since grown in esteem, becoming the most critically acclaimed chapter in the Star Wars saga; it is now widely regarded as one of the greatest films of all time.[5][6][7][8] The film ranks #3 on Empire's 2008 list of the 500 greatest movies of all time.[9] It became the highest-grossing film of 1980 and, to date, has earned more than $538 million worldwide from its original run and several re-releases. When adjusted for inflation, it is the second-highest-grossing sequel of all time and the 13th-highest-grossing film in North America.[10] The film was followed by Return of the Jedi, which was released in 1983.""" .
-sw:film-2  sw:desc  """In 2010, the film was selected for preservation in the United States' National Film Registry by the Library of Congress for being \u0022culturally, historically, and aesthetically significant.\u0022""" .
+sw:film-2  sw:url  "http://swapi.co/api/films/2/" .
+sw:film-2  sw:desc  "The Empire Strikes Back (also known as Star Wars: Episode V – The Empire Strikes Back) is a 1980 American epic space opera film directed by Irvin Kershner. Leigh Brackett and Lawrence Kasdan wrote the screenplay, with George Lucas writing the film's story and serving as executive producer. The second installment in the original Star Wars trilogy, it was produced by Gary Kurtz for Lucasfilm and stars Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse, Kenny Baker, Peter Mayhew, and Frank Oz." .
+sw:film-2  sw:desc  "The film is set three years after Star Wars. The Galactic Empire, under the leadership of the villainous Darth Vader and the Emperor, is in pursuit of Luke Skywalker and the rest of the Rebel Alliance. While Vader relentlessly pursues the small band of Luke's friends—Han Solo, Princess Leia Organa, and others—across the galaxy, Luke studies the Force under Jedi Master Yoda. When Vader captures Luke's friends, Luke must decide whether to complete his training and become a full Jedi Knight or to confront Vader and save them." .
+sw:film-2  sw:desc  "Following a difficult production, The Empire Strikes Back was released on May 21, 1980. It received mixed reviews from critics initially but has since grown in esteem, becoming the most critically acclaimed chapter in the Star Wars saga; it is now widely regarded as one of the greatest films of all time.[5][6][7][8] The film ranks #3 on Empire's 2008 list of the 500 greatest movies of all time.[9] It became the highest-grossing film of 1980 and, to date, has earned more than $538 million worldwide from its original run and several re-releases. When adjusted for inflation, it is the second-highest-grossing sequel of all time and the 13th-highest-grossing film in North America.[10] The film was followed by Return of the Jedi, which was released in 1983." .
+sw:film-2  sw:desc  "In 2010, the film was selected for preservation in the United States' National Film Registry by the Library of Congress for being \u0022culturally, historically, and aesthetically significant.\u0022" .

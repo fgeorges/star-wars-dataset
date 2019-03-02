@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Wicket Systri Warrick</name>
    <height>88</height>
    <mass>20</mass>

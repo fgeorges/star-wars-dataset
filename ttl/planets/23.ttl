@@ -3,16 +3,16 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-23  a  sw:Planet .
-sw:planet-23  rdfs:label  """Rodia""" .
+sw:planet-23  rdfs:label  "Rodia" .
 sw:planet-23  sw:rotation_period  29 .
 sw:planet-23  sw:orbital_period  305 .
 sw:planet-23  sw:diameter  7549 .
-sw:planet-23  sw:climate  """hot""" .
-sw:planet-23  sw:gravity  """1 standard""" .
-sw:planet-23  sw:terrain  """jungles, oceans, urban, swamps""" .
-sw:planet-23  sw:surface_water  """60""" .
-sw:planet-23  sw:population  """1300000000""" .
+sw:planet-23  sw:climate  "hot" .
+sw:planet-23  sw:gravity  "1 standard" .
+sw:planet-23  sw:terrain  "jungles, oceans, urban, swamps" .
+sw:planet-23  sw:surface_water  "60" .
+sw:planet-23  sw:population  "1300000000" .
 sw:planet-23  sw:resident  sw:people-15 .
 sw:planet-23  sw:created  "2014-12-10T17:03:28.110000Z"^^xs:dateTime .
 sw:planet-23  sw:edited  "2014-12-20T20:58:18.458000Z"^^xs:dateTime .
-sw:planet-23  sw:url  """http://swapi.co/api/planets/23/""" .
+sw:planet-23  sw:url  "http://swapi.co/api/planets/23/" .

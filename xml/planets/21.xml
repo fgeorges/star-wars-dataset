@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <name>Eriadu</name>
    <rotation_period>24</rotation_period>
    <orbital_period>360</orbital_period>

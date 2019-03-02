@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Storm IV Twin-Pod cloud car</name>
    <model>Storm IV Twin-Pod</model>
    <manufacturer>Bespin Motors</manufacturer>

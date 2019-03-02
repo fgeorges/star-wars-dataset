@@ -3,15 +3,15 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-77  a  sw:People .
-sw:people-77  rdfs:label  """San Hill""" .
-sw:people-77  sw:height  """191""" .
-sw:people-77  sw:hair_color  """none""" .
-sw:people-77  sw:skin_color  """grey""" .
-sw:people-77  sw:eye_color  """gold""" .
-sw:people-77  sw:gender  """male""" .
+sw:people-77  rdfs:label  "San Hill" .
+sw:people-77  sw:height  "191" .
+sw:people-77  sw:hair_color  "none" .
+sw:people-77  sw:skin_color  "grey" .
+sw:people-77  sw:eye_color  "gold" .
+sw:people-77  sw:gender  "male" .
 sw:people-77  sw:homeworld  sw:planet-57 .
 sw:people-77  sw:flim  sw:flim-5 .
 sw:people-77  sw:species  sw:species-34 .
 sw:people-77  sw:created  "2014-12-20T17:58:17.049000Z"^^xs:dateTime .
 sw:people-77  sw:edited  "2014-12-20T21:17:50.484000Z"^^xs:dateTime .
-sw:people-77  sw:url  """http://swapi.co/api/people/77/""" .
+sw:people-77  sw:url  "http://swapi.co/api/people/77/" .

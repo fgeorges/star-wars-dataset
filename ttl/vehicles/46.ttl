@@ -3,16 +3,16 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-46  a  sw:Vehicle .
-sw:vehicle-46  rdfs:label  """XJ-6 airspeeder""" .
-sw:vehicle-46  sw:model  """XJ-6 airspeeder""" .
-sw:vehicle-46  sw:manufacturer  """Narglatch AirTech prefabricated kit""" .
+sw:vehicle-46  rdfs:label  "XJ-6 airspeeder" .
+sw:vehicle-46  sw:model  "XJ-6 airspeeder" .
+sw:vehicle-46  sw:manufacturer  "Narglatch AirTech prefabricated kit" .
 sw:vehicle-46  sw:length  6.23 .
 sw:vehicle-46  sw:max_atmosphering_speed  720 .
 sw:vehicle-46  sw:crew  1 .
 sw:vehicle-46  sw:passengers  1 .
-sw:vehicle-46  sw:vehicle_class  """airspeeder""" .
+sw:vehicle-46  sw:vehicle_class  "airspeeder" .
 sw:vehicle-46  sw:pilot  sw:people-11 .
 sw:vehicle-46  sw:flim  sw:flim-5 .
 sw:vehicle-46  sw:created  "2014-12-20T17:19:19.991000Z"^^xs:dateTime .
 sw:vehicle-46  sw:edited  "2014-12-22T18:21:16.150194Z"^^xs:dateTime .
-sw:vehicle-46  sw:url  """http://swapi.co/api/vehicles/46/""" .
+sw:vehicle-46  sw:url  "http://swapi.co/api/vehicles/46/" .

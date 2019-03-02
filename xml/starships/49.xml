@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>H-type Nubian yacht</name>
    <model>H-type Nubian yacht</model>
    <manufacturer>Theed Palace Space Vessel Engineering Corps</manufacturer>

@@ -3,11 +3,11 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-61  a  sw:Planet .
-sw:planet-61  rdfs:label  """Jakku""" .
-sw:planet-61  sw:terrain  """deserts""" .
+sw:planet-61  rdfs:label  "Jakku" .
+sw:planet-61  sw:terrain  "deserts" .
 sw:planet-61  sw:flim  sw:flim-7 .
 sw:planet-61  sw:created  "2015-04-17T06:55:57.556495Z"^^xs:dateTime .
 sw:planet-61  sw:edited  "2015-04-17T06:55:57.556551Z"^^xs:dateTime .
-sw:planet-61  sw:url  """http://swapi.co/api/planets/61/""" .
-sw:planet-61  sw:desc  """Jakku is a fictional desert planet first featured in the 2015 Star Wars film The Force Awakens. Remote, lawless, and inhospitable, it is the homeworld of main character Rey, played by Daisy Ridley. The film focuses on two distinct localities, Tuanul Village and Niima Outpost, near a starship graveyard.""" .
-sw:planet-61  sw:desc  """The planet is also depicted in the 2017 Chuck Wendig novel, Star Wars: Aftermath: Empire's End.""" .
+sw:planet-61  sw:url  "http://swapi.co/api/planets/61/" .
+sw:planet-61  sw:desc  "Jakku is a fictional desert planet first featured in the 2015 Star Wars film The Force Awakens. Remote, lawless, and inhospitable, it is the homeworld of main character Rey, played by Daisy Ridley. The film focuses on two distinct localities, Tuanul Village and Niima Outpost, near a starship graveyard." .
+sw:planet-61  sw:desc  "The planet is also depicted in the 2017 Chuck Wendig novel, Star Wars: Aftermath: Empire's End." .

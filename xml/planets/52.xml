@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <name>Serenno</name>
    <terrain>rainforests, rivers, mountains</terrain>
    <residents>http://swapi.co/api/people/67/</residents>

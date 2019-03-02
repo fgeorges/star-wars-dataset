@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Yoda</name>
    <height>66</height>
    <mass>17</mass>

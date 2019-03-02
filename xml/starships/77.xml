@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>T-70 X-wing fighter</name>
    <model>T-70 X-wing fighter</model>
    <manufacturer>Incom</manufacturer>

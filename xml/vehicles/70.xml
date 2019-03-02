@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Raddaugh Gnasp fluttercraft</name>
    <model>Raddaugh Gnasp fluttercraft</model>
    <manufacturer>Appazanna Engineering Works</manufacturer>

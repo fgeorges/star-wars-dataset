@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Executor</name>
    <model>Executor-class star dreadnought</model>
    <manufacturer>Kuat Drive Yards, Fondor Shipyards</manufacturer>

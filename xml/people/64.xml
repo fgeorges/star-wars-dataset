@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Luminara Unduli</name>
    <height>170</height>
    <mass>56.2</mass>

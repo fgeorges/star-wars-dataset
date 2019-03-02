@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Republic Assault ship</name>
    <model>Acclamator I-class assault ship</model>
    <manufacturer>Rothana Heavy Engineering</manufacturer>

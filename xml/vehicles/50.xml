@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>LAAT/i</name>
    <model>Low Altitude Assault Transport/infrantry</model>
    <manufacturer>Rothana Heavy Engineering</manufacturer>

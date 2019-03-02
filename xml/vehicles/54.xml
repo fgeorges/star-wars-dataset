@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>SPHA</name>
    <model>Self-Propelled Heavy Artillery</model>
    <manufacturer>Rothana Heavy Engineering</manufacturer>

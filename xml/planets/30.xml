@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <name>Socorro</name>
    <rotation_period>20</rotation_period>
    <orbital_period>326</orbital_period>

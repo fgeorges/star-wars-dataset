@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Watto</name>
    <height>137</height>
    <hair_color>black</hair_color>

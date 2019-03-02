@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Imperial Speeder Bike</name>
    <model>74-Z speeder bike</model>
    <manufacturer>Aratech Repulsor Company</manufacturer>

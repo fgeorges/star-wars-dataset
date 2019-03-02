@@ -1,4 +1,4 @@
-<species>
+<species xmlns="http://h2o.consulting/ns/star-wars">
    <name>Neimodian</name>
    <designation>sentient</designation>
    <average_height>180</average_height>

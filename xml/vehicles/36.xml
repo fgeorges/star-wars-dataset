@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Single Trooper Aerial Platform</name>
    <model>Single Trooper Aerial Platform</model>
    <manufacturer>Baktoid Armor Workshop</manufacturer>

@@ -1,4 +1,4 @@
-<species>
+<species xmlns="http://h2o.consulting/ns/star-wars">
    <name>Human</name>
    <classification>mammal</classification>
    <designation>sentient</designation>

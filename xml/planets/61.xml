@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <name>Jakku</name>
    <terrain>deserts</terrain>
    <films>http://swapi.co/api/films/7/</films>

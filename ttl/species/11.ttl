@@ -3,16 +3,16 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:species-11  a  sw:Species .
-sw:species-11  rdfs:label  """Neimodian""" .
-sw:species-11  sw:designation  """sentient""" .
+sw:species-11  rdfs:label  "Neimodian" .
+sw:species-11  sw:designation  "sentient" .
 sw:species-11  sw:average_height  180 .
-sw:species-11  sw:skin_colors  """grey, green""" .
-sw:species-11  sw:hair_colors  """none""" .
-sw:species-11  sw:eye_colors  """red, pink""" .
+sw:species-11  sw:skin_colors  "grey, green" .
+sw:species-11  sw:hair_colors  "none" .
+sw:species-11  sw:eye_colors  "red, pink" .
 sw:species-11  sw:homeworld  sw:planet-18 .
-sw:species-11  sw:language  """Neimoidia""" .
+sw:species-11  sw:language  "Neimoidia" .
 sw:species-11  sw:people  sw:people-33 .
 sw:species-11  sw:flim  sw:flim-4 .
 sw:species-11  sw:created  "2014-12-19T17:07:31.319000Z"^^xs:dateTime .
 sw:species-11  sw:edited  "2014-12-20T21:36:42.160000Z"^^xs:dateTime .
-sw:species-11  sw:url  """http://swapi.co/api/species/11/""" .
+sw:species-11  sw:url  "http://swapi.co/api/species/11/" .

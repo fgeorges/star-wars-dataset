@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Sebulba</name>
    <height>112</height>
    <mass>40</mass>

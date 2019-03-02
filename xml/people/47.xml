@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Ratts Tyerell</name>
    <height>79</height>
    <mass>15</mass>

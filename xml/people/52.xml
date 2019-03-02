@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Ki-Adi-Mundi</name>
    <height>198</height>
    <mass>82</mass>

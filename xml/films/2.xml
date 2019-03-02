@@ -1,4 +1,4 @@
-<film>
+<film xmlns="http://h2o.consulting/ns/star-wars">
    <title>The Empire Strikes Back</title>
    <episode_id>5</episode_id>
    <opening_crawl>It is a dark time for the

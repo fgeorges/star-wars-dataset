@@ -1,4 +1,4 @@
-<film>
+<film xmlns="http://h2o.consulting/ns/star-wars">
    <title>A New Hope</title>
    <episode_id>4</episode_id>
    <opening_crawl>It is a period of civil war.

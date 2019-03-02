@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Snowspeeder</name>
    <model>t-47 airspeeder</model>
    <manufacturer>Incom corporation</manufacturer>

@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>A-wing</name>
    <model>RZ-1 A-wing Interceptor</model>
    <manufacturer>Alliance Underground Engineering, Incom Corporation</manufacturer>

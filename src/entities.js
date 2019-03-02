@@ -117,12 +117,16 @@ function triple(file, rsrc, prop, content)
     else if ( numbers.includes(prop) && ! isNaN(content) ) {
 	fs.writeSync(file, `${rsrc}  ${prop}  ${content} .\n`);
     }
+    else if ( prop !== 'sw:url' && content.startsWith('http://swapi.co/api/') ) {
+	throw new Error('Should not this be a resource link? - ' + prop);
+    }
+    else if ( /[\n\r]/.test(content) ) {
+	const c = content.replace(/"""/g, '\\u0022\\u0022\\u0022');
+	fs.writeSync(file, `${rsrc}  ${prop}  """${c}""" .\n`);
+    }
     else {
-	if ( prop !== 'sw:url' && content.startsWith('http://swapi.co/api/') ) {
-	    throw new Error('Should not this be a resource link? - ' + prop);
-	}
-	content = content.replace(/"/g, '\\u0022');
-	fs.writeSync(file, `${rsrc}  ${prop}  """${content}""" .\n`);
+	const c = content.replace(/"/g, '\\u0022');
+	fs.writeSync(file, `${rsrc}  ${prop}  "${c}" .\n`);
     }
 }
 
@@ -149,7 +153,7 @@ function writeEntity(entity, dir, root)
     fs.writeSync(ttl,  '@prefix sw:   <http://h2o.consulting/ns/star-wars#> .\n');
     fs.writeSync(ttl,  '@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .\n\n');
     fs.writeSync(ttl,  rsrc + '  a  sw:' + clazz + ' .\n');
-    fs.writeSync(xml,  '<' + root + '>\n');
+    fs.writeSync(xml,  '<' + root + ' xmlns="http://h2o.consulting/ns/star-wars">\n');
     const props = Object.keys(entity);
     props.forEach((prop, i) => {
         const val  = entity[prop];

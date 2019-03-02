@@ -3,16 +3,16 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:species-3  a  sw:Species .
-sw:species-3  rdfs:label  """Wookiee""" .
-sw:species-3  sw:classification  """mammal""" .
-sw:species-3  sw:designation  """sentient""" .
+sw:species-3  rdfs:label  "Wookiee" .
+sw:species-3  sw:classification  "mammal" .
+sw:species-3  sw:designation  "sentient" .
 sw:species-3  sw:average_height  210 .
-sw:species-3  sw:skin_colors  """gray""" .
-sw:species-3  sw:hair_colors  """black, brown""" .
-sw:species-3  sw:eye_colors  """blue, green, yellow, brown, golden, red""" .
+sw:species-3  sw:skin_colors  "gray" .
+sw:species-3  sw:hair_colors  "black, brown" .
+sw:species-3  sw:eye_colors  "blue, green, yellow, brown, golden, red" .
 sw:species-3  sw:average_lifespan  400 .
 sw:species-3  sw:homeworld  sw:planet-14 .
-sw:species-3  sw:language  """Shyriiwook""" .
+sw:species-3  sw:language  "Shyriiwook" .
 sw:species-3  sw:people  sw:people-13 .
 sw:species-3  sw:people  sw:people-80 .
 sw:species-3  sw:flim  sw:flim-7 .
@@ -22,5 +22,5 @@ sw:species-3  sw:flim  sw:flim-2 .
 sw:species-3  sw:flim  sw:flim-1 .
 sw:species-3  sw:created  "2014-12-10T16:44:31.486000Z"^^xs:dateTime .
 sw:species-3  sw:edited  "2015-01-30T21:23:03.074598Z"^^xs:dateTime .
-sw:species-3  sw:url  """http://swapi.co/api/species/3/""" .
-sw:species-3  sw:desc  """Wookiees (/ˈwʊkiːz/) are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They are taller, stronger, and hairier than humans and most (if not all) other humanoid species. The most notable Wookiee is Chewbacca, the copilot of Han Solo, who first appeared in the 1977 film Star Wars Episode IV: A New Hope.""" .
+sw:species-3  sw:url  "http://swapi.co/api/species/3/" .
+sw:species-3  sw:desc  "Wookiees (/ˈwʊkiːz/) are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They are taller, stronger, and hairier than humans and most (if not all) other humanoid species. The most notable Wookiee is Chewbacca, the copilot of Han Solo, who first appeared in the 1977 film Star Wars Episode IV: A New Hope." .

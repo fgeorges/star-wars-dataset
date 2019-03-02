@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Ackbar</name>
    <height>180</height>
    <mass>83</mass>

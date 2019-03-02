@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Zam Wesell</name>
    <height>168</height>
    <mass>55</mass>

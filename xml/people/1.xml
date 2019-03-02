@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Luke Skywalker</name>
    <height>172</height>
    <mass>77</mass>

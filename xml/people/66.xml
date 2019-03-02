@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Dormé</name>
    <height>165</height>
    <hair_color>brown</hair_color>

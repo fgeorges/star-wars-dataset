@@ -3,12 +3,12 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-2  a  sw:People .
-sw:people-2  rdfs:label  """C-3PO""" .
-sw:people-2  sw:height  """167""" .
-sw:people-2  sw:mass  """75""" .
-sw:people-2  sw:skin_color  """gold""" .
-sw:people-2  sw:eye_color  """yellow""" .
-sw:people-2  sw:birth_year  """112BBY""" .
+sw:people-2  rdfs:label  "C-3PO" .
+sw:people-2  sw:height  "167" .
+sw:people-2  sw:mass  "75" .
+sw:people-2  sw:skin_color  "gold" .
+sw:people-2  sw:eye_color  "yellow" .
+sw:people-2  sw:birth_year  "112BBY" .
 sw:people-2  sw:homeworld  sw:planet-1 .
 sw:people-2  sw:flim  sw:flim-5 .
 sw:people-2  sw:flim  sw:flim-4 .
@@ -19,6 +19,6 @@ sw:people-2  sw:flim  sw:flim-1 .
 sw:people-2  sw:species  sw:species-2 .
 sw:people-2  sw:created  "2014-12-10T15:10:51.357000Z"^^xs:dateTime .
 sw:people-2  sw:edited  "2014-12-20T21:17:50.309000Z"^^xs:dateTime .
-sw:people-2  sw:url  """http://swapi.co/api/people/2/""" .
-sw:people-2  sw:desc  """C-3PO (/siːˈθriːpi.oʊ/) or See-Threepio is a humanoid robot character from the Star Wars franchise who appears in the original trilogy, the prequel trilogy and the sequel trilogy. Built by Anakin Skywalker, C-3PO was designed as a protocol droid intended to assist in etiquette, customs, and translation, boasting that he is \u0022fluent in over six million forms of communication\u0022. Along with his astromech droid counterpart and friend R2-D2, C-3PO provides comic relief within the narrative structure of the films, and serves as a foil. Anthony Daniels has portrayed the character in all nine Star Wars cinematic films released to date, including Rogue One and the animated The Clone Wars; C-3PO and R2-D2 are the only characters to appear in every film.""" .
-sw:people-2  sw:desc  """Despite his oblivious nature, C-3PO has played a pivotal role in the Galaxy's history, appearing under the service of Shmi Skywalker, the Lars homestead, Padmé Amidala, Raymus Antilles, Luke Skywalker, and Leia Organa. In the majority of depictions, C-3PO's physical appearance is primarily a polished gold plating, although his appearance varies throughout the films; including the absence of metal coverings in The Phantom Menace, a dull copper plating in Attack of the Clones, a silver lower right leg introduced in A New Hope, and a red left arm in The Force Awakens.[1] C-3PO also appears frequently in the Star Wars Canon and Star Wars Legends continuities of novels, comic books, and video games, and was the protagonist in the ABC television show Droids.""" .
+sw:people-2  sw:url  "http://swapi.co/api/people/2/" .
+sw:people-2  sw:desc  "C-3PO (/siːˈθriːpi.oʊ/) or See-Threepio is a humanoid robot character from the Star Wars franchise who appears in the original trilogy, the prequel trilogy and the sequel trilogy. Built by Anakin Skywalker, C-3PO was designed as a protocol droid intended to assist in etiquette, customs, and translation, boasting that he is \u0022fluent in over six million forms of communication\u0022. Along with his astromech droid counterpart and friend R2-D2, C-3PO provides comic relief within the narrative structure of the films, and serves as a foil. Anthony Daniels has portrayed the character in all nine Star Wars cinematic films released to date, including Rogue One and the animated The Clone Wars; C-3PO and R2-D2 are the only characters to appear in every film." .
+sw:people-2  sw:desc  "Despite his oblivious nature, C-3PO has played a pivotal role in the Galaxy's history, appearing under the service of Shmi Skywalker, the Lars homestead, Padmé Amidala, Raymus Antilles, Luke Skywalker, and Leia Organa. In the majority of depictions, C-3PO's physical appearance is primarily a polished gold plating, although his appearance varies throughout the films; including the absence of metal coverings in The Phantom Menace, a dull copper plating in Attack of the Clones, a silver lower right leg introduced in A New Hope, and a red left arm in The Force Awakens.[1] C-3PO also appears frequently in the Star Wars Canon and Star Wars Legends continuities of novels, comic books, and video games, and was the protagonist in the ABC television show Droids." .

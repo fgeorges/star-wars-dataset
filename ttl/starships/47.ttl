@@ -3,13 +3,13 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:starship-47  a  sw:Starship .
-sw:starship-47  rdfs:label  """AA-9 Coruscant freighter""" .
-sw:starship-47  sw:model  """Botajef AA-9 Freighter-Liner""" .
-sw:starship-47  sw:manufacturer  """Botajef Shipyards""" .
+sw:starship-47  rdfs:label  "AA-9 Coruscant freighter" .
+sw:starship-47  sw:model  "Botajef AA-9 Freighter-Liner" .
+sw:starship-47  sw:manufacturer  "Botajef Shipyards" .
 sw:starship-47  sw:length  390 .
 sw:starship-47  sw:passengers  30000 .
-sw:starship-47  sw:starship_class  """freighter""" .
+sw:starship-47  sw:starship_class  "freighter" .
 sw:starship-47  sw:flim  sw:flim-5 .
 sw:starship-47  sw:created  "2014-12-20T17:24:23.509000Z"^^xs:dateTime .
 sw:starship-47  sw:edited  "2014-12-22T17:35:45.135987Z"^^xs:dateTime .
-sw:starship-47  sw:url  """http://swapi.co/api/starships/47/""" .
+sw:starship-47  sw:url  "http://swapi.co/api/starships/47/" .

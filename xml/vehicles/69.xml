@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Oevvaor jet catamaran</name>
    <model>Oevvaor jet catamaran</model>
    <manufacturer>Appazanna Engineering Works</manufacturer>

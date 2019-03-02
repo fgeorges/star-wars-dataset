@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Poe Dameron</name>
    <hair_color>brown</hair_color>
    <skin_color>light</skin_color>

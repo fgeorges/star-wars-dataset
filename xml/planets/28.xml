@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <rotation_period>0</rotation_period>
    <orbital_period>0</orbital_period>
    <diameter>0</diameter>

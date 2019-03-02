@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>arc-170</name>
    <model>Aggressive Reconnaissance-170 starfighte</model>
    <manufacturer>Incom Corporation, Subpro Corporation</manufacturer>

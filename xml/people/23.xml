@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>IG-88</name>
    <height>200</height>
    <mass>140</mass>

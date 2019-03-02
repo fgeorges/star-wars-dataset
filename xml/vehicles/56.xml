@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Neimoidian shuttle</name>
    <model>Sheathipede-class transport shuttle</model>
    <manufacturer>Haor Chall Engineering</manufacturer>

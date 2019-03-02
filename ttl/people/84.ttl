@@ -3,15 +3,15 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-84  a  sw:People .
-sw:people-84  rdfs:label  """Finn""" .
-sw:people-84  sw:hair_color  """black""" .
-sw:people-84  sw:skin_color  """dark""" .
-sw:people-84  sw:eye_color  """dark""" .
-sw:people-84  sw:gender  """male""" .
+sw:people-84  rdfs:label  "Finn" .
+sw:people-84  sw:hair_color  "black" .
+sw:people-84  sw:skin_color  "dark" .
+sw:people-84  sw:eye_color  "dark" .
+sw:people-84  sw:gender  "male" .
 sw:people-84  sw:homeworld  sw:planet-28 .
 sw:people-84  sw:flim  sw:flim-7 .
 sw:people-84  sw:species  sw:species-1 .
 sw:people-84  sw:created  "2015-04-17T06:52:40.793621Z"^^xs:dateTime .
 sw:people-84  sw:edited  "2015-04-17T06:52:40.793674Z"^^xs:dateTime .
-sw:people-84  sw:url  """http://swapi.co/api/people/84/""" .
-sw:people-84  sw:desc  """Finn, designation number FN-2187, is a fictional character in the Star Wars franchise. He first appeared in the 2015 film Star Wars: The Force Awakens in which he is a stormtrooper for the First Order who flees and turns against it after being shocked by their cruelty in his first combat mission. He is played by British actor John Boyega, who will reprise the role in Star Wars: The Last Jedi.""" .
+sw:people-84  sw:url  "http://swapi.co/api/people/84/" .
+sw:people-84  sw:desc  "Finn, designation number FN-2187, is a fictional character in the Star Wars franchise. He first appeared in the 2015 film Star Wars: The Force Awakens in which he is a stormtrooper for the First Order who flees and turns against it after being shocked by their cruelty in his first combat mission. He is played by British actor John Boyega, who will reprise the role in Star Wars: The Last Jedi." .

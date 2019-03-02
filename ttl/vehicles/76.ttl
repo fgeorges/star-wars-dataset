@@ -3,20 +3,20 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-76  a  sw:Vehicle .
-sw:vehicle-76  rdfs:label  """AT-RT""" .
-sw:vehicle-76  sw:model  """All Terrain Recon Transport""" .
-sw:vehicle-76  sw:manufacturer  """Kuat Drive Yards""" .
+sw:vehicle-76  rdfs:label  "AT-RT" .
+sw:vehicle-76  sw:model  "All Terrain Recon Transport" .
+sw:vehicle-76  sw:manufacturer  "Kuat Drive Yards" .
 sw:vehicle-76  sw:cost_in_credits  40000 .
 sw:vehicle-76  sw:length  3.2 .
 sw:vehicle-76  sw:max_atmosphering_speed  90 .
 sw:vehicle-76  sw:crew  1 .
 sw:vehicle-76  sw:passengers  0 .
 sw:vehicle-76  sw:cargo_capacity  20 .
-sw:vehicle-76  sw:consumables  """1 day""" .
-sw:vehicle-76  sw:vehicle_class  """walker""" .
+sw:vehicle-76  sw:consumables  "1 day" .
+sw:vehicle-76  sw:vehicle_class  "walker" .
 sw:vehicle-76  sw:flim  sw:flim-6 .
 sw:vehicle-76  sw:created  "2014-12-20T20:47:49.189000Z"^^xs:dateTime .
 sw:vehicle-76  sw:edited  "2014-12-22T18:21:16.672821Z"^^xs:dateTime .
-sw:vehicle-76  sw:url  """http://swapi.co/api/vehicles/76/""" .
-sw:vehicle-76  sw:desc  """Walkers are vehicles from the Star Wars universe that traverse the landscape on mechanical legs. They are used by the Old Republic and the Galactic Empire for ground assault or transport. Throughout the saga, walkers have played a pivotal role in the fate of characters and the outcome of battles. Industrial Light and Magic (ILM) is responsible for their animation and design, often using models, stop-motion animation, and relevant matte paintings to depict their presence in the films.""" .
-sw:vehicle-76  sw:desc  """There are a variety of walkers: The Empire Strikes Back introduces the All Terrain Armored Transport (AT-AT) and All Terrain Scout Transport (AT-ST). Star Wars: Episode II – Attack of the Clones and Star Wars: Episode III – Revenge of the Sith introduced earlier models of walkers, such as the AT-TE, and the Star Wars expanded universe features numerous others. Walker variants have been merchandised and featured in popular culture.""" .
+sw:vehicle-76  sw:url  "http://swapi.co/api/vehicles/76/" .
+sw:vehicle-76  sw:desc  "Walkers are vehicles from the Star Wars universe that traverse the landscape on mechanical legs. They are used by the Old Republic and the Galactic Empire for ground assault or transport. Throughout the saga, walkers have played a pivotal role in the fate of characters and the outcome of battles. Industrial Light and Magic (ILM) is responsible for their animation and design, often using models, stop-motion animation, and relevant matte paintings to depict their presence in the films." .
+sw:vehicle-76  sw:desc  "There are a variety of walkers: The Empire Strikes Back introduces the All Terrain Armored Transport (AT-AT) and All Terrain Scout Transport (AT-ST). Star Wars: Episode II – Attack of the Clones and Star Wars: Episode III – Revenge of the Sith introduced earlier models of walkers, such as the AT-TE, and the Star Wars expanded universe features numerous others. Walker variants have been merchandised and featured in popular culture." .

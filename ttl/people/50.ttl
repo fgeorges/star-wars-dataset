@@ -3,16 +3,16 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-50  a  sw:People .
-sw:people-50  rdfs:label  """Ben Quadinaros""" .
-sw:people-50  sw:height  """163""" .
-sw:people-50  sw:mass  """65""" .
-sw:people-50  sw:hair_color  """none""" .
-sw:people-50  sw:skin_color  """grey, green, yellow""" .
-sw:people-50  sw:eye_color  """orange""" .
-sw:people-50  sw:gender  """male""" .
+sw:people-50  rdfs:label  "Ben Quadinaros" .
+sw:people-50  sw:height  "163" .
+sw:people-50  sw:mass  "65" .
+sw:people-50  sw:hair_color  "none" .
+sw:people-50  sw:skin_color  "grey, green, yellow" .
+sw:people-50  sw:eye_color  "orange" .
+sw:people-50  sw:gender  "male" .
 sw:people-50  sw:homeworld  sw:planet-41 .
 sw:people-50  sw:flim  sw:flim-4 .
 sw:people-50  sw:species  sw:species-19 .
 sw:people-50  sw:created  "2014-12-20T10:08:33.777000Z"^^xs:dateTime .
 sw:people-50  sw:edited  "2014-12-20T21:17:50.417000Z"^^xs:dateTime .
-sw:people-50  sw:url  """http://swapi.co/api/people/50/""" .
+sw:people-50  sw:url  "http://swapi.co/api/people/50/" .

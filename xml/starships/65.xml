@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Jedi Interceptor</name>
    <model>Eta-2 Actis-class light interceptor</model>
    <manufacturer>Kuat Systems Engineering</manufacturer>

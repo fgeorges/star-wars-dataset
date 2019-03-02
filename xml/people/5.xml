@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Leia Organa</name>
    <height>150</height>
    <mass>49</mass>

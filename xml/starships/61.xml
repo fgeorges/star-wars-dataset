@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Theta-class T-2c shuttle</name>
    <model>Theta-class T-2c shuttle</model>
    <manufacturer>Cygnus Spaceworks</manufacturer>

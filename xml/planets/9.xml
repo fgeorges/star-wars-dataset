@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <name>Coruscant</name>
    <rotation_period>24</rotation_period>
    <orbital_period>368</orbital_period>

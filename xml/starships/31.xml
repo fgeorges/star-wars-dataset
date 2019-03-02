@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Republic Cruiser</name>
    <model>Consular-class cruiser</model>
    <manufacturer>Corellian Engineering Corporation</manufacturer>

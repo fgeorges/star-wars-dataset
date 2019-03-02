@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Armored Assault Tank</name>
    <model>Armoured Assault Tank</model>
    <manufacturer>Baktoid Armor Workshop</manufacturer>

@@ -1,4 +1,4 @@
-<film>
+<film xmlns="http://h2o.consulting/ns/star-wars">
    <title>The Phantom Menace</title>
    <episode_id>1</episode_id>
    <opening_crawl>Turmoil has engulfed the

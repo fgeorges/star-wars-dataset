@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Sentinel-class landing craft</name>
    <model>Sentinel-class landing craft</model>
    <manufacturer>Sienar Fleet Systems, Cyngus Spaceworks</manufacturer>

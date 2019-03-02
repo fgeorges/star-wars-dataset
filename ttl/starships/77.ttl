@@ -3,13 +3,13 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:starship-77  a  sw:Starship .
-sw:starship-77  rdfs:label  """T-70 X-wing fighter""" .
-sw:starship-77  sw:model  """T-70 X-wing fighter""" .
-sw:starship-77  sw:manufacturer  """Incom""" .
+sw:starship-77  rdfs:label  "T-70 X-wing fighter" .
+sw:starship-77  sw:model  "T-70 X-wing fighter" .
+sw:starship-77  sw:manufacturer  "Incom" .
 sw:starship-77  sw:crew  1 .
-sw:starship-77  sw:starship_class  """fighter""" .
+sw:starship-77  sw:starship_class  "fighter" .
 sw:starship-77  sw:pilot  sw:people-86 .
 sw:starship-77  sw:flim  sw:flim-7 .
 sw:starship-77  sw:created  "2015-04-17T06:58:50.614475Z"^^xs:dateTime .
 sw:starship-77  sw:edited  "2015-04-17T06:58:50.614528Z"^^xs:dateTime .
-sw:starship-77  sw:url  """http://swapi.co/api/starships/77/""" .
+sw:starship-77  sw:url  "http://swapi.co/api/starships/77/" .

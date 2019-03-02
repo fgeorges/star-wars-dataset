@@ -1,4 +1,4 @@
-<film>
+<film xmlns="http://h2o.consulting/ns/star-wars">
    <title>Return of the Jedi</title>
    <episode_id>6</episode_id>
    <opening_crawl>Luke Skywalker has returned to

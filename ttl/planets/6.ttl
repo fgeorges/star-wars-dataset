@@ -3,19 +3,19 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-6  a  sw:Planet .
-sw:planet-6  rdfs:label  """Bespin""" .
+sw:planet-6  rdfs:label  "Bespin" .
 sw:planet-6  sw:rotation_period  12 .
 sw:planet-6  sw:orbital_period  5110 .
 sw:planet-6  sw:diameter  118000 .
-sw:planet-6  sw:climate  """temperate""" .
-sw:planet-6  sw:gravity  """1.5 (surface), 1 standard (Cloud City)""" .
-sw:planet-6  sw:terrain  """gas giant""" .
-sw:planet-6  sw:surface_water  """0""" .
-sw:planet-6  sw:population  """6000000""" .
+sw:planet-6  sw:climate  "temperate" .
+sw:planet-6  sw:gravity  "1.5 (surface), 1 standard (Cloud City)" .
+sw:planet-6  sw:terrain  "gas giant" .
+sw:planet-6  sw:surface_water  "0" .
+sw:planet-6  sw:population  "6000000" .
 sw:planet-6  sw:resident  sw:people-26 .
 sw:planet-6  sw:flim  sw:flim-2 .
 sw:planet-6  sw:created  "2014-12-10T11:43:55.240000Z"^^xs:dateTime .
 sw:planet-6  sw:edited  "2014-12-20T20:58:18.427000Z"^^xs:dateTime .
-sw:planet-6  sw:url  """http://swapi.co/api/planets/6/""" .
-sw:planet-6  sw:desc  """Bespin is a fictional planet, a gas giant in Star Wars films and books. The planet was first seen in the 1980 feature film The Empire Strikes Back. Since its introduction, Bespin has gained more specific characteristics in the Star Wars expanded universe.""" .
-sw:planet-6  sw:desc  """In The Empire Strikes Back, Bespin's floating city Cloud City hovers suspended by an anti-gravity pod.""" .
+sw:planet-6  sw:url  "http://swapi.co/api/planets/6/" .
+sw:planet-6  sw:desc  "Bespin is a fictional planet, a gas giant in Star Wars films and books. The planet was first seen in the 1980 feature film The Empire Strikes Back. Since its introduction, Bespin has gained more specific characteristics in the Star Wars expanded universe." .
+sw:planet-6  sw:desc  "In The Empire Strikes Back, Bespin's floating city Cloud City hovers suspended by an anti-gravity pod." .

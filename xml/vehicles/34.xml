@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Multi-Troop Transport</name>
    <model>Multi-Troop Transport</model>
    <manufacturer>Baktoid Armor Workshop</manufacturer>

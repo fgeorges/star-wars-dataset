@@ -18,4 +18,4 @@ sw:planet-28  sw:resident  sw:people-87 .
 sw:planet-28  sw:resident  sw:people-88 .
 sw:planet-28  sw:created  "2014-12-15T12:25:59.569000Z"^^xs:dateTime .
 sw:planet-28  sw:edited  "2014-12-20T20:58:18.466000Z"^^xs:dateTime .
-sw:planet-28  sw:url  """http://swapi.co/api/planets/28/""" .
+sw:planet-28  sw:url  "http://swapi.co/api/planets/28/" .

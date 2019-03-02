@@ -3,15 +3,15 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-26  a  sw:Planet .
-sw:planet-26  rdfs:label  """Bestine IV""" .
+sw:planet-26  rdfs:label  "Bestine IV" .
 sw:planet-26  sw:rotation_period  26 .
 sw:planet-26  sw:orbital_period  680 .
 sw:planet-26  sw:diameter  6400 .
-sw:planet-26  sw:climate  """temperate""" .
-sw:planet-26  sw:terrain  """rocky islands, oceans""" .
-sw:planet-26  sw:surface_water  """98""" .
-sw:planet-26  sw:population  """62000000""" .
+sw:planet-26  sw:climate  "temperate" .
+sw:planet-26  sw:terrain  "rocky islands, oceans" .
+sw:planet-26  sw:surface_water  "98" .
+sw:planet-26  sw:population  "62000000" .
 sw:planet-26  sw:resident  sw:people-19 .
 sw:planet-26  sw:created  "2014-12-12T11:16:55.078000Z"^^xs:dateTime .
 sw:planet-26  sw:edited  "2014-12-20T20:58:18.463000Z"^^xs:dateTime .
-sw:planet-26  sw:url  """http://swapi.co/api/planets/26/""" .
+sw:planet-26  sw:url  "http://swapi.co/api/planets/26/" .

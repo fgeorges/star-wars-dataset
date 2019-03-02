@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Y-wing</name>
    <model>BTL Y-wing</model>
    <manufacturer>Koensayr Manufacturing</manufacturer>

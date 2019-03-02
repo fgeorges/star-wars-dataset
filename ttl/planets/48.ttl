@@ -3,8 +3,8 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-48  a  sw:Planet .
-sw:planet-48  rdfs:label  """Quermia""" .
+sw:planet-48  rdfs:label  "Quermia" .
 sw:planet-48  sw:resident  sw:people-57 .
 sw:planet-48  sw:created  "2014-12-20T10:34:08.249000Z"^^xs:dateTime .
 sw:planet-48  sw:edited  "2014-12-20T20:58:18.502000Z"^^xs:dateTime .
-sw:planet-48  sw:url  """http://swapi.co/api/planets/48/""" .
+sw:planet-48  sw:url  "http://swapi.co/api/planets/48/" .

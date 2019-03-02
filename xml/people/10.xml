@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Obi-Wan Kenobi</name>
    <height>182</height>
    <mass>77</mass>

@@ -3,18 +3,18 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-71  a  sw:Vehicle .
-sw:vehicle-71  rdfs:label  """Clone turbo tank""" .
-sw:vehicle-71  sw:model  """HAVw A6 Juggernaut""" .
-sw:vehicle-71  sw:manufacturer  """Kuat Drive Yards""" .
+sw:vehicle-71  rdfs:label  "Clone turbo tank" .
+sw:vehicle-71  sw:model  "HAVw A6 Juggernaut" .
+sw:vehicle-71  sw:manufacturer  "Kuat Drive Yards" .
 sw:vehicle-71  sw:cost_in_credits  350000 .
 sw:vehicle-71  sw:length  49.4 .
 sw:vehicle-71  sw:max_atmosphering_speed  160 .
 sw:vehicle-71  sw:crew  20 .
 sw:vehicle-71  sw:passengers  300 .
 sw:vehicle-71  sw:cargo_capacity  30000 .
-sw:vehicle-71  sw:consumables  """20 days""" .
-sw:vehicle-71  sw:vehicle_class  """wheeled walker""" .
+sw:vehicle-71  sw:consumables  "20 days" .
+sw:vehicle-71  sw:vehicle_class  "wheeled walker" .
 sw:vehicle-71  sw:flim  sw:flim-6 .
 sw:vehicle-71  sw:created  "2014-12-20T20:24:45.587000Z"^^xs:dateTime .
 sw:vehicle-71  sw:edited  "2014-12-22T18:21:16.571079Z"^^xs:dateTime .
-sw:vehicle-71  sw:url  """http://swapi.co/api/vehicles/71/""" .
+sw:vehicle-71  sw:url  "http://swapi.co/api/vehicles/71/" .

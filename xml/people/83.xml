@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Tion Medon</name>
    <height>206</height>
    <mass>80</mass>

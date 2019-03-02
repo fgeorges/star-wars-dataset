@@ -3,15 +3,15 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-87  a  sw:People .
-sw:people-87  rdfs:label  """BB8""" .
-sw:people-87  sw:hair_color  """none""" .
-sw:people-87  sw:skin_color  """none""" .
-sw:people-87  sw:eye_color  """black""" .
-sw:people-87  sw:gender  """none""" .
+sw:people-87  rdfs:label  "BB8" .
+sw:people-87  sw:hair_color  "none" .
+sw:people-87  sw:skin_color  "none" .
+sw:people-87  sw:eye_color  "black" .
+sw:people-87  sw:gender  "none" .
 sw:people-87  sw:homeworld  sw:planet-28 .
 sw:people-87  sw:flim  sw:flim-7 .
 sw:people-87  sw:species  sw:species-2 .
 sw:people-87  sw:created  "2015-04-17T06:57:38.061346Z"^^xs:dateTime .
 sw:people-87  sw:edited  "2015-04-17T06:57:38.061453Z"^^xs:dateTime .
-sw:people-87  sw:url  """http://swapi.co/api/people/87/""" .
-sw:people-87  sw:desc  """BB-8 (or Beebee-Ate) is a droid character in the Star Wars franchise, first appearing in the 2015 film Star Wars: The Force Awakens. Spherical with a free-moving domed head, BB-8 is portrayed by both a rod puppet and a remote-controlled robotic unit.""" .
+sw:people-87  sw:url  "http://swapi.co/api/people/87/" .
+sw:people-87  sw:desc  "BB-8 (or Beebee-Ate) is a droid character in the Star Wars franchise, first appearing in the 2015 film Star Wars: The Force Awakens. Spherical with a free-moving domed head, BB-8 is portrayed by both a rod puppet and a remote-controlled robotic unit." .

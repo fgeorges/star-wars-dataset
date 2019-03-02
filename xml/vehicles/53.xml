@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>AT-TE</name>
    <model>All Terrain Tactical Enforcer</model>
    <manufacturer>Rothana Heavy Engineering, Kuat Drive Yards</manufacturer>

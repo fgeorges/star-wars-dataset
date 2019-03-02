@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <name>Umbara</name>
    <residents>http://swapi.co/api/people/82/</residents>
    <created>2014-12-20T20:18:36.256000Z</created>

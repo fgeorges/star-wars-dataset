@@ -1,4 +1,4 @@
-<species>
+<species xmlns="http://h2o.consulting/ns/star-wars">
    <name>Gungan</name>
    <classification>amphibian</classification>
    <designation>sentient</designation>

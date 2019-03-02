@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>TIE Advanced x1</name>
    <model>Twin Ion Engine Advanced x1</model>
    <manufacturer>Sienar Fleet Systems</manufacturer>

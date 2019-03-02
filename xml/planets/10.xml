@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <name>Kamino</name>
    <rotation_period>27</rotation_period>
    <orbital_period>463</orbital_period>

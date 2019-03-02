@@ -3,16 +3,16 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-15  a  sw:Planet .
-sw:planet-15  rdfs:label  """Polis Massa""" .
+sw:planet-15  rdfs:label  "Polis Massa" .
 sw:planet-15  sw:rotation_period  24 .
 sw:planet-15  sw:orbital_period  590 .
 sw:planet-15  sw:diameter  0 .
-sw:planet-15  sw:climate  """artificial temperate """ .
-sw:planet-15  sw:gravity  """0.56 standard""" .
-sw:planet-15  sw:terrain  """airless asteroid""" .
-sw:planet-15  sw:surface_water  """0""" .
-sw:planet-15  sw:population  """1000000""" .
+sw:planet-15  sw:climate  "artificial temperate " .
+sw:planet-15  sw:gravity  "0.56 standard" .
+sw:planet-15  sw:terrain  "airless asteroid" .
+sw:planet-15  sw:surface_water  "0" .
+sw:planet-15  sw:population  "1000000" .
 sw:planet-15  sw:flim  sw:flim-6 .
 sw:planet-15  sw:created  "2014-12-10T13:33:46.405000Z"^^xs:dateTime .
 sw:planet-15  sw:edited  "2014-12-20T20:58:18.444000Z"^^xs:dateTime .
-sw:planet-15  sw:url  """http://swapi.co/api/planets/15/""" .
+sw:planet-15  sw:url  "http://swapi.co/api/planets/15/" .

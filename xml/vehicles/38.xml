@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Tribubble bongo</name>
    <model>Tribubble bongo</model>
    <manufacturer>Otoh Gunga Bongameken Cooperative</manufacturer>

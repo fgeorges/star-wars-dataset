@@ -3,17 +3,17 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-50  a  sw:Vehicle .
-sw:vehicle-50  rdfs:label  """LAAT/i""" .
-sw:vehicle-50  sw:model  """Low Altitude Assault Transport/infrantry""" .
-sw:vehicle-50  sw:manufacturer  """Rothana Heavy Engineering""" .
+sw:vehicle-50  rdfs:label  "LAAT/i" .
+sw:vehicle-50  sw:model  "Low Altitude Assault Transport/infrantry" .
+sw:vehicle-50  sw:manufacturer  "Rothana Heavy Engineering" .
 sw:vehicle-50  sw:length  17.4 .
 sw:vehicle-50  sw:max_atmosphering_speed  620 .
 sw:vehicle-50  sw:crew  6 .
 sw:vehicle-50  sw:passengers  30 .
 sw:vehicle-50  sw:cargo_capacity  170 .
-sw:vehicle-50  sw:vehicle_class  """gunship""" .
+sw:vehicle-50  sw:vehicle_class  "gunship" .
 sw:vehicle-50  sw:flim  sw:flim-5 .
 sw:vehicle-50  sw:flim  sw:flim-6 .
 sw:vehicle-50  sw:created  "2014-12-20T18:01:21.014000Z"^^xs:dateTime .
 sw:vehicle-50  sw:edited  "2014-12-22T18:21:16.181363Z"^^xs:dateTime .
-sw:vehicle-50  sw:url  """http://swapi.co/api/vehicles/50/""" .
+sw:vehicle-50  sw:url  "http://swapi.co/api/vehicles/50/" .

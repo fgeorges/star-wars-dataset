@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <name>Quermia</name>
    <residents>http://swapi.co/api/people/57/</residents>
    <created>2014-12-20T10:34:08.249000Z</created>

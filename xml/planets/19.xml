@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <name>Saleucami</name>
    <rotation_period>26</rotation_period>
    <orbital_period>392</orbital_period>

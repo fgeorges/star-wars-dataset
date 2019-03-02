@@ -1,4 +1,4 @@
-<film>
+<film xmlns="http://h2o.consulting/ns/star-wars">
    <title>Revenge of the Sith</title>
    <episode_id>3</episode_id>
    <opening_crawl>War! The Republic is crumbling

@@ -3,22 +3,22 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:starship-2  a  sw:Starship .
-sw:starship-2  rdfs:label  """CR90 corvette""" .
-sw:starship-2  sw:model  """CR90 corvette""" .
-sw:starship-2  sw:manufacturer  """Corellian Engineering Corporation""" .
+sw:starship-2  rdfs:label  "CR90 corvette" .
+sw:starship-2  sw:model  "CR90 corvette" .
+sw:starship-2  sw:manufacturer  "Corellian Engineering Corporation" .
 sw:starship-2  sw:cost_in_credits  3500000 .
 sw:starship-2  sw:length  150 .
 sw:starship-2  sw:max_atmosphering_speed  950 .
 sw:starship-2  sw:crew  165 .
 sw:starship-2  sw:passengers  600 .
 sw:starship-2  sw:cargo_capacity  3000000 .
-sw:starship-2  sw:consumables  """1 year""" .
+sw:starship-2  sw:consumables  "1 year" .
 sw:starship-2  sw:hyperdrive_rating  2.0 .
-sw:starship-2  sw:MGLT  """60""" .
-sw:starship-2  sw:starship_class  """corvette""" .
+sw:starship-2  sw:MGLT  "60" .
+sw:starship-2  sw:starship_class  "corvette" .
 sw:starship-2  sw:flim  sw:flim-6 .
 sw:starship-2  sw:flim  sw:flim-3 .
 sw:starship-2  sw:flim  sw:flim-1 .
 sw:starship-2  sw:created  "2014-12-10T14:20:33.369000Z"^^xs:dateTime .
 sw:starship-2  sw:edited  "2014-12-22T17:35:45.408368Z"^^xs:dateTime .
-sw:starship-2  sw:url  """http://swapi.co/api/starships/2/""" .
+sw:starship-2  sw:url  "http://swapi.co/api/starships/2/" .

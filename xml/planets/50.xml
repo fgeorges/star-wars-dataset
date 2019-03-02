@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <name>Champala</name>
    <rotation_period>27</rotation_period>
    <orbital_period>318</orbital_period>

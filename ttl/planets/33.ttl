@@ -3,16 +3,16 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-33  a  sw:Planet .
-sw:planet-33  rdfs:label  """Sullust""" .
+sw:planet-33  rdfs:label  "Sullust" .
 sw:planet-33  sw:rotation_period  20 .
 sw:planet-33  sw:orbital_period  263 .
 sw:planet-33  sw:diameter  12780 .
-sw:planet-33  sw:climate  """superheated""" .
-sw:planet-33  sw:gravity  """1""" .
-sw:planet-33  sw:terrain  """mountains, volcanoes, rocky deserts""" .
-sw:planet-33  sw:surface_water  """5""" .
-sw:planet-33  sw:population  """18500000000""" .
+sw:planet-33  sw:climate  "superheated" .
+sw:planet-33  sw:gravity  "1" .
+sw:planet-33  sw:terrain  "mountains, volcanoes, rocky deserts" .
+sw:planet-33  sw:surface_water  "5" .
+sw:planet-33  sw:population  "18500000000" .
 sw:planet-33  sw:resident  sw:people-31 .
 sw:planet-33  sw:created  "2014-12-18T11:25:40.243000Z"^^xs:dateTime .
 sw:planet-33  sw:edited  "2014-12-20T20:58:18.474000Z"^^xs:dateTime .
-sw:planet-33  sw:url  """http://swapi.co/api/planets/33/""" .
+sw:planet-33  sw:url  "http://swapi.co/api/planets/33/" .

@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Grievous</name>
    <height>216</height>
    <mass>159</mass>

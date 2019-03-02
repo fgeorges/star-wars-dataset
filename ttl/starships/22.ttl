@@ -3,19 +3,19 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:starship-22  a  sw:Starship .
-sw:starship-22  rdfs:label  """Imperial shuttle""" .
-sw:starship-22  sw:model  """Lambda-class T-4a shuttle""" .
-sw:starship-22  sw:manufacturer  """Sienar Fleet Systems""" .
+sw:starship-22  rdfs:label  "Imperial shuttle" .
+sw:starship-22  sw:model  "Lambda-class T-4a shuttle" .
+sw:starship-22  sw:manufacturer  "Sienar Fleet Systems" .
 sw:starship-22  sw:cost_in_credits  240000 .
 sw:starship-22  sw:length  20 .
 sw:starship-22  sw:max_atmosphering_speed  850 .
 sw:starship-22  sw:crew  6 .
 sw:starship-22  sw:passengers  20 .
 sw:starship-22  sw:cargo_capacity  80000 .
-sw:starship-22  sw:consumables  """2 months""" .
+sw:starship-22  sw:consumables  "2 months" .
 sw:starship-22  sw:hyperdrive_rating  1.0 .
-sw:starship-22  sw:MGLT  """50""" .
-sw:starship-22  sw:starship_class  """Armed government transport""" .
+sw:starship-22  sw:MGLT  "50" .
+sw:starship-22  sw:starship_class  "Armed government transport" .
 sw:starship-22  sw:pilot  sw:people-1 .
 sw:starship-22  sw:pilot  sw:people-13 .
 sw:starship-22  sw:pilot  sw:people-14 .
@@ -23,4 +23,4 @@ sw:starship-22  sw:flim  sw:flim-3 .
 sw:starship-22  sw:flim  sw:flim-2 .
 sw:starship-22  sw:created  "2014-12-15T13:04:47.235000Z"^^xs:dateTime .
 sw:starship-22  sw:edited  "2014-12-22T17:35:44.795405Z"^^xs:dateTime .
-sw:starship-22  sw:url  """http://swapi.co/api/starships/22/""" .
+sw:starship-22  sw:url  "http://swapi.co/api/starships/22/" .

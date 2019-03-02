@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Mace Windu</name>
    <height>188</height>
    <mass>84</mass>

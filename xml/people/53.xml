@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Kit Fisto</name>
    <height>196</height>
    <mass>87</mass>

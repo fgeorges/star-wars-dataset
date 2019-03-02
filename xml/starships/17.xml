@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Rebel transport</name>
    <model>GR-75 medium transport</model>
    <manufacturer>Gallofree Yards, Inc.</manufacturer>

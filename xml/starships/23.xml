@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>EF76 Nebulon-B escort frigate</name>
    <model>EF76 Nebulon-B escort frigate</model>
    <manufacturer>Kuat Drive Yards</manufacturer>

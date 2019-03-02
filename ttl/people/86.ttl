@@ -3,16 +3,16 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-86  a  sw:People .
-sw:people-86  rdfs:label  """Poe Dameron""" .
-sw:people-86  sw:hair_color  """brown""" .
-sw:people-86  sw:skin_color  """light""" .
-sw:people-86  sw:eye_color  """brown""" .
-sw:people-86  sw:gender  """male""" .
+sw:people-86  rdfs:label  "Poe Dameron" .
+sw:people-86  sw:hair_color  "brown" .
+sw:people-86  sw:skin_color  "light" .
+sw:people-86  sw:eye_color  "brown" .
+sw:people-86  sw:gender  "male" .
 sw:people-86  sw:homeworld  sw:planet-28 .
 sw:people-86  sw:flim  sw:flim-7 .
 sw:people-86  sw:species  sw:species-1 .
 sw:people-86  sw:starship  sw:starship-77 .
 sw:people-86  sw:created  "2015-04-17T06:55:21.622786Z"^^xs:dateTime .
 sw:people-86  sw:edited  "2015-04-17T06:55:21.622835Z"^^xs:dateTime .
-sw:people-86  sw:url  """http://swapi.co/api/people/86/""" .
-sw:people-86  sw:desc  """Poe Dameron is a fictional character in the Star Wars franchise. Introduced in the 2015 film Star Wars: The Force Awakens, he is portrayed by Oscar Isaac. Poe is an X-wing fighter pilot for the Resistance who inadvertently brings renegade stormtrooper Finn (John Boyega) and Jakku scavenger Rey (Daisy Ridley) into the fight against—and eventually a victory over—the sinister First Order. He is featured in The Force Awakens media and merchandising as well as an eponymous comic book series, and will appear in the film's forthcoming sequel, Star Wars: The Last Jedi. Isaac and the character have received positive reviews, with Poe being compared to the characterization of Han Solo (Harrison Ford) in the original Star Wars film trilogy.""" .
+sw:people-86  sw:url  "http://swapi.co/api/people/86/" .
+sw:people-86  sw:desc  "Poe Dameron is a fictional character in the Star Wars franchise. Introduced in the 2015 film Star Wars: The Force Awakens, he is portrayed by Oscar Isaac. Poe is an X-wing fighter pilot for the Resistance who inadvertently brings renegade stormtrooper Finn (John Boyega) and Jakku scavenger Rey (Daisy Ridley) into the fight against—and eventually a victory over—the sinister First Order. He is featured in The Force Awakens media and merchandising as well as an eponymous comic book series, and will appear in the film's forthcoming sequel, Star Wars: The Last Jedi. Isaac and the character have received positive reviews, with Poe being compared to the characterization of Han Solo (Harrison Ford) in the original Star Wars film trilogy." .

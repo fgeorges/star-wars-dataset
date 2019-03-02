@@ -3,14 +3,14 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-7  a  sw:People .
-sw:people-7  rdfs:label  """Beru Whitesun lars""" .
-sw:people-7  sw:height  """165""" .
-sw:people-7  sw:mass  """75""" .
-sw:people-7  sw:hair_color  """brown""" .
-sw:people-7  sw:skin_color  """light""" .
-sw:people-7  sw:eye_color  """blue""" .
-sw:people-7  sw:birth_year  """47BBY""" .
-sw:people-7  sw:gender  """female""" .
+sw:people-7  rdfs:label  "Beru Whitesun lars" .
+sw:people-7  sw:height  "165" .
+sw:people-7  sw:mass  "75" .
+sw:people-7  sw:hair_color  "brown" .
+sw:people-7  sw:skin_color  "light" .
+sw:people-7  sw:eye_color  "blue" .
+sw:people-7  sw:birth_year  "47BBY" .
+sw:people-7  sw:gender  "female" .
 sw:people-7  sw:homeworld  sw:planet-1 .
 sw:people-7  sw:flim  sw:flim-5 .
 sw:people-7  sw:flim  sw:flim-6 .
@@ -18,4 +18,4 @@ sw:people-7  sw:flim  sw:flim-1 .
 sw:people-7  sw:species  sw:species-1 .
 sw:people-7  sw:created  "2014-12-10T15:53:41.121000Z"^^xs:dateTime .
 sw:people-7  sw:edited  "2014-12-20T21:17:50.319000Z"^^xs:dateTime .
-sw:people-7  sw:url  """http://swapi.co/api/people/7/""" .
+sw:people-7  sw:url  "http://swapi.co/api/people/7/" .

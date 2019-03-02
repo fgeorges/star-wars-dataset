@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>B-wing</name>
    <model>A/SF-01 B-wing starfighter</model>
    <manufacturer>Slayn &amp; Korpil</manufacturer>

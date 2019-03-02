@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>X-34 landspeeder</name>
    <model>X-34 landspeeder</model>
    <manufacturer>SoroSuub Corporation</manufacturer>

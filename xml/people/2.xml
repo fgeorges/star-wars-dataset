@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>C-3PO</name>
    <height>167</height>
    <mass>75</mass>

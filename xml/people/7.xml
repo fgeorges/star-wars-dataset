@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Beru Whitesun lars</name>
    <height>165</height>
    <mass>75</mass>

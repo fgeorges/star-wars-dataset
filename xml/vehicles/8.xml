@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>TIE/LN starfighter</name>
    <model>Twin Ion Engine/Ln Starfighter</model>
    <manufacturer>Sienar Fleet Systems</manufacturer>

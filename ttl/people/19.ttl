@@ -3,17 +3,17 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-19  a  sw:People .
-sw:people-19  rdfs:label  """Jek Tono Porkins""" .
-sw:people-19  sw:height  """180""" .
-sw:people-19  sw:mass  """110""" .
-sw:people-19  sw:hair_color  """brown""" .
-sw:people-19  sw:skin_color  """fair""" .
-sw:people-19  sw:eye_color  """blue""" .
-sw:people-19  sw:gender  """male""" .
+sw:people-19  rdfs:label  "Jek Tono Porkins" .
+sw:people-19  sw:height  "180" .
+sw:people-19  sw:mass  "110" .
+sw:people-19  sw:hair_color  "brown" .
+sw:people-19  sw:skin_color  "fair" .
+sw:people-19  sw:eye_color  "blue" .
+sw:people-19  sw:gender  "male" .
 sw:people-19  sw:homeworld  sw:planet-26 .
 sw:people-19  sw:flim  sw:flim-1 .
 sw:people-19  sw:species  sw:species-1 .
 sw:people-19  sw:starship  sw:starship-12 .
 sw:people-19  sw:created  "2014-12-12T11:16:56.569000Z"^^xs:dateTime .
 sw:people-19  sw:edited  "2014-12-20T21:17:50.343000Z"^^xs:dateTime .
-sw:people-19  sw:url  """http://swapi.co/api/people/19/""" .
+sw:people-19  sw:url  "http://swapi.co/api/people/19/" .

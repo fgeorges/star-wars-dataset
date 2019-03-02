@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Saesee Tiin</name>
    <height>188</height>
    <hair_color>none</hair_color>

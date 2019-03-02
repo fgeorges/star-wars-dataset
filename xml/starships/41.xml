@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Scimitar</name>
    <model>Star Courier</model>
    <manufacturer>Republic Sienar Systems</manufacturer>

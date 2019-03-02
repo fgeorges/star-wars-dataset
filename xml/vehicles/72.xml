@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Corporate Alliance tank droid</name>
    <model>NR-N99 Persuader-class droid enforcer</model>
    <manufacturer>Techno Union</manufacturer>

@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Adi Gallia</name>
    <height>184</height>
    <mass>50</mass>

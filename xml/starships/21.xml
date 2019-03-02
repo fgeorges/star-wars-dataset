@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Slave 1</name>
    <model>Firespray-31-class patrol and attack</model>
    <manufacturer>Kuat Systems Engineering</manufacturer>

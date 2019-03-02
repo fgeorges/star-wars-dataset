@@ -1,4 +1,4 @@
-<planet>
+<planet xmlns="http://h2o.consulting/ns/star-wars">
    <name>Aleen Minor</name>
    <residents>http://swapi.co/api/people/47/</residents>
    <created>2014-12-20T09:52:23.452000Z</created>

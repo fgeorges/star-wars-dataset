@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Bail Prestor Organa</name>
    <height>191</height>
    <hair_color>black</hair_color>

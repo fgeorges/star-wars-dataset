@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Flitknot speeder</name>
    <model>Flitknot speeder</model>
    <manufacturer>Huppla Pasa Tisc Shipwrights Collective</manufacturer>

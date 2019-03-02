@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Millennium Falcon</name>
    <model>YT-1300 light freighter</model>
    <manufacturer>Corellian Engineering Corporation</manufacturer>

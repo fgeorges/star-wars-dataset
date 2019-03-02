@@ -3,16 +3,16 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-13  a  sw:Planet .
-sw:planet-13  rdfs:label  """Mustafar""" .
+sw:planet-13  rdfs:label  "Mustafar" .
 sw:planet-13  sw:rotation_period  36 .
 sw:planet-13  sw:orbital_period  412 .
 sw:planet-13  sw:diameter  4200 .
-sw:planet-13  sw:climate  """hot""" .
-sw:planet-13  sw:gravity  """1 standard""" .
-sw:planet-13  sw:terrain  """volcanoes, lava rivers, mountains, caves""" .
-sw:planet-13  sw:surface_water  """0""" .
-sw:planet-13  sw:population  """20000""" .
+sw:planet-13  sw:climate  "hot" .
+sw:planet-13  sw:gravity  "1 standard" .
+sw:planet-13  sw:terrain  "volcanoes, lava rivers, mountains, caves" .
+sw:planet-13  sw:surface_water  "0" .
+sw:planet-13  sw:population  "20000" .
 sw:planet-13  sw:flim  sw:flim-6 .
 sw:planet-13  sw:created  "2014-12-10T12:50:16.526000Z"^^xs:dateTime .
 sw:planet-13  sw:edited  "2014-12-20T20:58:18.440000Z"^^xs:dateTime .
-sw:planet-13  sw:url  """http://swapi.co/api/planets/13/""" .
+sw:planet-13  sw:url  "http://swapi.co/api/planets/13/" .

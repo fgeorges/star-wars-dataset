@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Tsmeu-6 personal wheel bike</name>
    <model>Tsmeu-6 personal wheel bike</model>
    <manufacturer>Z-Gomot Ternbuell Guppat Corporation</manufacturer>

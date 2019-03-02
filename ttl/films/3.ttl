@@ -3,7 +3,7 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:film-3  a  sw:Film .
-sw:film-3  rdfs:label  """Return of the Jedi""" .
+sw:film-3  rdfs:label  "Return of the Jedi" .
 sw:film-3  sw:episode_id  6 .
 sw:film-3  sw:opening_crawl  """Luke Skywalker has returned to
 his home planet of Tatooine in
@@ -24,8 +24,8 @@ weapon will spell certain doom
 for the small band of rebels
 struggling to restore freedom
 to the galaxy...""" .
-sw:film-3  sw:director  """Richard Marquand""" .
-sw:film-3  sw:producer  """Howard G. Kazanjian, George Lucas, Rick McCallum""" .
+sw:film-3  sw:director  "Richard Marquand" .
+sw:film-3  sw:producer  "Howard G. Kazanjian, George Lucas, Rick McCallum" .
 sw:film-3  sw:release_date  "1983-05-25"^^xs:date .
 sw:film-3  sw:character  sw:people-1 .
 sw:film-3  sw:character  sw:people-2 .
@@ -83,9 +83,9 @@ sw:film-3  sw:species  sw:species-2 .
 sw:film-3  sw:species  sw:species-1 .
 sw:film-3  sw:created  "2014-12-18T10:39:33.255000Z"^^xs:dateTime .
 sw:film-3  sw:edited  "2015-04-11T09:46:05.220365Z"^^xs:dateTime .
-sw:film-3  sw:url  """http://swapi.co/api/films/3/""" .
-sw:film-3  sw:desc  """Return of the Jedi (also known as Star Wars: Episode VI – Return of the Jedi) is a 1983 American epic space opera film directed by Richard Marquand. The screenplay by Lawrence Kasdan and George Lucas was from a story by Lucas, who was also the executive producer. It is the third installment in the original Star Wars trilogy and the first film to use THX technology. The film is set one year after The Empire Strikes Back[9] and was produced by Howard Kazanjian for Lucasfilm Ltd. The film stars Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse, Kenny Baker, Peter Mayhew and Frank Oz.""" .
-sw:film-3  sw:desc  """The Galactic Empire, under the direction of the ruthless Emperor, is constructing a second Death Star in order to crush the Rebel Alliance once and for all. Since the Emperor plans to personally oversee the final stages of its construction, the Rebel Fleet launches a full-scale attack on the Death Star in order to prevent its completion and kill the Emperor, effectively bringing an end to the Empire's hold over the galaxy. Meanwhile, Luke Skywalker, a Jedi apprentice, struggles to bring his father Darth Vader back to the Light Side of the Force.""" .
-sw:film-3  sw:desc  """David Lynch and David Cronenberg were considered to direct the project before Marquand signed on as director. The production team relied on Lucas' storyboards during pre-production. While writing the shooting script, Lucas, Kasdan, Marquand, and producer Howard Kazanjian spent two weeks in conference discussing ideas to construct it. Kazanjian's schedule pushed shooting to begin a few weeks early to allow Industrial Light & Magic more time to work on the film's effects in post-production. Filming took place in England, California, and Arizona from January to May 1982 (1982-05). Strict secrecy surrounded the production and the film used the working title Blue Harvest to prevent price gouging.""" .
-sw:film-3  sw:desc  """The film was released in theaters on May 25, 1983, six years to the day after the release of the first film, receiving mostly positive reviews. The film grossed between $475 million[6][7] and $572 million worldwide.[8] Several home video and theatrical releases and revisions to the film followed over the next 20 years. Star Wars continued with The Phantom Menace as part of the film series' prequel trilogy.""" .
-sw:film-3  sw:desc  """A sequel, The Force Awakens, was released on December 18, 2015, as part of the new sequel trilogy.[10]""" .
+sw:film-3  sw:url  "http://swapi.co/api/films/3/" .
+sw:film-3  sw:desc  "Return of the Jedi (also known as Star Wars: Episode VI – Return of the Jedi) is a 1983 American epic space opera film directed by Richard Marquand. The screenplay by Lawrence Kasdan and George Lucas was from a story by Lucas, who was also the executive producer. It is the third installment in the original Star Wars trilogy and the first film to use THX technology. The film is set one year after The Empire Strikes Back[9] and was produced by Howard Kazanjian for Lucasfilm Ltd. The film stars Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse, Kenny Baker, Peter Mayhew and Frank Oz." .
+sw:film-3  sw:desc  "The Galactic Empire, under the direction of the ruthless Emperor, is constructing a second Death Star in order to crush the Rebel Alliance once and for all. Since the Emperor plans to personally oversee the final stages of its construction, the Rebel Fleet launches a full-scale attack on the Death Star in order to prevent its completion and kill the Emperor, effectively bringing an end to the Empire's hold over the galaxy. Meanwhile, Luke Skywalker, a Jedi apprentice, struggles to bring his father Darth Vader back to the Light Side of the Force." .
+sw:film-3  sw:desc  "David Lynch and David Cronenberg were considered to direct the project before Marquand signed on as director. The production team relied on Lucas' storyboards during pre-production. While writing the shooting script, Lucas, Kasdan, Marquand, and producer Howard Kazanjian spent two weeks in conference discussing ideas to construct it. Kazanjian's schedule pushed shooting to begin a few weeks early to allow Industrial Light & Magic more time to work on the film's effects in post-production. Filming took place in England, California, and Arizona from January to May 1982 (1982-05). Strict secrecy surrounded the production and the film used the working title Blue Harvest to prevent price gouging." .
+sw:film-3  sw:desc  "The film was released in theaters on May 25, 1983, six years to the day after the release of the first film, receiving mostly positive reviews. The film grossed between $475 million[6][7] and $572 million worldwide.[8] Several home video and theatrical releases and revisions to the film followed over the next 20 years. Star Wars continued with The Phantom Menace as part of the film series' prequel trilogy." .
+sw:film-3  sw:desc  "A sequel, The Force Awakens, was released on December 18, 2015, as part of the new sequel trilogy.[10]" .

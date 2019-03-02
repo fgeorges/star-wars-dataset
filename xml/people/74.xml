@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Jocasta Nu</name>
    <height>167</height>
    <hair_color>white</hair_color>

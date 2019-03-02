@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Lando Calrissian</name>
    <height>177</height>
    <mass>79</mass>

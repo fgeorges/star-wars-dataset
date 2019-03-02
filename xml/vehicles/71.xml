@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Clone turbo tank</name>
    <model>HAVw A6 Juggernaut</model>
    <manufacturer>Kuat Drive Yards</manufacturer>

@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>J-type diplomatic barge</name>
    <model>J-type diplomatic barge</model>
    <manufacturer>Theed Palace Space Vessel Engineering Corps, Nubia Star Drives</manufacturer>

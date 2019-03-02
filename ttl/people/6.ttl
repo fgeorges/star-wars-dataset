@@ -3,14 +3,14 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-6  a  sw:People .
-sw:people-6  rdfs:label  """Owen Lars""" .
-sw:people-6  sw:height  """178""" .
-sw:people-6  sw:mass  """120""" .
-sw:people-6  sw:hair_color  """brown, grey""" .
-sw:people-6  sw:skin_color  """light""" .
-sw:people-6  sw:eye_color  """blue""" .
-sw:people-6  sw:birth_year  """52BBY""" .
-sw:people-6  sw:gender  """male""" .
+sw:people-6  rdfs:label  "Owen Lars" .
+sw:people-6  sw:height  "178" .
+sw:people-6  sw:mass  "120" .
+sw:people-6  sw:hair_color  "brown, grey" .
+sw:people-6  sw:skin_color  "light" .
+sw:people-6  sw:eye_color  "blue" .
+sw:people-6  sw:birth_year  "52BBY" .
+sw:people-6  sw:gender  "male" .
 sw:people-6  sw:homeworld  sw:planet-1 .
 sw:people-6  sw:flim  sw:flim-5 .
 sw:people-6  sw:flim  sw:flim-6 .
@@ -18,4 +18,4 @@ sw:people-6  sw:flim  sw:flim-1 .
 sw:people-6  sw:species  sw:species-1 .
 sw:people-6  sw:created  "2014-12-10T15:52:14.024000Z"^^xs:dateTime .
 sw:people-6  sw:edited  "2014-12-20T21:17:50.317000Z"^^xs:dateTime .
-sw:people-6  sw:url  """http://swapi.co/api/people/6/""" .
+sw:people-6  sw:url  "http://swapi.co/api/people/6/" .

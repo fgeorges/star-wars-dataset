@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Sith speeder</name>
    <model>FC-20 speeder bike</model>
    <manufacturer>Razalon</manufacturer>

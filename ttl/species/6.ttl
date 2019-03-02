@@ -3,16 +3,16 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:species-6  a  sw:Species .
-sw:species-6  rdfs:label  """Yoda's species""" .
-sw:species-6  sw:classification  """mammal""" .
-sw:species-6  sw:designation  """sentient""" .
+sw:species-6  rdfs:label  "Yoda's species" .
+sw:species-6  sw:classification  "mammal" .
+sw:species-6  sw:designation  "sentient" .
 sw:species-6  sw:average_height  66 .
-sw:species-6  sw:skin_colors  """green, yellow""" .
-sw:species-6  sw:hair_colors  """brown, white""" .
-sw:species-6  sw:eye_colors  """brown, green, yellow""" .
+sw:species-6  sw:skin_colors  "green, yellow" .
+sw:species-6  sw:hair_colors  "brown, white" .
+sw:species-6  sw:eye_colors  "brown, green, yellow" .
 sw:species-6  sw:average_lifespan  900 .
 sw:species-6  sw:homeworld  sw:planet-28 .
-sw:species-6  sw:language  """Galactic basic""" .
+sw:species-6  sw:language  "Galactic basic" .
 sw:species-6  sw:people  sw:people-20 .
 sw:species-6  sw:flim  sw:flim-5 .
 sw:species-6  sw:flim  sw:flim-4 .
@@ -21,4 +21,4 @@ sw:species-6  sw:flim  sw:flim-3 .
 sw:species-6  sw:flim  sw:flim-2 .
 sw:species-6  sw:created  "2014-12-15T12:27:22.877000Z"^^xs:dateTime .
 sw:species-6  sw:edited  "2014-12-20T21:36:42.148000Z"^^xs:dateTime .
-sw:species-6  sw:url  """http://swapi.co/api/species/6/""" .
+sw:species-6  sw:url  "http://swapi.co/api/species/6/" .

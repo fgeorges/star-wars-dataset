@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Dooku</name>
    <height>193</height>
    <mass>80</mass>

@@ -3,18 +3,18 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-72  a  sw:Vehicle .
-sw:vehicle-72  rdfs:label  """Corporate Alliance tank droid""" .
-sw:vehicle-72  sw:model  """NR-N99 Persuader-class droid enforcer""" .
-sw:vehicle-72  sw:manufacturer  """Techno Union""" .
+sw:vehicle-72  rdfs:label  "Corporate Alliance tank droid" .
+sw:vehicle-72  sw:model  "NR-N99 Persuader-class droid enforcer" .
+sw:vehicle-72  sw:manufacturer  "Techno Union" .
 sw:vehicle-72  sw:cost_in_credits  49000 .
 sw:vehicle-72  sw:length  10.96 .
 sw:vehicle-72  sw:max_atmosphering_speed  100 .
 sw:vehicle-72  sw:crew  0 .
 sw:vehicle-72  sw:passengers  4 .
-sw:vehicle-72  sw:cargo_capacity  """none""" .
-sw:vehicle-72  sw:consumables  """none""" .
-sw:vehicle-72  sw:vehicle_class  """droid tank""" .
+sw:vehicle-72  sw:cargo_capacity  "none" .
+sw:vehicle-72  sw:consumables  "none" .
+sw:vehicle-72  sw:vehicle_class  "droid tank" .
 sw:vehicle-72  sw:flim  sw:flim-6 .
 sw:vehicle-72  sw:created  "2014-12-20T20:26:55.522000Z"^^xs:dateTime .
 sw:vehicle-72  sw:edited  "2014-12-22T18:21:16.612902Z"^^xs:dateTime .
-sw:vehicle-72  sw:url  """http://swapi.co/api/vehicles/72/""" .
+sw:vehicle-72  sw:url  "http://swapi.co/api/vehicles/72/" .

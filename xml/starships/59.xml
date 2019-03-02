@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Trade Federation cruiser</name>
    <model>Providence-class carrier/destroyer</model>
    <manufacturer>Rendili StarDrive, Free Dac Volunteers Engineering corps.</manufacturer>

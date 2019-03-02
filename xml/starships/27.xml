@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Calamari Cruiser</name>
    <model>MC80 Liberty type Star Cruiser</model>
    <manufacturer>Mon Calamari shipyards</manufacturer>

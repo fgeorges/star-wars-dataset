@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Mon Mothma</name>
    <height>150</height>
    <hair_color>auburn</hair_color>

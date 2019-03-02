@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>V-wing</name>
    <model>Alpha-3 Nimbus-class V-wing starfighter</model>
    <manufacturer>Kuat Systems Engineering</manufacturer>

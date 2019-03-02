@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Death Star</name>
    <model>DS-1 Orbital Battle Station</model>
    <manufacturer>Imperial Department of Military Research, Sienar Fleet Systems</manufacturer>

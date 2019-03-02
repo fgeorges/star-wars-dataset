@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Droid gunship</name>
    <model>HMP droid gunship</model>
    <manufacturer>Baktoid Fleet Ordnance, Haor Chall Engineering</manufacturer>

@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>AT-ST</name>
    <model>All Terrain Scout Transport</model>
    <manufacturer>Kuat Drive Yards, Imperial Department of Military Research</manufacturer>

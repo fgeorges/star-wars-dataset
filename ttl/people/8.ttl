@@ -3,14 +3,14 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-8  a  sw:People .
-sw:people-8  rdfs:label  """R5-D4""" .
-sw:people-8  sw:height  """97""" .
-sw:people-8  sw:mass  """32""" .
-sw:people-8  sw:skin_color  """white, red""" .
-sw:people-8  sw:eye_color  """red""" .
+sw:people-8  rdfs:label  "R5-D4" .
+sw:people-8  sw:height  "97" .
+sw:people-8  sw:mass  "32" .
+sw:people-8  sw:skin_color  "white, red" .
+sw:people-8  sw:eye_color  "red" .
 sw:people-8  sw:homeworld  sw:planet-1 .
 sw:people-8  sw:flim  sw:flim-1 .
 sw:people-8  sw:species  sw:species-2 .
 sw:people-8  sw:created  "2014-12-10T15:57:50.959000Z"^^xs:dateTime .
 sw:people-8  sw:edited  "2014-12-20T21:17:50.321000Z"^^xs:dateTime .
-sw:people-8  sw:url  """http://swapi.co/api/people/8/""" .
+sw:people-8  sw:url  "http://swapi.co/api/people/8/" .

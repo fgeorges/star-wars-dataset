@@ -3,15 +3,15 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-59  a  sw:Planet .
-sw:planet-59  rdfs:label  """Kalee""" .
+sw:planet-59  rdfs:label  "Kalee" .
 sw:planet-59  sw:rotation_period  23 .
 sw:planet-59  sw:orbital_period  378 .
 sw:planet-59  sw:diameter  13850 .
-sw:planet-59  sw:climate  """arid, temperate, tropical""" .
-sw:planet-59  sw:gravity  """1""" .
-sw:planet-59  sw:terrain  """rainforests, cliffs, canyons, seas""" .
-sw:planet-59  sw:population  """4000000000""" .
+sw:planet-59  sw:climate  "arid, temperate, tropical" .
+sw:planet-59  sw:gravity  "1" .
+sw:planet-59  sw:terrain  "rainforests, cliffs, canyons, seas" .
+sw:planet-59  sw:population  "4000000000" .
 sw:planet-59  sw:resident  sw:people-79 .
 sw:planet-59  sw:created  "2014-12-20T19:43:51.278000Z"^^xs:dateTime .
 sw:planet-59  sw:edited  "2014-12-20T20:58:18.523000Z"^^xs:dateTime .
-sw:planet-59  sw:url  """http://swapi.co/api/planets/59/""" .
+sw:planet-59  sw:url  "http://swapi.co/api/planets/59/" .

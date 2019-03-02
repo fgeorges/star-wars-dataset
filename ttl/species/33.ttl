@@ -3,16 +3,16 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:species-33  a  sw:Species .
-sw:species-33  rdfs:label  """Skakoan""" .
-sw:species-33  sw:classification  """mammal""" .
-sw:species-33  sw:designation  """sentient""" .
-sw:species-33  sw:skin_colors  """grey, green""" .
-sw:species-33  sw:hair_colors  """none""" .
+sw:species-33  rdfs:label  "Skakoan" .
+sw:species-33  sw:classification  "mammal" .
+sw:species-33  sw:designation  "sentient" .
+sw:species-33  sw:skin_colors  "grey, green" .
+sw:species-33  sw:hair_colors  "none" .
 sw:species-33  sw:homeworld  sw:planet-56 .
-sw:species-33  sw:language  """Skakoan""" .
+sw:species-33  sw:language  "Skakoan" .
 sw:species-33  sw:people  sw:people-76 .
 sw:species-33  sw:flim  sw:flim-5 .
 sw:species-33  sw:flim  sw:flim-6 .
 sw:species-33  sw:created  "2014-12-20T17:53:54.515000Z"^^xs:dateTime .
 sw:species-33  sw:edited  "2014-12-20T21:36:42.204000Z"^^xs:dateTime .
-sw:species-33  sw:url  """http://swapi.co/api/species/33/""" .
+sw:species-33  sw:url  "http://swapi.co/api/species/33/" .

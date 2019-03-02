@@ -3,8 +3,8 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:planet-60  a  sw:Planet .
-sw:planet-60  rdfs:label  """Umbara""" .
+sw:planet-60  rdfs:label  "Umbara" .
 sw:planet-60  sw:resident  sw:people-82 .
 sw:planet-60  sw:created  "2014-12-20T20:18:36.256000Z"^^xs:dateTime .
 sw:planet-60  sw:edited  "2014-12-20T20:58:18.525000Z"^^xs:dateTime .
-sw:planet-60  sw:url  """http://swapi.co/api/planets/60/""" .
+sw:planet-60  sw:url  "http://swapi.co/api/planets/60/" .

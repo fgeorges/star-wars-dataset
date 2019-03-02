@@ -3,16 +3,16 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:species-4  a  sw:Species .
-sw:species-4  rdfs:label  """Rodian""" .
-sw:species-4  sw:classification  """sentient""" .
-sw:species-4  sw:designation  """reptilian""" .
+sw:species-4  rdfs:label  "Rodian" .
+sw:species-4  sw:classification  "sentient" .
+sw:species-4  sw:designation  "reptilian" .
 sw:species-4  sw:average_height  170 .
-sw:species-4  sw:skin_colors  """green, blue""" .
-sw:species-4  sw:eye_colors  """black""" .
+sw:species-4  sw:skin_colors  "green, blue" .
+sw:species-4  sw:eye_colors  "black" .
 sw:species-4  sw:homeworld  sw:planet-23 .
-sw:species-4  sw:language  """Galactic Basic""" .
+sw:species-4  sw:language  "Galactic Basic" .
 sw:species-4  sw:people  sw:people-15 .
 sw:species-4  sw:flim  sw:flim-1 .
 sw:species-4  sw:created  "2014-12-10T17:05:26.471000Z"^^xs:dateTime .
 sw:species-4  sw:edited  "2016-07-19T13:27:03.156498Z"^^xs:dateTime .
-sw:species-4  sw:url  """http://swapi.co/api/species/4/""" .
+sw:species-4  sw:url  "http://swapi.co/api/species/4/" .

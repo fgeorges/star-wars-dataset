@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Belbullab-22 starfighter</name>
    <model>Belbullab-22 starfighter</model>
    <manufacturer>Feethan Ottraw Scalable Assemblies</manufacturer>

@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>AT-RT</name>
    <model>All Terrain Recon Transport</model>
    <manufacturer>Kuat Drive Yards</manufacturer>

@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Naboo Royal Starship</name>
    <model>J-type 327 Nubian royal starship</model>
    <manufacturer>Theed Palace Space Vessel Engineering Corps, Nubia Star Drives</manufacturer>

@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Vulture Droid</name>
    <model>Vulture-class droid starfighter</model>
    <manufacturer>Haor Chall Engineering, Baktoid Armor Workshop</manufacturer>

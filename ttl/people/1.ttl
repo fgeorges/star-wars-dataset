@@ -3,14 +3,14 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-1  a  sw:People .
-sw:people-1  rdfs:label  """Luke Skywalker""" .
-sw:people-1  sw:height  """172""" .
-sw:people-1  sw:mass  """77""" .
-sw:people-1  sw:hair_color  """blond""" .
-sw:people-1  sw:skin_color  """fair""" .
-sw:people-1  sw:eye_color  """blue""" .
-sw:people-1  sw:birth_year  """19BBY""" .
-sw:people-1  sw:gender  """male""" .
+sw:people-1  rdfs:label  "Luke Skywalker" .
+sw:people-1  sw:height  "172" .
+sw:people-1  sw:mass  "77" .
+sw:people-1  sw:hair_color  "blond" .
+sw:people-1  sw:skin_color  "fair" .
+sw:people-1  sw:eye_color  "blue" .
+sw:people-1  sw:birth_year  "19BBY" .
+sw:people-1  sw:gender  "male" .
 sw:people-1  sw:homeworld  sw:planet-1 .
 sw:people-1  sw:flim  sw:flim-6 .
 sw:people-1  sw:flim  sw:flim-3 .
@@ -24,6 +24,6 @@ sw:people-1  sw:starship  sw:starship-12 .
 sw:people-1  sw:starship  sw:starship-22 .
 sw:people-1  sw:created  "2014-12-09T13:50:51.644000Z"^^xs:dateTime .
 sw:people-1  sw:edited  "2014-12-20T21:17:56.891000Z"^^xs:dateTime .
-sw:people-1  sw:url  """http://swapi.co/api/people/1/""" .
-sw:people-1  sw:desc  """Luke Skywalker is a fictional character and the main protagonist of the original film trilogy of the Star Wars franchise created by George Lucas. The character, portrayed by Mark Hamill, is an important figure in the Rebel Alliance's struggle against the Galactic Empire. He is the twin brother of Rebellion leader Princess Leia Organa of Alderaan, a friend and brother-in-law of smuggler Han Solo, an apprentice to Jedi Masters Obi-Wan \u0022Ben\u0022 Kenobi and Yoda, the son of fallen Jedi Anakin Skywalker (Darth Vader) and Queen of Naboo/Republic Senator Padmé Amidala and maternal uncle of Kylo Ren / Ben Solo. The now non-canon Star Wars expanded universe depicts him as a powerful Jedi Master, husband of Mara Jade, the father of Ben Skywalker and maternal uncle of Jaina, Jacen and Anakin Solo.""" .
-sw:people-1  sw:desc  """In 2015, the character was selected by Empire magazine as the 50th greatest movie character of all time.[2] On their list of the 100 Greatest Fictional Characters, Fandomania.com ranked the character at number 14.[3]""" .
+sw:people-1  sw:url  "http://swapi.co/api/people/1/" .
+sw:people-1  sw:desc  "Luke Skywalker is a fictional character and the main protagonist of the original film trilogy of the Star Wars franchise created by George Lucas. The character, portrayed by Mark Hamill, is an important figure in the Rebel Alliance's struggle against the Galactic Empire. He is the twin brother of Rebellion leader Princess Leia Organa of Alderaan, a friend and brother-in-law of smuggler Han Solo, an apprentice to Jedi Masters Obi-Wan \u0022Ben\u0022 Kenobi and Yoda, the son of fallen Jedi Anakin Skywalker (Darth Vader) and Queen of Naboo/Republic Senator Padmé Amidala and maternal uncle of Kylo Ren / Ben Solo. The now non-canon Star Wars expanded universe depicts him as a powerful Jedi Master, husband of Mara Jade, the father of Ben Skywalker and maternal uncle of Jaina, Jacen and Anakin Solo." .
+sw:people-1  sw:desc  "In 2015, the character was selected by Empire magazine as the 50th greatest movie character of all time.[2] On their list of the 100 Greatest Fictional Characters, Fandomania.com ranked the character at number 14.[3]" .

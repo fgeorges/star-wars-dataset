@@ -1,4 +1,4 @@
-<film>
+<film xmlns="http://h2o.consulting/ns/star-wars">
    <title>Attack of the Clones</title>
    <episode_id>2</episode_id>
    <opening_crawl>There is unrest in the Galactic

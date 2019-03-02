@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Sail barge</name>
    <model>Modified Luxury Sail Barge</model>
    <manufacturer>Ubrikkian Industries Custom Vehicle Division</manufacturer>

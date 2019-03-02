@@ -3,18 +3,18 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-73  a  sw:Vehicle .
-sw:vehicle-73  rdfs:label  """Droid gunship""" .
-sw:vehicle-73  sw:model  """HMP droid gunship""" .
-sw:vehicle-73  sw:manufacturer  """Baktoid Fleet Ordnance, Haor Chall Engineering""" .
+sw:vehicle-73  rdfs:label  "Droid gunship" .
+sw:vehicle-73  sw:model  "HMP droid gunship" .
+sw:vehicle-73  sw:manufacturer  "Baktoid Fleet Ordnance, Haor Chall Engineering" .
 sw:vehicle-73  sw:cost_in_credits  60000 .
 sw:vehicle-73  sw:length  12.3 .
 sw:vehicle-73  sw:max_atmosphering_speed  820 .
 sw:vehicle-73  sw:crew  0 .
 sw:vehicle-73  sw:passengers  0 .
 sw:vehicle-73  sw:cargo_capacity  0 .
-sw:vehicle-73  sw:consumables  """none""" .
-sw:vehicle-73  sw:vehicle_class  """airspeeder""" .
+sw:vehicle-73  sw:consumables  "none" .
+sw:vehicle-73  sw:vehicle_class  "airspeeder" .
 sw:vehicle-73  sw:flim  sw:flim-6 .
 sw:vehicle-73  sw:created  "2014-12-20T20:32:05.687000Z"^^xs:dateTime .
 sw:vehicle-73  sw:edited  "2014-12-22T18:21:16.643329Z"^^xs:dateTime .
-sw:vehicle-73  sw:url  """http://swapi.co/api/vehicles/73/""" .
+sw:vehicle-73  sw:url  "http://swapi.co/api/vehicles/73/" .

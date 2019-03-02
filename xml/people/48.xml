@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Dud Bolt</name>
    <height>94</height>
    <mass>45</mass>

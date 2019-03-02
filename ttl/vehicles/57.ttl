@@ -3,15 +3,15 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:vehicle-57  a  sw:Vehicle .
-sw:vehicle-57  rdfs:label  """Geonosian starfighter""" .
-sw:vehicle-57  sw:model  """Nantex-class territorial defense""" .
-sw:vehicle-57  sw:manufacturer  """Huppla Pasa Tisc Shipwrights Collective""" .
+sw:vehicle-57  rdfs:label  "Geonosian starfighter" .
+sw:vehicle-57  sw:model  "Nantex-class territorial defense" .
+sw:vehicle-57  sw:manufacturer  "Huppla Pasa Tisc Shipwrights Collective" .
 sw:vehicle-57  sw:length  9.8 .
 sw:vehicle-57  sw:max_atmosphering_speed  20000 .
 sw:vehicle-57  sw:crew  1 .
 sw:vehicle-57  sw:passengers  0 .
-sw:vehicle-57  sw:vehicle_class  """starfighter""" .
+sw:vehicle-57  sw:vehicle_class  "starfighter" .
 sw:vehicle-57  sw:flim  sw:flim-5 .
 sw:vehicle-57  sw:created  "2014-12-20T18:34:12.541000Z"^^xs:dateTime .
 sw:vehicle-57  sw:edited  "2014-12-22T18:21:16.390980Z"^^xs:dateTime .
-sw:vehicle-57  sw:url  """http://swapi.co/api/vehicles/57/""" .
+sw:vehicle-57  sw:url  "http://swapi.co/api/vehicles/57/" .

@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Darth Vader</name>
    <height>202</height>
    <mass>136</mass>

@@ -3,15 +3,15 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:people-39  a  sw:People .
-sw:people-39  rdfs:label  """Ric Olié""" .
-sw:people-39  sw:height  """183""" .
-sw:people-39  sw:hair_color  """brown""" .
-sw:people-39  sw:skin_color  """fair""" .
-sw:people-39  sw:eye_color  """blue""" .
-sw:people-39  sw:gender  """male""" .
+sw:people-39  rdfs:label  "Ric Olié" .
+sw:people-39  sw:height  "183" .
+sw:people-39  sw:hair_color  "brown" .
+sw:people-39  sw:skin_color  "fair" .
+sw:people-39  sw:eye_color  "blue" .
+sw:people-39  sw:gender  "male" .
 sw:people-39  sw:homeworld  sw:planet-8 .
 sw:people-39  sw:flim  sw:flim-4 .
 sw:people-39  sw:starship  sw:starship-40 .
 sw:people-39  sw:created  "2014-12-19T17:45:01.522000Z"^^xs:dateTime .
 sw:people-39  sw:edited  "2014-12-20T21:17:50.392000Z"^^xs:dateTime .
-sw:people-39  sw:url  """http://swapi.co/api/people/39/""" .
+sw:people-39  sw:url  "http://swapi.co/api/people/39/" .

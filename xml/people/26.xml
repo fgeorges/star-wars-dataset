@@ -1,4 +1,4 @@
-<people>
+<people xmlns="http://h2o.consulting/ns/star-wars">
    <name>Lobot</name>
    <height>175</height>
    <mass>79</mass>

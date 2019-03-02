@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Droid control ship</name>
    <model>Lucrehulk-class Droid Control Ship</model>
    <manufacturer>Hoersch-Kessel Drive, Inc.</manufacturer>

@@ -3,19 +3,19 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:starship-32  a  sw:Starship .
-sw:starship-32  rdfs:label  """Droid control ship""" .
-sw:starship-32  sw:model  """Lucrehulk-class Droid Control Ship""" .
-sw:starship-32  sw:manufacturer  """Hoersch-Kessel Drive, Inc.""" .
+sw:starship-32  rdfs:label  "Droid control ship" .
+sw:starship-32  sw:model  "Lucrehulk-class Droid Control Ship" .
+sw:starship-32  sw:manufacturer  "Hoersch-Kessel Drive, Inc." .
 sw:starship-32  sw:length  3170 .
 sw:starship-32  sw:crew  175 .
 sw:starship-32  sw:passengers  139000 .
 sw:starship-32  sw:cargo_capacity  4000000000 .
-sw:starship-32  sw:consumables  """500 days""" .
+sw:starship-32  sw:consumables  "500 days" .
 sw:starship-32  sw:hyperdrive_rating  2.0 .
-sw:starship-32  sw:starship_class  """Droid control ship""" .
+sw:starship-32  sw:starship_class  "Droid control ship" .
 sw:starship-32  sw:flim  sw:flim-5 .
 sw:starship-32  sw:flim  sw:flim-4 .
 sw:starship-32  sw:flim  sw:flim-6 .
 sw:starship-32  sw:created  "2014-12-19T17:04:06.323000Z"^^xs:dateTime .
 sw:starship-32  sw:edited  "2014-12-22T17:35:45.042900Z"^^xs:dateTime .
-sw:starship-32  sw:url  """http://swapi.co/api/starships/32/""" .
+sw:starship-32  sw:url  "http://swapi.co/api/starships/32/" .

@@ -1,4 +1,4 @@
-<vehicle>
+<vehicle xmlns="http://h2o.consulting/ns/star-wars">
    <name>Emergency Firespeeder</name>
    <model>Fire suppression speeder</model>
    <crew>2</crew>

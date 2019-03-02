@@ -3,17 +3,17 @@
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
 sw:species-19  a  sw:Species .
-sw:species-19  rdfs:label  """Toong""" .
-sw:species-19  sw:designation  """sentient""" .
+sw:species-19  rdfs:label  "Toong" .
+sw:species-19  sw:designation  "sentient" .
 sw:species-19  sw:average_height  200 .
-sw:species-19  sw:skin_colors  """grey, green, yellow""" .
-sw:species-19  sw:hair_colors  """none""" .
-sw:species-19  sw:eye_colors  """orange""" .
+sw:species-19  sw:skin_colors  "grey, green, yellow" .
+sw:species-19  sw:hair_colors  "none" .
+sw:species-19  sw:eye_colors  "orange" .
 sw:species-19  sw:homeworld  sw:planet-41 .
-sw:species-19  sw:language  """Tundan""" .
+sw:species-19  sw:language  "Tundan" .
 sw:species-19  sw:people  sw:people-50 .
 sw:species-19  sw:flim  sw:flim-4 .
 sw:species-19  sw:flim  sw:flim-6 .
 sw:species-19  sw:created  "2014-12-20T10:08:36.795000Z"^^xs:dateTime .
 sw:species-19  sw:edited  "2014-12-20T21:36:42.177000Z"^^xs:dateTime .
-sw:species-19  sw:url  """http://swapi.co/api/species/19/""" .
+sw:species-19  sw:url  "http://swapi.co/api/species/19/" .

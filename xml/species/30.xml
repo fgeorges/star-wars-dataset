@@ -1,4 +1,4 @@
-<species>
+<species xmlns="http://h2o.consulting/ns/star-wars">
    <name>Clawdite</name>
    <classification>reptilian</classification>
    <designation>sentient</designation>

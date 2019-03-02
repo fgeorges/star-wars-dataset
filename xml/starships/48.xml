@@ -1,4 +1,4 @@
-<starship>
+<starship xmlns="http://h2o.consulting/ns/star-wars">
    <name>Jedi starfighter</name>
    <model>Delta-7 Aethersprite-class interceptor</model>
    <manufacturer>Kuat Systems Engineering</manufacturer>
