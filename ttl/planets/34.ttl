@@ -12,6 +12,6 @@ sw:planet-34  sw:gravity  """1""" .
 sw:planet-34  sw:terrain  """swamps, lakes""" .
 sw:planet-34  sw:population  """11000000""" .
 sw:planet-34  sw:resident  sw:people-40 .
-sw:planet-34  sw:created  "2014-12-19T17:47:54.403000Z"^^xsd:dateTime .
-sw:planet-34  sw:edited  "2014-12-20T20:58:18.476000Z"^^xsd:dateTime .
+sw:planet-34  sw:created  "2014-12-19T17:47:54.403000Z"^^xs:dateTime .
+sw:planet-34  sw:edited  "2014-12-20T20:58:18.476000Z"^^xs:dateTime .
 sw:planet-34  sw:url  """http://swapi.co/api/planets/34/""" .

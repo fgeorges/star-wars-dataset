@@ -109,10 +109,10 @@ function triple(file, rsrc, prop, content)
 	fs.writeSync(file, rsrc + '  sw:vehicle  sw:vehicle-' + content.slice(29).slice(0, -1) + ' .\n');
     }
     else if ( prop === 'sw:release_date' ) {
-	fs.writeSync(file, `${rsrc}  ${prop}  "${content}"^^xsd:date .\n`);
+	fs.writeSync(file, `${rsrc}  ${prop}  "${content}"^^xs:date .\n`);
     }
     else if ( ['sw:created', 'sw:edited'].includes(prop) ) {
-	fs.writeSync(file, `${rsrc}  ${prop}  "${content}"^^xsd:dateTime .\n`);
+	fs.writeSync(file, `${rsrc}  ${prop}  "${content}"^^xs:dateTime .\n`);
     }
     else if ( numbers.includes(prop) ) {
 	fs.writeSync(file, `${rsrc}  ${prop}  ${content} .\n`);

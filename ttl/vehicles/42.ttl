@@ -15,6 +15,6 @@ sw:vehicle-42  sw:cargo_capacity  2 .
 sw:vehicle-42  sw:vehicle_class  """speeder""" .
 sw:vehicle-42  sw:pilot  sw:people-44 .
 sw:vehicle-42  sw:flim  sw:flim-4 .
-sw:vehicle-42  sw:created  "2014-12-20T10:09:56.095000Z"^^xsd:dateTime .
-sw:vehicle-42  sw:edited  "2014-12-22T18:21:16.095041Z"^^xsd:dateTime .
+sw:vehicle-42  sw:created  "2014-12-20T10:09:56.095000Z"^^xs:dateTime .
+sw:vehicle-42  sw:edited  "2014-12-22T18:21:16.095041Z"^^xs:dateTime .
 sw:vehicle-42  sw:url  """http://swapi.co/api/vehicles/42/""" .

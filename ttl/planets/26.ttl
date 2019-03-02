@@ -12,6 +12,6 @@ sw:planet-26  sw:terrain  """rocky islands, oceans""" .
 sw:planet-26  sw:surface_water  """98""" .
 sw:planet-26  sw:population  """62000000""" .
 sw:planet-26  sw:resident  sw:people-19 .
-sw:planet-26  sw:created  "2014-12-12T11:16:55.078000Z"^^xsd:dateTime .
-sw:planet-26  sw:edited  "2014-12-20T20:58:18.463000Z"^^xsd:dateTime .
+sw:planet-26  sw:created  "2014-12-12T11:16:55.078000Z"^^xs:dateTime .
+sw:planet-26  sw:edited  "2014-12-20T20:58:18.463000Z"^^xs:dateTime .
 sw:planet-26  sw:url  """http://swapi.co/api/planets/26/""" .

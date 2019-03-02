@@ -17,7 +17,7 @@ sw:starship-15  sw:MGLT  """40""" .
 sw:starship-15  sw:starship_class  """Star dreadnought""" .
 sw:starship-15  sw:flim  sw:flim-3 .
 sw:starship-15  sw:flim  sw:flim-2 .
-sw:starship-15  sw:created  "2014-12-15T12:31:42.547000Z"^^xsd:dateTime .
-sw:starship-15  sw:edited  "2014-12-22T17:35:44.638231Z"^^xsd:dateTime .
+sw:starship-15  sw:created  "2014-12-15T12:31:42.547000Z"^^xs:dateTime .
+sw:starship-15  sw:edited  "2014-12-22T17:35:44.638231Z"^^xs:dateTime .
 sw:starship-15  sw:url  """http://swapi.co/api/starships/15/""" .
 sw:starship-15  sw:desc  """An executor is someone who is responsible for executing, or following through on, an assigned task or duty. The feminine form, executrix, may sometimes be used. The role of an executor should not be confused with that of an executioner, a person who carries out a death sentence ordered by the state or other legal authority.""" .

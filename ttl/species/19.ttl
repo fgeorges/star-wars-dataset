@@ -14,6 +14,6 @@ sw:species-19  sw:language  """Tundan""" .
 sw:species-19  sw:people  sw:people-50 .
 sw:species-19  sw:flim  sw:flim-4 .
 sw:species-19  sw:flim  sw:flim-6 .
-sw:species-19  sw:created  "2014-12-20T10:08:36.795000Z"^^xsd:dateTime .
-sw:species-19  sw:edited  "2014-12-20T21:36:42.177000Z"^^xsd:dateTime .
+sw:species-19  sw:created  "2014-12-20T10:08:36.795000Z"^^xs:dateTime .
+sw:species-19  sw:edited  "2014-12-20T21:36:42.177000Z"^^xs:dateTime .
 sw:species-19  sw:url  """http://swapi.co/api/species/19/""" .

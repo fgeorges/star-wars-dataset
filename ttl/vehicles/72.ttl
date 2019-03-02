@@ -15,6 +15,6 @@ sw:vehicle-72  sw:cargo_capacity  none .
 sw:vehicle-72  sw:consumables  none .
 sw:vehicle-72  sw:vehicle_class  """droid tank""" .
 sw:vehicle-72  sw:flim  sw:flim-6 .
-sw:vehicle-72  sw:created  "2014-12-20T20:26:55.522000Z"^^xsd:dateTime .
-sw:vehicle-72  sw:edited  "2014-12-22T18:21:16.612902Z"^^xsd:dateTime .
+sw:vehicle-72  sw:created  "2014-12-20T20:26:55.522000Z"^^xs:dateTime .
+sw:vehicle-72  sw:edited  "2014-12-22T18:21:16.612902Z"^^xs:dateTime .
 sw:vehicle-72  sw:url  """http://swapi.co/api/vehicles/72/""" .

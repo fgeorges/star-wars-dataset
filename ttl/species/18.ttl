@@ -13,6 +13,6 @@ sw:species-18  sw:homeworld  sw:planet-40 .
 sw:species-18  sw:language  """Xextese""" .
 sw:species-18  sw:people  sw:people-49 .
 sw:species-18  sw:flim  sw:flim-4 .
-sw:species-18  sw:created  "2014-12-20T10:02:13.915000Z"^^xsd:dateTime .
-sw:species-18  sw:edited  "2014-12-20T21:36:42.175000Z"^^xsd:dateTime .
+sw:species-18  sw:created  "2014-12-20T10:02:13.915000Z"^^xs:dateTime .
+sw:species-18  sw:edited  "2014-12-20T21:36:42.175000Z"^^xs:dateTime .
 sw:species-18  sw:url  """http://swapi.co/api/species/18/""" .

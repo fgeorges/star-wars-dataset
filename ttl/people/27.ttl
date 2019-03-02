@@ -15,6 +15,6 @@ sw:people-27  sw:homeworld  sw:planet-31 .
 sw:people-27  sw:flim  sw:flim-3 .
 sw:people-27  sw:flim  sw:flim-7 .
 sw:people-27  sw:species  sw:species-8 .
-sw:people-27  sw:created  "2014-12-18T11:07:50.584000Z"^^xsd:dateTime .
-sw:people-27  sw:edited  "2014-12-20T21:17:50.362000Z"^^xsd:dateTime .
+sw:people-27  sw:created  "2014-12-18T11:07:50.584000Z"^^xs:dateTime .
+sw:people-27  sw:edited  "2014-12-20T21:17:50.362000Z"^^xs:dateTime .
 sw:people-27  sw:url  """http://swapi.co/api/people/27/""" .

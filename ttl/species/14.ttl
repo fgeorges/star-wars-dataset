@@ -14,6 +14,6 @@ sw:species-14  sw:homeworld  sw:planet-35 .
 sw:species-14  sw:language  """Dugese""" .
 sw:species-14  sw:people  sw:people-41 .
 sw:species-14  sw:flim  sw:flim-4 .
-sw:species-14  sw:created  "2014-12-19T17:53:11.214000Z"^^xsd:dateTime .
-sw:species-14  sw:edited  "2014-12-20T21:36:42.167000Z"^^xsd:dateTime .
+sw:species-14  sw:created  "2014-12-19T17:53:11.214000Z"^^xs:dateTime .
+sw:species-14  sw:edited  "2014-12-20T21:36:42.167000Z"^^xs:dateTime .
 sw:species-14  sw:url  """http://swapi.co/api/species/14/""" .

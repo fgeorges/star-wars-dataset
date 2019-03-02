@@ -20,7 +20,7 @@ sw:people-13  sw:species  sw:species-3 .
 sw:people-13  sw:vehicle  sw:vehicle-19 .
 sw:people-13  sw:starship  sw:starship-10 .
 sw:people-13  sw:starship  sw:starship-22 .
-sw:people-13  sw:created  "2014-12-10T16:42:45.066000Z"^^xsd:dateTime .
-sw:people-13  sw:edited  "2014-12-20T21:17:50.332000Z"^^xsd:dateTime .
+sw:people-13  sw:created  "2014-12-10T16:42:45.066000Z"^^xs:dateTime .
+sw:people-13  sw:edited  "2014-12-20T21:17:50.332000Z"^^xs:dateTime .
 sw:people-13  sw:url  """http://swapi.co/api/people/13/""" .
 sw:people-13  sw:desc  """Chewbacca (/tʃuːˈbɑːkə/), nicknamed \u0022Chewie\u0022, is a fictional character in the Star Wars franchise. He is a Wookiee, a tall, hirsute biped and intelligent species from the planet Kashyyyk. Chewbacca is the loyal friend and first mate of Han Solo, and serves as co-pilot on Solo's spaceship, the Millennium Falcon.[1] Within the films of the main saga, Chewbacca is portrayed by Peter Mayhew in the Star Wars on Episodes from III to VIII (Mayhew shares the role with his body double Joonas Suotamo on Episode VII and VIII). Suotamo took over the role alone in Solo: A Star Wars Story. The character has also appeared on television, books, comics, and video games.""" .

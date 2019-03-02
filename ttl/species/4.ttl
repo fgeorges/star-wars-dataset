@@ -13,6 +13,6 @@ sw:species-4  sw:homeworld  sw:planet-23 .
 sw:species-4  sw:language  """Galactic Basic""" .
 sw:species-4  sw:people  sw:people-15 .
 sw:species-4  sw:flim  sw:flim-1 .
-sw:species-4  sw:created  "2014-12-10T17:05:26.471000Z"^^xsd:dateTime .
-sw:species-4  sw:edited  "2016-07-19T13:27:03.156498Z"^^xsd:dateTime .
+sw:species-4  sw:created  "2014-12-10T17:05:26.471000Z"^^xs:dateTime .
+sw:species-4  sw:edited  "2016-07-19T13:27:03.156498Z"^^xs:dateTime .
 sw:species-4  sw:url  """http://swapi.co/api/species/4/""" .

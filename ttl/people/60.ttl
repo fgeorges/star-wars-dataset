@@ -14,6 +14,6 @@ sw:people-60  sw:homeworld  sw:planet-8 .
 sw:people-60  sw:flim  sw:flim-5 .
 sw:people-60  sw:species  sw:species-1 .
 sw:people-60  sw:starship  sw:starship-39 .
-sw:people-60  sw:created  "2014-12-20T11:10:10.381000Z"^^xsd:dateTime .
-sw:people-60  sw:edited  "2014-12-20T21:17:50.445000Z"^^xsd:dateTime .
+sw:people-60  sw:created  "2014-12-20T11:10:10.381000Z"^^xs:dateTime .
+sw:people-60  sw:edited  "2014-12-20T21:17:50.445000Z"^^xs:dateTime .
 sw:people-60  sw:url  """http://swapi.co/api/people/60/""" .

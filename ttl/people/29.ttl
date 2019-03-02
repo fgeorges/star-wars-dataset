@@ -12,6 +12,6 @@ sw:people-29  sw:homeworld  sw:planet-28 .
 sw:people-29  sw:flim  sw:flim-3 .
 sw:people-29  sw:species  sw:species-1 .
 sw:people-29  sw:starship  sw:starship-28 .
-sw:people-29  sw:created  "2014-12-18T11:16:33.020000Z"^^xsd:dateTime .
-sw:people-29  sw:edited  "2014-12-20T21:17:50.367000Z"^^xsd:dateTime .
+sw:people-29  sw:created  "2014-12-18T11:16:33.020000Z"^^xs:dateTime .
+sw:people-29  sw:edited  "2014-12-20T21:17:50.367000Z"^^xs:dateTime .
 sw:people-29  sw:url  """http://swapi.co/api/people/29/""" .

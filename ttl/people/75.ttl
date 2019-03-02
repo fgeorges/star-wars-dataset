@@ -12,6 +12,6 @@ sw:people-75  sw:gender  """female""" .
 sw:people-75  sw:homeworld  sw:planet-28 .
 sw:people-75  sw:flim  sw:flim-5 .
 sw:people-75  sw:flim  sw:flim-6 .
-sw:people-75  sw:created  "2014-12-20T17:43:36.409000Z"^^xsd:dateTime .
-sw:people-75  sw:edited  "2014-12-20T21:17:50.478000Z"^^xsd:dateTime .
+sw:people-75  sw:created  "2014-12-20T17:43:36.409000Z"^^xs:dateTime .
+sw:people-75  sw:edited  "2014-12-20T21:17:50.478000Z"^^xs:dateTime .
 sw:people-75  sw:url  """http://swapi.co/api/people/75/""" .

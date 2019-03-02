@@ -17,6 +17,6 @@ sw:starship-29  sw:hyperdrive_rating  2.0 .
 sw:starship-29  sw:MGLT  """91""" .
 sw:starship-29  sw:starship_class  """Assault Starfighter""" .
 sw:starship-29  sw:flim  sw:flim-3 .
-sw:starship-29  sw:created  "2014-12-18T11:18:04.763000Z"^^xsd:dateTime .
-sw:starship-29  sw:edited  "2014-12-22T17:35:45.011193Z"^^xsd:dateTime .
+sw:starship-29  sw:created  "2014-12-18T11:18:04.763000Z"^^xs:dateTime .
+sw:starship-29  sw:edited  "2014-12-22T17:35:45.011193Z"^^xs:dateTime .
 sw:starship-29  sw:url  """http://swapi.co/api/starships/29/""" .

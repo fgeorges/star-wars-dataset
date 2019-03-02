@@ -26,7 +26,7 @@ desperate mission to rescue the
 captive Chancellor....""" .
 sw:film-6  sw:director  """George Lucas""" .
 sw:film-6  sw:producer  """Rick McCallum""" .
-sw:film-6  sw:release_date  "2005-05-19"^^xsd:date .
+sw:film-6  sw:release_date  "2005-05-19"^^xs:date .
 sw:film-6  sw:character  sw:people-1 .
 sw:film-6  sw:character  sw:people-2 .
 sw:film-6  sw:character  sw:people-3 .
@@ -119,8 +119,8 @@ sw:film-6  sw:species  sw:species-27 .
 sw:film-6  sw:species  sw:species-28 .
 sw:film-6  sw:species  sw:species-29 .
 sw:film-6  sw:species  sw:species-30 .
-sw:film-6  sw:created  "2014-12-20T18:49:38.403000Z"^^xsd:dateTime .
-sw:film-6  sw:edited  "2015-04-11T09:45:44.862122Z"^^xsd:dateTime .
+sw:film-6  sw:created  "2014-12-20T18:49:38.403000Z"^^xs:dateTime .
+sw:film-6  sw:edited  "2015-04-11T09:45:44.862122Z"^^xs:dateTime .
 sw:film-6  sw:url  """http://swapi.co/api/films/6/""" .
 sw:film-6  sw:desc  """Star Wars: Episode III – Revenge of the Sith is a 2005 American epic space opera film written and directed by George Lucas. It is the sixth entry of the Star Wars film series and stars Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid, Samuel L. Jackson, Christopher Lee, Anthony Daniels, Kenny Baker, and Frank Oz. A sequel to The Phantom Menace (1999) and Attack of the Clones (2002), the film is the third and final installment of the Star Wars prequel trilogy.""" .
 sw:film-6  sw:desc  """The film begins three years after the onset of the Clone Wars. The Jedi Knights are spread across the galaxy, leading a massive war against the Separatists. The Jedi Council dispatches Jedi Master Obi-Wan Kenobi to eliminate the notorious General Grievous, leader of the Separatist Army. Meanwhile, Jedi Knight Anakin Skywalker grows close to Palpatine, the Supreme Chancellor of the Galactic Republic and, unknown to the public, a Sith Lord. Their deepening friendship threatens the Jedi Order, the Republic, and Anakin himself.""" .

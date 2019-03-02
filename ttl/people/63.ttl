@@ -14,6 +14,6 @@ sw:people-63  sw:homeworld  sw:planet-11 .
 sw:people-63  sw:flim  sw:flim-5 .
 sw:people-63  sw:flim  sw:flim-6 .
 sw:people-63  sw:species  sw:species-28 .
-sw:people-63  sw:created  "2014-12-20T16:40:43.977000Z"^^xsd:dateTime .
-sw:people-63  sw:edited  "2014-12-20T21:17:50.453000Z"^^xsd:dateTime .
+sw:people-63  sw:created  "2014-12-20T16:40:43.977000Z"^^xs:dateTime .
+sw:people-63  sw:edited  "2014-12-20T21:17:50.453000Z"^^xs:dateTime .
 sw:people-63  sw:url  """http://swapi.co/api/people/63/""" .

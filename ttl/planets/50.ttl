@@ -11,6 +11,6 @@ sw:planet-50  sw:gravity  """1""" .
 sw:planet-50  sw:terrain  """oceans, rainforests, plateaus""" .
 sw:planet-50  sw:population  """3500000000""" .
 sw:planet-50  sw:resident  sw:people-59 .
-sw:planet-50  sw:created  "2014-12-20T10:52:51.524000Z"^^xsd:dateTime .
-sw:planet-50  sw:edited  "2014-12-20T20:58:18.506000Z"^^xsd:dateTime .
+sw:planet-50  sw:created  "2014-12-20T10:52:51.524000Z"^^xs:dateTime .
+sw:planet-50  sw:edited  "2014-12-20T20:58:18.506000Z"^^xs:dateTime .
 sw:planet-50  sw:url  """http://swapi.co/api/planets/50/""" .

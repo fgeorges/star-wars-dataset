@@ -12,6 +12,6 @@ sw:people-42  sw:birth_year  """62BBY""" .
 sw:people-42  sw:gender  """male""" .
 sw:people-42  sw:homeworld  sw:planet-8 .
 sw:people-42  sw:flim  sw:flim-4 .
-sw:people-42  sw:created  "2014-12-19T17:55:43.348000Z"^^xsd:dateTime .
-sw:people-42  sw:edited  "2014-12-20T21:17:50.399000Z"^^xsd:dateTime .
+sw:people-42  sw:created  "2014-12-19T17:55:43.348000Z"^^xs:dateTime .
+sw:people-42  sw:edited  "2014-12-20T21:17:50.399000Z"^^xs:dateTime .
 sw:people-42  sw:url  """http://swapi.co/api/people/42/""" .

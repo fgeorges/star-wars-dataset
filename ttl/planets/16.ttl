@@ -12,6 +12,6 @@ sw:planet-16  sw:gravity  """1 standard""" .
 sw:planet-16  sw:terrain  """glaciers, mountains, ice canyons""" .
 sw:planet-16  sw:population  """19000000""" .
 sw:planet-16  sw:flim  sw:flim-6 .
-sw:planet-16  sw:created  "2014-12-10T13:43:39.139000Z"^^xsd:dateTime .
-sw:planet-16  sw:edited  "2014-12-20T20:58:18.446000Z"^^xsd:dateTime .
+sw:planet-16  sw:created  "2014-12-10T13:43:39.139000Z"^^xs:dateTime .
+sw:planet-16  sw:edited  "2014-12-20T20:58:18.446000Z"^^xs:dateTime .
 sw:planet-16  sw:url  """http://swapi.co/api/planets/16/""" .

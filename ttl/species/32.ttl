@@ -16,6 +16,6 @@ sw:species-32  sw:language  """Kaminoan""" .
 sw:species-32  sw:people  sw:people-72 .
 sw:species-32  sw:people  sw:people-73 .
 sw:species-32  sw:flim  sw:flim-5 .
-sw:species-32  sw:created  "2014-12-20T17:31:24.838000Z"^^xsd:dateTime .
-sw:species-32  sw:edited  "2014-12-20T21:36:42.202000Z"^^xsd:dateTime .
+sw:species-32  sw:created  "2014-12-20T17:31:24.838000Z"^^xs:dateTime .
+sw:species-32  sw:edited  "2014-12-20T21:36:42.202000Z"^^xs:dateTime .
 sw:species-32  sw:url  """http://swapi.co/api/species/32/""" .

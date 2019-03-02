@@ -14,6 +14,6 @@ sw:vehicle-45  sw:cargo_capacity  80 .
 sw:vehicle-45  sw:vehicle_class  """airspeeder""" .
 sw:vehicle-45  sw:pilot  sw:people-70 .
 sw:vehicle-45  sw:flim  sw:flim-5 .
-sw:vehicle-45  sw:created  "2014-12-20T17:17:33.526000Z"^^xsd:dateTime .
-sw:vehicle-45  sw:edited  "2014-12-22T18:21:16.140018Z"^^xsd:dateTime .
+sw:vehicle-45  sw:created  "2014-12-20T17:17:33.526000Z"^^xs:dateTime .
+sw:vehicle-45  sw:edited  "2014-12-22T18:21:16.140018Z"^^xs:dateTime .
 sw:vehicle-45  sw:url  """http://swapi.co/api/vehicles/45/""" .

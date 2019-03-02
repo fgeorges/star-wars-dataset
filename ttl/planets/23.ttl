@@ -13,6 +13,6 @@ sw:planet-23  sw:terrain  """jungles, oceans, urban, swamps""" .
 sw:planet-23  sw:surface_water  """60""" .
 sw:planet-23  sw:population  """1300000000""" .
 sw:planet-23  sw:resident  sw:people-15 .
-sw:planet-23  sw:created  "2014-12-10T17:03:28.110000Z"^^xsd:dateTime .
-sw:planet-23  sw:edited  "2014-12-20T20:58:18.458000Z"^^xsd:dateTime .
+sw:planet-23  sw:created  "2014-12-10T17:03:28.110000Z"^^xs:dateTime .
+sw:planet-23  sw:edited  "2014-12-20T20:58:18.458000Z"^^xs:dateTime .
 sw:planet-23  sw:url  """http://swapi.co/api/planets/23/""" .

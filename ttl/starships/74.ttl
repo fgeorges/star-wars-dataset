@@ -18,6 +18,6 @@ sw:starship-74  sw:starship_class  """starfighter""" .
 sw:starship-74  sw:pilot  sw:people-10 .
 sw:starship-74  sw:pilot  sw:people-79 .
 sw:starship-74  sw:flim  sw:flim-6 .
-sw:starship-74  sw:created  "2014-12-20T20:38:05.031000Z"^^xsd:dateTime .
-sw:starship-74  sw:edited  "2014-12-22T17:35:45.381900Z"^^xsd:dateTime .
+sw:starship-74  sw:created  "2014-12-20T20:38:05.031000Z"^^xs:dateTime .
+sw:starship-74  sw:edited  "2014-12-22T17:35:45.381900Z"^^xs:dateTime .
 sw:starship-74  sw:url  """http://swapi.co/api/starships/74/""" .

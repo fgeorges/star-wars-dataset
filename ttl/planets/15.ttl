@@ -13,6 +13,6 @@ sw:planet-15  sw:terrain  """airless asteroid""" .
 sw:planet-15  sw:surface_water  """0""" .
 sw:planet-15  sw:population  """1000000""" .
 sw:planet-15  sw:flim  sw:flim-6 .
-sw:planet-15  sw:created  "2014-12-10T13:33:46.405000Z"^^xsd:dateTime .
-sw:planet-15  sw:edited  "2014-12-20T20:58:18.444000Z"^^xsd:dateTime .
+sw:planet-15  sw:created  "2014-12-10T13:33:46.405000Z"^^xs:dateTime .
+sw:planet-15  sw:edited  "2014-12-20T20:58:18.444000Z"^^xs:dateTime .
 sw:planet-15  sw:url  """http://swapi.co/api/planets/15/""" .

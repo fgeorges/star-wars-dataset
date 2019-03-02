@@ -20,7 +20,7 @@ sw:species-3  sw:flim  sw:flim-6 .
 sw:species-3  sw:flim  sw:flim-3 .
 sw:species-3  sw:flim  sw:flim-2 .
 sw:species-3  sw:flim  sw:flim-1 .
-sw:species-3  sw:created  "2014-12-10T16:44:31.486000Z"^^xsd:dateTime .
-sw:species-3  sw:edited  "2015-01-30T21:23:03.074598Z"^^xsd:dateTime .
+sw:species-3  sw:created  "2014-12-10T16:44:31.486000Z"^^xs:dateTime .
+sw:species-3  sw:edited  "2015-01-30T21:23:03.074598Z"^^xs:dateTime .
 sw:species-3  sw:url  """http://swapi.co/api/species/3/""" .
 sw:species-3  sw:desc  """Wookiees (/ˈwʊkiːz/) are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They are taller, stronger, and hairier than humans and most (if not all) other humanoid species. The most notable Wookiee is Chewbacca, the copilot of Han Solo, who first appeared in the 1977 film Star Wars Episode IV: A New Hope.""" .

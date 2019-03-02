@@ -14,6 +14,6 @@ sw:planet-22  sw:surface_water  """70""" .
 sw:planet-22  sw:population  """3000000000""" .
 sw:planet-22  sw:resident  sw:people-14 .
 sw:planet-22  sw:resident  sw:people-18 .
-sw:planet-22  sw:created  "2014-12-10T16:49:12.453000Z"^^xsd:dateTime .
-sw:planet-22  sw:edited  "2014-12-20T20:58:18.456000Z"^^xsd:dateTime .
+sw:planet-22  sw:created  "2014-12-10T16:49:12.453000Z"^^xs:dateTime .
+sw:planet-22  sw:edited  "2014-12-20T20:58:18.456000Z"^^xs:dateTime .
 sw:planet-22  sw:url  """http://swapi.co/api/planets/22/""" .

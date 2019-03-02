@@ -12,6 +12,6 @@ sw:planet-30  sw:gravity  """1 standard""" .
 sw:planet-30  sw:terrain  """deserts, mountains""" .
 sw:planet-30  sw:population  """300000000""" .
 sw:planet-30  sw:resident  sw:people-25 .
-sw:planet-30  sw:created  "2014-12-15T12:56:31.121000Z"^^xsd:dateTime .
-sw:planet-30  sw:edited  "2014-12-20T20:58:18.469000Z"^^xsd:dateTime .
+sw:planet-30  sw:created  "2014-12-15T12:56:31.121000Z"^^xs:dateTime .
+sw:planet-30  sw:edited  "2014-12-20T20:58:18.469000Z"^^xs:dateTime .
 sw:planet-30  sw:url  """http://swapi.co/api/planets/30/""" .

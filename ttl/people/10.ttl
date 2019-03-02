@@ -25,8 +25,8 @@ sw:people-10  sw:starship  sw:starship-59 .
 sw:people-10  sw:starship  sw:starship-64 .
 sw:people-10  sw:starship  sw:starship-65 .
 sw:people-10  sw:starship  sw:starship-74 .
-sw:people-10  sw:created  "2014-12-10T16:16:29.192000Z"^^xsd:dateTime .
-sw:people-10  sw:edited  "2014-12-20T21:17:50.325000Z"^^xsd:dateTime .
+sw:people-10  sw:created  "2014-12-10T16:16:29.192000Z"^^xs:dateTime .
+sw:people-10  sw:edited  "2014-12-20T21:17:50.325000Z"^^xs:dateTime .
 sw:people-10  sw:url  """http://swapi.co/api/people/10/""" .
 sw:people-10  sw:desc  """Obi-Wan \u0022Ben\u0022 Kenobi is a fictional character in the Star Wars franchise. Within the original trilogy he is portrayed by Sir Alec Guinness, while in the prequel trilogy a younger version of the character is portrayed by Ewan McGregor. In the original trilogy, he is a mentor to Luke Skywalker, to whom he introduces the ways of the Jedi. In the prequel trilogy, he is a master and friend to Anakin Skywalker. He is frequently featured as a main character in various other Star Wars media.""" .
 sw:people-10  sw:desc  """Sir Alec Guinness's portrayal of Obi-Wan in the original Star Wars (1977) remains the only time an actor has received an Oscar nomination (Best Supporting Actor) for acting in a Star Wars film.""" .

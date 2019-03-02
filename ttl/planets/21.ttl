@@ -12,6 +12,6 @@ sw:planet-21  sw:gravity  """1 standard""" .
 sw:planet-21  sw:terrain  """cityscape""" .
 sw:planet-21  sw:population  """22000000000""" .
 sw:planet-21  sw:resident  sw:people-12 .
-sw:planet-21  sw:created  "2014-12-10T16:26:54.384000Z"^^xsd:dateTime .
-sw:planet-21  sw:edited  "2014-12-20T20:58:18.454000Z"^^xsd:dateTime .
+sw:planet-21  sw:created  "2014-12-10T16:26:54.384000Z"^^xs:dateTime .
+sw:planet-21  sw:edited  "2014-12-20T20:58:18.454000Z"^^xs:dateTime .
 sw:planet-21  sw:url  """http://swapi.co/api/planets/21/""" .

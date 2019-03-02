@@ -13,6 +13,6 @@ sw:planet-57  sw:terrain  """plains, forests, hills, mountains""" .
 sw:planet-57  sw:surface_water  """25""" .
 sw:planet-57  sw:population  """5000000000""" .
 sw:planet-57  sw:resident  sw:people-77 .
-sw:planet-57  sw:created  "2014-12-20T17:57:47.420000Z"^^xsd:dateTime .
-sw:planet-57  sw:edited  "2014-12-20T20:58:18.519000Z"^^xsd:dateTime .
+sw:planet-57  sw:created  "2014-12-20T17:57:47.420000Z"^^xs:dateTime .
+sw:planet-57  sw:edited  "2014-12-20T20:58:18.519000Z"^^xs:dateTime .
 sw:planet-57  sw:url  """http://swapi.co/api/planets/57/""" .

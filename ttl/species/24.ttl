@@ -14,6 +14,6 @@ sw:species-24  sw:language  """Iktotchese""" .
 sw:species-24  sw:people  sw:people-56 .
 sw:species-24  sw:flim  sw:flim-4 .
 sw:species-24  sw:flim  sw:flim-6 .
-sw:species-24  sw:created  "2014-12-20T10:32:13.046000Z"^^xsd:dateTime .
-sw:species-24  sw:edited  "2014-12-20T21:36:42.188000Z"^^xsd:dateTime .
+sw:species-24  sw:created  "2014-12-20T10:32:13.046000Z"^^xs:dateTime .
+sw:species-24  sw:edited  "2014-12-20T21:36:42.188000Z"^^xs:dateTime .
 sw:species-24  sw:url  """http://swapi.co/api/species/24/""" .

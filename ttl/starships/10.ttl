@@ -24,7 +24,7 @@ sw:starship-10  sw:flim  sw:flim-7 .
 sw:starship-10  sw:flim  sw:flim-3 .
 sw:starship-10  sw:flim  sw:flim-2 .
 sw:starship-10  sw:flim  sw:flim-1 .
-sw:starship-10  sw:created  "2014-12-10T16:59:45.094000Z"^^xsd:dateTime .
-sw:starship-10  sw:edited  "2014-12-22T17:35:44.464156Z"^^xsd:dateTime .
+sw:starship-10  sw:created  "2014-12-10T16:59:45.094000Z"^^xs:dateTime .
+sw:starship-10  sw:edited  "2014-12-22T17:35:44.464156Z"^^xs:dateTime .
 sw:starship-10  sw:url  """http://swapi.co/api/starships/10/""" .
 sw:starship-10  sw:desc  """The Millennium Falcon is a spaceship in the Star Wars universe commanded at one time by Corellian smuggler Han Solo (Harrison Ford) and his Wookiee first mate, Chewbacca (Peter Mayhew). The highly modified Corellian Engineering Corporation (CEC) YT-1300 light freighter first appears in Star Wars (1977), and subsequently in The Empire Strikes Back (1980), Return of the Jedi (1983) and The Force Awakens (2015). The ship also makes a brief cameo appearance in Revenge of the Sith (2005). Additionally, the Falcon appears in a variety of Star Wars expanded universe materials, including books, comics, and games; James Luceno's novel Millennium Falcon focuses on the titular ship.[2] It also appears in the 2014 animated film The Lego Movie in Lego form, with Billy Dee Williams and Anthony Daniels reprising their roles of Lando Calrissian and C-3PO, with Keith Ferguson voicing Han Solo.""" .

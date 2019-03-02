@@ -16,6 +16,6 @@ sw:vehicle-4  sw:consumables  2 months .
 sw:vehicle-4  sw:vehicle_class  """wheeled""" .
 sw:vehicle-4  sw:flim  sw:flim-5 .
 sw:vehicle-4  sw:flim  sw:flim-1 .
-sw:vehicle-4  sw:created  "2014-12-10T15:36:25.724000Z"^^xsd:dateTime .
-sw:vehicle-4  sw:edited  "2014-12-22T18:21:15.523587Z"^^xsd:dateTime .
+sw:vehicle-4  sw:created  "2014-12-10T15:36:25.724000Z"^^xs:dateTime .
+sw:vehicle-4  sw:edited  "2014-12-22T18:21:15.523587Z"^^xs:dateTime .
 sw:vehicle-4  sw:url  """http://swapi.co/api/vehicles/4/""" .

@@ -12,6 +12,6 @@ sw:people-74  sw:gender  """female""" .
 sw:people-74  sw:homeworld  sw:planet-9 .
 sw:people-74  sw:flim  sw:flim-5 .
 sw:people-74  sw:species  sw:species-1 .
-sw:people-74  sw:created  "2014-12-20T17:32:51.996000Z"^^xsd:dateTime .
-sw:people-74  sw:edited  "2014-12-20T21:17:50.476000Z"^^xsd:dateTime .
+sw:people-74  sw:created  "2014-12-20T17:32:51.996000Z"^^xs:dateTime .
+sw:people-74  sw:edited  "2014-12-20T21:17:50.476000Z"^^xs:dateTime .
 sw:people-74  sw:url  """http://swapi.co/api/people/74/""" .

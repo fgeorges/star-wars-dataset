@@ -15,6 +15,6 @@ sw:vehicle-69  sw:cargo_capacity  50 .
 sw:vehicle-69  sw:consumables  3 days .
 sw:vehicle-69  sw:vehicle_class  """airspeeder""" .
 sw:vehicle-69  sw:flim  sw:flim-6 .
-sw:vehicle-69  sw:created  "2014-12-20T20:20:53.931000Z"^^xsd:dateTime .
-sw:vehicle-69  sw:edited  "2014-12-22T18:21:16.517049Z"^^xsd:dateTime .
+sw:vehicle-69  sw:created  "2014-12-20T20:20:53.931000Z"^^xs:dateTime .
+sw:vehicle-69  sw:edited  "2014-12-22T18:21:16.517049Z"^^xs:dateTime .
 sw:vehicle-69  sw:url  """http://swapi.co/api/vehicles/69/""" .

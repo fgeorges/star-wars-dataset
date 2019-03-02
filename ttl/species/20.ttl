@@ -15,6 +15,6 @@ sw:species-20  sw:language  """Cerean""" .
 sw:species-20  sw:people  sw:people-52 .
 sw:species-20  sw:flim  sw:flim-4 .
 sw:species-20  sw:flim  sw:flim-6 .
-sw:species-20  sw:created  "2014-12-20T10:15:33.765000Z"^^xsd:dateTime .
-sw:species-20  sw:edited  "2014-12-20T21:36:42.179000Z"^^xsd:dateTime .
+sw:species-20  sw:created  "2014-12-20T10:15:33.765000Z"^^xs:dateTime .
+sw:species-20  sw:edited  "2014-12-20T21:36:42.179000Z"^^xs:dateTime .
 sw:species-20  sw:url  """http://swapi.co/api/species/20/""" .

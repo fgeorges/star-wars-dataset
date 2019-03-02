@@ -11,6 +11,6 @@ sw:planet-25  sw:climate  """temperate""" .
 sw:planet-25  sw:gravity  """1 standard""" .
 sw:planet-25  sw:terrain  """oceans, savannas, mountains, grasslands""" .
 sw:planet-25  sw:population  """1000""" .
-sw:planet-25  sw:created  "2014-12-10T17:23:29.896000Z"^^xsd:dateTime .
-sw:planet-25  sw:edited  "2014-12-20T20:58:18.461000Z"^^xsd:dateTime .
+sw:planet-25  sw:created  "2014-12-10T17:23:29.896000Z"^^xs:dateTime .
+sw:planet-25  sw:edited  "2014-12-20T20:58:18.461000Z"^^xs:dateTime .
 sw:planet-25  sw:url  """http://swapi.co/api/planets/25/""" .

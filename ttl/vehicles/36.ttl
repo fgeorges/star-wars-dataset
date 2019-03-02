@@ -15,7 +15,7 @@ sw:vehicle-36  sw:cargo_capacity  none .
 sw:vehicle-36  sw:consumables  none .
 sw:vehicle-36  sw:vehicle_class  """repulsorcraft""" .
 sw:vehicle-36  sw:flim  sw:flim-4 .
-sw:vehicle-36  sw:created  "2014-12-19T17:15:09.511000Z"^^xsd:dateTime .
-sw:vehicle-36  sw:edited  "2014-12-22T18:21:16.008594Z"^^xsd:dateTime .
+sw:vehicle-36  sw:created  "2014-12-19T17:15:09.511000Z"^^xs:dateTime .
+sw:vehicle-36  sw:edited  "2014-12-22T18:21:16.008594Z"^^xs:dateTime .
 sw:vehicle-36  sw:url  """http://swapi.co/api/vehicles/36/""" .
 sw:vehicle-36  sw:desc  """Speeder bikes (also known as \u0022jumpspeeders\u0022 or \u0022hover bikes\u0022) and swoop bikes (or just \u0022swoops\u0022) are small, fast transports that use repulsorlift engines in the fictional Star Wars universe. Return of the Jedi includes a prominent speeder bike chase; speeders and swoops also appear in Star Wars: Episode I – The Phantom Menace, Star Wars: Episode II – Attack of the Clones, Star Wars: Episode III – Revenge of the Sith, Star Wars, and the Star Wars expanded universe's books, comics, and games.""" .

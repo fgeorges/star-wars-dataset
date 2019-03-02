@@ -16,6 +16,6 @@ sw:species-25  sw:language  """Quermian""" .
 sw:species-25  sw:people  sw:people-57 .
 sw:species-25  sw:flim  sw:flim-4 .
 sw:species-25  sw:flim  sw:flim-6 .
-sw:species-25  sw:created  "2014-12-20T10:34:50.827000Z"^^xsd:dateTime .
-sw:species-25  sw:edited  "2014-12-20T21:36:42.189000Z"^^xsd:dateTime .
+sw:species-25  sw:created  "2014-12-20T10:34:50.827000Z"^^xs:dateTime .
+sw:species-25  sw:edited  "2014-12-20T21:36:42.189000Z"^^xs:dateTime .
 sw:species-25  sw:url  """http://swapi.co/api/species/25/""" .

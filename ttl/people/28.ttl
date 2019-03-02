@@ -13,6 +13,6 @@ sw:people-28  sw:gender  """female""" .
 sw:people-28  sw:homeworld  sw:planet-32 .
 sw:people-28  sw:flim  sw:flim-3 .
 sw:people-28  sw:species  sw:species-1 .
-sw:people-28  sw:created  "2014-12-18T11:12:38.895000Z"^^xsd:dateTime .
-sw:people-28  sw:edited  "2014-12-20T21:17:50.364000Z"^^xsd:dateTime .
+sw:people-28  sw:created  "2014-12-18T11:12:38.895000Z"^^xs:dateTime .
+sw:people-28  sw:edited  "2014-12-20T21:17:50.364000Z"^^xs:dateTime .
 sw:people-28  sw:url  """http://swapi.co/api/people/28/""" .

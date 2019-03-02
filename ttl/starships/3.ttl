@@ -19,8 +19,8 @@ sw:starship-3  sw:starship_class  """Star Destroyer""" .
 sw:starship-3  sw:flim  sw:flim-3 .
 sw:starship-3  sw:flim  sw:flim-2 .
 sw:starship-3  sw:flim  sw:flim-1 .
-sw:starship-3  sw:created  "2014-12-10T15:08:19.848000Z"^^xsd:dateTime .
-sw:starship-3  sw:edited  "2014-12-22T17:35:44.410941Z"^^xsd:dateTime .
+sw:starship-3  sw:created  "2014-12-10T15:08:19.848000Z"^^xs:dateTime .
+sw:starship-3  sw:edited  "2014-12-22T17:35:44.410941Z"^^xs:dateTime .
 sw:starship-3  sw:url  """http://swapi.co/api/starships/3/""" .
 sw:starship-3  sw:desc  """Star Destroyers are capital ships in the fictional Star Wars universe. The Imperial Star Destroyer, which first appears in the first seconds of Star Wars (1977), is \u0022the signature vessel of the Imperial fleet\u0022.[2] The term \u0022Star Destroyer\u0022 also refers to other vessels in the franchise.""" .
 sw:starship-3  sw:desc  """Numerous Star Destroyer models and toys have been released, and the iconic scene featuring the vessel's first appearance has been called \u0022a milestone in special effects history\u0022.""" .

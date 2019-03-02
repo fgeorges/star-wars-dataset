@@ -18,7 +18,7 @@ sw:starship-28  sw:MGLT  """120""" .
 sw:starship-28  sw:starship_class  """Starfighter""" .
 sw:starship-28  sw:pilot  sw:people-29 .
 sw:starship-28  sw:flim  sw:flim-3 .
-sw:starship-28  sw:created  "2014-12-18T11:16:34.542000Z"^^xsd:dateTime .
-sw:starship-28  sw:edited  "2014-12-22T17:35:44.978754Z"^^xsd:dateTime .
+sw:starship-28  sw:created  "2014-12-18T11:16:34.542000Z"^^xs:dateTime .
+sw:starship-28  sw:edited  "2014-12-22T17:35:44.978754Z"^^xs:dateTime .
 sw:starship-28  sw:url  """http://swapi.co/api/starships/28/""" .
 sw:starship-28  sw:desc  """A-wings are fictional starfighters in the Star Wars franchise. They first appear in Return of the Jedi (1983) and later in numerous Star Wars materials and productions. It gained popularity through its depiction in several video games, and since 1985 the A-wing has been merchandised by several companies.""" .

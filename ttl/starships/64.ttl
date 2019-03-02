@@ -15,6 +15,6 @@ sw:starship-64  sw:starship_class  """yacht""" .
 sw:starship-64  sw:pilot  sw:people-10 .
 sw:starship-64  sw:pilot  sw:people-35 .
 sw:starship-64  sw:flim  sw:flim-6 .
-sw:starship-64  sw:created  "2014-12-20T19:55:15.396000Z"^^xsd:dateTime .
-sw:starship-64  sw:edited  "2014-12-22T17:35:45.258859Z"^^xsd:dateTime .
+sw:starship-64  sw:created  "2014-12-20T19:55:15.396000Z"^^xs:dateTime .
+sw:starship-64  sw:edited  "2014-12-22T17:35:45.258859Z"^^xs:dateTime .
 sw:starship-64  sw:url  """http://swapi.co/api/starships/64/""" .

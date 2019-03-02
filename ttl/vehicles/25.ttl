@@ -15,6 +15,6 @@ sw:vehicle-25  sw:cargo_capacity  135000 .
 sw:vehicle-25  sw:consumables  1 day .
 sw:vehicle-25  sw:vehicle_class  """repulsorcraft cargo skiff""" .
 sw:vehicle-25  sw:flim  sw:flim-3 .
-sw:vehicle-25  sw:created  "2014-12-18T10:48:03.208000Z"^^xsd:dateTime .
-sw:vehicle-25  sw:edited  "2014-12-22T18:21:15.845988Z"^^xsd:dateTime .
+sw:vehicle-25  sw:created  "2014-12-18T10:48:03.208000Z"^^xs:dateTime .
+sw:vehicle-25  sw:edited  "2014-12-22T18:21:15.845988Z"^^xs:dateTime .
 sw:vehicle-25  sw:url  """http://swapi.co/api/vehicles/25/""" .

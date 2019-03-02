@@ -14,6 +14,6 @@ sw:people-65  sw:gender  """female""" .
 sw:people-65  sw:homeworld  sw:planet-51 .
 sw:people-65  sw:flim  sw:flim-5 .
 sw:people-65  sw:species  sw:species-29 .
-sw:people-65  sw:created  "2014-12-20T16:46:40.440000Z"^^xsd:dateTime .
-sw:people-65  sw:edited  "2014-12-20T21:17:50.457000Z"^^xsd:dateTime .
+sw:people-65  sw:created  "2014-12-20T16:46:40.440000Z"^^xs:dateTime .
+sw:people-65  sw:edited  "2014-12-20T21:17:50.457000Z"^^xs:dateTime .
 sw:people-65  sw:url  """http://swapi.co/api/people/65/""" .

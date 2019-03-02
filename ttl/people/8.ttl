@@ -11,6 +11,6 @@ sw:people-8  sw:eye_color  """red""" .
 sw:people-8  sw:homeworld  sw:planet-1 .
 sw:people-8  sw:flim  sw:flim-1 .
 sw:people-8  sw:species  sw:species-2 .
-sw:people-8  sw:created  "2014-12-10T15:57:50.959000Z"^^xsd:dateTime .
-sw:people-8  sw:edited  "2014-12-20T21:17:50.321000Z"^^xsd:dateTime .
+sw:people-8  sw:created  "2014-12-10T15:57:50.959000Z"^^xs:dateTime .
+sw:people-8  sw:edited  "2014-12-20T21:17:50.321000Z"^^xs:dateTime .
 sw:people-8  sw:url  """http://swapi.co/api/people/8/""" .

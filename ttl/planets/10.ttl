@@ -16,6 +16,6 @@ sw:planet-10  sw:resident  sw:people-22 .
 sw:planet-10  sw:resident  sw:people-72 .
 sw:planet-10  sw:resident  sw:people-73 .
 sw:planet-10  sw:flim  sw:flim-5 .
-sw:planet-10  sw:created  "2014-12-10T12:45:06.577000Z"^^xsd:dateTime .
-sw:planet-10  sw:edited  "2014-12-20T20:58:18.434000Z"^^xsd:dateTime .
+sw:planet-10  sw:created  "2014-12-10T12:45:06.577000Z"^^xs:dateTime .
+sw:planet-10  sw:edited  "2014-12-20T20:58:18.434000Z"^^xs:dateTime .
 sw:planet-10  sw:url  """http://swapi.co/api/planets/10/""" .

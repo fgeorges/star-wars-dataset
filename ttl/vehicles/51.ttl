@@ -13,6 +13,6 @@ sw:vehicle-51  sw:passengers  0 .
 sw:vehicle-51  sw:cargo_capacity  40000 .
 sw:vehicle-51  sw:vehicle_class  """gunship""" .
 sw:vehicle-51  sw:flim  sw:flim-5 .
-sw:vehicle-51  sw:created  "2014-12-20T18:02:46.802000Z"^^xsd:dateTime .
-sw:vehicle-51  sw:edited  "2014-12-22T18:21:16.229733Z"^^xsd:dateTime .
+sw:vehicle-51  sw:created  "2014-12-20T18:02:46.802000Z"^^xs:dateTime .
+sw:vehicle-51  sw:edited  "2014-12-22T18:21:16.229733Z"^^xs:dateTime .
 sw:vehicle-51  sw:url  """http://swapi.co/api/vehicles/51/""" .

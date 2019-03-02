@@ -12,6 +12,6 @@ sw:species-23  sw:homeworld  sw:planet-46 .
 sw:species-23  sw:people  sw:people-55 .
 sw:species-23  sw:flim  sw:flim-4 .
 sw:species-23  sw:flim  sw:flim-6 .
-sw:species-23  sw:created  "2014-12-20T10:29:13.798000Z"^^xsd:dateTime .
-sw:species-23  sw:edited  "2014-12-20T21:36:42.186000Z"^^xsd:dateTime .
+sw:species-23  sw:created  "2014-12-20T10:29:13.798000Z"^^xs:dateTime .
+sw:species-23  sw:edited  "2014-12-20T21:36:42.186000Z"^^xs:dateTime .
 sw:species-23  sw:url  """http://swapi.co/api/species/23/""" .

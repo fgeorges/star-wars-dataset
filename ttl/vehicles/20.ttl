@@ -15,6 +15,6 @@ sw:vehicle-20  sw:cargo_capacity  10 .
 sw:vehicle-20  sw:consumables  1 day .
 sw:vehicle-20  sw:vehicle_class  """repulsorcraft""" .
 sw:vehicle-20  sw:flim  sw:flim-2 .
-sw:vehicle-20  sw:created  "2014-12-15T12:58:50.530000Z"^^xsd:dateTime .
-sw:vehicle-20  sw:edited  "2014-12-22T18:21:15.783232Z"^^xsd:dateTime .
+sw:vehicle-20  sw:created  "2014-12-15T12:58:50.530000Z"^^xs:dateTime .
+sw:vehicle-20  sw:edited  "2014-12-22T18:21:15.783232Z"^^xs:dateTime .
 sw:vehicle-20  sw:url  """http://swapi.co/api/vehicles/20/""" .

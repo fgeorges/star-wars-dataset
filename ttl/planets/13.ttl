@@ -13,6 +13,6 @@ sw:planet-13  sw:terrain  """volcanoes, lava rivers, mountains, caves""" .
 sw:planet-13  sw:surface_water  """0""" .
 sw:planet-13  sw:population  """20000""" .
 sw:planet-13  sw:flim  sw:flim-6 .
-sw:planet-13  sw:created  "2014-12-10T12:50:16.526000Z"^^xsd:dateTime .
-sw:planet-13  sw:edited  "2014-12-20T20:58:18.440000Z"^^xsd:dateTime .
+sw:planet-13  sw:created  "2014-12-10T12:50:16.526000Z"^^xs:dateTime .
+sw:planet-13  sw:edited  "2014-12-20T20:58:18.440000Z"^^xs:dateTime .
 sw:planet-13  sw:url  """http://swapi.co/api/planets/13/""" .

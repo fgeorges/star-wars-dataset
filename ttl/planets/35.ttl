@@ -12,6 +12,6 @@ sw:planet-35  sw:gravity  """1.56""" .
 sw:planet-35  sw:terrain  """swamps, deserts, jungles, mountains""" .
 sw:planet-35  sw:population  """2000000000""" .
 sw:planet-35  sw:resident  sw:people-41 .
-sw:planet-35  sw:created  "2014-12-19T17:52:13.106000Z"^^xsd:dateTime .
-sw:planet-35  sw:edited  "2014-12-20T20:58:18.478000Z"^^xsd:dateTime .
+sw:planet-35  sw:created  "2014-12-19T17:52:13.106000Z"^^xs:dateTime .
+sw:planet-35  sw:edited  "2014-12-20T20:58:18.478000Z"^^xs:dateTime .
 sw:planet-35  sw:url  """http://swapi.co/api/planets/35/""" .

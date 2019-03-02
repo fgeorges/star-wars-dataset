@@ -12,6 +12,6 @@ sw:planet-42  sw:gravity  """0.98""" .
 sw:planet-42  sw:terrain  """toxic cloudsea, plateaus, volcanoes""" .
 sw:planet-42  sw:population  """705300""" .
 sw:planet-42  sw:resident  sw:people-51 .
-sw:planet-42  sw:created  "2014-12-20T10:12:28.980000Z"^^xsd:dateTime .
-sw:planet-42  sw:edited  "2014-12-20T20:58:18.491000Z"^^xsd:dateTime .
+sw:planet-42  sw:created  "2014-12-20T10:12:28.980000Z"^^xs:dateTime .
+sw:planet-42  sw:edited  "2014-12-20T20:58:18.491000Z"^^xs:dateTime .
 sw:planet-42  sw:url  """http://swapi.co/api/planets/42/""" .

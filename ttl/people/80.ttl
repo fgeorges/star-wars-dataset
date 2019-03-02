@@ -13,6 +13,6 @@ sw:people-80  sw:gender  """male""" .
 sw:people-80  sw:homeworld  sw:planet-14 .
 sw:people-80  sw:flim  sw:flim-6 .
 sw:people-80  sw:species  sw:species-3 .
-sw:people-80  sw:created  "2014-12-20T19:46:34.209000Z"^^xsd:dateTime .
-sw:people-80  sw:edited  "2014-12-20T21:17:50.491000Z"^^xsd:dateTime .
+sw:people-80  sw:created  "2014-12-20T19:46:34.209000Z"^^xs:dateTime .
+sw:people-80  sw:edited  "2014-12-20T21:17:50.491000Z"^^xs:dateTime .
 sw:people-80  sw:url  """http://swapi.co/api/people/80/""" .

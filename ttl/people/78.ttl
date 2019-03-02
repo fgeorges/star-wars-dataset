@@ -14,6 +14,6 @@ sw:people-78  sw:homeworld  sw:planet-58 .
 sw:people-78  sw:flim  sw:flim-5 .
 sw:people-78  sw:flim  sw:flim-6 .
 sw:people-78  sw:species  sw:species-35 .
-sw:people-78  sw:created  "2014-12-20T18:44:01.103000Z"^^xsd:dateTime .
-sw:people-78  sw:edited  "2014-12-20T21:17:50.486000Z"^^xsd:dateTime .
+sw:people-78  sw:created  "2014-12-20T18:44:01.103000Z"^^xs:dateTime .
+sw:people-78  sw:edited  "2014-12-20T21:17:50.486000Z"^^xs:dateTime .
 sw:people-78  sw:url  """http://swapi.co/api/people/78/""" .

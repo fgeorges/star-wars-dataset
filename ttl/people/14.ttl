@@ -19,7 +19,7 @@ sw:people-14  sw:flim  sw:flim-7 .
 sw:people-14  sw:species  sw:species-1 .
 sw:people-14  sw:starship  sw:starship-10 .
 sw:people-14  sw:starship  sw:starship-22 .
-sw:people-14  sw:created  "2014-12-10T16:49:14.582000Z"^^xsd:dateTime .
-sw:people-14  sw:edited  "2014-12-20T21:17:50.334000Z"^^xsd:dateTime .
+sw:people-14  sw:created  "2014-12-10T16:49:14.582000Z"^^xs:dateTime .
+sw:people-14  sw:edited  "2014-12-20T21:17:50.334000Z"^^xs:dateTime .
 sw:people-14  sw:url  """http://swapi.co/api/people/14/""" .
 sw:people-14  sw:desc  """Han Solo is a character in the Star Wars franchise. In the original film trilogy, Han and his co-pilot, Chewbacca, became involved in the Rebel Alliance's struggle against the Galactic Empire. During the course of the Star Wars narrative, he becomes a chief figure in the Alliance and succeeding galactic governments. Star Wars creator George Lucas described the character as \u0022a loner who realizes the importance of being part of a group and helping for the common good\u0022.[2] Harrison Ford portrayed the character in the original Star Wars trilogy as well as The Force Awakens. Alden Ehrenreich will portray a young Han Solo in Solo: A Star Wars Story.""" .

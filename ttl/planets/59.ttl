@@ -12,6 +12,6 @@ sw:planet-59  sw:gravity  """1""" .
 sw:planet-59  sw:terrain  """rainforests, cliffs, canyons, seas""" .
 sw:planet-59  sw:population  """4000000000""" .
 sw:planet-59  sw:resident  sw:people-79 .
-sw:planet-59  sw:created  "2014-12-20T19:43:51.278000Z"^^xsd:dateTime .
-sw:planet-59  sw:edited  "2014-12-20T20:58:18.523000Z"^^xsd:dateTime .
+sw:planet-59  sw:created  "2014-12-20T19:43:51.278000Z"^^xs:dateTime .
+sw:planet-59  sw:edited  "2014-12-20T20:58:18.523000Z"^^xs:dateTime .
 sw:planet-59  sw:url  """http://swapi.co/api/planets/59/""" .

@@ -21,6 +21,6 @@ sw:starship-22  sw:pilot  sw:people-13 .
 sw:starship-22  sw:pilot  sw:people-14 .
 sw:starship-22  sw:flim  sw:flim-3 .
 sw:starship-22  sw:flim  sw:flim-2 .
-sw:starship-22  sw:created  "2014-12-15T13:04:47.235000Z"^^xsd:dateTime .
-sw:starship-22  sw:edited  "2014-12-22T17:35:44.795405Z"^^xsd:dateTime .
+sw:starship-22  sw:created  "2014-12-15T13:04:47.235000Z"^^xs:dateTime .
+sw:starship-22  sw:edited  "2014-12-22T17:35:44.795405Z"^^xs:dateTime .
 sw:starship-22  sw:url  """http://swapi.co/api/starships/22/""" .

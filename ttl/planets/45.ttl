@@ -8,6 +8,6 @@ sw:planet-45  sw:rotation_period  29 .
 sw:planet-45  sw:orbital_period  413 .
 sw:planet-45  sw:terrain  """rocky canyons, acid pools""" .
 sw:planet-45  sw:resident  sw:people-54 .
-sw:planet-45  sw:created  "2014-12-20T10:26:05.788000Z"^^xsd:dateTime .
-sw:planet-45  sw:edited  "2014-12-20T20:58:18.497000Z"^^xsd:dateTime .
+sw:planet-45  sw:created  "2014-12-20T10:26:05.788000Z"^^xs:dateTime .
+sw:planet-45  sw:edited  "2014-12-20T20:58:18.497000Z"^^xs:dateTime .
 sw:planet-45  sw:url  """http://swapi.co/api/planets/45/""" .

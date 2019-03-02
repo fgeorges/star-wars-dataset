@@ -12,6 +12,6 @@ sw:planet-36  sw:gravity  """0.9""" .
 sw:planet-36  sw:terrain  """forests, deserts, savannas""" .
 sw:planet-36  sw:population  """5200""" .
 sw:planet-36  sw:resident  sw:people-44 .
-sw:planet-36  sw:created  "2014-12-19T18:00:40.142000Z"^^xsd:dateTime .
-sw:planet-36  sw:edited  "2014-12-20T20:58:18.480000Z"^^xsd:dateTime .
+sw:planet-36  sw:created  "2014-12-19T18:00:40.142000Z"^^xs:dateTime .
+sw:planet-36  sw:edited  "2014-12-20T20:58:18.480000Z"^^xs:dateTime .
 sw:planet-36  sw:url  """http://swapi.co/api/planets/36/""" .

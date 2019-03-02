@@ -13,6 +13,6 @@ sw:planet-32  sw:terrain  """plains, forests""" .
 sw:planet-32  sw:surface_water  """40""" .
 sw:planet-32  sw:population  """1200000000""" .
 sw:planet-32  sw:resident  sw:people-28 .
-sw:planet-32  sw:created  "2014-12-18T11:11:51.872000Z"^^xsd:dateTime .
-sw:planet-32  sw:edited  "2014-12-20T20:58:18.472000Z"^^xsd:dateTime .
+sw:planet-32  sw:created  "2014-12-18T11:11:51.872000Z"^^xs:dateTime .
+sw:planet-32  sw:edited  "2014-12-20T20:58:18.472000Z"^^xs:dateTime .
 sw:planet-32  sw:url  """http://swapi.co/api/planets/32/""" .

@@ -15,7 +15,7 @@ sw:species-5  sw:language  """Huttese""" .
 sw:species-5  sw:people  sw:people-16 .
 sw:species-5  sw:flim  sw:flim-3 .
 sw:species-5  sw:flim  sw:flim-1 .
-sw:species-5  sw:created  "2014-12-10T17:12:50.410000Z"^^xsd:dateTime .
-sw:species-5  sw:edited  "2014-12-20T21:36:42.146000Z"^^xsd:dateTime .
+sw:species-5  sw:created  "2014-12-10T17:12:50.410000Z"^^xs:dateTime .
+sw:species-5  sw:edited  "2014-12-20T21:36:42.146000Z"^^xs:dateTime .
 sw:species-5  sw:url  """http://swapi.co/api/species/5/""" .
 sw:species-5  sw:desc  """The Hutts are a fictional alien race in the Star Wars universe. They appear in The Phantom Menace, Return of the Jedi and The Clone Wars, as well as the special edition release of A New Hope. They also appear in various Star Wars games, including those based on the movies, and the Knights of the Old Republic series. None of these are very friendly and all are criminally involved.[1] In the comic book series Tales of the Jedi: Golden Age of the Sith and Tales of the Jedi: The Fall of the Sith Empire, however, there is a Hutt character named Aarrba who is sympathetic to the main characters, Gav and Jori Daragon.""" .

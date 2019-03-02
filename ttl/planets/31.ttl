@@ -13,6 +13,6 @@ sw:planet-31  sw:terrain  """oceans, reefs, islands""" .
 sw:planet-31  sw:surface_water  """100""" .
 sw:planet-31  sw:population  """27000000000""" .
 sw:planet-31  sw:resident  sw:people-27 .
-sw:planet-31  sw:created  "2014-12-18T11:07:01.792000Z"^^xsd:dateTime .
-sw:planet-31  sw:edited  "2014-12-20T20:58:18.471000Z"^^xsd:dateTime .
+sw:planet-31  sw:created  "2014-12-18T11:07:01.792000Z"^^xs:dateTime .
+sw:planet-31  sw:edited  "2014-12-20T20:58:18.471000Z"^^xs:dateTime .
 sw:planet-31  sw:url  """http://swapi.co/api/planets/31/""" .

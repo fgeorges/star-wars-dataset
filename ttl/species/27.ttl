@@ -15,6 +15,6 @@ sw:species-27  sw:language  """Chagria""" .
 sw:species-27  sw:people  sw:people-59 .
 sw:species-27  sw:flim  sw:flim-4 .
 sw:species-27  sw:flim  sw:flim-6 .
-sw:species-27  sw:created  "2014-12-20T10:53:28.795000Z"^^xsd:dateTime .
-sw:species-27  sw:edited  "2014-12-20T21:36:42.193000Z"^^xsd:dateTime .
+sw:species-27  sw:created  "2014-12-20T10:53:28.795000Z"^^xs:dateTime .
+sw:species-27  sw:edited  "2014-12-20T21:36:42.193000Z"^^xs:dateTime .
 sw:species-27  sw:url  """http://swapi.co/api/species/27/""" .

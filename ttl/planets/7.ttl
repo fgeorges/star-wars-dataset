@@ -14,7 +14,7 @@ sw:planet-7  sw:surface_water  """8""" .
 sw:planet-7  sw:population  """30000000""" .
 sw:planet-7  sw:resident  sw:people-30 .
 sw:planet-7  sw:flim  sw:flim-3 .
-sw:planet-7  sw:created  "2014-12-10T11:50:29.349000Z"^^xsd:dateTime .
-sw:planet-7  sw:edited  "2014-12-20T20:58:18.429000Z"^^xsd:dateTime .
+sw:planet-7  sw:created  "2014-12-10T11:50:29.349000Z"^^xs:dateTime .
+sw:planet-7  sw:edited  "2014-12-20T20:58:18.429000Z"^^xs:dateTime .
 sw:planet-7  sw:url  """http://swapi.co/api/planets/7/""" .
 sw:planet-7  sw:desc  """Endor is a planet in the Star Wars universe best known for its moon, known as the sanctuary moon, a forested world (moon) covered by giant trees.""" .

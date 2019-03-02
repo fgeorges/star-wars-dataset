@@ -12,6 +12,6 @@ sw:planet-17  sw:gravity  """0.75 standard""" .
 sw:planet-17  sw:terrain  """fungus forests""" .
 sw:planet-17  sw:population  """8500000""" .
 sw:planet-17  sw:flim  sw:flim-6 .
-sw:planet-17  sw:created  "2014-12-10T13:44:50.397000Z"^^xsd:dateTime .
-sw:planet-17  sw:edited  "2014-12-20T20:58:18.447000Z"^^xsd:dateTime .
+sw:planet-17  sw:created  "2014-12-10T13:44:50.397000Z"^^xs:dateTime .
+sw:planet-17  sw:edited  "2014-12-20T20:58:18.447000Z"^^xs:dateTime .
 sw:planet-17  sw:url  """http://swapi.co/api/planets/17/""" .

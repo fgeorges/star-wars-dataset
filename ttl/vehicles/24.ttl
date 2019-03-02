@@ -15,6 +15,6 @@ sw:vehicle-24  sw:cargo_capacity  2000000 .
 sw:vehicle-24  sw:consumables  Live food tanks .
 sw:vehicle-24  sw:vehicle_class  """sail barge""" .
 sw:vehicle-24  sw:flim  sw:flim-3 .
-sw:vehicle-24  sw:created  "2014-12-18T10:44:14.217000Z"^^xsd:dateTime .
-sw:vehicle-24  sw:edited  "2014-12-22T18:21:15.807906Z"^^xsd:dateTime .
+sw:vehicle-24  sw:created  "2014-12-18T10:44:14.217000Z"^^xs:dateTime .
+sw:vehicle-24  sw:edited  "2014-12-22T18:21:15.807906Z"^^xs:dateTime .
 sw:vehicle-24  sw:url  """http://swapi.co/api/vehicles/24/""" .

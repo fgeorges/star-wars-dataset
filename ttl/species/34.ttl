@@ -16,6 +16,6 @@ sw:species-34  sw:language  """Muun""" .
 sw:species-34  sw:people  sw:people-77 .
 sw:species-34  sw:flim  sw:flim-5 .
 sw:species-34  sw:flim  sw:flim-6 .
-sw:species-34  sw:created  "2014-12-20T17:58:19.088000Z"^^xsd:dateTime .
-sw:species-34  sw:edited  "2014-12-20T21:36:42.207000Z"^^xsd:dateTime .
+sw:species-34  sw:created  "2014-12-20T17:58:19.088000Z"^^xs:dateTime .
+sw:species-34  sw:edited  "2014-12-20T21:36:42.207000Z"^^xs:dateTime .
 sw:species-34  sw:url  """http://swapi.co/api/species/34/""" .

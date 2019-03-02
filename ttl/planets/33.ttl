@@ -13,6 +13,6 @@ sw:planet-33  sw:terrain  """mountains, volcanoes, rocky deserts""" .
 sw:planet-33  sw:surface_water  """5""" .
 sw:planet-33  sw:population  """18500000000""" .
 sw:planet-33  sw:resident  sw:people-31 .
-sw:planet-33  sw:created  "2014-12-18T11:25:40.243000Z"^^xsd:dateTime .
-sw:planet-33  sw:edited  "2014-12-20T20:58:18.474000Z"^^xsd:dateTime .
+sw:planet-33  sw:created  "2014-12-18T11:25:40.243000Z"^^xs:dateTime .
+sw:planet-33  sw:edited  "2014-12-20T20:58:18.474000Z"^^xs:dateTime .
 sw:planet-33  sw:url  """http://swapi.co/api/planets/33/""" .

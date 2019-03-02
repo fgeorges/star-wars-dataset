@@ -5,6 +5,6 @@
 sw:planet-38  a  sw:Planet .
 sw:planet-38  rdfs:label  """Aleen Minor""" .
 sw:planet-38  sw:resident  sw:people-47 .
-sw:planet-38  sw:created  "2014-12-20T09:52:23.452000Z"^^xsd:dateTime .
-sw:planet-38  sw:edited  "2014-12-20T20:58:18.483000Z"^^xsd:dateTime .
+sw:planet-38  sw:created  "2014-12-20T09:52:23.452000Z"^^xs:dateTime .
+sw:planet-38  sw:edited  "2014-12-20T20:58:18.483000Z"^^xs:dateTime .
 sw:planet-38  sw:url  """http://swapi.co/api/planets/38/""" .

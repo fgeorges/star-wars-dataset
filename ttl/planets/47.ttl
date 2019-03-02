@@ -10,6 +10,6 @@ sw:planet-47  sw:climate  """arid, rocky, windy""" .
 sw:planet-47  sw:gravity  """1""" .
 sw:planet-47  sw:terrain  """rocky""" .
 sw:planet-47  sw:resident  sw:people-56 .
-sw:planet-47  sw:created  "2014-12-20T10:31:32.413000Z"^^xsd:dateTime .
-sw:planet-47  sw:edited  "2014-12-20T20:58:18.500000Z"^^xsd:dateTime .
+sw:planet-47  sw:created  "2014-12-20T10:31:32.413000Z"^^xs:dateTime .
+sw:planet-47  sw:edited  "2014-12-20T20:58:18.500000Z"^^xs:dateTime .
 sw:planet-47  sw:url  """http://swapi.co/api/planets/47/""" .

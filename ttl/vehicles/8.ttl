@@ -16,6 +16,6 @@ sw:vehicle-8  sw:vehicle_class  """starfighter""" .
 sw:vehicle-8  sw:flim  sw:flim-3 .
 sw:vehicle-8  sw:flim  sw:flim-2 .
 sw:vehicle-8  sw:flim  sw:flim-1 .
-sw:vehicle-8  sw:created  "2014-12-10T16:33:52.860000Z"^^xsd:dateTime .
-sw:vehicle-8  sw:edited  "2014-12-22T18:21:15.606149Z"^^xsd:dateTime .
+sw:vehicle-8  sw:created  "2014-12-10T16:33:52.860000Z"^^xs:dateTime .
+sw:vehicle-8  sw:edited  "2014-12-22T18:21:15.606149Z"^^xs:dateTime .
 sw:vehicle-8  sw:url  """http://swapi.co/api/vehicles/8/""" .

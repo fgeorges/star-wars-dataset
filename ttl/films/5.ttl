@@ -26,7 +26,7 @@ to assist the overwhelmed
 Jedi....""" .
 sw:film-5  sw:director  """George Lucas""" .
 sw:film-5  sw:producer  """Rick McCallum""" .
-sw:film-5  sw:release_date  "2002-05-16"^^xsd:date .
+sw:film-5  sw:release_date  "2002-05-16"^^xs:date .
 sw:film-5  sw:character  sw:people-2 .
 sw:film-5  sw:character  sw:people-3 .
 sw:film-5  sw:character  sw:people-6 .
@@ -106,8 +106,8 @@ sw:film-5  sw:species  sw:species-28 .
 sw:film-5  sw:species  sw:species-29 .
 sw:film-5  sw:species  sw:species-30 .
 sw:film-5  sw:species  sw:species-31 .
-sw:film-5  sw:created  "2014-12-20T10:57:57.886000Z"^^xsd:dateTime .
-sw:film-5  sw:edited  "2015-04-11T09:45:01.623982Z"^^xsd:dateTime .
+sw:film-5  sw:created  "2014-12-20T10:57:57.886000Z"^^xs:dateTime .
+sw:film-5  sw:edited  "2015-04-11T09:45:01.623982Z"^^xs:dateTime .
 sw:film-5  sw:url  """http://swapi.co/api/films/5/""" .
 sw:film-5  sw:desc  """Star Wars: Episode II – Attack of the Clones is a 2002 American epic space opera film directed by George Lucas and written by Lucas and Jonathan Hales. It is the second installment of the Star Wars prequel trilogy, and stars Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid, Samuel L. Jackson, Christopher Lee, Temuera Morrison, Anthony Daniels, Kenny Baker and Frank Oz.""" .
 sw:film-5  sw:desc  """Set ten years after the events in The Phantom Menace, the galaxy is on the brink of civil war. Led by a former Jedi named Count Dooku, thousands of planetary systems threaten to secede from the Galactic Republic. After Senator Padmé Amidala evades assassination, Jedi apprentice Anakin Skywalker becomes her protector, while his mentor Obi-Wan Kenobi investigates the attempt on Padmé's life. Soon Anakin, Padmé and Obi-Wan witness the onset of a new threat to the galaxy, the Clone Wars.""" .

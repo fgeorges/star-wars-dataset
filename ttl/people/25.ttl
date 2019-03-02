@@ -16,7 +16,7 @@ sw:people-25  sw:flim  sw:flim-3 .
 sw:people-25  sw:flim  sw:flim-2 .
 sw:people-25  sw:species  sw:species-1 .
 sw:people-25  sw:starship  sw:starship-10 .
-sw:people-25  sw:created  "2014-12-15T12:56:32.683000Z"^^xsd:dateTime .
-sw:people-25  sw:edited  "2014-12-20T21:17:50.357000Z"^^xsd:dateTime .
+sw:people-25  sw:created  "2014-12-15T12:56:32.683000Z"^^xs:dateTime .
+sw:people-25  sw:edited  "2014-12-20T21:17:50.357000Z"^^xs:dateTime .
 sw:people-25  sw:url  """http://swapi.co/api/people/25/""" .
 sw:people-25  sw:desc  """Lando Calrissian is a fictional character in the Star Wars franchise. He is portrayed by Billy Dee Williams in The Empire Strikes Back and Return of the Jedi, and will be played by Donald Glover in the upcoming standalone film, Solo: A Star Wars Story.[1] He also appears frequently in the Star Wars expanded universe of novels, comic books and video games, including a series of novels in which he is the protagonist.""" .

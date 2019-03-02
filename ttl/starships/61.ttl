@@ -16,6 +16,6 @@ sw:starship-61  sw:consumables  56 days .
 sw:starship-61  sw:hyperdrive_rating  1.0 .
 sw:starship-61  sw:starship_class  """transport""" .
 sw:starship-61  sw:flim  sw:flim-6 .
-sw:starship-61  sw:created  "2014-12-20T19:48:40.409000Z"^^xsd:dateTime .
-sw:starship-61  sw:edited  "2014-12-22T17:35:45.208584Z"^^xsd:dateTime .
+sw:starship-61  sw:created  "2014-12-20T19:48:40.409000Z"^^xs:dateTime .
+sw:starship-61  sw:edited  "2014-12-22T17:35:45.208584Z"^^xs:dateTime .
 sw:starship-61  sw:url  """http://swapi.co/api/starships/61/""" .

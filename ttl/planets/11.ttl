@@ -14,6 +14,6 @@ sw:planet-11  sw:surface_water  """5""" .
 sw:planet-11  sw:population  """100000000000""" .
 sw:planet-11  sw:resident  sw:people-63 .
 sw:planet-11  sw:flim  sw:flim-5 .
-sw:planet-11  sw:created  "2014-12-10T12:47:22.350000Z"^^xsd:dateTime .
-sw:planet-11  sw:edited  "2014-12-20T20:58:18.437000Z"^^xsd:dateTime .
+sw:planet-11  sw:created  "2014-12-10T12:47:22.350000Z"^^xs:dateTime .
+sw:planet-11  sw:edited  "2014-12-20T20:58:18.437000Z"^^xs:dateTime .
 sw:planet-11  sw:url  """http://swapi.co/api/planets/11/""" .

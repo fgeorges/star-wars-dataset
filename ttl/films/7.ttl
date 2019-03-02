@@ -28,7 +28,7 @@ has discovered a clue to
 Luke's whereabouts....""" .
 sw:film-7  sw:director  """J. J. Abrams""" .
 sw:film-7  sw:producer  """Kathleen Kennedy, J. J. Abrams, Bryan Burk""" .
-sw:film-7  sw:release_date  "2015-12-11"^^xsd:date .
+sw:film-7  sw:release_date  "2015-12-11"^^xs:date .
 sw:film-7  sw:character  sw:people-1 .
 sw:film-7  sw:character  sw:people-3 .
 sw:film-7  sw:character  sw:people-5 .
@@ -46,8 +46,8 @@ sw:film-7  sw:starship  sw:starship-10 .
 sw:film-7  sw:species  sw:species-3 .
 sw:film-7  sw:species  sw:species-2 .
 sw:film-7  sw:species  sw:species-1 .
-sw:film-7  sw:created  "2015-04-17T06:51:30.504780Z"^^xsd:dateTime .
-sw:film-7  sw:edited  "2015-12-17T14:31:47.617768Z"^^xsd:dateTime .
+sw:film-7  sw:created  "2015-04-17T06:51:30.504780Z"^^xs:dateTime .
+sw:film-7  sw:edited  "2015-12-17T14:31:47.617768Z"^^xs:dateTime .
 sw:film-7  sw:url  """http://swapi.co/api/films/7/""" .
 sw:film-7  sw:desc  """Star Wars: The Force Awakens (also known as Star Wars: Episode VII – The Force Awakens) is a 2015 American epic space opera film co-written, co-produced and directed by J. J. Abrams. The sequel to 1983's Return of the Jedi, The Force Awakens is the first installment of the Star Wars sequel trilogy. It stars Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Lupita Nyong'o, Andy Serkis, Domhnall Gleeson, Anthony Daniels, Peter Mayhew, and Max von Sydow. Produced by Lucasfilm Ltd. and Abrams' production company Bad Robot Productions and distributed worldwide by Walt Disney Studios Motion Pictures, The Force Awakens was the first Star Wars film not produced by franchise creator George Lucas. Set 30 years after Return of the Jedi, it follows Rey, Finn and Poe Dameron's search for Luke Skywalker and their fight alongside the Resistance, led by veterans of the Rebel Alliance, against Kylo Ren and the First Order, a successor to the Galactic Empire.""" .
 sw:film-7  sw:desc  """The Force Awakens was announced after The Walt Disney Company's acquisition of Lucasfilm in October 2012. It was produced by Abrams, his longtime collaborator Bryan Burk, and Lucasfilm president Kathleen Kennedy. Abrams and Lawrence Kasdan, co-writer of the original trilogy films The Empire Strikes Back (1980) and Return of the Jedi (1983), rewrote an initial script by Michael Arndt. John Williams, composer for the previous six films, returned to compose the film's score. Lucas served as creative consultant during the film's early production. Filming began in April 2014 in Abu Dhabi and Iceland, with principal photography also taking place in Ireland and Pinewood Studios in the United Kingdom, and concluded in November 2014. It is the first live-action Star Wars film since Revenge of the Sith (2005).""" .

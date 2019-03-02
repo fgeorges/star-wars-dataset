@@ -15,8 +15,8 @@ sw:people-79  sw:flim  sw:flim-6 .
 sw:people-79  sw:species  sw:species-36 .
 sw:people-79  sw:vehicle  sw:vehicle-60 .
 sw:people-79  sw:starship  sw:starship-74 .
-sw:people-79  sw:created  "2014-12-20T19:43:53.348000Z"^^xsd:dateTime .
-sw:people-79  sw:edited  "2014-12-20T21:17:50.488000Z"^^xsd:dateTime .
+sw:people-79  sw:created  "2014-12-20T19:43:53.348000Z"^^xs:dateTime .
+sw:people-79  sw:edited  "2014-12-20T21:17:50.488000Z"^^xs:dateTime .
 sw:people-79  sw:url  """http://swapi.co/api/people/79/""" .
 sw:people-79  sw:desc  """General Grievous is a fictional character in the Star Wars franchise. A former Kaleesh warlord named Qymaen jai Sheelal, he is the Supreme Commander of the Confederacy of Independent Systems during the Clone Wars against the Galactic Republic and is trained in all lightsaber combat forms to ensure the Jedi's destruction.""" .
 sw:people-79  sw:desc  """The character was originally introduced in 2004 in the animated series Star Wars: Clone Wars, before being part of the film Star Wars: Episode III – Revenge of the Sith.""" .

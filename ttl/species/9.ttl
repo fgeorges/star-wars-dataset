@@ -14,7 +14,7 @@ sw:species-9  sw:homeworld  sw:planet-7 .
 sw:species-9  sw:language  """Ewokese""" .
 sw:species-9  sw:people  sw:people-30 .
 sw:species-9  sw:flim  sw:flim-3 .
-sw:species-9  sw:created  "2014-12-18T11:22:00.285000Z"^^xsd:dateTime .
-sw:species-9  sw:edited  "2014-12-20T21:36:42.155000Z"^^xsd:dateTime .
+sw:species-9  sw:created  "2014-12-18T11:22:00.285000Z"^^xs:dateTime .
+sw:species-9  sw:edited  "2014-12-20T21:36:42.155000Z"^^xs:dateTime .
 sw:species-9  sw:url  """http://swapi.co/api/species/9/""" .
 sw:species-9  sw:desc  """Ewoks are a fictional race of small, mammaloid bipeds that appear in the Star Wars universe. They are hunter-gatherers resembling teddy bears that inhabit the forest moon of Endor and live in various arboreal huts and other simple dwellings. They first appeared in the 1983 film Return of the Jedi and have since appeared in two made-for-television films, Caravan of Courage: An Ewok Adventure (1984) and Ewoks: The Battle for Endor (1985), as well as a short-lived animated series and several books and games.""" .

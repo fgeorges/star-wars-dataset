@@ -15,6 +15,6 @@ sw:vehicle-71  sw:cargo_capacity  30000 .
 sw:vehicle-71  sw:consumables  20 days .
 sw:vehicle-71  sw:vehicle_class  """wheeled walker""" .
 sw:vehicle-71  sw:flim  sw:flim-6 .
-sw:vehicle-71  sw:created  "2014-12-20T20:24:45.587000Z"^^xsd:dateTime .
-sw:vehicle-71  sw:edited  "2014-12-22T18:21:16.571079Z"^^xsd:dateTime .
+sw:vehicle-71  sw:created  "2014-12-20T20:24:45.587000Z"^^xs:dateTime .
+sw:vehicle-71  sw:edited  "2014-12-22T18:21:16.571079Z"^^xs:dateTime .
 sw:vehicle-71  sw:url  """http://swapi.co/api/vehicles/71/""" .

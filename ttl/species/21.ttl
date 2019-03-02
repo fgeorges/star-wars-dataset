@@ -15,6 +15,6 @@ sw:species-21  sw:homeworld  sw:planet-44 .
 sw:species-21  sw:language  """Nautila""" .
 sw:species-21  sw:people  sw:people-53 .
 sw:species-21  sw:flim  sw:flim-4 .
-sw:species-21  sw:created  "2014-12-20T10:18:58.610000Z"^^xsd:dateTime .
-sw:species-21  sw:edited  "2014-12-20T21:36:42.181000Z"^^xsd:dateTime .
+sw:species-21  sw:created  "2014-12-20T10:18:58.610000Z"^^xs:dateTime .
+sw:species-21  sw:edited  "2014-12-20T21:36:42.181000Z"^^xs:dateTime .
 sw:species-21  sw:url  """http://swapi.co/api/species/21/""" .

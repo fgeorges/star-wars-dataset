@@ -17,6 +17,6 @@ sw:people-58  sw:flim  sw:flim-4 .
 sw:people-58  sw:flim  sw:flim-6 .
 sw:people-58  sw:species  sw:species-26 .
 sw:people-58  sw:starship  sw:starship-48 .
-sw:people-58  sw:created  "2014-12-20T10:49:19.859000Z"^^xsd:dateTime .
-sw:people-58  sw:edited  "2014-12-20T21:17:50.439000Z"^^xsd:dateTime .
+sw:people-58  sw:created  "2014-12-20T10:49:19.859000Z"^^xs:dateTime .
+sw:people-58  sw:edited  "2014-12-20T21:17:50.439000Z"^^xs:dateTime .
 sw:people-58  sw:url  """http://swapi.co/api/people/58/""" .

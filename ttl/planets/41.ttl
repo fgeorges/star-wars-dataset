@@ -10,6 +10,6 @@ sw:planet-41  sw:diameter  12190 .
 sw:planet-41  sw:terrain  """barren, ash""" .
 sw:planet-41  sw:population  """0""" .
 sw:planet-41  sw:resident  sw:people-50 .
-sw:planet-41  sw:created  "2014-12-20T10:07:29.578000Z"^^xsd:dateTime .
-sw:planet-41  sw:edited  "2014-12-20T20:58:18.489000Z"^^xsd:dateTime .
+sw:planet-41  sw:created  "2014-12-20T10:07:29.578000Z"^^xs:dateTime .
+sw:planet-41  sw:edited  "2014-12-20T20:58:18.489000Z"^^xs:dateTime .
 sw:planet-41  sw:url  """http://swapi.co/api/planets/41/""" .

@@ -15,6 +15,6 @@ sw:species-31  sw:homeworld  sw:planet-55 .
 sw:species-31  sw:language  """besalisk""" .
 sw:species-31  sw:people  sw:people-71 .
 sw:species-31  sw:flim  sw:flim-5 .
-sw:species-31  sw:created  "2014-12-20T17:28:28.821000Z"^^xsd:dateTime .
-sw:species-31  sw:edited  "2014-12-20T21:36:42.200000Z"^^xsd:dateTime .
+sw:species-31  sw:created  "2014-12-20T17:28:28.821000Z"^^xs:dateTime .
+sw:species-31  sw:edited  "2014-12-20T21:36:42.200000Z"^^xs:dateTime .
 sw:species-31  sw:url  """http://swapi.co/api/species/31/""" .

@@ -27,8 +27,8 @@ sw:planet-1  sw:flim  sw:flim-4 .
 sw:planet-1  sw:flim  sw:flim-6 .
 sw:planet-1  sw:flim  sw:flim-3 .
 sw:planet-1  sw:flim  sw:flim-1 .
-sw:planet-1  sw:created  "2014-12-09T13:50:49.641000Z"^^xsd:dateTime .
-sw:planet-1  sw:edited  "2014-12-21T20:48:04.175778Z"^^xsd:dateTime .
+sw:planet-1  sw:created  "2014-12-09T13:50:49.641000Z"^^xs:dateTime .
+sw:planet-1  sw:edited  "2014-12-21T20:48:04.175778Z"^^xs:dateTime .
 sw:planet-1  sw:url  """http://swapi.co/api/planets/1/""" .
 sw:planet-1  sw:desc  """Tatooine /ˌtætuːˈiːn/ is a fictional desert planet that appears in the Star Wars space opera franchise. It is beige-coloured and is depicted as a remote, desolate world orbiting a pair of binary stars, and inhabited by human settlers and a variety of other life forms. The planet was first seen in the original 1977 film Star Wars, and has to date featured in a total five Star Wars theatrical films.""" .
 sw:planet-1  sw:desc  """It is noted as the homeworld of the protagonist of the Star Wars saga, Luke Skywalker, and also of his father, Anakin Skywalker. Shots of the binary sunset over the Tatooine desert are considered to be an iconic image of the film series.[1][2]""" .

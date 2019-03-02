@@ -19,7 +19,7 @@ sw:people-35  sw:species  sw:species-1 .
 sw:people-35  sw:starship  sw:starship-49 .
 sw:people-35  sw:starship  sw:starship-64 .
 sw:people-35  sw:starship  sw:starship-39 .
-sw:people-35  sw:created  "2014-12-19T17:28:26.926000Z"^^xsd:dateTime .
-sw:people-35  sw:edited  "2016-04-20T17:06:31.502555Z"^^xsd:dateTime .
+sw:people-35  sw:created  "2014-12-19T17:28:26.926000Z"^^xs:dateTime .
+sw:people-35  sw:edited  "2016-04-20T17:06:31.502555Z"^^xs:dateTime .
 sw:people-35  sw:url  """http://swapi.co/api/people/35/""" .
 sw:people-35  sw:desc  """Padmé Amidala (born Padmé Naberrie) is a fictional character in the Star Wars franchise, appearing in the prequel trilogy portrayed by actress Natalie Portman. She served as the Princess of Theed and later Queen of Naboo. After her reign, she became a senator in the Galactic Senate, an anti-war movement spokesperson, and co-founder of the opposition-faction that later emerged as the Rebel Alliance.[2] She was secretly married to the Jedi Anakin Skywalker, and the biological mother of Luke Skywalker and Leia Organa, which makes her the mother-in-law of Han Solo, and the grandmother of Kylo Ren.""" .

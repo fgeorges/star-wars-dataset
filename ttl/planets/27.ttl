@@ -13,6 +13,6 @@ sw:planet-27  sw:terrain  """plains, seas, mesas""" .
 sw:planet-27  sw:surface_water  """10""" .
 sw:planet-27  sw:population  """4000000000""" .
 sw:planet-27  sw:flim  sw:flim-2 .
-sw:planet-27  sw:created  "2014-12-15T12:23:41.661000Z"^^xsd:dateTime .
-sw:planet-27  sw:edited  "2014-12-20T20:58:18.464000Z"^^xsd:dateTime .
+sw:planet-27  sw:created  "2014-12-15T12:23:41.661000Z"^^xs:dateTime .
+sw:planet-27  sw:edited  "2014-12-20T20:58:18.464000Z"^^xs:dateTime .
 sw:planet-27  sw:url  """http://swapi.co/api/planets/27/""" .

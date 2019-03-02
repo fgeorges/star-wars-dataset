@@ -55,8 +55,8 @@ sw:species-1  sw:flim  sw:flim-6 .
 sw:species-1  sw:flim  sw:flim-3 .
 sw:species-1  sw:flim  sw:flim-2 .
 sw:species-1  sw:flim  sw:flim-1 .
-sw:species-1  sw:created  "2014-12-10T13:52:11.567000Z"^^xsd:dateTime .
-sw:species-1  sw:edited  "2015-04-17T06:59:55.850671Z"^^xsd:dateTime .
+sw:species-1  sw:created  "2014-12-10T13:52:11.567000Z"^^xs:dateTime .
+sw:species-1  sw:edited  "2015-04-17T06:59:55.850671Z"^^xs:dateTime .
 sw:species-1  sw:url  """http://swapi.co/api/species/1/""" .
 sw:species-1  sw:desc  """Modern humans (Homo sapiens, primarily ssp. Homo sapiens sapiens) are the only extant members of the subtribe Hominina, a branch of the tribe Hominini belonging to the family of great apes. They are characterized by erect posture and bipedal locomotion; high manual dexterity and heavy tool use compared to other animals; and a general trend toward larger, more complex brains and societies.[3][4]""" .
 sw:species-1  sw:desc  """Early hominins—particularly the australopithecines, whose brains and anatomy are in many ways more similar to ancestral non-human apes—are less often referred to as \u0022human\u0022 than hominins of the genus Homo.[5] Several of these hominins used fire, occupied much of Eurasia, and gave rise to anatomically modern Homo sapiens in Africa about 200,000 years ago.[6][7] They began to exhibit evidence of behavioral modernity around 50,000 years ago. In several waves of migration, anatomically modern humans ventured out of Africa and populated most of the world.[8]""" .

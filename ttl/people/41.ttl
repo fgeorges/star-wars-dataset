@@ -13,6 +13,6 @@ sw:people-41  sw:gender  """male""" .
 sw:people-41  sw:homeworld  sw:planet-35 .
 sw:people-41  sw:flim  sw:flim-4 .
 sw:people-41  sw:species  sw:species-14 .
-sw:people-41  sw:created  "2014-12-19T17:53:02.586000Z"^^xsd:dateTime .
-sw:people-41  sw:edited  "2014-12-20T21:17:50.397000Z"^^xsd:dateTime .
+sw:people-41  sw:created  "2014-12-19T17:53:02.586000Z"^^xs:dateTime .
+sw:people-41  sw:edited  "2014-12-20T21:17:50.397000Z"^^xs:dateTime .
 sw:people-41  sw:url  """http://swapi.co/api/people/41/""" .

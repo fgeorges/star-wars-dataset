@@ -12,6 +12,6 @@ sw:planet-29  sw:gravity  """0.62 standard""" .
 sw:planet-29  sw:terrain  """mountains, seas, grasslands, deserts""" .
 sw:planet-29  sw:population  """42000000""" .
 sw:planet-29  sw:resident  sw:people-24 .
-sw:planet-29  sw:created  "2014-12-15T12:53:47.695000Z"^^xsd:dateTime .
-sw:planet-29  sw:edited  "2014-12-20T20:58:18.468000Z"^^xsd:dateTime .
+sw:planet-29  sw:created  "2014-12-15T12:53:47.695000Z"^^xs:dateTime .
+sw:planet-29  sw:edited  "2014-12-20T20:58:18.468000Z"^^xs:dateTime .
 sw:planet-29  sw:url  """http://swapi.co/api/planets/29/""" .

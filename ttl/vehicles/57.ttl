@@ -12,6 +12,6 @@ sw:vehicle-57  sw:crew  1 .
 sw:vehicle-57  sw:passengers  0 .
 sw:vehicle-57  sw:vehicle_class  """starfighter""" .
 sw:vehicle-57  sw:flim  sw:flim-5 .
-sw:vehicle-57  sw:created  "2014-12-20T18:34:12.541000Z"^^xsd:dateTime .
-sw:vehicle-57  sw:edited  "2014-12-22T18:21:16.390980Z"^^xsd:dateTime .
+sw:vehicle-57  sw:created  "2014-12-20T18:34:12.541000Z"^^xs:dateTime .
+sw:vehicle-57  sw:edited  "2014-12-22T18:21:16.390980Z"^^xs:dateTime .
 sw:vehicle-57  sw:url  """http://swapi.co/api/vehicles/57/""" .

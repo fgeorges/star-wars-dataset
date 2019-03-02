@@ -16,6 +16,6 @@ sw:vehicle-44  sw:consumables  none .
 sw:vehicle-44  sw:vehicle_class  """repulsorcraft""" .
 sw:vehicle-44  sw:pilot  sw:people-11 .
 sw:vehicle-44  sw:flim  sw:flim-5 .
-sw:vehicle-44  sw:created  "2014-12-20T16:24:16.026000Z"^^xsd:dateTime .
-sw:vehicle-44  sw:edited  "2014-12-22T18:21:16.117652Z"^^xsd:dateTime .
+sw:vehicle-44  sw:created  "2014-12-20T16:24:16.026000Z"^^xs:dateTime .
+sw:vehicle-44  sw:edited  "2014-12-22T18:21:16.117652Z"^^xs:dateTime .
 sw:vehicle-44  sw:url  """http://swapi.co/api/vehicles/44/""" .

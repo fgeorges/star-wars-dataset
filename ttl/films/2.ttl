@@ -27,7 +27,7 @@ thousands of remote probes into
 the far reaches of space....""" .
 sw:film-2  sw:director  """Irvin Kershner""" .
 sw:film-2  sw:producer  """Gary Kutz, Rick McCallum""" .
-sw:film-2  sw:release_date  "1980-05-17"^^xsd:date .
+sw:film-2  sw:release_date  "1980-05-17"^^xs:date .
 sw:film-2  sw:character  sw:people-1 .
 sw:film-2  sw:character  sw:people-2 .
 sw:film-2  sw:character  sw:people-3 .
@@ -68,8 +68,8 @@ sw:film-2  sw:species  sw:species-7 .
 sw:film-2  sw:species  sw:species-3 .
 sw:film-2  sw:species  sw:species-2 .
 sw:film-2  sw:species  sw:species-1 .
-sw:film-2  sw:created  "2014-12-12T11:26:24.656000Z"^^xsd:dateTime .
-sw:film-2  sw:edited  "2015-04-11T09:46:31.433607Z"^^xsd:dateTime .
+sw:film-2  sw:created  "2014-12-12T11:26:24.656000Z"^^xs:dateTime .
+sw:film-2  sw:edited  "2015-04-11T09:46:31.433607Z"^^xs:dateTime .
 sw:film-2  sw:url  """http://swapi.co/api/films/2/""" .
 sw:film-2  sw:desc  """The Empire Strikes Back (also known as Star Wars: Episode V – The Empire Strikes Back) is a 1980 American epic space opera film directed by Irvin Kershner. Leigh Brackett and Lawrence Kasdan wrote the screenplay, with George Lucas writing the film's story and serving as executive producer. The second installment in the original Star Wars trilogy, it was produced by Gary Kurtz for Lucasfilm and stars Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse, Kenny Baker, Peter Mayhew, and Frank Oz.""" .
 sw:film-2  sw:desc  """The film is set three years after Star Wars. The Galactic Empire, under the leadership of the villainous Darth Vader and the Emperor, is in pursuit of Luke Skywalker and the rest of the Rebel Alliance. While Vader relentlessly pursues the small band of Luke's friends—Han Solo, Princess Leia Organa, and others—across the galaxy, Luke studies the Force under Jedi Master Yoda. When Vader captures Luke's friends, Luke must decide whether to complete his training and become a full Jedi Knight or to confront Vader and save them.""" .

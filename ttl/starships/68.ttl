@@ -14,6 +14,6 @@ sw:starship-68  sw:consumables  2 years .
 sw:starship-68  sw:hyperdrive_rating  1.0 .
 sw:starship-68  sw:starship_class  """cruiser""" .
 sw:starship-68  sw:flim  sw:flim-6 .
-sw:starship-68  sw:created  "2014-12-20T20:07:11.538000Z"^^xsd:dateTime .
-sw:starship-68  sw:edited  "2014-12-22T17:35:45.361585Z"^^xsd:dateTime .
+sw:starship-68  sw:created  "2014-12-20T20:07:11.538000Z"^^xs:dateTime .
+sw:starship-68  sw:edited  "2014-12-22T17:35:45.361585Z"^^xs:dateTime .
 sw:starship-68  sw:url  """http://swapi.co/api/starships/68/""" .

@@ -16,6 +16,6 @@ sw:starship-32  sw:starship_class  """Droid control ship""" .
 sw:starship-32  sw:flim  sw:flim-5 .
 sw:starship-32  sw:flim  sw:flim-4 .
 sw:starship-32  sw:flim  sw:flim-6 .
-sw:starship-32  sw:created  "2014-12-19T17:04:06.323000Z"^^xsd:dateTime .
-sw:starship-32  sw:edited  "2014-12-22T17:35:45.042900Z"^^xsd:dateTime .
+sw:starship-32  sw:created  "2014-12-19T17:04:06.323000Z"^^xs:dateTime .
+sw:starship-32  sw:edited  "2014-12-22T17:35:45.042900Z"^^xs:dateTime .
 sw:starship-32  sw:url  """http://swapi.co/api/starships/32/""" .

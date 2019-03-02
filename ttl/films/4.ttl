@@ -27,7 +27,7 @@ peace and justice in the
 galaxy, to settle the conflict....""" .
 sw:film-4  sw:director  """George Lucas""" .
 sw:film-4  sw:producer  """Rick McCallum""" .
-sw:film-4  sw:release_date  "1999-05-19"^^xsd:date .
+sw:film-4  sw:release_date  "1999-05-19"^^xs:date .
 sw:film-4  sw:character  sw:people-2 .
 sw:film-4  sw:character  sw:people-3 .
 sw:film-4  sw:character  sw:people-10 .
@@ -97,6 +97,6 @@ sw:film-4  sw:species  sw:species-24 .
 sw:film-4  sw:species  sw:species-25 .
 sw:film-4  sw:species  sw:species-26 .
 sw:film-4  sw:species  sw:species-27 .
-sw:film-4  sw:created  "2014-12-19T16:52:55.740000Z"^^xsd:dateTime .
-sw:film-4  sw:edited  "2015-04-11T09:45:18.689301Z"^^xsd:dateTime .
+sw:film-4  sw:created  "2014-12-19T16:52:55.740000Z"^^xs:dateTime .
+sw:film-4  sw:edited  "2015-04-11T09:45:18.689301Z"^^xs:dateTime .
 sw:film-4  sw:url  """http://swapi.co/api/films/4/""" .

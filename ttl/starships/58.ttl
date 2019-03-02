@@ -16,6 +16,6 @@ sw:starship-58  sw:consumables  7 days .
 sw:starship-58  sw:hyperdrive_rating  1.5 .
 sw:starship-58  sw:starship_class  """yacht""" .
 sw:starship-58  sw:flim  sw:flim-5 .
-sw:starship-58  sw:created  "2014-12-20T18:37:56.969000Z"^^xsd:dateTime .
-sw:starship-58  sw:edited  "2014-12-22T17:35:45.183075Z"^^xsd:dateTime .
+sw:starship-58  sw:created  "2014-12-20T18:37:56.969000Z"^^xs:dateTime .
+sw:starship-58  sw:edited  "2014-12-22T17:35:45.183075Z"^^xs:dateTime .
 sw:starship-58  sw:url  """http://swapi.co/api/starships/58/""" .

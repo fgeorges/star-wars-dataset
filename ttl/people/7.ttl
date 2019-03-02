@@ -16,6 +16,6 @@ sw:people-7  sw:flim  sw:flim-5 .
 sw:people-7  sw:flim  sw:flim-6 .
 sw:people-7  sw:flim  sw:flim-1 .
 sw:people-7  sw:species  sw:species-1 .
-sw:people-7  sw:created  "2014-12-10T15:53:41.121000Z"^^xsd:dateTime .
-sw:people-7  sw:edited  "2014-12-20T21:17:50.319000Z"^^xsd:dateTime .
+sw:people-7  sw:created  "2014-12-10T15:53:41.121000Z"^^xs:dateTime .
+sw:people-7  sw:edited  "2014-12-20T21:17:50.319000Z"^^xs:dateTime .
 sw:people-7  sw:url  """http://swapi.co/api/people/7/""" .

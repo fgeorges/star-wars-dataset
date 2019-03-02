@@ -6,6 +6,6 @@ sw:planet-53  a  sw:Planet .
 sw:planet-53  rdfs:label  """Concord Dawn""" .
 sw:planet-53  sw:terrain  """jungles, forests, deserts""" .
 sw:planet-53  sw:resident  sw:people-69 .
-sw:planet-53  sw:created  "2014-12-20T16:54:39.909000Z"^^xsd:dateTime .
-sw:planet-53  sw:edited  "2014-12-20T20:58:18.512000Z"^^xsd:dateTime .
+sw:planet-53  sw:created  "2014-12-20T16:54:39.909000Z"^^xs:dateTime .
+sw:planet-53  sw:edited  "2014-12-20T20:58:18.512000Z"^^xs:dateTime .
 sw:planet-53  sw:url  """http://swapi.co/api/planets/53/""" .

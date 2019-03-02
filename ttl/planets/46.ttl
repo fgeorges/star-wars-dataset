@@ -4,6 +4,6 @@
 
 sw:planet-46  a  sw:Planet .
 sw:planet-46  rdfs:label  """Tholoth""" .
-sw:planet-46  sw:created  "2014-12-20T10:28:31.117000Z"^^xsd:dateTime .
-sw:planet-46  sw:edited  "2014-12-20T20:58:18.498000Z"^^xsd:dateTime .
+sw:planet-46  sw:created  "2014-12-20T10:28:31.117000Z"^^xs:dateTime .
+sw:planet-46  sw:edited  "2014-12-20T20:58:18.498000Z"^^xs:dateTime .
 sw:planet-46  sw:url  """http://swapi.co/api/planets/46/""" .

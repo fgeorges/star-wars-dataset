@@ -18,6 +18,6 @@ sw:starship-59  sw:starship_class  """capital ship""" .
 sw:starship-59  sw:pilot  sw:people-10 .
 sw:starship-59  sw:pilot  sw:people-11 .
 sw:starship-59  sw:flim  sw:flim-6 .
-sw:starship-59  sw:created  "2014-12-20T19:40:21.902000Z"^^xsd:dateTime .
-sw:starship-59  sw:edited  "2014-12-22T17:35:45.195165Z"^^xsd:dateTime .
+sw:starship-59  sw:created  "2014-12-20T19:40:21.902000Z"^^xs:dateTime .
+sw:starship-59  sw:edited  "2014-12-22T17:35:45.195165Z"^^xs:dateTime .
 sw:starship-59  sw:url  """http://swapi.co/api/starships/59/""" .

@@ -15,6 +15,6 @@ sw:vehicle-37  sw:cargo_capacity  1800000 .
 sw:vehicle-37  sw:consumables  1 day .
 sw:vehicle-37  sw:vehicle_class  """landing craft""" .
 sw:vehicle-37  sw:flim  sw:flim-4 .
-sw:vehicle-37  sw:created  "2014-12-19T17:20:36.373000Z"^^xsd:dateTime .
-sw:vehicle-37  sw:edited  "2014-12-22T18:21:16.033738Z"^^xsd:dateTime .
+sw:vehicle-37  sw:created  "2014-12-19T17:20:36.373000Z"^^xs:dateTime .
+sw:vehicle-37  sw:edited  "2014-12-22T18:21:16.033738Z"^^xs:dateTime .
 sw:vehicle-37  sw:url  """http://swapi.co/api/vehicles/37/""" .

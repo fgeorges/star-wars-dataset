@@ -15,7 +15,7 @@ sw:planet-14  sw:population  """45000000""" .
 sw:planet-14  sw:resident  sw:people-13 .
 sw:planet-14  sw:resident  sw:people-80 .
 sw:planet-14  sw:flim  sw:flim-6 .
-sw:planet-14  sw:created  "2014-12-10T13:32:00.124000Z"^^xsd:dateTime .
-sw:planet-14  sw:edited  "2014-12-20T20:58:18.442000Z"^^xsd:dateTime .
+sw:planet-14  sw:created  "2014-12-10T13:32:00.124000Z"^^xs:dateTime .
+sw:planet-14  sw:edited  "2014-12-20T20:58:18.442000Z"^^xs:dateTime .
 sw:planet-14  sw:url  """http://swapi.co/api/planets/14/""" .
 sw:planet-14  sw:desc  """Kashyyyk (/kəˈʃiːk/ ka-SHEEK, /ˈkæʃɪk/ KASH-ik or /ˌkæˈʃiː.aɪk/ ka-SHEE-ike), also known as Wookiee Planet C, is a fictional planet in the Star Wars universe. It is the tropical, forested home world of the Wookiees. According to interviews given by Star Wars creator George Lucas, the home of the Wookiees was originally intended to be the forest moon of Endor which plays a key role in the plot of the sixth film of the series, Return of the Jedi.[1] However, Lucas decided that since the Wookiee Chewbacca was clearly proficient with advanced technology (i.e. he was pilot and mechanic of the spaceship the Millennium Falcon and he repaired the damaged droid C-3PO), it would be confusing to show the Wookiees with a primitive, \u0022stone age\u0022 culture on Endor. The Ewoks were created instead to populate the moon and to help fight the Imperial garrison stationed there.[2] Kashyyyk made appearances in the Star Wars Holiday Special and Star Wars: Episode III – Revenge of the Sith.""" .

@@ -19,6 +19,6 @@ sw:species-6  sw:flim  sw:flim-4 .
 sw:species-6  sw:flim  sw:flim-6 .
 sw:species-6  sw:flim  sw:flim-3 .
 sw:species-6  sw:flim  sw:flim-2 .
-sw:species-6  sw:created  "2014-12-15T12:27:22.877000Z"^^xsd:dateTime .
-sw:species-6  sw:edited  "2014-12-20T21:36:42.148000Z"^^xsd:dateTime .
+sw:species-6  sw:created  "2014-12-15T12:27:22.877000Z"^^xs:dateTime .
+sw:species-6  sw:edited  "2014-12-20T21:36:42.148000Z"^^xs:dateTime .
 sw:species-6  sw:url  """http://swapi.co/api/species/6/""" .

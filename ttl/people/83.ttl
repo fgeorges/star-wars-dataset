@@ -13,6 +13,6 @@ sw:people-83  sw:gender  """male""" .
 sw:people-83  sw:homeworld  sw:planet-12 .
 sw:people-83  sw:flim  sw:flim-6 .
 sw:people-83  sw:species  sw:species-37 .
-sw:people-83  sw:created  "2014-12-20T20:35:04.260000Z"^^xsd:dateTime .
-sw:people-83  sw:edited  "2014-12-20T21:17:50.498000Z"^^xsd:dateTime .
+sw:people-83  sw:created  "2014-12-20T20:35:04.260000Z"^^xs:dateTime .
+sw:people-83  sw:edited  "2014-12-20T21:17:50.498000Z"^^xs:dateTime .
 sw:people-83  sw:url  """http://swapi.co/api/people/83/""" .

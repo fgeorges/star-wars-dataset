@@ -12,6 +12,6 @@ sw:people-66  sw:gender  """female""" .
 sw:people-66  sw:homeworld  sw:planet-8 .
 sw:people-66  sw:flim  sw:flim-5 .
 sw:people-66  sw:species  sw:species-1 .
-sw:people-66  sw:created  "2014-12-20T16:49:14.640000Z"^^xsd:dateTime .
-sw:people-66  sw:edited  "2014-12-20T21:17:50.460000Z"^^xsd:dateTime .
+sw:people-66  sw:created  "2014-12-20T16:49:14.640000Z"^^xs:dateTime .
+sw:people-66  sw:edited  "2014-12-20T21:17:50.460000Z"^^xs:dateTime .
 sw:people-66  sw:url  """http://swapi.co/api/people/66/""" .

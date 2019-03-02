@@ -14,6 +14,6 @@ sw:planet-37  sw:surface_water  """5""" .
 sw:planet-37  sw:population  """1500000000""" .
 sw:planet-37  sw:resident  sw:people-45 .
 sw:planet-37  sw:resident  sw:people-46 .
-sw:planet-37  sw:created  "2014-12-20T09:46:25.740000Z"^^xsd:dateTime .
-sw:planet-37  sw:edited  "2014-12-20T20:58:18.481000Z"^^xsd:dateTime .
+sw:planet-37  sw:created  "2014-12-20T09:46:25.740000Z"^^xs:dateTime .
+sw:planet-37  sw:edited  "2014-12-20T20:58:18.481000Z"^^xs:dateTime .
 sw:planet-37  sw:url  """http://swapi.co/api/planets/37/""" .

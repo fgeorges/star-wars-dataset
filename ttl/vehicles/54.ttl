@@ -14,6 +14,6 @@ sw:vehicle-54  sw:cargo_capacity  500 .
 sw:vehicle-54  sw:consumables  7 days .
 sw:vehicle-54  sw:vehicle_class  """walker""" .
 sw:vehicle-54  sw:flim  sw:flim-5 .
-sw:vehicle-54  sw:created  "2014-12-20T18:12:32.315000Z"^^xsd:dateTime .
-sw:vehicle-54  sw:edited  "2014-12-22T18:21:16.311761Z"^^xsd:dateTime .
+sw:vehicle-54  sw:created  "2014-12-20T18:12:32.315000Z"^^xs:dateTime .
+sw:vehicle-54  sw:edited  "2014-12-22T18:21:16.311761Z"^^xs:dateTime .
 sw:vehicle-54  sw:url  """http://swapi.co/api/vehicles/54/""" .
