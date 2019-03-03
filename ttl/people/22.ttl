@@ -12,9 +12,9 @@ sw:people-22  sw:eye_color  "brown" .
 sw:people-22  sw:birth_year  "31.5BBY" .
 sw:people-22  sw:gender  "male" .
 sw:people-22  sw:homeworld  sw:planet-10 .
-sw:people-22  sw:flim  sw:flim-5 .
-sw:people-22  sw:flim  sw:flim-3 .
-sw:people-22  sw:flim  sw:flim-2 .
+sw:people-22  sw:film  sw:film-5 .
+sw:people-22  sw:film  sw:film-3 .
+sw:people-22  sw:film  sw:film-2 .
 sw:people-22  sw:species  sw:species-1 .
 sw:people-22  sw:starship  sw:starship-21 .
 sw:people-22  sw:created  "2014-12-15T12:49:32.457000Z"^^xs:dateTime .

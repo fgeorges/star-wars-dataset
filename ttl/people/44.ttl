@@ -12,7 +12,7 @@ sw:people-44  sw:eye_color  "yellow" .
 sw:people-44  sw:birth_year  "54BBY" .
 sw:people-44  sw:gender  "male" .
 sw:people-44  sw:homeworld  sw:planet-36 .
-sw:people-44  sw:flim  sw:flim-4 .
+sw:people-44  sw:film  sw:film-4 .
 sw:people-44  sw:species  sw:species-22 .
 sw:people-44  sw:vehicle  sw:vehicle-42 .
 sw:people-44  sw:starship  sw:starship-41 .

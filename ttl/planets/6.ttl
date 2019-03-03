@@ -13,7 +13,7 @@ sw:planet-6  sw:terrain  "gas giant" .
 sw:planet-6  sw:surface_water  "0" .
 sw:planet-6  sw:population  "6000000" .
 sw:planet-6  sw:resident  sw:people-26 .
-sw:planet-6  sw:flim  sw:flim-2 .
+sw:planet-6  sw:film  sw:film-2 .
 sw:planet-6  sw:created  "2014-12-10T11:43:55.240000Z"^^xs:dateTime .
 sw:planet-6  sw:edited  "2014-12-20T20:58:18.427000Z"^^xs:dateTime .
 sw:planet-6  sw:url  "http://swapi.co/api/planets/6/" .

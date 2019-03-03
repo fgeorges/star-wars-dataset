@@ -10,7 +10,7 @@ sw:people-47  sw:hair_color  "none" .
 sw:people-47  sw:skin_color  "grey, blue" .
 sw:people-47  sw:gender  "male" .
 sw:people-47  sw:homeworld  sw:planet-38 .
-sw:people-47  sw:flim  sw:flim-4 .
+sw:people-47  sw:film  sw:film-4 .
 sw:people-47  sw:species  sw:species-16 .
 sw:people-47  sw:created  "2014-12-20T09:53:15.086000Z"^^xs:dateTime .
 sw:people-47  sw:edited  "2016-06-30T12:52:19.604868Z"^^xs:dateTime .

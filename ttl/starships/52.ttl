@@ -13,7 +13,7 @@ sw:starship-52  sw:cargo_capacity  11250000 .
 sw:starship-52  sw:consumables  "2 years" .
 sw:starship-52  sw:hyperdrive_rating  0.6 .
 sw:starship-52  sw:starship_class  "assault ship" .
-sw:starship-52  sw:flim  sw:flim-5 .
+sw:starship-52  sw:film  sw:film-5 .
 sw:starship-52  sw:created  "2014-12-20T18:08:42.926000Z"^^xs:dateTime .
 sw:starship-52  sw:edited  "2014-12-22T17:35:45.171653Z"^^xs:dateTime .
 sw:starship-52  sw:url  "http://swapi.co/api/starships/52/" .

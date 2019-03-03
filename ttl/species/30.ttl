@@ -14,8 +14,8 @@ sw:species-30  sw:average_lifespan  70 .
 sw:species-30  sw:homeworld  sw:planet-54 .
 sw:species-30  sw:language  "Clawdite" .
 sw:species-30  sw:people  sw:people-70 .
-sw:species-30  sw:flim  sw:flim-5 .
-sw:species-30  sw:flim  sw:flim-6 .
+sw:species-30  sw:film  sw:film-5 .
+sw:species-30  sw:film  sw:film-6 .
 sw:species-30  sw:created  "2014-12-20T16:57:46.171000Z"^^xs:dateTime .
 sw:species-30  sw:edited  "2014-12-20T21:36:42.199000Z"^^xs:dateTime .
 sw:species-30  sw:url  "http://swapi.co/api/species/30/" .

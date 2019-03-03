@@ -12,10 +12,10 @@ sw:people-4  sw:eye_color  "yellow" .
 sw:people-4  sw:birth_year  "41.9BBY" .
 sw:people-4  sw:gender  "male" .
 sw:people-4  sw:homeworld  sw:planet-1 .
-sw:people-4  sw:flim  sw:flim-6 .
-sw:people-4  sw:flim  sw:flim-3 .
-sw:people-4  sw:flim  sw:flim-2 .
-sw:people-4  sw:flim  sw:flim-1 .
+sw:people-4  sw:film  sw:film-6 .
+sw:people-4  sw:film  sw:film-3 .
+sw:people-4  sw:film  sw:film-2 .
+sw:people-4  sw:film  sw:film-1 .
 sw:people-4  sw:species  sw:species-1 .
 sw:people-4  sw:starship  sw:starship-13 .
 sw:people-4  sw:created  "2014-12-10T15:18:20.704000Z"^^xs:dateTime .

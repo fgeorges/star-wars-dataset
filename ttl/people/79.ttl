@@ -11,7 +11,7 @@ sw:people-79  sw:skin_color  "brown, white" .
 sw:people-79  sw:eye_color  "green, yellow" .
 sw:people-79  sw:gender  "male" .
 sw:people-79  sw:homeworld  sw:planet-59 .
-sw:people-79  sw:flim  sw:flim-6 .
+sw:people-79  sw:film  sw:film-6 .
 sw:people-79  sw:species  sw:species-36 .
 sw:people-79  sw:vehicle  sw:vehicle-60 .
 sw:people-79  sw:starship  sw:starship-74 .

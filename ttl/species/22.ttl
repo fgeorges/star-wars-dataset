@@ -14,7 +14,7 @@ sw:species-22  sw:homeworld  sw:planet-45 .
 sw:species-22  sw:language  "Zabraki" .
 sw:species-22  sw:people  sw:people-44 .
 sw:species-22  sw:people  sw:people-54 .
-sw:species-22  sw:flim  sw:flim-4 .
+sw:species-22  sw:film  sw:film-4 .
 sw:species-22  sw:created  "2014-12-20T10:26:59.894000Z"^^xs:dateTime .
 sw:species-22  sw:edited  "2014-12-20T21:36:42.183000Z"^^xs:dateTime .
 sw:species-22  sw:url  "http://swapi.co/api/species/22/" .

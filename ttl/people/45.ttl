@@ -10,7 +10,7 @@ sw:people-45  sw:skin_color  "pale" .
 sw:people-45  sw:eye_color  "pink" .
 sw:people-45  sw:gender  "male" .
 sw:people-45  sw:homeworld  sw:planet-37 .
-sw:people-45  sw:flim  sw:flim-3 .
+sw:people-45  sw:film  sw:film-3 .
 sw:people-45  sw:species  sw:species-15 .
 sw:people-45  sw:created  "2014-12-20T09:47:02.512000Z"^^xs:dateTime .
 sw:people-45  sw:edited  "2014-12-20T21:17:50.407000Z"^^xs:dateTime .

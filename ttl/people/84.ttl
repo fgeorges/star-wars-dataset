@@ -9,7 +9,7 @@ sw:people-84  sw:skin_color  "dark" .
 sw:people-84  sw:eye_color  "dark" .
 sw:people-84  sw:gender  "male" .
 sw:people-84  sw:homeworld  sw:planet-28 .
-sw:people-84  sw:flim  sw:flim-7 .
+sw:people-84  sw:film  sw:film-7 .
 sw:people-84  sw:species  sw:species-1 .
 sw:people-84  sw:created  "2015-04-17T06:52:40.793621Z"^^xs:dateTime .
 sw:people-84  sw:edited  "2015-04-17T06:52:40.793674Z"^^xs:dateTime .

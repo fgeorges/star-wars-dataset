@@ -13,8 +13,8 @@ sw:vehicle-16  sw:passengers  0 .
 sw:vehicle-16  sw:cargo_capacity  "none" .
 sw:vehicle-16  sw:consumables  "2 days" .
 sw:vehicle-16  sw:vehicle_class  "space/planetary bomber" .
-sw:vehicle-16  sw:flim  sw:flim-3 .
-sw:vehicle-16  sw:flim  sw:flim-2 .
+sw:vehicle-16  sw:film  sw:film-3 .
+sw:vehicle-16  sw:film  sw:film-2 .
 sw:vehicle-16  sw:created  "2014-12-15T12:33:15.838000Z"^^xs:dateTime .
 sw:vehicle-16  sw:edited  "2014-12-22T18:21:15.667730Z"^^xs:dateTime .
 sw:vehicle-16  sw:url  "http://swapi.co/api/vehicles/16/" .

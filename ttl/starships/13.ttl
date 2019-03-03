@@ -16,7 +16,7 @@ sw:starship-13  sw:hyperdrive_rating  1.0 .
 sw:starship-13  sw:MGLT  "105" .
 sw:starship-13  sw:starship_class  "Starfighter" .
 sw:starship-13  sw:pilot  sw:people-4 .
-sw:starship-13  sw:flim  sw:flim-1 .
+sw:starship-13  sw:film  sw:film-1 .
 sw:starship-13  sw:created  "2014-12-12T11:21:32.991000Z"^^xs:dateTime .
 sw:starship-13  sw:edited  "2014-12-22T17:35:44.549047Z"^^xs:dateTime .
 sw:starship-13  sw:url  "http://swapi.co/api/starships/13/" .

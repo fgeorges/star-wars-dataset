@@ -12,11 +12,11 @@ sw:people-21  sw:eye_color  "yellow" .
 sw:people-21  sw:birth_year  "82BBY" .
 sw:people-21  sw:gender  "male" .
 sw:people-21  sw:homeworld  sw:planet-8 .
-sw:people-21  sw:flim  sw:flim-5 .
-sw:people-21  sw:flim  sw:flim-4 .
-sw:people-21  sw:flim  sw:flim-6 .
-sw:people-21  sw:flim  sw:flim-3 .
-sw:people-21  sw:flim  sw:flim-2 .
+sw:people-21  sw:film  sw:film-5 .
+sw:people-21  sw:film  sw:film-4 .
+sw:people-21  sw:film  sw:film-6 .
+sw:people-21  sw:film  sw:film-3 .
+sw:people-21  sw:film  sw:film-2 .
 sw:people-21  sw:species  sw:species-1 .
 sw:people-21  sw:created  "2014-12-15T12:48:05.971000Z"^^xs:dateTime .
 sw:people-21  sw:edited  "2014-12-20T21:17:50.347000Z"^^xs:dateTime .

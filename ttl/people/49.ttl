@@ -10,7 +10,7 @@ sw:people-49  sw:skin_color  "white, blue" .
 sw:people-49  sw:eye_color  "black" .
 sw:people-49  sw:gender  "male" .
 sw:people-49  sw:homeworld  sw:planet-40 .
-sw:people-49  sw:flim  sw:flim-4 .
+sw:people-49  sw:film  sw:film-4 .
 sw:people-49  sw:species  sw:species-18 .
 sw:people-49  sw:created  "2014-12-20T10:02:12.223000Z"^^xs:dateTime .
 sw:people-49  sw:edited  "2014-12-20T21:17:50.416000Z"^^xs:dateTime .

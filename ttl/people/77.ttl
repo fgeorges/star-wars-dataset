@@ -10,7 +10,7 @@ sw:people-77  sw:skin_color  "grey" .
 sw:people-77  sw:eye_color  "gold" .
 sw:people-77  sw:gender  "male" .
 sw:people-77  sw:homeworld  sw:planet-57 .
-sw:people-77  sw:flim  sw:flim-5 .
+sw:people-77  sw:film  sw:film-5 .
 sw:people-77  sw:species  sw:species-34 .
 sw:people-77  sw:created  "2014-12-20T17:58:17.049000Z"^^xs:dateTime .
 sw:people-77  sw:edited  "2014-12-20T21:17:50.484000Z"^^xs:dateTime .

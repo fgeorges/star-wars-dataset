@@ -13,8 +13,8 @@ sw:species-26  sw:average_lifespan  70 .
 sw:species-26  sw:homeworld  sw:planet-49 .
 sw:species-26  sw:language  "Kel Dor" .
 sw:species-26  sw:people  sw:people-58 .
-sw:species-26  sw:flim  sw:flim-4 .
-sw:species-26  sw:flim  sw:flim-6 .
+sw:species-26  sw:film  sw:film-4 .
+sw:species-26  sw:film  sw:film-6 .
 sw:species-26  sw:created  "2014-12-20T10:49:21.692000Z"^^xs:dateTime .
 sw:species-26  sw:edited  "2014-12-20T21:36:42.191000Z"^^xs:dateTime .
 sw:species-26  sw:url  "http://swapi.co/api/species/26/" .

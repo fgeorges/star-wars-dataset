@@ -12,11 +12,11 @@ sw:people-5  sw:eye_color  "brown" .
 sw:people-5  sw:birth_year  "19BBY" .
 sw:people-5  sw:gender  "female" .
 sw:people-5  sw:homeworld  sw:planet-2 .
-sw:people-5  sw:flim  sw:flim-6 .
-sw:people-5  sw:flim  sw:flim-3 .
-sw:people-5  sw:flim  sw:flim-2 .
-sw:people-5  sw:flim  sw:flim-1 .
-sw:people-5  sw:flim  sw:flim-7 .
+sw:people-5  sw:film  sw:film-6 .
+sw:people-5  sw:film  sw:film-3 .
+sw:people-5  sw:film  sw:film-2 .
+sw:people-5  sw:film  sw:film-1 .
+sw:people-5  sw:film  sw:film-7 .
 sw:people-5  sw:species  sw:species-1 .
 sw:people-5  sw:vehicle  sw:vehicle-30 .
 sw:people-5  sw:created  "2014-12-10T15:20:09.791000Z"^^xs:dateTime .

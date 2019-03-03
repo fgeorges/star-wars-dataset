@@ -6,7 +6,7 @@ sw:people-88  a  sw:People .
 sw:people-88  rdfs:label  "Captain Phasma" .
 sw:people-88  sw:gender  "female" .
 sw:people-88  sw:homeworld  sw:planet-28 .
-sw:people-88  sw:flim  sw:flim-7 .
+sw:people-88  sw:film  sw:film-7 .
 sw:people-88  sw:created  "2015-10-13T10:35:39.229823Z"^^xs:dateTime .
 sw:people-88  sw:edited  "2015-10-13T10:35:39.229894Z"^^xs:dateTime .
 sw:people-88  sw:url  "http://swapi.co/api/people/88/" .

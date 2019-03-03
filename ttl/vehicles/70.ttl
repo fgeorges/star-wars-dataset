@@ -14,7 +14,7 @@ sw:vehicle-70  sw:passengers  0 .
 sw:vehicle-70  sw:cargo_capacity  20 .
 sw:vehicle-70  sw:consumables  "none" .
 sw:vehicle-70  sw:vehicle_class  "air speeder" .
-sw:vehicle-70  sw:flim  sw:flim-6 .
+sw:vehicle-70  sw:film  sw:film-6 .
 sw:vehicle-70  sw:created  "2014-12-20T20:21:55.648000Z"^^xs:dateTime .
 sw:vehicle-70  sw:edited  "2014-12-22T18:21:16.547708Z"^^xs:dateTime .
 sw:vehicle-70  sw:url  "http://swapi.co/api/vehicles/70/" .

@@ -15,8 +15,8 @@ sw:planet-2  sw:population  "2000000000" .
 sw:planet-2  sw:resident  sw:people-5 .
 sw:planet-2  sw:resident  sw:people-68 .
 sw:planet-2  sw:resident  sw:people-81 .
-sw:planet-2  sw:flim  sw:flim-6 .
-sw:planet-2  sw:flim  sw:flim-1 .
+sw:planet-2  sw:film  sw:film-6 .
+sw:planet-2  sw:film  sw:film-1 .
 sw:planet-2  sw:created  "2014-12-10T11:35:48.479000Z"^^xs:dateTime .
 sw:planet-2  sw:edited  "2014-12-20T20:58:18.420000Z"^^xs:dateTime .
 sw:planet-2  sw:url  "http://swapi.co/api/planets/2/" .

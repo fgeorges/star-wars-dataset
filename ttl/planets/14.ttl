@@ -14,7 +14,7 @@ sw:planet-14  sw:surface_water  "60" .
 sw:planet-14  sw:population  "45000000" .
 sw:planet-14  sw:resident  sw:people-13 .
 sw:planet-14  sw:resident  sw:people-80 .
-sw:planet-14  sw:flim  sw:flim-6 .
+sw:planet-14  sw:film  sw:film-6 .
 sw:planet-14  sw:created  "2014-12-10T13:32:00.124000Z"^^xs:dateTime .
 sw:planet-14  sw:edited  "2014-12-20T20:58:18.442000Z"^^xs:dateTime .
 sw:planet-14  sw:url  "http://swapi.co/api/planets/14/" .

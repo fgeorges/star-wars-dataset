@@ -10,8 +10,8 @@ sw:people-56  sw:skin_color  "pale" .
 sw:people-56  sw:eye_color  "orange" .
 sw:people-56  sw:gender  "male" .
 sw:people-56  sw:homeworld  sw:planet-47 .
-sw:people-56  sw:flim  sw:flim-4 .
-sw:people-56  sw:flim  sw:flim-6 .
+sw:people-56  sw:film  sw:film-4 .
+sw:people-56  sw:film  sw:film-6 .
 sw:people-56  sw:species  sw:species-24 .
 sw:people-56  sw:created  "2014-12-20T10:32:11.669000Z"^^xs:dateTime .
 sw:people-56  sw:edited  "2014-12-20T21:17:50.434000Z"^^xs:dateTime .

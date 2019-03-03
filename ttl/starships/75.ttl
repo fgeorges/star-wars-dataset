@@ -15,7 +15,7 @@ sw:starship-75  sw:cargo_capacity  60 .
 sw:starship-75  sw:consumables  "15 hours" .
 sw:starship-75  sw:hyperdrive_rating  1.0 .
 sw:starship-75  sw:starship_class  "starfighter" .
-sw:starship-75  sw:flim  sw:flim-6 .
+sw:starship-75  sw:film  sw:film-6 .
 sw:starship-75  sw:created  "2014-12-20T20:43:04.349000Z"^^xs:dateTime .
 sw:starship-75  sw:edited  "2014-12-22T17:35:45.396711Z"^^xs:dateTime .
 sw:starship-75  sw:url  "http://swapi.co/api/starships/75/" .

@@ -20,9 +20,9 @@ sw:starship-12  sw:pilot  sw:people-1 .
 sw:starship-12  sw:pilot  sw:people-9 .
 sw:starship-12  sw:pilot  sw:people-18 .
 sw:starship-12  sw:pilot  sw:people-19 .
-sw:starship-12  sw:flim  sw:flim-3 .
-sw:starship-12  sw:flim  sw:flim-2 .
-sw:starship-12  sw:flim  sw:flim-1 .
+sw:starship-12  sw:film  sw:film-3 .
+sw:starship-12  sw:film  sw:film-2 .
+sw:starship-12  sw:film  sw:film-1 .
 sw:starship-12  sw:created  "2014-12-12T11:19:05.340000Z"^^xs:dateTime .
 sw:starship-12  sw:edited  "2014-12-22T17:35:44.491233Z"^^xs:dateTime .
 sw:starship-12  sw:url  "http://swapi.co/api/starships/12/" .

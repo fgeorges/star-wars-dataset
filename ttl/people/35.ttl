@@ -12,9 +12,9 @@ sw:people-35  sw:eye_color  "brown" .
 sw:people-35  sw:birth_year  "46BBY" .
 sw:people-35  sw:gender  "female" .
 sw:people-35  sw:homeworld  sw:planet-8 .
-sw:people-35  sw:flim  sw:flim-5 .
-sw:people-35  sw:flim  sw:flim-4 .
-sw:people-35  sw:flim  sw:flim-6 .
+sw:people-35  sw:film  sw:film-5 .
+sw:people-35  sw:film  sw:film-4 .
+sw:people-35  sw:film  sw:film-6 .
 sw:people-35  sw:species  sw:species-1 .
 sw:people-35  sw:starship  sw:starship-49 .
 sw:people-35  sw:starship  sw:starship-64 .

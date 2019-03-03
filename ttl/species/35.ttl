@@ -14,8 +14,8 @@ sw:species-35  sw:average_lifespan  94 .
 sw:species-35  sw:homeworld  sw:planet-58 .
 sw:species-35  sw:language  "Togruti" .
 sw:species-35  sw:people  sw:people-78 .
-sw:species-35  sw:flim  sw:flim-5 .
-sw:species-35  sw:flim  sw:flim-6 .
+sw:species-35  sw:film  sw:film-5 .
+sw:species-35  sw:film  sw:film-6 .
 sw:species-35  sw:created  "2014-12-20T18:44:03.246000Z"^^xs:dateTime .
 sw:species-35  sw:edited  "2014-12-20T21:36:42.209000Z"^^xs:dateTime .
 sw:species-35  sw:url  "http://swapi.co/api/species/35/" .

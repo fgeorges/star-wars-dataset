@@ -11,8 +11,8 @@ sw:people-68  sw:eye_color  "brown" .
 sw:people-68  sw:birth_year  "67BBY" .
 sw:people-68  sw:gender  "male" .
 sw:people-68  sw:homeworld  sw:planet-2 .
-sw:people-68  sw:flim  sw:flim-5 .
-sw:people-68  sw:flim  sw:flim-6 .
+sw:people-68  sw:film  sw:film-5 .
+sw:people-68  sw:film  sw:film-6 .
 sw:people-68  sw:species  sw:species-1 .
 sw:people-68  sw:created  "2014-12-20T16:53:08.575000Z"^^xs:dateTime .
 sw:people-68  sw:edited  "2014-12-20T21:17:50.463000Z"^^xs:dateTime .

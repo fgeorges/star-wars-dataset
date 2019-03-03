@@ -13,7 +13,7 @@ sw:vehicle-55  sw:crew  1 .
 sw:vehicle-55  sw:passengers  0 .
 sw:vehicle-55  sw:vehicle_class  "speeder" .
 sw:vehicle-55  sw:pilot  sw:people-67 .
-sw:vehicle-55  sw:flim  sw:flim-5 .
+sw:vehicle-55  sw:film  sw:film-5 .
 sw:vehicle-55  sw:created  "2014-12-20T18:15:20.312000Z"^^xs:dateTime .
 sw:vehicle-55  sw:edited  "2014-12-22T18:21:16.335005Z"^^xs:dateTime .
 sw:vehicle-55  sw:url  "http://swapi.co/api/vehicles/55/" .

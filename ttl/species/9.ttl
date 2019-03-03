@@ -13,7 +13,7 @@ sw:species-9  sw:eye_colors  "orange, brown" .
 sw:species-9  sw:homeworld  sw:planet-7 .
 sw:species-9  sw:language  "Ewokese" .
 sw:species-9  sw:people  sw:people-30 .
-sw:species-9  sw:flim  sw:flim-3 .
+sw:species-9  sw:film  sw:film-3 .
 sw:species-9  sw:created  "2014-12-18T11:22:00.285000Z"^^xs:dateTime .
 sw:species-9  sw:edited  "2014-12-20T21:36:42.155000Z"^^xs:dateTime .
 sw:species-9  sw:url  "http://swapi.co/api/species/9/" .

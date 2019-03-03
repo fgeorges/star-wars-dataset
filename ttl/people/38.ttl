@@ -10,7 +10,7 @@ sw:people-38  sw:skin_color  "green" .
 sw:people-38  sw:eye_color  "orange" .
 sw:people-38  sw:gender  "male" .
 sw:people-38  sw:homeworld  sw:planet-8 .
-sw:people-38  sw:flim  sw:flim-4 .
+sw:people-38  sw:film  sw:film-4 .
 sw:people-38  sw:species  sw:species-12 .
 sw:people-38  sw:created  "2014-12-19T17:33:38.909000Z"^^xs:dateTime .
 sw:people-38  sw:edited  "2014-12-20T21:17:50.388000Z"^^xs:dateTime .

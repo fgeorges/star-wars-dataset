@@ -11,7 +11,7 @@ sw:people-31  sw:skin_color  "grey" .
 sw:people-31  sw:eye_color  "black" .
 sw:people-31  sw:gender  "male" .
 sw:people-31  sw:homeworld  sw:planet-33 .
-sw:people-31  sw:flim  sw:flim-3 .
+sw:people-31  sw:film  sw:film-3 .
 sw:people-31  sw:species  sw:species-10 .
 sw:people-31  sw:starship  sw:starship-10 .
 sw:people-31  sw:created  "2014-12-18T11:26:18.541000Z"^^xs:dateTime .

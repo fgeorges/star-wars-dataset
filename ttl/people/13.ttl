@@ -11,11 +11,11 @@ sw:people-13  sw:eye_color  "blue" .
 sw:people-13  sw:birth_year  "200BBY" .
 sw:people-13  sw:gender  "male" .
 sw:people-13  sw:homeworld  sw:planet-14 .
-sw:people-13  sw:flim  sw:flim-6 .
-sw:people-13  sw:flim  sw:flim-3 .
-sw:people-13  sw:flim  sw:flim-2 .
-sw:people-13  sw:flim  sw:flim-1 .
-sw:people-13  sw:flim  sw:flim-7 .
+sw:people-13  sw:film  sw:film-6 .
+sw:people-13  sw:film  sw:film-3 .
+sw:people-13  sw:film  sw:film-2 .
+sw:people-13  sw:film  sw:film-1 .
+sw:people-13  sw:film  sw:film-7 .
 sw:people-13  sw:species  sw:species-3 .
 sw:people-13  sw:vehicle  sw:vehicle-19 .
 sw:people-13  sw:starship  sw:starship-10 .

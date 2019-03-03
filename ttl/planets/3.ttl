@@ -12,7 +12,7 @@ sw:planet-3  sw:gravity  "1 standard" .
 sw:planet-3  sw:terrain  "jungle, rainforests" .
 sw:planet-3  sw:surface_water  "8" .
 sw:planet-3  sw:population  "1000" .
-sw:planet-3  sw:flim  sw:flim-1 .
+sw:planet-3  sw:film  sw:film-1 .
 sw:planet-3  sw:created  "2014-12-10T11:37:19.144000Z"^^xs:dateTime .
 sw:planet-3  sw:edited  "2014-12-20T20:58:18.421000Z"^^xs:dateTime .
 sw:planet-3  sw:url  "http://swapi.co/api/planets/3/" .

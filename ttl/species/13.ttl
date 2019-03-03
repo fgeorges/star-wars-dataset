@@ -14,8 +14,8 @@ sw:species-13  sw:average_lifespan  91 .
 sw:species-13  sw:homeworld  sw:planet-34 .
 sw:species-13  sw:language  "Toydarian" .
 sw:species-13  sw:people  sw:people-40 .
-sw:species-13  sw:flim  sw:flim-5 .
-sw:species-13  sw:flim  sw:flim-4 .
+sw:species-13  sw:film  sw:film-5 .
+sw:species-13  sw:film  sw:film-4 .
 sw:species-13  sw:created  "2014-12-19T17:48:56.893000Z"^^xs:dateTime .
 sw:species-13  sw:edited  "2014-12-20T21:36:42.165000Z"^^xs:dateTime .
 sw:species-13  sw:url  "http://swapi.co/api/species/13/" .

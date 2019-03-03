@@ -13,7 +13,7 @@ sw:species-8  sw:eye_colors  "yellow" .
 sw:species-8  sw:homeworld  sw:planet-31 .
 sw:species-8  sw:language  "Mon Calamarian" .
 sw:species-8  sw:people  sw:people-27 .
-sw:species-8  sw:flim  sw:flim-3 .
+sw:species-8  sw:film  sw:film-3 .
 sw:species-8  sw:created  "2014-12-18T11:09:52.263000Z"^^xs:dateTime .
 sw:species-8  sw:edited  "2014-12-20T21:36:42.153000Z"^^xs:dateTime .
 sw:species-8  sw:url  "http://swapi.co/api/species/8/" .

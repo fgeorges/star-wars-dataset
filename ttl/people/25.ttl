@@ -12,8 +12,8 @@ sw:people-25  sw:eye_color  "brown" .
 sw:people-25  sw:birth_year  "31BBY" .
 sw:people-25  sw:gender  "male" .
 sw:people-25  sw:homeworld  sw:planet-30 .
-sw:people-25  sw:flim  sw:flim-3 .
-sw:people-25  sw:flim  sw:flim-2 .
+sw:people-25  sw:film  sw:film-3 .
+sw:people-25  sw:film  sw:film-2 .
 sw:people-25  sw:species  sw:species-1 .
 sw:people-25  sw:starship  sw:starship-10 .
 sw:people-25  sw:created  "2014-12-15T12:56:32.683000Z"^^xs:dateTime .

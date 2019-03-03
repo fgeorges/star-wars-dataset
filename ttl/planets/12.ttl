@@ -13,7 +13,7 @@ sw:planet-12  sw:terrain  "scrublands, savanna, canyons, sinkholes" .
 sw:planet-12  sw:surface_water  "0.9" .
 sw:planet-12  sw:population  "95000000" .
 sw:planet-12  sw:resident  sw:people-83 .
-sw:planet-12  sw:flim  sw:flim-6 .
+sw:planet-12  sw:film  sw:film-6 .
 sw:planet-12  sw:created  "2014-12-10T12:49:01.491000Z"^^xs:dateTime .
 sw:planet-12  sw:edited  "2014-12-20T20:58:18.439000Z"^^xs:dateTime .
 sw:planet-12  sw:url  "http://swapi.co/api/planets/12/" .

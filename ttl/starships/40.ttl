@@ -12,7 +12,7 @@ sw:starship-40  sw:crew  8 .
 sw:starship-40  sw:hyperdrive_rating  1.8 .
 sw:starship-40  sw:starship_class  "yacht" .
 sw:starship-40  sw:pilot  sw:people-39 .
-sw:starship-40  sw:flim  sw:flim-4 .
+sw:starship-40  sw:film  sw:film-4 .
 sw:starship-40  sw:created  "2014-12-19T17:45:03.506000Z"^^xs:dateTime .
 sw:starship-40  sw:edited  "2014-12-22T17:35:45.091925Z"^^xs:dateTime .
 sw:starship-40  sw:url  "http://swapi.co/api/starships/40/" .

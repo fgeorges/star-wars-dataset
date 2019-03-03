@@ -9,7 +9,7 @@ sw:people-87  sw:skin_color  "none" .
 sw:people-87  sw:eye_color  "black" .
 sw:people-87  sw:gender  "none" .
 sw:people-87  sw:homeworld  sw:planet-28 .
-sw:people-87  sw:flim  sw:flim-7 .
+sw:people-87  sw:film  sw:film-7 .
 sw:people-87  sw:species  sw:species-2 .
 sw:people-87  sw:created  "2015-04-17T06:57:38.061346Z"^^xs:dateTime .
 sw:people-87  sw:edited  "2015-04-17T06:57:38.061453Z"^^xs:dateTime .

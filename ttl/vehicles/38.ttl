@@ -14,7 +14,7 @@ sw:vehicle-38  sw:cargo_capacity  1600 .
 sw:vehicle-38  sw:vehicle_class  "submarine" .
 sw:vehicle-38  sw:pilot  sw:people-10 .
 sw:vehicle-38  sw:pilot  sw:people-32 .
-sw:vehicle-38  sw:flim  sw:flim-4 .
+sw:vehicle-38  sw:film  sw:film-4 .
 sw:vehicle-38  sw:created  "2014-12-19T17:37:37.924000Z"^^xs:dateTime .
 sw:vehicle-38  sw:edited  "2014-12-22T18:21:16.072083Z"^^xs:dateTime .
 sw:vehicle-38  sw:url  "http://swapi.co/api/vehicles/38/" .

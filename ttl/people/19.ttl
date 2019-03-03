@@ -11,7 +11,7 @@ sw:people-19  sw:skin_color  "fair" .
 sw:people-19  sw:eye_color  "blue" .
 sw:people-19  sw:gender  "male" .
 sw:people-19  sw:homeworld  sw:planet-26 .
-sw:people-19  sw:flim  sw:flim-1 .
+sw:people-19  sw:film  sw:film-1 .
 sw:people-19  sw:species  sw:species-1 .
 sw:people-19  sw:starship  sw:starship-12 .
 sw:people-19  sw:created  "2014-12-12T11:16:56.569000Z"^^xs:dateTime .

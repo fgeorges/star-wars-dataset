@@ -12,8 +12,8 @@ sw:people-67  sw:eye_color  "brown" .
 sw:people-67  sw:birth_year  "102BBY" .
 sw:people-67  sw:gender  "male" .
 sw:people-67  sw:homeworld  sw:planet-52 .
-sw:people-67  sw:flim  sw:flim-5 .
-sw:people-67  sw:flim  sw:flim-6 .
+sw:people-67  sw:film  sw:film-5 .
+sw:people-67  sw:film  sw:film-6 .
 sw:people-67  sw:species  sw:species-1 .
 sw:people-67  sw:vehicle  sw:vehicle-55 .
 sw:people-67  sw:created  "2014-12-20T16:52:14.726000Z"^^xs:dateTime .

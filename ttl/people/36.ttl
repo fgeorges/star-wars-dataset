@@ -12,8 +12,8 @@ sw:people-36  sw:eye_color  "orange" .
 sw:people-36  sw:birth_year  "52BBY" .
 sw:people-36  sw:gender  "male" .
 sw:people-36  sw:homeworld  sw:planet-8 .
-sw:people-36  sw:flim  sw:flim-5 .
-sw:people-36  sw:flim  sw:flim-4 .
+sw:people-36  sw:film  sw:film-5 .
+sw:people-36  sw:film  sw:film-4 .
 sw:people-36  sw:species  sw:species-12 .
 sw:people-36  sw:created  "2014-12-19T17:29:32.489000Z"^^xs:dateTime .
 sw:people-36  sw:edited  "2014-12-20T21:17:50.383000Z"^^xs:dateTime .

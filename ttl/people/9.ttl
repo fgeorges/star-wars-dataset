@@ -12,7 +12,7 @@ sw:people-9  sw:eye_color  "brown" .
 sw:people-9  sw:birth_year  "24BBY" .
 sw:people-9  sw:gender  "male" .
 sw:people-9  sw:homeworld  sw:planet-1 .
-sw:people-9  sw:flim  sw:flim-1 .
+sw:people-9  sw:film  sw:film-1 .
 sw:people-9  sw:species  sw:species-1 .
 sw:people-9  sw:starship  sw:starship-12 .
 sw:people-9  sw:created  "2014-12-10T15:59:50.509000Z"^^xs:dateTime .

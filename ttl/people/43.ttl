@@ -11,8 +11,8 @@ sw:people-43  sw:eye_color  "brown" .
 sw:people-43  sw:birth_year  "72BBY" .
 sw:people-43  sw:gender  "female" .
 sw:people-43  sw:homeworld  sw:planet-1 .
-sw:people-43  sw:flim  sw:flim-5 .
-sw:people-43  sw:flim  sw:flim-4 .
+sw:people-43  sw:film  sw:film-5 .
+sw:people-43  sw:film  sw:film-4 .
 sw:people-43  sw:species  sw:species-1 .
 sw:people-43  sw:created  "2014-12-19T17:57:41.191000Z"^^xs:dateTime .
 sw:people-43  sw:edited  "2014-12-20T21:17:50.401000Z"^^xs:dateTime .

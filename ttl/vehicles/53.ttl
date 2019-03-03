@@ -13,8 +13,8 @@ sw:vehicle-53  sw:passengers  36 .
 sw:vehicle-53  sw:cargo_capacity  10000 .
 sw:vehicle-53  sw:consumables  "21 days" .
 sw:vehicle-53  sw:vehicle_class  "walker" .
-sw:vehicle-53  sw:flim  sw:flim-5 .
-sw:vehicle-53  sw:flim  sw:flim-6 .
+sw:vehicle-53  sw:film  sw:film-5 .
+sw:vehicle-53  sw:film  sw:film-6 .
 sw:vehicle-53  sw:created  "2014-12-20T18:10:07.560000Z"^^xs:dateTime .
 sw:vehicle-53  sw:edited  "2014-12-22T18:21:16.293771Z"^^xs:dateTime .
 sw:vehicle-53  sw:url  "http://swapi.co/api/vehicles/53/" .

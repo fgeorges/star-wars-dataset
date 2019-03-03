@@ -9,7 +9,7 @@ sw:people-86  sw:skin_color  "light" .
 sw:people-86  sw:eye_color  "brown" .
 sw:people-86  sw:gender  "male" .
 sw:people-86  sw:homeworld  sw:planet-28 .
-sw:people-86  sw:flim  sw:flim-7 .
+sw:people-86  sw:film  sw:film-7 .
 sw:people-86  sw:species  sw:species-1 .
 sw:people-86  sw:starship  sw:starship-77 .
 sw:people-86  sw:created  "2015-04-17T06:55:21.622786Z"^^xs:dateTime .

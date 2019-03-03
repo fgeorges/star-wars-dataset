@@ -16,9 +16,9 @@ sw:starship-11  sw:consumables  "1 week" .
 sw:starship-11  sw:hyperdrive_rating  1.0 .
 sw:starship-11  sw:MGLT  "80" .
 sw:starship-11  sw:starship_class  "assault starfighter" .
-sw:starship-11  sw:flim  sw:flim-3 .
-sw:starship-11  sw:flim  sw:flim-2 .
-sw:starship-11  sw:flim  sw:flim-1 .
+sw:starship-11  sw:film  sw:film-3 .
+sw:starship-11  sw:film  sw:film-2 .
+sw:starship-11  sw:film  sw:film-1 .
 sw:starship-11  sw:created  "2014-12-12T11:00:39.817000Z"^^xs:dateTime .
 sw:starship-11  sw:edited  "2014-12-22T17:35:44.479706Z"^^xs:dateTime .
 sw:starship-11  sw:url  "http://swapi.co/api/starships/11/" .

@@ -14,7 +14,7 @@ sw:starship-27  sw:consumables  "2 years" .
 sw:starship-27  sw:hyperdrive_rating  1.0 .
 sw:starship-27  sw:MGLT  "60" .
 sw:starship-27  sw:starship_class  "Star Cruiser" .
-sw:starship-27  sw:flim  sw:flim-3 .
+sw:starship-27  sw:film  sw:film-3 .
 sw:starship-27  sw:created  "2014-12-18T10:54:57.804000Z"^^xs:dateTime .
 sw:starship-27  sw:edited  "2014-12-22T17:35:44.957852Z"^^xs:dateTime .
 sw:starship-27  sw:url  "http://swapi.co/api/starships/27/" .

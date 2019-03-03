@@ -11,8 +11,8 @@ sw:people-12  sw:eye_color  "blue" .
 sw:people-12  sw:birth_year  "64BBY" .
 sw:people-12  sw:gender  "male" .
 sw:people-12  sw:homeworld  sw:planet-21 .
-sw:people-12  sw:flim  sw:flim-1 .
-sw:people-12  sw:flim  sw:flim-6 .
+sw:people-12  sw:film  sw:film-1 .
+sw:people-12  sw:film  sw:film-6 .
 sw:people-12  sw:species  sw:species-1 .
 sw:people-12  sw:created  "2014-12-10T16:26:56.138000Z"^^xs:dateTime .
 sw:people-12  sw:edited  "2014-12-20T21:17:50.330000Z"^^xs:dateTime .

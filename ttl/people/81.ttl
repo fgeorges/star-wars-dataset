@@ -11,8 +11,8 @@ sw:people-81  sw:skin_color  "light" .
 sw:people-81  sw:eye_color  "brown" .
 sw:people-81  sw:gender  "male" .
 sw:people-81  sw:homeworld  sw:planet-2 .
-sw:people-81  sw:flim  sw:flim-1 .
-sw:people-81  sw:flim  sw:flim-6 .
+sw:people-81  sw:film  sw:film-1 .
+sw:people-81  sw:film  sw:film-6 .
 sw:people-81  sw:species  sw:species-1 .
 sw:people-81  sw:created  "2014-12-20T19:49:35.583000Z"^^xs:dateTime .
 sw:people-81  sw:edited  "2014-12-20T21:17:50.493000Z"^^xs:dateTime .

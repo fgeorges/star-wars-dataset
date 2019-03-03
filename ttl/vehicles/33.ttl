@@ -13,8 +13,8 @@ sw:vehicle-33  sw:passengers  0 .
 sw:vehicle-33  sw:cargo_capacity  0 .
 sw:vehicle-33  sw:consumables  "none" .
 sw:vehicle-33  sw:vehicle_class  "starfighter" .
-sw:vehicle-33  sw:flim  sw:flim-4 .
-sw:vehicle-33  sw:flim  sw:flim-6 .
+sw:vehicle-33  sw:film  sw:film-4 .
+sw:vehicle-33  sw:film  sw:film-6 .
 sw:vehicle-33  sw:created  "2014-12-19T17:09:53.584000Z"^^xs:dateTime .
 sw:vehicle-33  sw:edited  "2014-12-22T18:21:15.953870Z"^^xs:dateTime .
 sw:vehicle-33  sw:url  "http://swapi.co/api/vehicles/33/" .

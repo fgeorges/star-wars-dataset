@@ -11,7 +11,7 @@ sw:people-71  sw:skin_color  "brown" .
 sw:people-71  sw:eye_color  "yellow" .
 sw:people-71  sw:gender  "male" .
 sw:people-71  sw:homeworld  sw:planet-55 .
-sw:people-71  sw:flim  sw:flim-5 .
+sw:people-71  sw:film  sw:film-5 .
 sw:people-71  sw:species  sw:species-31 .
 sw:people-71  sw:created  "2014-12-20T17:28:27.248000Z"^^xs:dateTime .
 sw:people-71  sw:edited  "2014-12-20T21:17:50.470000Z"^^xs:dateTime .

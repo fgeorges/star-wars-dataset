@@ -11,8 +11,8 @@ sw:species-33  sw:hair_colors  "none" .
 sw:species-33  sw:homeworld  sw:planet-56 .
 sw:species-33  sw:language  "Skakoan" .
 sw:species-33  sw:people  sw:people-76 .
-sw:species-33  sw:flim  sw:flim-5 .
-sw:species-33  sw:flim  sw:flim-6 .
+sw:species-33  sw:film  sw:film-5 .
+sw:species-33  sw:film  sw:film-6 .
 sw:species-33  sw:created  "2014-12-20T17:53:54.515000Z"^^xs:dateTime .
 sw:species-33  sw:edited  "2014-12-20T21:36:42.204000Z"^^xs:dateTime .
 sw:species-33  sw:url  "http://swapi.co/api/species/33/" .

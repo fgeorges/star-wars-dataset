@@ -12,7 +12,7 @@ sw:people-30  sw:eye_color  "brown" .
 sw:people-30  sw:birth_year  "8BBY" .
 sw:people-30  sw:gender  "male" .
 sw:people-30  sw:homeworld  sw:planet-7 .
-sw:people-30  sw:flim  sw:flim-3 .
+sw:people-30  sw:film  sw:film-3 .
 sw:people-30  sw:species  sw:species-9 .
 sw:people-30  sw:created  "2014-12-18T11:21:58.954000Z"^^xs:dateTime .
 sw:people-30  sw:edited  "2014-12-20T21:17:50.369000Z"^^xs:dateTime .

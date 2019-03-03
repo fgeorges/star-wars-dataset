@@ -12,9 +12,9 @@ sw:people-6  sw:eye_color  "blue" .
 sw:people-6  sw:birth_year  "52BBY" .
 sw:people-6  sw:gender  "male" .
 sw:people-6  sw:homeworld  sw:planet-1 .
-sw:people-6  sw:flim  sw:flim-5 .
-sw:people-6  sw:flim  sw:flim-6 .
-sw:people-6  sw:flim  sw:flim-1 .
+sw:people-6  sw:film  sw:film-5 .
+sw:people-6  sw:film  sw:film-6 .
+sw:people-6  sw:film  sw:film-1 .
 sw:people-6  sw:species  sw:species-1 .
 sw:people-6  sw:created  "2014-12-10T15:52:14.024000Z"^^xs:dateTime .
 sw:people-6  sw:edited  "2014-12-20T21:17:50.317000Z"^^xs:dateTime .

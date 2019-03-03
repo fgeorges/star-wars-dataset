@@ -11,8 +11,8 @@ sw:people-78  sw:skin_color  "red, blue, white" .
 sw:people-78  sw:eye_color  "black" .
 sw:people-78  sw:gender  "female" .
 sw:people-78  sw:homeworld  sw:planet-58 .
-sw:people-78  sw:flim  sw:flim-5 .
-sw:people-78  sw:flim  sw:flim-6 .
+sw:people-78  sw:film  sw:film-5 .
+sw:people-78  sw:film  sw:film-6 .
 sw:people-78  sw:species  sw:species-35 .
 sw:people-78  sw:created  "2014-12-20T18:44:01.103000Z"^^xs:dateTime .
 sw:people-78  sw:edited  "2014-12-20T21:17:50.486000Z"^^xs:dateTime .

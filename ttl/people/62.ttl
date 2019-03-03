@@ -11,7 +11,7 @@ sw:people-62  sw:eye_color  "blue" .
 sw:people-62  sw:birth_year  "82BBY" .
 sw:people-62  sw:gender  "male" .
 sw:people-62  sw:homeworld  sw:planet-1 .
-sw:people-62  sw:flim  sw:flim-5 .
+sw:people-62  sw:film  sw:film-5 .
 sw:people-62  sw:species  sw:species-1 .
 sw:people-62  sw:created  "2014-12-20T15:59:03.958000Z"^^xs:dateTime .
 sw:people-62  sw:edited  "2014-12-20T21:17:50.451000Z"^^xs:dateTime .

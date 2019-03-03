@@ -14,7 +14,7 @@ sw:species-36  sw:average_lifespan  80 .
 sw:species-36  sw:homeworld  sw:planet-59 .
 sw:species-36  sw:language  "Kaleesh" .
 sw:species-36  sw:people  sw:people-79 .
-sw:species-36  sw:flim  sw:flim-6 .
+sw:species-36  sw:film  sw:film-6 .
 sw:species-36  sw:created  "2014-12-20T19:45:42.537000Z"^^xs:dateTime .
 sw:species-36  sw:edited  "2014-12-20T21:36:42.210000Z"^^xs:dateTime .
 sw:species-36  sw:url  "http://swapi.co/api/species/36/" .

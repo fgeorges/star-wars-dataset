@@ -9,7 +9,7 @@ sw:people-85  sw:skin_color  "light" .
 sw:people-85  sw:eye_color  "hazel" .
 sw:people-85  sw:gender  "female" .
 sw:people-85  sw:homeworld  sw:planet-28 .
-sw:people-85  sw:flim  sw:flim-7 .
+sw:people-85  sw:film  sw:film-7 .
 sw:people-85  sw:species  sw:species-1 .
 sw:people-85  sw:created  "2015-04-17T06:54:01.495077Z"^^xs:dateTime .
 sw:people-85  sw:edited  "2015-04-17T06:54:01.495128Z"^^xs:dateTime .

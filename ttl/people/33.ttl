@@ -11,9 +11,9 @@ sw:people-33  sw:skin_color  "mottled green" .
 sw:people-33  sw:eye_color  "red" .
 sw:people-33  sw:gender  "male" .
 sw:people-33  sw:homeworld  sw:planet-18 .
-sw:people-33  sw:flim  sw:flim-5 .
-sw:people-33  sw:flim  sw:flim-4 .
-sw:people-33  sw:flim  sw:flim-6 .
+sw:people-33  sw:film  sw:film-5 .
+sw:people-33  sw:film  sw:film-4 .
+sw:people-33  sw:film  sw:film-6 .
 sw:people-33  sw:species  sw:species-11 .
 sw:people-33  sw:created  "2014-12-19T17:05:57.357000Z"^^xs:dateTime .
 sw:people-33  sw:edited  "2014-12-20T21:17:50.377000Z"^^xs:dateTime .

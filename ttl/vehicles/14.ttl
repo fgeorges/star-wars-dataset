@@ -15,7 +15,7 @@ sw:vehicle-14  sw:consumables  "none" .
 sw:vehicle-14  sw:vehicle_class  "airspeeder" .
 sw:vehicle-14  sw:pilot  sw:people-1 .
 sw:vehicle-14  sw:pilot  sw:people-18 .
-sw:vehicle-14  sw:flim  sw:flim-2 .
+sw:vehicle-14  sw:film  sw:film-2 .
 sw:vehicle-14  sw:created  "2014-12-15T12:22:12Z"^^xs:dateTime .
 sw:vehicle-14  sw:edited  "2014-12-22T18:21:15.623033Z"^^xs:dateTime .
 sw:vehicle-14  sw:url  "http://swapi.co/api/vehicles/14/" .

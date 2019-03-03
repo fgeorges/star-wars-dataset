@@ -14,10 +14,10 @@ sw:planet-9  sw:population  "1000000000000" .
 sw:planet-9  sw:resident  sw:people-34 .
 sw:planet-9  sw:resident  sw:people-55 .
 sw:planet-9  sw:resident  sw:people-74 .
-sw:planet-9  sw:flim  sw:flim-5 .
-sw:planet-9  sw:flim  sw:flim-4 .
-sw:planet-9  sw:flim  sw:flim-6 .
-sw:planet-9  sw:flim  sw:flim-3 .
+sw:planet-9  sw:film  sw:film-5 .
+sw:planet-9  sw:film  sw:film-4 .
+sw:planet-9  sw:film  sw:film-6 .
+sw:planet-9  sw:film  sw:film-3 .
 sw:planet-9  sw:created  "2014-12-10T11:54:13.921000Z"^^xs:dateTime .
 sw:planet-9  sw:edited  "2014-12-20T20:58:18.432000Z"^^xs:dateTime .
 sw:planet-9  sw:url  "http://swapi.co/api/planets/9/" .

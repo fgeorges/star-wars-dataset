@@ -11,7 +11,7 @@ sw:vehicle-35  sw:max_atmosphering_speed  55 .
 sw:vehicle-35  sw:crew  4 .
 sw:vehicle-35  sw:passengers  6 .
 sw:vehicle-35  sw:vehicle_class  "repulsorcraft" .
-sw:vehicle-35  sw:flim  sw:flim-4 .
+sw:vehicle-35  sw:film  sw:film-4 .
 sw:vehicle-35  sw:created  "2014-12-19T17:13:29.799000Z"^^xs:dateTime .
 sw:vehicle-35  sw:edited  "2014-12-22T18:21:15.984817Z"^^xs:dateTime .
 sw:vehicle-35  sw:url  "http://swapi.co/api/vehicles/35/" .

@@ -15,7 +15,7 @@ sw:starship-9  sw:consumables  "3 years" .
 sw:starship-9  sw:hyperdrive_rating  4.0 .
 sw:starship-9  sw:MGLT  "10" .
 sw:starship-9  sw:starship_class  "Deep Space Mobile Battlestation" .
-sw:starship-9  sw:flim  sw:flim-1 .
+sw:starship-9  sw:film  sw:film-1 .
 sw:starship-9  sw:created  "2014-12-10T16:36:50.509000Z"^^xs:dateTime .
 sw:starship-9  sw:edited  "2014-12-22T17:35:44.452589Z"^^xs:dateTime .
 sw:starship-9  sw:url  "http://swapi.co/api/starships/9/" .

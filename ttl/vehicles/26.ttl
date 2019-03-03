@@ -13,7 +13,7 @@ sw:vehicle-26  sw:passengers  0 .
 sw:vehicle-26  sw:cargo_capacity  75 .
 sw:vehicle-26  sw:consumables  "2 days" .
 sw:vehicle-26  sw:vehicle_class  "starfighter" .
-sw:vehicle-26  sw:flim  sw:flim-3 .
+sw:vehicle-26  sw:film  sw:film-3 .
 sw:vehicle-26  sw:created  "2014-12-18T10:50:28.225000Z"^^xs:dateTime .
 sw:vehicle-26  sw:edited  "2014-12-22T18:21:15.882388Z"^^xs:dateTime .
 sw:vehicle-26  sw:url  "http://swapi.co/api/vehicles/26/" .

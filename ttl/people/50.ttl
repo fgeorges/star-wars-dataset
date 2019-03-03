@@ -11,7 +11,7 @@ sw:people-50  sw:skin_color  "grey, green, yellow" .
 sw:people-50  sw:eye_color  "orange" .
 sw:people-50  sw:gender  "male" .
 sw:people-50  sw:homeworld  sw:planet-41 .
-sw:people-50  sw:flim  sw:flim-4 .
+sw:people-50  sw:film  sw:film-4 .
 sw:people-50  sw:species  sw:species-19 .
 sw:people-50  sw:created  "2014-12-20T10:08:33.777000Z"^^xs:dateTime .
 sw:people-50  sw:edited  "2014-12-20T21:17:50.417000Z"^^xs:dateTime .

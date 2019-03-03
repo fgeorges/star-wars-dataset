@@ -12,9 +12,9 @@ sw:people-18  sw:eye_color  "hazel" .
 sw:people-18  sw:birth_year  "21BBY" .
 sw:people-18  sw:gender  "male" .
 sw:people-18  sw:homeworld  sw:planet-22 .
-sw:people-18  sw:flim  sw:flim-3 .
-sw:people-18  sw:flim  sw:flim-2 .
-sw:people-18  sw:flim  sw:flim-1 .
+sw:people-18  sw:film  sw:film-3 .
+sw:people-18  sw:film  sw:film-2 .
+sw:people-18  sw:film  sw:film-1 .
 sw:people-18  sw:species  sw:species-1 .
 sw:people-18  sw:vehicle  sw:vehicle-14 .
 sw:people-18  sw:starship  sw:starship-12 .

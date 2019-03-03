@@ -12,7 +12,7 @@ sw:starship-31  sw:crew  9 .
 sw:starship-31  sw:passengers  16 .
 sw:starship-31  sw:hyperdrive_rating  2.0 .
 sw:starship-31  sw:starship_class  "Space cruiser" .
-sw:starship-31  sw:flim  sw:flim-4 .
+sw:starship-31  sw:film  sw:film-4 .
 sw:starship-31  sw:created  "2014-12-19T17:01:31.488000Z"^^xs:dateTime .
 sw:starship-31  sw:edited  "2014-12-22T17:35:45.027308Z"^^xs:dateTime .
 sw:starship-31  sw:url  "http://swapi.co/api/starships/31/" .

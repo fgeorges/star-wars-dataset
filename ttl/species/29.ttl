@@ -14,8 +14,8 @@ sw:species-29  sw:homeworld  sw:planet-51 .
 sw:species-29  sw:language  "Mirialan" .
 sw:species-29  sw:people  sw:people-64 .
 sw:species-29  sw:people  sw:people-65 .
-sw:species-29  sw:flim  sw:flim-5 .
-sw:species-29  sw:flim  sw:flim-6 .
+sw:species-29  sw:film  sw:film-5 .
+sw:species-29  sw:film  sw:film-6 .
 sw:species-29  sw:created  "2014-12-20T16:46:48.290000Z"^^xs:dateTime .
 sw:species-29  sw:edited  "2014-12-20T21:36:42.197000Z"^^xs:dateTime .
 sw:species-29  sw:url  "http://swapi.co/api/species/29/" .

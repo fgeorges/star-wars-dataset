@@ -11,9 +11,9 @@ sw:people-16  sw:eye_color  "orange" .
 sw:people-16  sw:birth_year  "600BBY" .
 sw:people-16  sw:gender  "hermaphrodite" .
 sw:people-16  sw:homeworld  sw:planet-24 .
-sw:people-16  sw:flim  sw:flim-4 .
-sw:people-16  sw:flim  sw:flim-3 .
-sw:people-16  sw:flim  sw:flim-1 .
+sw:people-16  sw:film  sw:film-4 .
+sw:people-16  sw:film  sw:film-3 .
+sw:people-16  sw:film  sw:film-1 .
 sw:people-16  sw:species  sw:species-5 .
 sw:people-16  sw:created  "2014-12-10T17:11:31.638000Z"^^xs:dateTime .
 sw:people-16  sw:edited  "2014-12-20T21:17:50.338000Z"^^xs:dateTime .

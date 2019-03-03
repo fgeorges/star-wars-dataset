@@ -14,8 +14,8 @@ sw:vehicle-19  sw:cargo_capacity  200 .
 sw:vehicle-19  sw:consumables  "none" .
 sw:vehicle-19  sw:vehicle_class  "walker" .
 sw:vehicle-19  sw:pilot  sw:people-13 .
-sw:vehicle-19  sw:flim  sw:flim-3 .
-sw:vehicle-19  sw:flim  sw:flim-2 .
+sw:vehicle-19  sw:film  sw:film-3 .
+sw:vehicle-19  sw:film  sw:film-2 .
 sw:vehicle-19  sw:created  "2014-12-15T12:46:42.384000Z"^^xs:dateTime .
 sw:vehicle-19  sw:edited  "2014-12-22T18:21:15.761584Z"^^xs:dateTime .
 sw:vehicle-19  sw:url  "http://swapi.co/api/vehicles/19/" .

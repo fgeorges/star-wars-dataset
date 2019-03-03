@@ -13,7 +13,7 @@ sw:species-7  sw:eye_colors  "yellow, orange" .
 sw:species-7  sw:homeworld  sw:planet-29 .
 sw:species-7  sw:language  "Dosh" .
 sw:species-7  sw:people  sw:people-24 .
-sw:species-7  sw:flim  sw:flim-2 .
+sw:species-7  sw:film  sw:film-2 .
 sw:species-7  sw:created  "2014-12-15T13:07:47.704000Z"^^xs:dateTime .
 sw:species-7  sw:edited  "2014-12-20T21:36:42.151000Z"^^xs:dateTime .
 sw:species-7  sw:url  "http://swapi.co/api/species/7/" .

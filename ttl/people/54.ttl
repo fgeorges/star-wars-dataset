@@ -10,8 +10,8 @@ sw:people-54  sw:skin_color  "brown" .
 sw:people-54  sw:eye_color  "brown" .
 sw:people-54  sw:gender  "male" .
 sw:people-54  sw:homeworld  sw:planet-45 .
-sw:people-54  sw:flim  sw:flim-4 .
-sw:people-54  sw:flim  sw:flim-6 .
+sw:people-54  sw:film  sw:film-4 .
+sw:people-54  sw:film  sw:film-6 .
 sw:people-54  sw:species  sw:species-22 .
 sw:people-54  sw:created  "2014-12-20T10:26:47.902000Z"^^xs:dateTime .
 sw:people-54  sw:edited  "2014-12-20T21:17:50.427000Z"^^xs:dateTime .

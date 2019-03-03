@@ -12,7 +12,7 @@ sw:people-23  sw:eye_color  "red" .
 sw:people-23  sw:birth_year  "15BBY" .
 sw:people-23  sw:gender  "none" .
 sw:people-23  sw:homeworld  sw:planet-28 .
-sw:people-23  sw:flim  sw:flim-2 .
+sw:people-23  sw:film  sw:film-2 .
 sw:people-23  sw:species  sw:species-2 .
 sw:people-23  sw:created  "2014-12-15T12:51:10.076000Z"^^xs:dateTime .
 sw:people-23  sw:edited  "2014-12-20T21:17:50.351000Z"^^xs:dateTime .

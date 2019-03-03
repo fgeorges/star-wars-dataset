@@ -11,7 +11,7 @@ sw:people-72  sw:skin_color  "grey" .
 sw:people-72  sw:eye_color  "black" .
 sw:people-72  sw:gender  "male" .
 sw:people-72  sw:homeworld  sw:planet-10 .
-sw:people-72  sw:flim  sw:flim-5 .
+sw:people-72  sw:film  sw:film-5 .
 sw:people-72  sw:species  sw:species-32 .
 sw:people-72  sw:created  "2014-12-20T17:30:50.416000Z"^^xs:dateTime .
 sw:people-72  sw:edited  "2014-12-20T21:17:50.473000Z"^^xs:dateTime .

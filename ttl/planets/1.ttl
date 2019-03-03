@@ -22,11 +22,11 @@ sw:planet-1  sw:resident  sw:people-9 .
 sw:planet-1  sw:resident  sw:people-11 .
 sw:planet-1  sw:resident  sw:people-43 .
 sw:planet-1  sw:resident  sw:people-62 .
-sw:planet-1  sw:flim  sw:flim-5 .
-sw:planet-1  sw:flim  sw:flim-4 .
-sw:planet-1  sw:flim  sw:flim-6 .
-sw:planet-1  sw:flim  sw:flim-3 .
-sw:planet-1  sw:flim  sw:flim-1 .
+sw:planet-1  sw:film  sw:film-5 .
+sw:planet-1  sw:film  sw:film-4 .
+sw:planet-1  sw:film  sw:film-6 .
+sw:planet-1  sw:film  sw:film-3 .
+sw:planet-1  sw:film  sw:film-1 .
 sw:planet-1  sw:created  "2014-12-09T13:50:49.641000Z"^^xs:dateTime .
 sw:planet-1  sw:edited  "2014-12-21T20:48:04.175778Z"^^xs:dateTime .
 sw:planet-1  sw:url  "http://swapi.co/api/planets/1/" .

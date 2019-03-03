@@ -11,7 +11,7 @@ sw:people-60  sw:skin_color  "dark" .
 sw:people-60  sw:eye_color  "brown" .
 sw:people-60  sw:gender  "male" .
 sw:people-60  sw:homeworld  sw:planet-8 .
-sw:people-60  sw:flim  sw:flim-5 .
+sw:people-60  sw:film  sw:film-5 .
 sw:people-60  sw:species  sw:species-1 .
 sw:people-60  sw:starship  sw:starship-39 .
 sw:people-60  sw:created  "2014-12-20T11:10:10.381000Z"^^xs:dateTime .

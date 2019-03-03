@@ -23,10 +23,10 @@ sw:planet-8  sw:resident  sw:people-60 .
 sw:planet-8  sw:resident  sw:people-61 .
 sw:planet-8  sw:resident  sw:people-66 .
 sw:planet-8  sw:resident  sw:people-35 .
-sw:planet-8  sw:flim  sw:flim-5 .
-sw:planet-8  sw:flim  sw:flim-4 .
-sw:planet-8  sw:flim  sw:flim-6 .
-sw:planet-8  sw:flim  sw:flim-3 .
+sw:planet-8  sw:film  sw:film-5 .
+sw:planet-8  sw:film  sw:film-4 .
+sw:planet-8  sw:film  sw:film-6 .
+sw:planet-8  sw:film  sw:film-3 .
 sw:planet-8  sw:created  "2014-12-10T11:52:31.066000Z"^^xs:dateTime .
 sw:planet-8  sw:edited  "2014-12-20T20:58:18.430000Z"^^xs:dateTime .
 sw:planet-8  sw:url  "http://swapi.co/api/planets/8/" .

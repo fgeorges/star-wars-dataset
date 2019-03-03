@@ -13,8 +13,8 @@ sw:species-28  sw:eye_colors  "green, hazel" .
 sw:species-28  sw:homeworld  sw:planet-11 .
 sw:species-28  sw:language  "Geonosian" .
 sw:species-28  sw:people  sw:people-63 .
-sw:species-28  sw:flim  sw:flim-5 .
-sw:species-28  sw:flim  sw:flim-6 .
+sw:species-28  sw:film  sw:film-5 .
+sw:species-28  sw:film  sw:film-6 .
 sw:species-28  sw:created  "2014-12-20T16:40:45.618000Z"^^xs:dateTime .
 sw:species-28  sw:edited  "2014-12-20T21:36:42.195000Z"^^xs:dateTime .
 sw:species-28  sw:url  "http://swapi.co/api/species/28/" .

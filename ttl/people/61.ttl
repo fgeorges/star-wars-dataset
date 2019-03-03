@@ -10,7 +10,7 @@ sw:people-61  sw:skin_color  "light" .
 sw:people-61  sw:eye_color  "brown" .
 sw:people-61  sw:gender  "female" .
 sw:people-61  sw:homeworld  sw:planet-8 .
-sw:people-61  sw:flim  sw:flim-5 .
+sw:people-61  sw:film  sw:film-5 .
 sw:people-61  sw:species  sw:species-1 .
 sw:people-61  sw:created  "2014-12-20T11:11:39.630000Z"^^xs:dateTime .
 sw:people-61  sw:edited  "2014-12-20T21:17:50.449000Z"^^xs:dateTime .

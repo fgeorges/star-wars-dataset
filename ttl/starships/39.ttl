@@ -18,8 +18,8 @@ sw:starship-39  sw:starship_class  "Starfighter" .
 sw:starship-39  sw:pilot  sw:people-11 .
 sw:starship-39  sw:pilot  sw:people-60 .
 sw:starship-39  sw:pilot  sw:people-35 .
-sw:starship-39  sw:flim  sw:flim-5 .
-sw:starship-39  sw:flim  sw:flim-4 .
+sw:starship-39  sw:film  sw:film-5 .
+sw:starship-39  sw:film  sw:film-4 .
 sw:starship-39  sw:created  "2014-12-19T17:39:17.582000Z"^^xs:dateTime .
 sw:starship-39  sw:edited  "2014-12-22T17:35:45.079452Z"^^xs:dateTime .
 sw:starship-39  sw:url  "http://swapi.co/api/starships/39/" .

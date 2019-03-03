@@ -13,7 +13,7 @@ sw:species-16  sw:average_lifespan  79 .
 sw:species-16  sw:homeworld  sw:planet-38 .
 sw:species-16  sw:language  "Aleena" .
 sw:species-16  sw:people  sw:people-47 .
-sw:species-16  sw:flim  sw:flim-4 .
+sw:species-16  sw:film  sw:film-4 .
 sw:species-16  sw:created  "2014-12-20T09:53:16.481000Z"^^xs:dateTime .
 sw:species-16  sw:edited  "2014-12-20T21:36:42.171000Z"^^xs:dateTime .
 sw:species-16  sw:url  "http://swapi.co/api/species/16/" .

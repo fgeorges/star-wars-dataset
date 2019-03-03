@@ -82,7 +82,7 @@ function triple(file, rsrc, prop, content)
 	fs.writeSync(file, rsrc + '  sw:character  sw:people-' + content.slice(27).slice(0, -1) + ' .\n');
     }
     else if ( prop === 'sw:films' ) {
-	fs.writeSync(file, rsrc + '  sw:flim  sw:flim-' + content.slice(26).slice(0, -1) + ' .\n');
+	fs.writeSync(file, rsrc + '  sw:film  sw:film-' + content.slice(26).slice(0, -1) + ' .\n');
     }
     else if ( prop === 'sw:homeworld' ) {
 	fs.writeSync(file, rsrc + '  sw:homeworld  sw:planet-' + content.slice(28).slice(0, -1) + ' .\n');

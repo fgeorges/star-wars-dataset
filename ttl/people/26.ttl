@@ -12,7 +12,7 @@ sw:people-26  sw:eye_color  "blue" .
 sw:people-26  sw:birth_year  "37BBY" .
 sw:people-26  sw:gender  "male" .
 sw:people-26  sw:homeworld  sw:planet-6 .
-sw:people-26  sw:flim  sw:flim-2 .
+sw:people-26  sw:film  sw:film-2 .
 sw:people-26  sw:species  sw:species-1 .
 sw:people-26  sw:created  "2014-12-15T13:01:57.178000Z"^^xs:dateTime .
 sw:people-26  sw:edited  "2014-12-20T21:17:50.359000Z"^^xs:dateTime .

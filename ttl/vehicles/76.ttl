@@ -14,7 +14,7 @@ sw:vehicle-76  sw:passengers  0 .
 sw:vehicle-76  sw:cargo_capacity  20 .
 sw:vehicle-76  sw:consumables  "1 day" .
 sw:vehicle-76  sw:vehicle_class  "walker" .
-sw:vehicle-76  sw:flim  sw:flim-6 .
+sw:vehicle-76  sw:film  sw:film-6 .
 sw:vehicle-76  sw:created  "2014-12-20T20:47:49.189000Z"^^xs:dateTime .
 sw:vehicle-76  sw:edited  "2014-12-22T18:21:16.672821Z"^^xs:dateTime .
 sw:vehicle-76  sw:url  "http://swapi.co/api/vehicles/76/" .

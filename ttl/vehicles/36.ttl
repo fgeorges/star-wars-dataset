@@ -14,7 +14,7 @@ sw:vehicle-36  sw:passengers  0 .
 sw:vehicle-36  sw:cargo_capacity  "none" .
 sw:vehicle-36  sw:consumables  "none" .
 sw:vehicle-36  sw:vehicle_class  "repulsorcraft" .
-sw:vehicle-36  sw:flim  sw:flim-4 .
+sw:vehicle-36  sw:film  sw:film-4 .
 sw:vehicle-36  sw:created  "2014-12-19T17:15:09.511000Z"^^xs:dateTime .
 sw:vehicle-36  sw:edited  "2014-12-22T18:21:16.008594Z"^^xs:dateTime .
 sw:vehicle-36  sw:url  "http://swapi.co/api/vehicles/36/" .

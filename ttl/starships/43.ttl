@@ -14,7 +14,7 @@ sw:starship-43  sw:passengers  10 .
 sw:starship-43  sw:consumables  "1 year" .
 sw:starship-43  sw:hyperdrive_rating  0.7 .
 sw:starship-43  sw:starship_class  "Diplomatic barge" .
-sw:starship-43  sw:flim  sw:flim-5 .
+sw:starship-43  sw:film  sw:film-5 .
 sw:starship-43  sw:created  "2014-12-20T11:05:51.237000Z"^^xs:dateTime .
 sw:starship-43  sw:edited  "2014-12-22T17:35:45.124386Z"^^xs:dateTime .
 sw:starship-43  sw:url  "http://swapi.co/api/starships/43/" .

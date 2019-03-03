@@ -10,7 +10,7 @@ sw:people-76  sw:hair_color  "none" .
 sw:people-76  sw:skin_color  "green, grey" .
 sw:people-76  sw:gender  "male" .
 sw:people-76  sw:homeworld  sw:planet-56 .
-sw:people-76  sw:flim  sw:flim-5 .
+sw:people-76  sw:film  sw:film-5 .
 sw:people-76  sw:species  sw:species-33 .
 sw:people-76  sw:created  "2014-12-20T17:53:52.607000Z"^^xs:dateTime .
 sw:people-76  sw:edited  "2014-12-20T21:17:50.481000Z"^^xs:dateTime .

@@ -16,7 +16,7 @@ sw:starship-5  sw:consumables  "1 month" .
 sw:starship-5  sw:hyperdrive_rating  1.0 .
 sw:starship-5  sw:MGLT  "70" .
 sw:starship-5  sw:starship_class  "landing craft" .
-sw:starship-5  sw:flim  sw:flim-1 .
+sw:starship-5  sw:film  sw:film-1 .
 sw:starship-5  sw:created  "2014-12-10T15:48:00.586000Z"^^xs:dateTime .
 sw:starship-5  sw:edited  "2014-12-22T17:35:44.431407Z"^^xs:dateTime .
 sw:starship-5  sw:url  "http://swapi.co/api/starships/5/" .

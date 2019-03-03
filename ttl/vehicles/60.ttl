@@ -15,7 +15,7 @@ sw:vehicle-60  sw:cargo_capacity  10 .
 sw:vehicle-60  sw:consumables  "none" .
 sw:vehicle-60  sw:vehicle_class  "wheeled walker" .
 sw:vehicle-60  sw:pilot  sw:people-79 .
-sw:vehicle-60  sw:flim  sw:flim-6 .
+sw:vehicle-60  sw:film  sw:film-6 .
 sw:vehicle-60  sw:created  "2014-12-20T19:43:54.870000Z"^^xs:dateTime .
 sw:vehicle-60  sw:edited  "2014-12-22T18:21:16.422662Z"^^xs:dateTime .
 sw:vehicle-60  sw:url  "http://swapi.co/api/vehicles/60/" .

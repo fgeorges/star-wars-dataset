@@ -13,7 +13,7 @@ sw:species-10  sw:eye_colors  "black" .
 sw:species-10  sw:homeworld  sw:planet-33 .
 sw:species-10  sw:language  "Sullutese" .
 sw:species-10  sw:people  sw:people-31 .
-sw:species-10  sw:flim  sw:flim-3 .
+sw:species-10  sw:film  sw:film-3 .
 sw:species-10  sw:created  "2014-12-18T11:26:20.103000Z"^^xs:dateTime .
 sw:species-10  sw:edited  "2014-12-20T21:36:42.157000Z"^^xs:dateTime .
 sw:species-10  sw:url  "http://swapi.co/api/species/10/" .

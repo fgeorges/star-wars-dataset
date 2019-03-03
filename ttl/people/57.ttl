@@ -10,7 +10,7 @@ sw:people-57  sw:skin_color  "white" .
 sw:people-57  sw:eye_color  "yellow" .
 sw:people-57  sw:gender  "male" .
 sw:people-57  sw:homeworld  sw:planet-48 .
-sw:people-57  sw:flim  sw:flim-4 .
+sw:people-57  sw:film  sw:film-4 .
 sw:people-57  sw:species  sw:species-25 .
 sw:people-57  sw:created  "2014-12-20T10:34:48.725000Z"^^xs:dateTime .
 sw:people-57  sw:edited  "2014-12-20T21:17:50.437000Z"^^xs:dateTime .

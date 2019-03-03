@@ -12,9 +12,9 @@ sw:people-11  sw:eye_color  "blue" .
 sw:people-11  sw:birth_year  "41.9BBY" .
 sw:people-11  sw:gender  "male" .
 sw:people-11  sw:homeworld  sw:planet-1 .
-sw:people-11  sw:flim  sw:flim-5 .
-sw:people-11  sw:flim  sw:flim-4 .
-sw:people-11  sw:flim  sw:flim-6 .
+sw:people-11  sw:film  sw:film-5 .
+sw:people-11  sw:film  sw:film-4 .
+sw:people-11  sw:film  sw:film-6 .
 sw:people-11  sw:species  sw:species-1 .
 sw:people-11  sw:vehicle  sw:vehicle-44 .
 sw:people-11  sw:vehicle  sw:vehicle-46 .

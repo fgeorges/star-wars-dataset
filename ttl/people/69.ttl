@@ -12,7 +12,7 @@ sw:people-69  sw:eye_color  "brown" .
 sw:people-69  sw:birth_year  "66BBY" .
 sw:people-69  sw:gender  "male" .
 sw:people-69  sw:homeworld  sw:planet-53 .
-sw:people-69  sw:flim  sw:flim-5 .
+sw:people-69  sw:film  sw:film-5 .
 sw:people-69  sw:species  sw:species-1 .
 sw:people-69  sw:created  "2014-12-20T16:54:41.620000Z"^^xs:dateTime .
 sw:people-69  sw:edited  "2014-12-20T21:17:50.465000Z"^^xs:dateTime .

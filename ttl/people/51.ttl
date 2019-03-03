@@ -12,9 +12,9 @@ sw:people-51  sw:eye_color  "brown" .
 sw:people-51  sw:birth_year  "72BBY" .
 sw:people-51  sw:gender  "male" .
 sw:people-51  sw:homeworld  sw:planet-42 .
-sw:people-51  sw:flim  sw:flim-5 .
-sw:people-51  sw:flim  sw:flim-4 .
-sw:people-51  sw:flim  sw:flim-6 .
+sw:people-51  sw:film  sw:film-5 .
+sw:people-51  sw:film  sw:film-4 .
+sw:people-51  sw:film  sw:film-6 .
 sw:people-51  sw:species  sw:species-1 .
 sw:people-51  sw:created  "2014-12-20T10:12:30.846000Z"^^xs:dateTime .
 sw:people-51  sw:edited  "2014-12-20T21:17:50.420000Z"^^xs:dateTime .

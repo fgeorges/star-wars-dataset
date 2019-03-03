@@ -12,8 +12,8 @@ sw:vehicle-18  sw:crew  5 .
 sw:vehicle-18  sw:passengers  40 .
 sw:vehicle-18  sw:cargo_capacity  1000 .
 sw:vehicle-18  sw:vehicle_class  "assault walker" .
-sw:vehicle-18  sw:flim  sw:flim-3 .
-sw:vehicle-18  sw:flim  sw:flim-2 .
+sw:vehicle-18  sw:film  sw:film-3 .
+sw:vehicle-18  sw:film  sw:film-2 .
 sw:vehicle-18  sw:created  "2014-12-15T12:38:25.937000Z"^^xs:dateTime .
 sw:vehicle-18  sw:edited  "2014-12-22T18:21:15.714673Z"^^xs:dateTime .
 sw:vehicle-18  sw:url  "http://swapi.co/api/vehicles/18/" .

@@ -12,9 +12,9 @@ sw:people-52  sw:eye_color  "yellow" .
 sw:people-52  sw:birth_year  "92BBY" .
 sw:people-52  sw:gender  "male" .
 sw:people-52  sw:homeworld  sw:planet-43 .
-sw:people-52  sw:flim  sw:flim-5 .
-sw:people-52  sw:flim  sw:flim-4 .
-sw:people-52  sw:flim  sw:flim-6 .
+sw:people-52  sw:film  sw:film-5 .
+sw:people-52  sw:film  sw:film-4 .
+sw:people-52  sw:film  sw:film-6 .
 sw:people-52  sw:species  sw:species-20 .
 sw:people-52  sw:created  "2014-12-20T10:15:32.293000Z"^^xs:dateTime .
 sw:people-52  sw:edited  "2014-12-20T21:17:50.422000Z"^^xs:dateTime .

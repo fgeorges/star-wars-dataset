@@ -12,9 +12,9 @@ sw:people-46  sw:eye_color  "hazel" .
 sw:people-46  sw:birth_year  "48BBY" .
 sw:people-46  sw:gender  "female" .
 sw:people-46  sw:homeworld  sw:planet-37 .
-sw:people-46  sw:flim  sw:flim-5 .
-sw:people-46  sw:flim  sw:flim-4 .
-sw:people-46  sw:flim  sw:flim-6 .
+sw:people-46  sw:film  sw:film-5 .
+sw:people-46  sw:film  sw:film-4 .
+sw:people-46  sw:film  sw:film-6 .
 sw:people-46  sw:species  sw:species-15 .
 sw:people-46  sw:created  "2014-12-20T09:48:01.172000Z"^^xs:dateTime .
 sw:people-46  sw:edited  "2014-12-20T21:17:50.409000Z"^^xs:dateTime .

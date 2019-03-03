@@ -14,7 +14,7 @@ sw:vehicle-73  sw:passengers  0 .
 sw:vehicle-73  sw:cargo_capacity  0 .
 sw:vehicle-73  sw:consumables  "none" .
 sw:vehicle-73  sw:vehicle_class  "airspeeder" .
-sw:vehicle-73  sw:flim  sw:flim-6 .
+sw:vehicle-73  sw:film  sw:film-6 .
 sw:vehicle-73  sw:created  "2014-12-20T20:32:05.687000Z"^^xs:dateTime .
 sw:vehicle-73  sw:edited  "2014-12-22T18:21:16.643329Z"^^xs:dateTime .
 sw:vehicle-73  sw:url  "http://swapi.co/api/vehicles/73/" .

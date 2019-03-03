@@ -16,7 +16,7 @@ sw:starship-41  sw:consumables  "30 days" .
 sw:starship-41  sw:hyperdrive_rating  1.5 .
 sw:starship-41  sw:starship_class  "Space Transport" .
 sw:starship-41  sw:pilot  sw:people-44 .
-sw:starship-41  sw:flim  sw:flim-4 .
+sw:starship-41  sw:film  sw:film-4 .
 sw:starship-41  sw:created  "2014-12-20T09:39:56.116000Z"^^xs:dateTime .
 sw:starship-41  sw:edited  "2014-12-22T17:35:45.105522Z"^^xs:dateTime .
 sw:starship-41  sw:url  "http://swapi.co/api/starships/41/" .

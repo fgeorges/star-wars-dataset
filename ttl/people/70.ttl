@@ -11,7 +11,7 @@ sw:people-70  sw:skin_color  "fair, green, yellow" .
 sw:people-70  sw:eye_color  "yellow" .
 sw:people-70  sw:gender  "female" .
 sw:people-70  sw:homeworld  sw:planet-54 .
-sw:people-70  sw:flim  sw:flim-5 .
+sw:people-70  sw:film  sw:film-5 .
 sw:people-70  sw:species  sw:species-30 .
 sw:people-70  sw:vehicle  sw:vehicle-45 .
 sw:people-70  sw:created  "2014-12-20T16:57:44.471000Z"^^xs:dateTime .

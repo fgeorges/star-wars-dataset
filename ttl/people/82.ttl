@@ -11,8 +11,8 @@ sw:people-82  sw:skin_color  "pale" .
 sw:people-82  sw:eye_color  "white" .
 sw:people-82  sw:gender  "female" .
 sw:people-82  sw:homeworld  sw:planet-60 .
-sw:people-82  sw:flim  sw:flim-5 .
-sw:people-82  sw:flim  sw:flim-6 .
+sw:people-82  sw:film  sw:film-5 .
+sw:people-82  sw:film  sw:film-6 .
 sw:people-82  sw:created  "2014-12-20T20:18:37.619000Z"^^xs:dateTime .
 sw:people-82  sw:edited  "2014-12-20T21:17:50.496000Z"^^xs:dateTime .
 sw:people-82  sw:url  "http://swapi.co/api/people/82/" .

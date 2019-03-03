@@ -16,8 +16,8 @@ sw:starship-21  sw:hyperdrive_rating  3.0 .
 sw:starship-21  sw:MGLT  "70" .
 sw:starship-21  sw:starship_class  "Patrol craft" .
 sw:starship-21  sw:pilot  sw:people-22 .
-sw:starship-21  sw:flim  sw:flim-5 .
-sw:starship-21  sw:flim  sw:flim-2 .
+sw:starship-21  sw:film  sw:film-5 .
+sw:starship-21  sw:film  sw:film-2 .
 sw:starship-21  sw:created  "2014-12-15T13:00:56.332000Z"^^xs:dateTime .
 sw:starship-21  sw:edited  "2014-12-22T17:35:44.716273Z"^^xs:dateTime .
 sw:starship-21  sw:url  "http://swapi.co/api/starships/21/" .

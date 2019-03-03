@@ -15,11 +15,11 @@ sw:species-3  sw:homeworld  sw:planet-14 .
 sw:species-3  sw:language  "Shyriiwook" .
 sw:species-3  sw:people  sw:people-13 .
 sw:species-3  sw:people  sw:people-80 .
-sw:species-3  sw:flim  sw:flim-7 .
-sw:species-3  sw:flim  sw:flim-6 .
-sw:species-3  sw:flim  sw:flim-3 .
-sw:species-3  sw:flim  sw:flim-2 .
-sw:species-3  sw:flim  sw:flim-1 .
+sw:species-3  sw:film  sw:film-7 .
+sw:species-3  sw:film  sw:film-6 .
+sw:species-3  sw:film  sw:film-3 .
+sw:species-3  sw:film  sw:film-2 .
+sw:species-3  sw:film  sw:film-1 .
 sw:species-3  sw:created  "2014-12-10T16:44:31.486000Z"^^xs:dateTime .
 sw:species-3  sw:edited  "2015-01-30T21:23:03.074598Z"^^xs:dateTime .
 sw:species-3  sw:url  "http://swapi.co/api/species/3/" .

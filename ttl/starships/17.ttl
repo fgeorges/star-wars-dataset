@@ -15,8 +15,8 @@ sw:starship-17  sw:consumables  "6 months" .
 sw:starship-17  sw:hyperdrive_rating  4.0 .
 sw:starship-17  sw:MGLT  "20" .
 sw:starship-17  sw:starship_class  "Medium transport" .
-sw:starship-17  sw:flim  sw:flim-3 .
-sw:starship-17  sw:flim  sw:flim-2 .
+sw:starship-17  sw:film  sw:film-3 .
+sw:starship-17  sw:film  sw:film-2 .
 sw:starship-17  sw:created  "2014-12-15T12:34:52.264000Z"^^xs:dateTime .
 sw:starship-17  sw:edited  "2014-12-22T17:35:44.680838Z"^^xs:dateTime .
 sw:starship-17  sw:url  "http://swapi.co/api/starships/17/" .

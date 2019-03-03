@@ -10,8 +10,8 @@ sw:people-40  sw:skin_color  "blue, grey" .
 sw:people-40  sw:eye_color  "yellow" .
 sw:people-40  sw:gender  "male" .
 sw:people-40  sw:homeworld  sw:planet-34 .
-sw:people-40  sw:flim  sw:flim-5 .
-sw:people-40  sw:flim  sw:flim-4 .
+sw:people-40  sw:film  sw:film-5 .
+sw:people-40  sw:film  sw:film-4 .
 sw:people-40  sw:species  sw:species-13 .
 sw:people-40  sw:created  "2014-12-19T17:48:54.647000Z"^^xs:dateTime .
 sw:people-40  sw:edited  "2014-12-20T21:17:50.395000Z"^^xs:dateTime .

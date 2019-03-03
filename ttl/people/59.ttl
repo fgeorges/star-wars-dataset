@@ -10,8 +10,8 @@ sw:people-59  sw:skin_color  "blue" .
 sw:people-59  sw:eye_color  "blue" .
 sw:people-59  sw:gender  "male" .
 sw:people-59  sw:homeworld  sw:planet-50 .
-sw:people-59  sw:flim  sw:flim-5 .
-sw:people-59  sw:flim  sw:flim-4 .
+sw:people-59  sw:film  sw:film-5 .
+sw:people-59  sw:film  sw:film-4 .
 sw:people-59  sw:species  sw:species-27 .
 sw:people-59  sw:created  "2014-12-20T10:53:26.457000Z"^^xs:dateTime .
 sw:people-59  sw:edited  "2014-12-20T21:17:50.442000Z"^^xs:dateTime .

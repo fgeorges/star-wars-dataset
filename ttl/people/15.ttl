@@ -11,7 +11,7 @@ sw:people-15  sw:eye_color  "black" .
 sw:people-15  sw:birth_year  "44BBY" .
 sw:people-15  sw:gender  "male" .
 sw:people-15  sw:homeworld  sw:planet-23 .
-sw:people-15  sw:flim  sw:flim-1 .
+sw:people-15  sw:film  sw:film-1 .
 sw:people-15  sw:species  sw:species-4 .
 sw:people-15  sw:created  "2014-12-10T17:03:30.334000Z"^^xs:dateTime .
 sw:people-15  sw:edited  "2014-12-20T21:17:50.336000Z"^^xs:dateTime .
