@@ -79,34 +79,34 @@ function triple(file, rsrc, prop, content)
 	prop = 'sw:' + prop;
     }
     if ( prop === 'sw:characters' ) {
-	fs.writeSync(file, rsrc + '  sw:character  sw:people-' + content.slice(27).slice(0, -1) + ' .\n');
+	fs.writeSync(file, rsrc + '  sw:character  sw:people-' + content.slice(27, -1) + ' .\n');
     }
     else if ( prop === 'sw:films' ) {
-	fs.writeSync(file, rsrc + '  sw:film  sw:film-' + content.slice(26).slice(0, -1) + ' .\n');
+	fs.writeSync(file, rsrc + '  sw:film  sw:film-' + content.slice(26, -1) + ' .\n');
     }
     else if ( prop === 'sw:homeworld' ) {
-	fs.writeSync(file, rsrc + '  sw:homeworld  sw:planet-' + content.slice(28).slice(0, -1) + ' .\n');
+	fs.writeSync(file, rsrc + '  sw:homeworld  sw:planet-' + content.slice(28, -1) + ' .\n');
     }
     else if ( prop === 'sw:people' ) {
-	fs.writeSync(file, rsrc + '  sw:people  sw:people-' + content.slice(27).slice(0, -1) + ' .\n');
+	fs.writeSync(file, rsrc + '  sw:people  sw:people-' + content.slice(27, -1) + ' .\n');
     }
     else if ( prop === 'sw:pilots' ) {
-	fs.writeSync(file, rsrc + '  sw:pilot  sw:people-' + content.slice(27).slice(0, -1) + ' .\n');
+	fs.writeSync(file, rsrc + '  sw:pilot  sw:people-' + content.slice(27, -1) + ' .\n');
     }
     else if ( prop === 'sw:planets' ) {
-	fs.writeSync(file, rsrc + '  sw:planet  sw:planet-' + content.slice(28).slice(0, -1) + ' .\n');
+	fs.writeSync(file, rsrc + '  sw:planet  sw:planet-' + content.slice(28, -1) + ' .\n');
     }
     else if ( prop === 'sw:residents' ) {
-	fs.writeSync(file, rsrc + '  sw:resident  sw:people-' + content.slice(27).slice(0, -1) + ' .\n');
+	fs.writeSync(file, rsrc + '  sw:resident  sw:people-' + content.slice(27, -1) + ' .\n');
     }
     else if ( prop === 'sw:species' ) {
-	fs.writeSync(file, rsrc + '  sw:species  sw:species-' + content.slice(28).slice(0, -1) + ' .\n');
+	fs.writeSync(file, rsrc + '  sw:species  sw:species-' + content.slice(28, -1) + ' .\n');
     }
     else if ( prop === 'sw:starships' ) {
-	fs.writeSync(file, rsrc + '  sw:starship  sw:starship-' + content.slice(30).slice(0, -1) + ' .\n');
+	fs.writeSync(file, rsrc + '  sw:starship  sw:starship-' + content.slice(30, -1) + ' .\n');
     }
     else if ( prop === 'sw:vehicles' ) {
-	fs.writeSync(file, rsrc + '  sw:vehicle  sw:vehicle-' + content.slice(29).slice(0, -1) + ' .\n');
+	fs.writeSync(file, rsrc + '  sw:vehicle  sw:vehicle-' + content.slice(29, -1) + ' .\n');
     }
     else if ( prop === 'sw:release_date' ) {
 	fs.writeSync(file, `${rsrc}  ${prop}  "${content}"^^xs:date .\n`);
@@ -147,13 +147,13 @@ function writeEntity(entity, dir, root)
     const json  = fs.openSync(JSONDIR + path + '.json', 'w');
     const ttl   = fs.openSync(TTLDIR  + path + '.ttl', 'w');
     const xml   = fs.openSync(XMLDIR  + path + '.xml',  'w');
-    const clazz = root.slice(0, 1).toUpperCase() + root.slice(1);
     fs.writeSync(json, '{ "' + root + '": {\n');
     fs.writeSync(ttl,  '@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n');
     fs.writeSync(ttl,  '@prefix sw:   <http://h2o.consulting/ns/star-wars#> .\n');
     fs.writeSync(ttl,  '@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .\n\n');
     fs.writeSync(ttl,  rsrc + '  a  sw:' + clazz + ' .\n');
     fs.writeSync(xml,  '<' + root + ' xmlns="http://h2o.consulting/ns/star-wars">\n');
+    const clazz = root[0].toUpperCase() + root.slice(1);
     const props = Object.keys(entity);
     props.forEach((prop, i) => {
         const val  = entity[prop];
