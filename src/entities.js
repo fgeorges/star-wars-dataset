@@ -57,8 +57,8 @@ function endProp(file, i, len)
 function triple(file, rsrc, prop, content, type)
 {
     // different outputs for different cases
-    const ref = (pred, type, idx) => {
-	fs.writeSync(file, `${rsrc}  sw:${pred}  sw:${type}-${content.slice(idx, -1)} .\n`);
+    const ref = (r) => {
+	fs.writeSync(file, `${rsrc}  sw:${r.pred}  sw:${r.type}-${content.slice(r.idx, -1)} .\n`);
     };
     const typed = (type) => {
 	fs.writeSync(file, `${rsrc}  sw:${prop}  "${content}"^^xs:${type} .\n`);
@@ -80,6 +80,20 @@ function triple(file, rsrc, prop, content, type)
         }
     };
 
+    // ref properties
+    const refs = {
+        characters: {pred: 'character', type: 'people',   idx: 27},
+        films:      {pred: 'film',      type: 'film',     idx: 26},
+        homeworld:  {pred: 'homeworld', type: 'planet',   idx: 28},
+        people:     {pred: 'people',    type: 'people',   idx: 27},
+        pilots:     {pred: 'pilot',     type: 'people',   idx: 27},
+        planets:    {pred: 'planet',    type: 'planet',   idx: 28},
+        residents:  {pred: 'resident',  type: 'people',   idx: 27},
+        species:    {pred: 'species',   type: 'species',  idx: 28},
+        starships:  {pred: 'starship',  type: 'starship', idx: 30},
+        vehicles:   {pred: 'vehicle',   type: 'vehicle',  idx: 29}
+    };
+
     // numeric properties
     const numbers = [
         'average_height',
@@ -98,35 +112,9 @@ function triple(file, rsrc, prop, content, type)
     ];
 
     // output the triple
-    if ( prop === 'characters' ) {
-        ref('character', 'people', 27);
-    }
-    else if ( prop === 'films' ) {
-        ref('film', 'film', 26);
-    }
-    else if ( prop === 'homeworld' ) {
-        ref('homeworld', 'planet', 28);
-    }
-    else if ( prop === 'people' ) {
-        ref('people', 'people', 27);
-    }
-    else if ( prop === 'pilots' ) {
-        ref('pilot', 'people', 27);
-    }
-    else if ( prop === 'planets' ) {
-        ref('planet', 'planet', 28);
-    }
-    else if ( prop === 'residents' ) {
-        ref('resident', 'people', 27);
-    }
-    else if ( prop === 'species' ) {
-        ref('species', 'species', 28);
-    }
-    else if ( prop === 'starships' ) {
-        ref('starship', 'starship', 30);
-    }
-    else if ( prop === 'vehicles' ) {
-        ref('vehicle', 'vehicle', 29);
+    const r = refs[prop];
+    if ( r ) {
+        ref(r);
     }
     else if ( prop === 'release_date' ) {
 	typed('date');
