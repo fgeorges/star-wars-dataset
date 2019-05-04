@@ -12,7 +12,7 @@ sw:vehicle-6  sw:max_atmosphering_speed  1200 .
 sw:vehicle-6  sw:crew  1 .
 sw:vehicle-6  sw:passengers  1 .
 sw:vehicle-6  sw:cargo_capacity  50 .
-sw:vehicle-6  sw:consumables  0 .
+sw:vehicle-6  sw:consumables  "0" .
 sw:vehicle-6  sw:vehicle_class  "repulsorcraft" .
 sw:vehicle-6  sw:film  sw:film-1 .
 sw:vehicle-6  sw:created  "2014-12-10T16:01:52.434000Z"^^xs:dateTime .

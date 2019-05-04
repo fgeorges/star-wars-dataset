@@ -61,86 +61,83 @@ function triple(file, rsrc, prop, content)
 	fs.writeSync(file, `${rsrc}  sw:${pred}  sw:${type}-${content.slice(idx, -1)} .\n`);
     };
     const typed = (type) => {
-	fs.writeSync(file, `${rsrc}  ${prop}  "${content}"^^xs:${type} .\n`);
+	fs.writeSync(file, `${rsrc}  sw:${prop}  "${content}"^^xs:${type} .\n`);
     };
     const number = () => {
-	fs.writeSync(file, `${rsrc}  ${prop}  ${content} .\n`);
+	fs.writeSync(file, `${rsrc}  sw:${prop}  ${content} .\n`);
     };
     const str = () => {
+        const pred = prop === 'title' || prop === 'name'
+            ? 'rdfs:label'
+            : 'sw:' + prop;
         if ( /[\n\r]/.test(content) ) {
 	    const c = content.replace(/"""/g, '\\u0022\\u0022\\u0022');
-	    fs.writeSync(file, `${rsrc}  ${prop}  """${c}""" .\n`);
+	    fs.writeSync(file, `${rsrc}  ${pred}  """${c}""" .\n`);
         }
         else {
 	    const c = content.replace(/"/g, '\\u0022');
-	    fs.writeSync(file, `${rsrc}  ${prop}  "${c}" .\n`);
+	    fs.writeSync(file, `${rsrc}  ${pred}  "${c}" .\n`);
         }
     };
 
     // numeric properties
     const numbers = [
-        'sw:average_height',
-        'sw:average_lifespan',        // can be "indefinite"
-        'sw:cargo_capacity',          // can be "none"
-        'sw:cost_in_credits',
-        'sw:crew',
-        'sw:diameter',
-        'sw:episode_id',
-        'sw:hyperdrive_rating',       // decimal
-        'sw:length',                  // decimal, with "," for thousands
-        'sw:max_atmosphering_speed',  // there is one "1000km"
-        'sw:orbital_period',
-        'sw:passengers',
-        'sw:rotation_period'
+        'average_height',
+        'average_lifespan',        // can be "indefinite"
+        'cargo_capacity',          // can be "none"
+        'cost_in_credits',
+        'crew',
+        'diameter',
+        'episode_id',
+        'hyperdrive_rating',       // decimal
+        'length',                  // decimal, with "," for thousands
+        'max_atmosphering_speed',  // there is one "1000km"
+        'orbital_period',
+        'passengers',
+        'rotation_period'
     ];
 
     // output the triple
-    if ( prop === 'title' || prop === 'name' ) {
-	prop = 'rdfs:label';
-    }
-    else {
-	prop = 'sw:' + prop;
-    }
-    if ( prop === 'sw:characters' ) {
+    if ( prop === 'characters' ) {
         ref('character', 'people', 27);
     }
-    else if ( prop === 'sw:films' ) {
+    else if ( prop === 'films' ) {
         ref('film', 'film', 26);
     }
-    else if ( prop === 'sw:homeworld' ) {
+    else if ( prop === 'homeworld' ) {
         ref('homeworld', 'planet', 28);
     }
-    else if ( prop === 'sw:people' ) {
+    else if ( prop === 'people' ) {
         ref('people', 'people', 27);
     }
-    else if ( prop === 'sw:pilots' ) {
+    else if ( prop === 'pilots' ) {
         ref('pilot', 'people', 27);
     }
-    else if ( prop === 'sw:planets' ) {
+    else if ( prop === 'planets' ) {
         ref('planet', 'planet', 28);
     }
-    else if ( prop === 'sw:residents' ) {
+    else if ( prop === 'residents' ) {
         ref('resident', 'people', 27);
     }
-    else if ( prop === 'sw:species' ) {
+    else if ( prop === 'species' ) {
         ref('species', 'species', 28);
     }
-    else if ( prop === 'sw:starships' ) {
+    else if ( prop === 'starships' ) {
         ref('starship', 'starship', 30);
     }
-    else if ( prop === 'sw:vehicles' ) {
+    else if ( prop === 'vehicles' ) {
         ref('vehicle', 'vehicle', 29);
     }
-    else if ( prop === 'sw:release_date' ) {
+    else if ( prop === 'release_date' ) {
 	typed('date');
     }
-    else if ( ['sw:created', 'sw:edited'].includes(prop) ) {
+    else if ( ['created', 'edited'].includes(prop) ) {
 	typed('dateTime');
     }
     else if ( numbers.includes(prop) && ! isNaN(content) ) {
         number();
     }
-    else if ( prop !== 'sw:url' && content.startsWith('http://swapi.co/api/') ) {
+    else if ( prop !== 'url' && content.startsWith('http://swapi.co/api/') ) {
 	throw new Error('Should not this be a resource link? - ' + prop);
     }
     else {
