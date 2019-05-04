@@ -15,3 +15,9 @@ XML (using `entities.js`).
     $ ./src/scrapper.js > data/swapi.json
     $ ./src/enrich.js   > data/enriched.json
     $ ./src/entities.js
+
+To generate the data archive files:
+
+    $ cd ..
+    $ tar zcf star-wars-dataset/archive/star-wars-dataset.tar.gz star-wars-dataset/{README.md,data,json,mlsem,ttl,xml}
+    $ zip -r star-wars-dataset/archive/star-wars-dataset.zip star-wars-dataset/{README.md,data,json,mlsem,ttl,xml}
