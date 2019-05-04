@@ -1,0 +1,77 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-9</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Ewok</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-9</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#classification</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">mammal</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-9</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#designation</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">sentient</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-9</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#average_height</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">100</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-9</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#skin_colors</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">brown</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-9</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#hair_colors</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">white, brown, black</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-9</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#eye_colors</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">orange, brown</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-9</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#homeworld</predicate>
+      <object>http://h2o.consulting/ns/star-wars#planet-7</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-9</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#language</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Ewokese</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-9</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#people</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-30</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-9</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-3</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-9</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-18T11:22:00.285000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-9</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T21:36:42.155000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-9</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/species/9/</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-9</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Ewoks are a fictional race of small, mammaloid bipeds that appear in the Star Wars universe. They are hunter-gatherers resembling teddy bears that inhabit the forest moon of Endor and live in various arboreal huts and other simple dwellings. They first appeared in the 1983 film Return of the Jedi and have since appeared in two made-for-television films, Caravan of Courage: An Ewok Adventure (1984) and Ewoks: The Battle for Endor (1985), as well as a short-lived animated series and several books and games.</object>
+   </triple>
+</triples>

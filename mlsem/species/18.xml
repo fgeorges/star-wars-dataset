@@ -1,0 +1,67 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Xexto</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#designation</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">sentient</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#average_height</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">125</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#skin_colors</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">grey, yellow, purple</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#hair_colors</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">none</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#eye_colors</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">black</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#homeworld</predicate>
+      <object>http://h2o.consulting/ns/star-wars#planet-40</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#language</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Xextese</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#people</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-49</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-4</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T10:02:13.915000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T21:36:42.175000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/species/18/</object>
+   </triple>
+</triples>

@@ -1,0 +1,77 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-70</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Raddaugh Gnasp fluttercraft</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-70</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#model</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Raddaugh Gnasp fluttercraft</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-70</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#manufacturer</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Appazanna Engineering Works</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-70</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#cost_in_credits</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">14750</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-70</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#length</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">7</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-70</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#max_atmosphering_speed</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">310</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-70</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#crew</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">2</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-70</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#passengers</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">0</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-70</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#cargo_capacity</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">20</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-70</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#consumables</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">none</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-70</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#vehicle_class</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">air speeder</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-70</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-6</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-70</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T20:21:55.648000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-70</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-22T18:21:16.547708Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-70</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/vehicles/70/</object>
+   </triple>
+</triples>

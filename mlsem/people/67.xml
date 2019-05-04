@@ -1,0 +1,92 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-67</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Dooku</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-67</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#height</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">193</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-67</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#mass</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">80</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-67</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#hair_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">white</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-67</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#skin_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">fair</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-67</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#eye_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">brown</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-67</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#birth_year</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">102BBY</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-67</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#gender</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">male</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-67</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#homeworld</predicate>
+      <object>http://h2o.consulting/ns/star-wars#planet-52</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-67</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-5</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-67</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-6</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-67</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#species</predicate>
+      <object>http://h2o.consulting/ns/star-wars#species-1</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-67</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#vehicle</predicate>
+      <object>http://h2o.consulting/ns/star-wars#vehicle-55</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-67</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T16:52:14.726000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-67</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T21:17:50.462000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-67</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/people/67/</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-67</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Count Dooku is a fictional character from the Star Wars franchise, appearing in Star Wars: Episode II – Attack of the Clones and Star Wars: Episode III – Revenge of the Sith (portrayed by Christopher Lee).[1] He was also voiced by Corey Burton in the animated series Star Wars: The Clone Wars and Star Wars: Clone Wars.</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-67</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Once a respected Jedi Master, he falls to the dark side of the Force after the death of his former Padawan, Qui-Gon Jinn, and becomes Darth Sidious' second apprentice under the name Darth Tyranus. As the founder of the Confederacy of Independent Systems, he is instrumental in the Clone Wars. Dooku was trained by Yoda as a Padawan learner.</object>
+   </triple>
+</triples>

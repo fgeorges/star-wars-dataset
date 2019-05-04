@@ -1,0 +1,97 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">C-3PO</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#height</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">167</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#mass</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">75</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#skin_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">gold</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#eye_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">yellow</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#birth_year</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">112BBY</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#homeworld</predicate>
+      <object>http://h2o.consulting/ns/star-wars#planet-1</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-5</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-4</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-6</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-3</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-2</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-1</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#species</predicate>
+      <object>http://h2o.consulting/ns/star-wars#species-2</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-10T15:10:51.357000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T21:17:50.309000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/people/2/</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">C-3PO (/siːˈθriːpi.oʊ/) or See-Threepio is a humanoid robot character from the Star Wars franchise who appears in the original trilogy, the prequel trilogy and the sequel trilogy. Built by Anakin Skywalker, C-3PO was designed as a protocol droid intended to assist in etiquette, customs, and translation, boasting that he is "fluent in over six million forms of communication". Along with his astromech droid counterpart and friend R2-D2, C-3PO provides comic relief within the narrative structure of the films, and serves as a foil. Anthony Daniels has portrayed the character in all nine Star Wars cinematic films released to date, including Rogue One and the animated The Clone Wars; C-3PO and R2-D2 are the only characters to appear in every film.</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Despite his oblivious nature, C-3PO has played a pivotal role in the Galaxy's history, appearing under the service of Shmi Skywalker, the Lars homestead, Padmé Amidala, Raymus Antilles, Luke Skywalker, and Leia Organa. In the majority of depictions, C-3PO's physical appearance is primarily a polished gold plating, although his appearance varies throughout the films; including the absence of metal coverings in The Phantom Menace, a dull copper plating in Attack of the Clones, a silver lower right leg introduced in A New Hope, and a red left arm in The Force Awakens.[1] C-3PO also appears frequently in the Star Wars Canon and Star Wars Legends continuities of novels, comic books, and video games, and was the protagonist in the ABC television show Droids.</object>
+   </triple>
+</triples>

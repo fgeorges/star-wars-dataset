@@ -1,0 +1,107 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Palpatine</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#height</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">170</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#mass</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">75</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#hair_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">grey</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#skin_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">pale</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#eye_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">yellow</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#birth_year</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">82BBY</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#gender</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">male</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#homeworld</predicate>
+      <object>http://h2o.consulting/ns/star-wars#planet-8</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-5</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-4</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-6</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-3</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-2</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#species</predicate>
+      <object>http://h2o.consulting/ns/star-wars#species-1</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-15T12:48:05.971000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T21:17:50.347000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/people/21/</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Sheev Palpatine[3], also known as Darth Sidious and The Emperor, is a fictional character and one of the primary antagonists of the Star Wars franchise,[4] mainly portrayed by Ian McDiarmid. In the original trilogy, he is depicted as the aged, pale-faced and cloaked Emperor of the Galactic Empire and the master of Darth Vader. In the prequel trilogy, he is portrayed as a charismatic Senator from Naboo who uses deception and political manipulation to rise to the position of Supreme Chancellor of the Galactic Republic, and then reorganizes the Republic into the Galactic Empire, with himself as Emperor.</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Though outwardly appearing to be a well-intentioned public servant and supporter of democracy prior to becoming Emperor,[5] he is actually Darth Sidious, the Dark Lord of the Sith – a cult of practitioners of the dark side of the Force previously thought to have been extinct in the Star Wars galaxy for a millennium.[5] As Sidious, he instigates the Clone Wars, nearly destroys the Jedi, and transforms the Republic into the Empire. He also manipulates Jedi Knight Anakin Skywalker into turning to the dark side and serving at his side as Darth Vader. Palpatine's reign is brought to an end when Vader kills him to save his son, Luke Skywalker.</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-21</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Since the initial theatrical run of Return of the Jedi, Palpatine has become a widely recognized popular culture symbol of evil, sinister deception, dictatorship, tyranny, and the subversion of democracy.</object>
+   </triple>
+</triples>

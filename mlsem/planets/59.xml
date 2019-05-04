@@ -1,0 +1,62 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-59</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Kalee</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-59</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#rotation_period</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">23</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-59</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#orbital_period</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">378</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-59</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#diameter</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">13850</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-59</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#climate</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">arid, temperate, tropical</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-59</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#gravity</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">1</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-59</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#terrain</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">rainforests, cliffs, canyons, seas</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-59</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#population</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">4000000000</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-59</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#resident</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-79</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-59</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T19:43:51.278000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-59</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T20:58:18.523000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-59</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/planets/59/</object>
+   </triple>
+</triples>

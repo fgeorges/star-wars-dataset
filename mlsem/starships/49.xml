@@ -1,0 +1,67 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-49</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">H-type Nubian yacht</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-49</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#model</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">H-type Nubian yacht</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-49</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#manufacturer</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Theed Palace Space Vessel Engineering Corps</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-49</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#length</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#decimal">47.9</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-49</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#max_atmosphering_speed</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">8000</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-49</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#crew</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">4</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-49</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#hyperdrive_rating</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#decimal">0.9</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-49</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#starship_class</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">yacht</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-49</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#pilot</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-35</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-49</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-5</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-49</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T17:46:46.847000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-49</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-22T17:35:45.158969Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-49</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/starships/49/</object>
+   </triple>
+</triples>

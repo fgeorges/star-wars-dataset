@@ -1,0 +1,102 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Droid</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#classification</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">artificial</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#designation</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">sentient</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#average_lifespan</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">indefinite</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#people</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-2</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#people</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-3</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#people</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-8</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#people</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-23</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#people</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-87</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-7</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-5</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-4</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-6</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-3</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-2</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-1</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-10T15:16:16.259000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-04-17T06:59:43.869528Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/species/2/</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-2</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">A droid is a fictional robot possessing some degree of artificial intelligence in the Star Wars science fiction franchise. Coined by special effects artist John Stears, the term is a clipped form of "android",[1] a word originally reserved for robots designed to look and act like a human.[2] The word "droid" has been a registered trademark of Lucasfilm Ltd since 1977.[3][4][5][6]</object>
+   </triple>
+</triples>

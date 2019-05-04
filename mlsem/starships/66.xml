@@ -1,0 +1,87 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-66</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">arc-170</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-66</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#model</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Aggressive Reconnaissance-170 starfighte</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-66</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#manufacturer</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Incom Corporation, Subpro Corporation</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-66</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#cost_in_credits</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">155000</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-66</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#length</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#decimal">14.5</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-66</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#max_atmosphering_speed</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">1000</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-66</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#crew</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">3</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-66</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#passengers</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">0</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-66</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#cargo_capacity</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">110</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-66</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#consumables</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">5 days</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-66</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#hyperdrive_rating</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#decimal">1.0</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-66</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#MGLT</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">100</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-66</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#starship_class</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">starfighter</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-66</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-6</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-66</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T20:03:48.603000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-66</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-22T17:35:45.287214Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-66</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/starships/66/</object>
+   </triple>
+</triples>

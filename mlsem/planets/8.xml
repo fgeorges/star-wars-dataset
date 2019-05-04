@@ -1,0 +1,152 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Naboo</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#rotation_period</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">26</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#orbital_period</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">312</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#diameter</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">12120</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#climate</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">temperate</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#gravity</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">1 standard</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#terrain</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">grassy hills, swamps, forests, mountains</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#surface_water</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">12</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#population</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">4500000000</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#resident</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-3</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#resident</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-21</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#resident</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-36</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#resident</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-37</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#resident</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-38</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#resident</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-39</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#resident</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-42</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#resident</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-60</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#resident</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-61</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#resident</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-66</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#resident</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-35</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-5</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-4</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-6</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-3</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-10T11:52:31.066000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T20:58:18.430000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/planets/8/</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Naboo is a planet in the fictional Star Wars universe with a mostly green terrain and which is the homeworld of two societies: the Gungans who dwell in underwater cities and the humans who live in colonies on the surface. Humans of Naboo have an electoral monarchy and maintain a peaceful culture that defends education, the arts, environmental protection and scientific achievements. The main capital of Naboo is Theed.</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Located in the Chommell sector, Naboo is the home planet of Padmé Amidala and Jar Jar Binks, as well as Senator (later Supreme Chancellor and then Emperor) Palpatine. In Star Wars: Episode I – The Phantom Menace, it was the site of a blockade by the Trade Federation and the Battle of Naboo between the Federation and the native inhabitants. Naboo is seen in four films in the Star Wars series, having a prominent role in the first two prequels and glimpsed briefly in Revenge of the Sith and the 2004 DVD release of Return of the Jedi.</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Theed's architecture, while referencing Ancient Rome and other classical traditions, was heavily inspired by the Frank Lloyd Wright-designed Marin County Civic Center in California. (Skywalker Ranch and Industrial Light & Magic are both based in Marin County.)</object>
+   </triple>
+</triples>

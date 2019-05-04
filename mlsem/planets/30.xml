@@ -1,0 +1,62 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-30</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Socorro</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-30</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#rotation_period</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">20</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-30</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#orbital_period</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">326</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-30</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#diameter</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">0</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-30</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#climate</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">arid</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-30</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#gravity</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">1 standard</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-30</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#terrain</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">deserts, mountains</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-30</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#population</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">300000000</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-30</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#resident</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-25</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-30</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-15T12:56:31.121000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-30</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T20:58:18.469000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-30</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/planets/30/</object>
+   </triple>
+</triples>

@@ -1,0 +1,107 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Wookiee</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#classification</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">mammal</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#designation</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">sentient</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#average_height</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">210</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#skin_colors</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">gray</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#hair_colors</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">black, brown</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#eye_colors</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">blue, green, yellow, brown, golden, red</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#average_lifespan</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">400</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#homeworld</predicate>
+      <object>http://h2o.consulting/ns/star-wars#planet-14</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#language</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Shyriiwook</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#people</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-13</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#people</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-80</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-7</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-6</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-3</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-2</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-1</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-10T16:44:31.486000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-01-30T21:23:03.074598Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/species/3/</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#species-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Wookiees (/ˈwʊkiːz/) are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They are taller, stronger, and hairier than humans and most (if not all) other humanoid species. The most notable Wookiee is Chewbacca, the copilot of Han Solo, who first appeared in the 1977 film Star Wars Episode IV: A New Hope.</object>
+   </triple>
+</triples>

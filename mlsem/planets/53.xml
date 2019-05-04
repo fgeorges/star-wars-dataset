@@ -1,0 +1,32 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-53</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Concord Dawn</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-53</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#terrain</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">jungles, forests, deserts</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-53</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#resident</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-69</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-53</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T16:54:39.909000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-53</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T20:58:18.512000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-53</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/planets/53/</object>
+   </triple>
+</triples>

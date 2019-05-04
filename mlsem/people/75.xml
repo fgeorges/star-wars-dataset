@@ -1,0 +1,62 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-75</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">R4-P17</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-75</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#height</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">96</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-75</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#hair_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">none</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-75</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#skin_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">silver, red</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-75</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#eye_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">red, blue</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-75</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#gender</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">female</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-75</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#homeworld</predicate>
+      <object>http://h2o.consulting/ns/star-wars#planet-28</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-75</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-5</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-75</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-6</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-75</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T17:43:36.409000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-75</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T21:17:50.478000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-75</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/people/75/</object>
+   </triple>
+</triples>

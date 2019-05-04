@@ -1,0 +1,92 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-15</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Executor</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-15</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#model</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Executor-class star dreadnought</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-15</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#manufacturer</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Kuat Drive Yards, Fondor Shipyards</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-15</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#cost_in_credits</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">1143350000</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-15</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#length</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">19000</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-15</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#crew</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">279144</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-15</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#passengers</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">38000</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-15</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#cargo_capacity</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">250000000</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-15</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#consumables</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">6 years</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-15</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#hyperdrive_rating</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#decimal">2.0</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-15</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#MGLT</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">40</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-15</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#starship_class</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Star dreadnought</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-15</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-3</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-15</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-2</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-15</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-15T12:31:42.547000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-15</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-22T17:35:44.638231Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-15</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/starships/15/</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-15</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">An executor is someone who is responsible for executing, or following through on, an assigned task or duty. The feminine form, executrix, may sometimes be used. The role of an executor should not be confused with that of an executioner, a person who carries out a death sentence ordered by the state or other legal authority.</object>
+   </triple>
+</triples>

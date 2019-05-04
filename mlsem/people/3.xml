@@ -1,0 +1,102 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">R2-D2</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#height</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">96</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#mass</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">32</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#skin_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">white, blue</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#eye_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">red</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#birth_year</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">33BBY</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#homeworld</predicate>
+      <object>http://h2o.consulting/ns/star-wars#planet-8</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-5</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-4</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-6</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-3</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-2</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-1</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-7</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#species</predicate>
+      <object>http://h2o.consulting/ns/star-wars#species-2</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-10T15:11:50.376000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T21:17:50.311000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/people/3/</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">R2-D2 is a fictional robot character in the Star Wars franchise created by George Lucas, who appears in the original trilogy, the prequel trilogy, the sequel trilogy, and Rogue One. A small astromech droid, R2-D2 is a major character and appears in all Star Wars films to date. Throughout the course of the films, he joins or supports Padmé Amidala, Anakin Skywalker, Leia Organa, Luke Skywalker, and Obi-Wan Kenobi in various points in the saga.</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-3</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">English actor Kenny Baker played R2-D2 in all three original Star Wars films, and received billing credit for the character in the prequel trilogy, where Baker's role was reduced, as R2-D2 was portrayed mainly by radio controlled props and CGI models. In the sequel trilogy, Baker was credited as consultant for The Force Awakens, however Jimmy Vee also co-performed the character in some scenes. Vee later took over the role beginning in The Last Jedi.[1] R2-D2's sounds and vocal effects were created by Ben Burtt. R2-D2 was designed in artwork by Ralph McQuarrie, co-developed by John Stears and built by Tony Dyson.</object>
+   </triple>
+</triples>

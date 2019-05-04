@@ -1,0 +1,82 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-6</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Bespin</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-6</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#rotation_period</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">12</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-6</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#orbital_period</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">5110</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-6</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#diameter</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">118000</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-6</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#climate</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">temperate</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-6</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#gravity</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">1.5 (surface), 1 standard (Cloud City)</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-6</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#terrain</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">gas giant</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-6</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#surface_water</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">0</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-6</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#population</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">6000000</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-6</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#resident</predicate>
+      <object>http://h2o.consulting/ns/star-wars#people-26</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-6</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-2</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-6</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-10T11:43:55.240000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-6</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T20:58:18.427000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-6</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/planets/6/</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-6</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Bespin is a fictional planet, a gas giant in Star Wars films and books. The planet was first seen in the 1980 feature film The Empire Strikes Back. Since its introduction, Bespin has gained more specific characteristics in the Star Wars expanded universe.</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-6</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">In The Empire Strikes Back, Bespin's floating city Cloud City hovers suspended by an anti-gravity pod.</object>
+   </triple>
+</triples>

@@ -1,0 +1,67 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-31</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Republic Cruiser</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-31</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#model</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Consular-class cruiser</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-31</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#manufacturer</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Corellian Engineering Corporation</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-31</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#length</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">115</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-31</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#max_atmosphering_speed</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">900</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-31</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#crew</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">9</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-31</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#passengers</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">16</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-31</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#hyperdrive_rating</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#decimal">2.0</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-31</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#starship_class</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Space cruiser</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-31</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-4</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-31</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-19T17:01:31.488000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-31</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-22T17:35:45.027308Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#starship-31</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/starships/31/</object>
+   </triple>
+</triples>

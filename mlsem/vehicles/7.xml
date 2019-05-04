@@ -1,0 +1,72 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-7</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">X-34 landspeeder</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-7</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#model</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">X-34 landspeeder</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-7</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#manufacturer</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">SoroSuub Corporation</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-7</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#cost_in_credits</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">10550</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-7</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#length</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#decimal">3.4</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-7</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#max_atmosphering_speed</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">250</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-7</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#crew</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">1</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-7</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#passengers</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">1</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-7</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#cargo_capacity</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">5</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-7</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#vehicle_class</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">repulsorcraft</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-7</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-1</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-7</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-10T16:13:52.586000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-7</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-22T18:21:15.583700Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-7</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/vehicles/7/</object>
+   </triple>
+</triples>

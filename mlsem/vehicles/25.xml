@@ -1,0 +1,77 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-25</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Bantha-II cargo skiff</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-25</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#model</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Bantha-II</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-25</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#manufacturer</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Ubrikkian Industries</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-25</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#cost_in_credits</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">8000</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-25</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#length</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#decimal">9.5</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-25</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#max_atmosphering_speed</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">250</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-25</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#crew</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">5</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-25</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#passengers</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">16</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-25</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#cargo_capacity</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#integer">135000</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-25</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#consumables</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">1 day</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-25</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#vehicle_class</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">repulsorcraft cargo skiff</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-25</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-3</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-25</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-18T10:48:03.208000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-25</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-22T18:21:15.845988Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-25</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/vehicles/25/</object>
+   </triple>
+</triples>

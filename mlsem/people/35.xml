@@ -1,0 +1,102 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Padmé Amidala</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#height</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">165</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#mass</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">45</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#hair_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">brown</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#skin_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">light</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#eye_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">brown</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#birth_year</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">46BBY</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#gender</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">female</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#homeworld</predicate>
+      <object>http://h2o.consulting/ns/star-wars#planet-8</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-5</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-4</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-6</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#species</predicate>
+      <object>http://h2o.consulting/ns/star-wars#species-1</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#starship</predicate>
+      <object>http://h2o.consulting/ns/star-wars#starship-49</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#starship</predicate>
+      <object>http://h2o.consulting/ns/star-wars#starship-64</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#starship</predicate>
+      <object>http://h2o.consulting/ns/star-wars#starship-39</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-19T17:28:26.926000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-20T17:06:31.502555Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/people/35/</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-35</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Padmé Amidala (born Padmé Naberrie) is a fictional character in the Star Wars franchise, appearing in the prequel trilogy portrayed by actress Natalie Portman. She served as the Princess of Theed and later Queen of Naboo. After her reign, she became a senator in the Galactic Senate, an anti-war movement spokesperson, and co-founder of the opposition-faction that later emerged as the Rebel Alliance.[2] She was secretly married to the Jedi Anakin Skywalker, and the biological mother of Luke Skywalker and Leia Organa, which makes her the mother-in-law of Han Solo, and the grandmother of Kylo Ren.</object>
+   </triple>
+</triples>

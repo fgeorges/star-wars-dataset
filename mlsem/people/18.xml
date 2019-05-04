@@ -1,0 +1,97 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Wedge Antilles</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#height</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">170</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#mass</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">77</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#hair_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">brown</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#skin_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">fair</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#eye_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">hazel</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#birth_year</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">21BBY</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#gender</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">male</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#homeworld</predicate>
+      <object>http://h2o.consulting/ns/star-wars#planet-22</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-3</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-2</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-1</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#species</predicate>
+      <object>http://h2o.consulting/ns/star-wars#species-1</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#vehicle</predicate>
+      <object>http://h2o.consulting/ns/star-wars#vehicle-14</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#starship</predicate>
+      <object>http://h2o.consulting/ns/star-wars#starship-12</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-12T11:08:06.469000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T21:17:50.341000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/people/18/</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-18</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Wedge Antilles is a fictional character in the Star Wars franchise. He is a supporting character portrayed by Denis Lawson in the original Star Wars trilogy.[1] Antilles is a starfighter pilot for the Rebel Alliance, and founded Rogue Squadron with his friend Luke Skywalker. Wedge is notable for being the only Rebel pilot to have survived both attack runs on the Death Stars at the battles of Yavin and Endor.[1] He also appears in the Star Wars expanded universe, most notably as the lead character in most of the X-Wing novels.</object>
+   </triple>
+</triples>

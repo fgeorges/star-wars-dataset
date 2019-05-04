@@ -1,0 +1,87 @@
+<triples xmlns="http://marklogic.com/semantics">
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-79</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Grievous</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-79</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#height</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">216</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-79</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#mass</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">159</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-79</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#hair_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">none</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-79</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#skin_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">brown, white</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-79</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#eye_color</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">green, yellow</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-79</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#gender</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">male</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-79</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#homeworld</predicate>
+      <object>http://h2o.consulting/ns/star-wars#planet-59</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-79</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#film</predicate>
+      <object>http://h2o.consulting/ns/star-wars#film-6</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-79</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#species</predicate>
+      <object>http://h2o.consulting/ns/star-wars#species-36</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-79</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#vehicle</predicate>
+      <object>http://h2o.consulting/ns/star-wars#vehicle-60</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-79</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#starship</predicate>
+      <object>http://h2o.consulting/ns/star-wars#starship-74</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-79</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#created</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T19:43:53.348000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-79</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#edited</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-20T21:17:50.488000Z</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-79</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#url</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">http://swapi.co/api/people/79/</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-79</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">General Grievous is a fictional character in the Star Wars franchise. A former Kaleesh warlord named Qymaen jai Sheelal, he is the Supreme Commander of the Confederacy of Independent Systems during the Clone Wars against the Galactic Republic and is trained in all lightsaber combat forms to ensure the Jedi's destruction.</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#people-79</subject>
+      <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">The character was originally introduced in 2004 in the animated series Star Wars: Clone Wars, before being part of the film Star Wars: Episode III – Revenge of the Sith.</object>
+   </triple>
+</triples>

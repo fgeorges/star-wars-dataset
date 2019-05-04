@@ -9,11 +9,12 @@
 const fs = require('fs');
 
 // the input file with the entities
-const JSONDIR = './json/';
-const TTLDIR  = './ttl/';
-const XMLDIR  = './xml/';
-const INFILE  = './data/enriched.json';
-const DATA    = JSON.parse(fs.readFileSync(INFILE, 'utf-8'));
+const JSONDIR  = './json/';
+const MLSEMDIR = './mlsem/';
+const TTLDIR   = './ttl/';
+const XMLDIR   = './xml/';
+const INFILE   = './data/enriched.json';
+const DATA     = JSON.parse(fs.readFileSync(INFILE, 'utf-8'));
 
 // turn a string into yellow (for the interactive console)
 function yellow(s)
@@ -54,29 +55,42 @@ function endProp(file, i, len)
     fs.writeSync(file, '\n');
 }
 
-function triple(file, rsrc, prop, content, type)
+function triple(mlsem, ttl, rsrc, prop, content, type)
 {
+    fs.writeSync(mlsem, `   <triple>\n`);
+    fs.writeSync(mlsem, `      <subject>http://h2o.consulting/ns/star-wars#${rsrc.slice(3)}</subject>\n`);
+
     // different outputs for different cases
+    const mltyped = (type) => {
+        fs.writeSync(mlsem, `      <predicate>http://h2o.consulting/ns/star-wars#${prop}</predicate>\n`);
+        fs.writeSync(mlsem, `      <object datatype="http://www.w3.org/2001/XMLSchema#${type}">${content}</object>\n`);
+    };
     const ref = (r) => {
-	fs.writeSync(file, `${rsrc}  sw:${r.pred}  sw:${r.type}-${content.slice(r.idx, -1)} .\n`);
+        const target = r.type + '-' + content.slice(r.idx, -1);
+        fs.writeSync(mlsem, `      <predicate>http://h2o.consulting/ns/star-wars#${r.pred}</predicate>\n`);
+        fs.writeSync(mlsem, `      <object>http://h2o.consulting/ns/star-wars#${target}</object>\n`);
+	fs.writeSync(ttl, `${rsrc}  sw:${r.pred}  sw:${target} .\n`);
     };
     const typed = (type) => {
-	fs.writeSync(file, `${rsrc}  sw:${prop}  "${content}"^^xs:${type} .\n`);
+        mltyped(type);
+	fs.writeSync(ttl, `${rsrc}  sw:${prop}  "${content}"^^xs:${type} .\n`);
     };
     const number = () => {
-	fs.writeSync(file, `${rsrc}  sw:${prop}  ${content} .\n`);
+        mltyped(/^[0-9]+$/.test(content) ? 'integer' : 'decimal');
+	fs.writeSync(ttl, `${rsrc}  sw:${prop}  ${content} .\n`);
     };
     const str = () => {
+        mltyped('string');
         const pred = prop === 'title' || prop === 'name'
             ? 'rdfs:label'
             : 'sw:' + prop;
         if ( /[\n\r]/.test(content) ) {
 	    const c = content.replace(/"""/g, '\\u0022\\u0022\\u0022');
-	    fs.writeSync(file, `${rsrc}  ${pred}  """${c}""" .\n`);
+	    fs.writeSync(ttl, `${rsrc}  ${pred}  """${c}""" .\n`);
         }
         else {
 	    const c = content.replace(/"/g, '\\u0022');
-	    fs.writeSync(file, `${rsrc}  ${pred}  "${c}" .\n`);
+	    fs.writeSync(ttl, `${rsrc}  ${pred}  "${c}" .\n`);
         }
     };
 
@@ -140,6 +154,8 @@ function triple(file, rsrc, prop, content, type)
     else {
         str();
     }
+
+    fs.writeSync(mlsem, `   </triple>\n`);
 }
 
 function elem(file, name, content)
@@ -156,16 +172,18 @@ function writeEntity(entity, dir, root)
     const rsrc = 'sw:' + root + '-' + num;
     const path = dir + '/' + num;
     console.warn(path);
-    const json  = fs.openSync(JSONDIR + path + '.json', 'w');
-    const ttl   = fs.openSync(TTLDIR  + path + '.ttl', 'w');
-    const xml   = fs.openSync(XMLDIR  + path + '.xml',  'w');
-    fs.writeSync(json, '{ "' + root + '": {\n');
-    fs.writeSync(ttl,  '@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n');
-    fs.writeSync(ttl,  '@prefix sw:   <http://h2o.consulting/ns/star-wars#> .\n');
-    fs.writeSync(ttl,  '@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .\n\n');
-    fs.writeSync(ttl,  rsrc + '  a  sw:' + clazz + ' .\n');
-    fs.writeSync(xml,  '<' + root + ' xmlns="http://h2o.consulting/ns/star-wars">\n');
+    const json  = fs.openSync(JSONDIR  + path + '.json', 'w');
+    const mlsem = fs.openSync(MLSEMDIR + path + '.xml',  'w');
+    const ttl   = fs.openSync(TTLDIR   + path + '.ttl',  'w');
+    const xml   = fs.openSync(XMLDIR   + path + '.xml',  'w');
     const clazz = root[0].toUpperCase() + root.slice(1);
+    fs.writeSync(json,  '{ "' + root + '": {\n');
+    fs.writeSync(mlsem, '<triples xmlns="http://marklogic.com/semantics">\n');
+    fs.writeSync(ttl,   '@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n');
+    fs.writeSync(ttl,   '@prefix sw:   <http://h2o.consulting/ns/star-wars#> .\n');
+    fs.writeSync(ttl,   '@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .\n\n');
+    fs.writeSync(ttl,   rsrc + '  a  sw:' + clazz + ' .\n');
+    fs.writeSync(xml,   '<' + root + ' xmlns="http://h2o.consulting/ns/star-wars">\n');
     const props = Object.keys(entity);
     props.forEach((prop, i) => {
         const val  = entity[prop];
@@ -175,19 +193,19 @@ function writeEntity(entity, dir, root)
         else if ( type === 'string' ) {
             string(json, prop, val);
             endProp(json, i, props.length);
-            triple(ttl, rsrc, prop, val, type);
+            triple(mlsem, ttl, rsrc, prop, val, type);
             elem(xml, prop, val);
         }
         else if ( type === 'number' ) {
             number(json, prop, val);
             endProp(json, i, props.length);
-            triple(ttl, rsrc, prop, val, type);
+            triple(mlsem, ttl, rsrc, prop, val, type);
             elem(xml, prop, val);
         }
         else if ( Array.isArray(val) ) {
             array(json, prop, val);
             endProp(json, i, props.length);
-            val.forEach(v => triple(ttl, rsrc, prop, v, type));
+            val.forEach(v => triple(mlsem, ttl, rsrc, prop, v, type));
             val.forEach(v => elem(xml, prop, v));
         }
         else {
@@ -195,8 +213,9 @@ function writeEntity(entity, dir, root)
             throw new Error(`Unknown type ${type} for ${prop} in ${str}`);
         }
     });
-    fs.writeSync(json, '}}\n');
-    fs.writeSync(xml,  '</' + root + '>\n');
+    fs.writeSync(json,  '}}\n');
+    fs.writeSync(mlsem, '</triples>\n');
+    fs.writeSync(xml,   '</' + root + '>\n');
 }
 
 const sections = [
