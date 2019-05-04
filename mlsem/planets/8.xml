@@ -147,6 +147,6 @@
    <triple>
       <subject>http://h2o.consulting/ns/star-wars#planet-8</subject>
       <predicate>http://h2o.consulting/ns/star-wars#desc</predicate>
-      <object datatype="http://www.w3.org/2001/XMLSchema#string">Theed's architecture, while referencing Ancient Rome and other classical traditions, was heavily inspired by the Frank Lloyd Wright-designed Marin County Civic Center in California. (Skywalker Ranch and Industrial Light & Magic are both based in Marin County.)</object>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Theed's architecture, while referencing Ancient Rome and other classical traditions, was heavily inspired by the Frank Lloyd Wright-designed Marin County Civic Center in California. (Skywalker Ranch and Industrial Light &amp; Magic are both based in Marin County.)</object>
    </triple>
 </triples>

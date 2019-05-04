@@ -12,7 +12,7 @@
    <triple>
       <subject>http://h2o.consulting/ns/star-wars#starship-29</subject>
       <predicate>http://h2o.consulting/ns/star-wars#manufacturer</predicate>
-      <object datatype="http://www.w3.org/2001/XMLSchema#string">Slayn & Korpil</object>
+      <object datatype="http://www.w3.org/2001/XMLSchema#string">Slayn &amp; Korpil</object>
    </triple>
    <triple>
       <subject>http://h2o.consulting/ns/star-wars#starship-29</subject>

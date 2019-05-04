@@ -61,9 +61,9 @@ function triple(mlsem, ttl, rsrc, prop, content, type)
     fs.writeSync(mlsem, `      <subject>http://h2o.consulting/ns/star-wars#${rsrc.slice(3)}</subject>\n`);
 
     // different outputs for different cases
-    const mltyped = (type) => {
+    const mltyped = (type, text) => {
         fs.writeSync(mlsem, `      <predicate>http://h2o.consulting/ns/star-wars#${prop}</predicate>\n`);
-        fs.writeSync(mlsem, `      <object datatype="http://www.w3.org/2001/XMLSchema#${type}">${content}</object>\n`);
+        fs.writeSync(mlsem, `      <object datatype="http://www.w3.org/2001/XMLSchema#${type}">${text}</object>\n`);
     };
     const ref = (r) => {
         const target = r.type + '-' + content.slice(r.idx, -1);
@@ -72,15 +72,15 @@ function triple(mlsem, ttl, rsrc, prop, content, type)
 	fs.writeSync(ttl, `${rsrc}  sw:${r.pred}  sw:${target} .\n`);
     };
     const typed = (type) => {
-        mltyped(type);
+        mltyped(type, content);
 	fs.writeSync(ttl, `${rsrc}  sw:${prop}  "${content}"^^xs:${type} .\n`);
     };
     const number = () => {
-        mltyped(/^[0-9]+$/.test(content) ? 'integer' : 'decimal');
+        mltyped(/^[0-9]+$/.test(content) ? 'integer' : 'decimal', content);
 	fs.writeSync(ttl, `${rsrc}  sw:${prop}  ${content} .\n`);
     };
     const str = () => {
-        mltyped('string');
+        mltyped('string', content.replace(/&/g, '&amp;').replace(/</g, '&lt;'));
         const pred = prop === 'title' || prop === 'name'
             ? 'rdfs:label'
             : 'sw:' + prop;
