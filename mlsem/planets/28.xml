@@ -1,6 +1,11 @@
 <triples xmlns="http://marklogic.com/semantics">
    <triple>
       <subject>http://h2o.consulting/ns/star-wars#planet-28</subject>
+      <predicate>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</predicate>
+      <object>http://h2o.consulting/ns/star-wars#Planet</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#planet-28</subject>
       <predicate>http://h2o.consulting/ns/star-wars#rotation_period</predicate>
       <object datatype="http://www.w3.org/2001/XMLSchema#integer">0</object>
    </triple>

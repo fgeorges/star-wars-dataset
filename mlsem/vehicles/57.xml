@@ -1,7 +1,12 @@
 <triples xmlns="http://marklogic.com/semantics">
    <triple>
       <subject>http://h2o.consulting/ns/star-wars#vehicle-57</subject>
-      <predicate>http://h2o.consulting/ns/star-wars#name</predicate>
+      <predicate>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</predicate>
+      <object>http://h2o.consulting/ns/star-wars#Vehicle</object>
+   </triple>
+   <triple>
+      <subject>http://h2o.consulting/ns/star-wars#vehicle-57</subject>
+      <predicate>http://www.w3.org/2000/01/rdf-schema#label</predicate>
       <object datatype="http://www.w3.org/2001/XMLSchema#string">Geonosian starfighter</object>
    </triple>
    <triple>

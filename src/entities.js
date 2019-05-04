@@ -55,42 +55,59 @@ function endProp(file, i, len)
     fs.writeSync(file, '\n');
 }
 
+function mltriple(file, rsrc, prop, content, type)
+{
+    fs.writeSync(file, `   <triple>\n`);
+    // subject
+    fs.writeSync(file, `      <subject>http://h2o.consulting/ns/star-wars#${rsrc}</subject>\n`);
+    // predicate
+    if ( prop === 'a' ) {
+        fs.writeSync(file, `      <predicate>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</predicate>\n`);
+    }
+    else if ( prop === 'title' || prop === 'name' ) {
+        fs.writeSync(file, `      <predicate>http://www.w3.org/2000/01/rdf-schema#label</predicate>\n`);
+    }
+    else {
+        fs.writeSync(file, `      <predicate>http://h2o.consulting/ns/star-wars#${prop}</predicate>\n`);
+    }
+    // object
+    if ( type ) {
+        fs.writeSync(file, `      <object datatype="http://www.w3.org/2001/XMLSchema#${type}">${content}</object>\n`);
+    }
+    else {
+        fs.writeSync(file, `      <object>http://h2o.consulting/ns/star-wars#${content}</object>\n`);
+    }
+    fs.writeSync(file, `   </triple>\n`);
+}
+
 function triple(mlsem, ttl, rsrc, prop, content, type)
 {
-    fs.writeSync(mlsem, `   <triple>\n`);
-    fs.writeSync(mlsem, `      <subject>http://h2o.consulting/ns/star-wars#${rsrc.slice(3)}</subject>\n`);
-
     // different outputs for different cases
-    const mltyped = (type, text) => {
-        fs.writeSync(mlsem, `      <predicate>http://h2o.consulting/ns/star-wars#${prop}</predicate>\n`);
-        fs.writeSync(mlsem, `      <object datatype="http://www.w3.org/2001/XMLSchema#${type}">${text}</object>\n`);
-    };
     const ref = (r) => {
         const target = r.type + '-' + content.slice(r.idx, -1);
-        fs.writeSync(mlsem, `      <predicate>http://h2o.consulting/ns/star-wars#${r.pred}</predicate>\n`);
-        fs.writeSync(mlsem, `      <object>http://h2o.consulting/ns/star-wars#${target}</object>\n`);
-	fs.writeSync(ttl, `${rsrc}  sw:${r.pred}  sw:${target} .\n`);
+        mltriple(mlsem, rsrc, r.pred, target);
+	fs.writeSync(ttl, `sw:${rsrc}  sw:${r.pred}  sw:${target} .\n`);
     };
     const typed = (type) => {
-        mltyped(type, content);
-	fs.writeSync(ttl, `${rsrc}  sw:${prop}  "${content}"^^xs:${type} .\n`);
+        mltriple(mlsem, rsrc, prop, content, type);
+	fs.writeSync(ttl, `sw:${rsrc}  sw:${prop}  "${content}"^^xs:${type} .\n`);
     };
     const number = () => {
-        mltyped(/^[0-9]+$/.test(content) ? 'integer' : 'decimal', content);
-	fs.writeSync(ttl, `${rsrc}  sw:${prop}  ${content} .\n`);
+        mltriple(mlsem, rsrc, prop, content, /^[0-9]+$/.test(content) ? 'integer' : 'decimal');
+	fs.writeSync(ttl, `sw:${rsrc}  sw:${prop}  ${content} .\n`);
     };
     const str = () => {
-        mltyped('string', content.replace(/&/g, '&amp;').replace(/</g, '&lt;'));
+        mltriple(mlsem, rsrc, prop, content.replace(/&/g, '&amp;').replace(/</g, '&lt;'), 'string');
         const pred = prop === 'title' || prop === 'name'
             ? 'rdfs:label'
             : 'sw:' + prop;
         if ( /[\n\r]/.test(content) ) {
 	    const c = content.replace(/"""/g, '\\u0022\\u0022\\u0022');
-	    fs.writeSync(ttl, `${rsrc}  ${pred}  """${c}""" .\n`);
+	    fs.writeSync(ttl, `sw:${rsrc}  ${pred}  """${c}""" .\n`);
         }
         else {
 	    const c = content.replace(/"/g, '\\u0022');
-	    fs.writeSync(ttl, `${rsrc}  ${pred}  "${c}" .\n`);
+	    fs.writeSync(ttl, `sw:${rsrc}  ${pred}  "${c}" .\n`);
         }
     };
 
@@ -154,8 +171,6 @@ function triple(mlsem, ttl, rsrc, prop, content, type)
     else {
         str();
     }
-
-    fs.writeSync(mlsem, `   </triple>\n`);
 }
 
 function elem(file, name, content)
@@ -166,10 +181,11 @@ function elem(file, name, content)
     fs.writeSync(file, '   <' + name + '>' + content + '</' + name + '>\n');
 }
 
+// TODO: For MLSEM and TTL, add the entity type...
 function writeEntity(entity, dir, root)
 {
     const num  = entity.url.split('/').slice(-2)[0];
-    const rsrc = 'sw:' + root + '-' + num;
+    const rsrc = root + '-' + num;
     const path = dir + '/' + num;
     console.warn(path);
     const json  = fs.openSync(JSONDIR  + path + '.json', 'w');
@@ -182,7 +198,8 @@ function writeEntity(entity, dir, root)
     fs.writeSync(ttl,   '@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n');
     fs.writeSync(ttl,   '@prefix sw:   <http://h2o.consulting/ns/star-wars#> .\n');
     fs.writeSync(ttl,   '@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .\n\n');
-    fs.writeSync(ttl,   rsrc + '  a  sw:' + clazz + ' .\n');
+    mltriple(mlsem, rsrc, 'a', clazz);
+    fs.writeSync(ttl,   `sw:${rsrc}  a  sw:${clazz} .\n`);
     fs.writeSync(xml,   '<' + root + ' xmlns="http://h2o.consulting/ns/star-wars">\n');
     const props = Object.keys(entity);
     props.forEach((prop, i) => {
