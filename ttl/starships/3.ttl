@@ -7,7 +7,7 @@ sw:starship-3  rdfs:label  "Star Destroyer" .
 sw:starship-3  sw:model  "Imperial I-class Star Destroyer" .
 sw:starship-3  sw:manufacturer  "Kuat Drive Yards" .
 sw:starship-3  sw:cost_in_credits  150000000 .
-sw:starship-3  sw:length  "1,600" .
+sw:starship-3  sw:length  1600 .
 sw:starship-3  sw:max_atmosphering_speed  975 .
 sw:starship-3  sw:crew  47060 .
 sw:starship-3  sw:passengers  0 .

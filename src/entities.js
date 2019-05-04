@@ -54,7 +54,7 @@ function endProp(file, i, len)
     fs.writeSync(file, '\n');
 }
 
-function triple(file, rsrc, prop, content)
+function triple(file, rsrc, prop, content, type)
 {
     // different outputs for different cases
     const ref = (pred, type, idx) => {
@@ -134,8 +134,17 @@ function triple(file, rsrc, prop, content)
     else if ( ['created', 'edited'].includes(prop) ) {
 	typed('dateTime');
     }
-    else if ( numbers.includes(prop) && ! isNaN(content) ) {
+    else if ( type === 'number' ) {
         number();
+    }
+    else if ( numbers.includes(prop) ) {
+        content = content.replace(',', '');
+        if ( isNaN(content) ) {
+            str();
+        }
+        else {
+            number();
+        }
     }
     else if ( prop !== 'url' && content.startsWith('http://swapi.co/api/') ) {
 	throw new Error('Should not this be a resource link? - ' + prop);
@@ -178,24 +187,24 @@ function writeEntity(entity, dir, root)
         else if ( type === 'string' ) {
             string(json, prop, val);
             endProp(json, i, props.length);
-            triple(ttl, rsrc, prop, val);
+            triple(ttl, rsrc, prop, val, type);
             elem(xml, prop, val);
         }
         else if ( type === 'number' ) {
             number(json, prop, val);
             endProp(json, i, props.length);
-            triple(ttl, rsrc, prop, val);
+            triple(ttl, rsrc, prop, val, type);
             elem(xml, prop, val);
         }
         else if ( Array.isArray(val) ) {
             array(json, prop, val);
             endProp(json, i, props.length);
-            val.forEach(v => triple(ttl, rsrc, prop, v));
+            val.forEach(v => triple(ttl, rsrc, prop, v, type));
             val.forEach(v => elem(xml, prop, v));
         }
         else {
             const str = JSON.stringify(entity);
-            throw new Error('Unknown type for ' + prop + ' in ' + str);
+            throw new Error(`Unknown type ${type} for ${prop} in ${str}`);
         }
     });
     fs.writeSync(json, '}}\n');
