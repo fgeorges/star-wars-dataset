@@ -56,22 +56,45 @@ function endProp(file, i, len)
 
 function triple(file, rsrc, prop, content)
 {
+    // different outputs for different cases
+    const ref = (pred, type, idx) => {
+	fs.writeSync(file, `${rsrc}  sw:${pred}  sw:${type}-${content.slice(idx, -1)} .\n`);
+    };
+    const typed = (type) => {
+	fs.writeSync(file, `${rsrc}  ${prop}  "${content}"^^xs:${type} .\n`);
+    };
+    const number = () => {
+	fs.writeSync(file, `${rsrc}  ${prop}  ${content} .\n`);
+    };
+    const str = () => {
+        if ( /[\n\r]/.test(content) ) {
+	    const c = content.replace(/"""/g, '\\u0022\\u0022\\u0022');
+	    fs.writeSync(file, `${rsrc}  ${prop}  """${c}""" .\n`);
+        }
+        else {
+	    const c = content.replace(/"/g, '\\u0022');
+	    fs.writeSync(file, `${rsrc}  ${prop}  "${c}" .\n`);
+        }
+    };
+
+    // numeric properties
     const numbers = [
         'sw:average_height',
-        'sw:average_lifespan',
-        'sw:cargo_capacity',
-        'sw:consumables',
+        'sw:average_lifespan',        // can be "indefinite"
+        'sw:cargo_capacity',          // can be "none"
         'sw:cost_in_credits',
         'sw:crew',
         'sw:diameter',
         'sw:episode_id',
-        'sw:hyperdrive_rating',
-        'sw:length',
-        'sw:max_atmosphering_speed',
+        'sw:hyperdrive_rating',       // decimal
+        'sw:length',                  // decimal, with "," for thousands
+        'sw:max_atmosphering_speed',  // there is one "1000km"
         'sw:orbital_period',
         'sw:passengers',
         'sw:rotation_period'
     ];
+
+    // output the triple
     if ( prop === 'title' || prop === 'name' ) {
 	prop = 'rdfs:label';
     }
@@ -79,54 +102,49 @@ function triple(file, rsrc, prop, content)
 	prop = 'sw:' + prop;
     }
     if ( prop === 'sw:characters' ) {
-	fs.writeSync(file, rsrc + '  sw:character  sw:people-' + content.slice(27, -1) + ' .\n');
+        ref('character', 'people', 27);
     }
     else if ( prop === 'sw:films' ) {
-	fs.writeSync(file, rsrc + '  sw:film  sw:film-' + content.slice(26, -1) + ' .\n');
+        ref('film', 'film', 26);
     }
     else if ( prop === 'sw:homeworld' ) {
-	fs.writeSync(file, rsrc + '  sw:homeworld  sw:planet-' + content.slice(28, -1) + ' .\n');
+        ref('homeworld', 'planet', 28);
     }
     else if ( prop === 'sw:people' ) {
-	fs.writeSync(file, rsrc + '  sw:people  sw:people-' + content.slice(27, -1) + ' .\n');
+        ref('people', 'people', 27);
     }
     else if ( prop === 'sw:pilots' ) {
-	fs.writeSync(file, rsrc + '  sw:pilot  sw:people-' + content.slice(27, -1) + ' .\n');
+        ref('pilot', 'people', 27);
     }
     else if ( prop === 'sw:planets' ) {
-	fs.writeSync(file, rsrc + '  sw:planet  sw:planet-' + content.slice(28, -1) + ' .\n');
+        ref('planet', 'planet', 28);
     }
     else if ( prop === 'sw:residents' ) {
-	fs.writeSync(file, rsrc + '  sw:resident  sw:people-' + content.slice(27, -1) + ' .\n');
+        ref('resident', 'people', 27);
     }
     else if ( prop === 'sw:species' ) {
-	fs.writeSync(file, rsrc + '  sw:species  sw:species-' + content.slice(28, -1) + ' .\n');
+        ref('species', 'species', 28);
     }
     else if ( prop === 'sw:starships' ) {
-	fs.writeSync(file, rsrc + '  sw:starship  sw:starship-' + content.slice(30, -1) + ' .\n');
+        ref('starship', 'starship', 30);
     }
     else if ( prop === 'sw:vehicles' ) {
-	fs.writeSync(file, rsrc + '  sw:vehicle  sw:vehicle-' + content.slice(29, -1) + ' .\n');
+        ref('vehicle', 'vehicle', 29);
     }
     else if ( prop === 'sw:release_date' ) {
-	fs.writeSync(file, `${rsrc}  ${prop}  "${content}"^^xs:date .\n`);
+	typed('date');
     }
     else if ( ['sw:created', 'sw:edited'].includes(prop) ) {
-	fs.writeSync(file, `${rsrc}  ${prop}  "${content}"^^xs:dateTime .\n`);
+	typed('dateTime');
     }
     else if ( numbers.includes(prop) && ! isNaN(content) ) {
-	fs.writeSync(file, `${rsrc}  ${prop}  ${content} .\n`);
+        number();
     }
     else if ( prop !== 'sw:url' && content.startsWith('http://swapi.co/api/') ) {
 	throw new Error('Should not this be a resource link? - ' + prop);
     }
-    else if ( /[\n\r]/.test(content) ) {
-	const c = content.replace(/"""/g, '\\u0022\\u0022\\u0022');
-	fs.writeSync(file, `${rsrc}  ${prop}  """${c}""" .\n`);
-    }
     else {
-	const c = content.replace(/"/g, '\\u0022');
-	fs.writeSync(file, `${rsrc}  ${prop}  "${c}" .\n`);
+        str();
     }
 }
 
