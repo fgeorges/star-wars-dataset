@@ -21,3 +21,39 @@ To generate the data archive files:
     $ cd ..
     $ tar zcf star-wars-dataset/archive/star-wars-dataset.tar.gz star-wars-dataset/{README.md,data,json,mlsem,ttl,xml}
     $ zip -r star-wars-dataset/archive/star-wars-dataset.zip star-wars-dataset/{README.md,data,json,mlsem,ttl,xml}
+
+## MarkLogic
+
+If you want to get the files inserted into a markLogic database, you can look at
+the following code and adapt it as you see fit:
+
+```js
+'use strict';
+
+declareUpdate();
+
+const base = '/';
+const url  = 'https://raw.githubusercontent.com/fgeorges/star-wars-dataset/master/archive/star-wars-dataset.zip';
+
+const got = xdmp.httpGet(url);
+if ( fn.head(got).code !== 200 ) {
+    throw new Error(`Not 200: {fn.head(got).code} - {fn.head(got).message}`);
+}
+
+const zip = fn.head(fn.tail(got));
+const res = {skipped: 0, inserted: 0};
+
+for ( const entry of xdmp.zipManifest(zip) ) {
+    if ( ! entry.uncompressedSize ) {
+        // skip directories
+        ++ res.skipped;
+        continue;
+    }
+    const uri = base + entry.path;
+    const doc = xdmp.zipGet(zip, entry.path);
+    xdmp.documentInsert(uri, doc);
+    ++ res.inserted;
+}
+
+result;
+```
