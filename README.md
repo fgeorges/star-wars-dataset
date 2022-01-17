@@ -55,5 +55,5 @@ for ( const entry of xdmp.zipManifest(zip) ) {
     ++ res.inserted;
 }
 
-result;
+res;
 ```
