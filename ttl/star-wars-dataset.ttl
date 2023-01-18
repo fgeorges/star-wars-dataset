@@ -2,6 +2,627 @@
 @prefix sw:   <http://h2o.consulting/ns/star-wars#> .
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 
+sw:film-1  a  sw:Film .
+sw:film-1  rdfs:label  "A New Hope" .
+sw:film-1  sw:episode_id  4 .
+sw:film-1  sw:opening_crawl  """It is a period of civil war.
+Rebel spaceships, striking
+from a hidden base, have won
+their first victory against
+the evil Galactic Empire.
+
+During the battle, Rebel
+spies managed to steal secret
+plans to the Empire's
+ultimate weapon, the DEATH
+STAR, an armored space
+station with enough power
+to destroy an entire planet.
+
+Pursued by the Empire's
+sinister agents, Princess
+Leia races home aboard her
+starship, custodian of the
+stolen plans that can save her
+people and restore
+freedom to the galaxy....""" .
+sw:film-1  sw:director  "George Lucas" .
+sw:film-1  sw:producer  "Gary Kurtz, Rick McCallum" .
+sw:film-1  sw:release_date  "1977-05-25"^^xs:date .
+sw:film-1  sw:character  sw:people-1 .
+sw:film-1  sw:character  sw:people-2 .
+sw:film-1  sw:character  sw:people-3 .
+sw:film-1  sw:character  sw:people-4 .
+sw:film-1  sw:character  sw:people-5 .
+sw:film-1  sw:character  sw:people-6 .
+sw:film-1  sw:character  sw:people-7 .
+sw:film-1  sw:character  sw:people-8 .
+sw:film-1  sw:character  sw:people-9 .
+sw:film-1  sw:character  sw:people-10 .
+sw:film-1  sw:character  sw:people-12 .
+sw:film-1  sw:character  sw:people-13 .
+sw:film-1  sw:character  sw:people-14 .
+sw:film-1  sw:character  sw:people-15 .
+sw:film-1  sw:character  sw:people-16 .
+sw:film-1  sw:character  sw:people-18 .
+sw:film-1  sw:character  sw:people-19 .
+sw:film-1  sw:character  sw:people-81 .
+sw:film-1  sw:planet  sw:planet-2 .
+sw:film-1  sw:planet  sw:planet-3 .
+sw:film-1  sw:planet  sw:planet-1 .
+sw:film-1  sw:starship  sw:starship-2 .
+sw:film-1  sw:starship  sw:starship-3 .
+sw:film-1  sw:starship  sw:starship-5 .
+sw:film-1  sw:starship  sw:starship-9 .
+sw:film-1  sw:starship  sw:starship-10 .
+sw:film-1  sw:starship  sw:starship-11 .
+sw:film-1  sw:starship  sw:starship-12 .
+sw:film-1  sw:starship  sw:starship-13 .
+sw:film-1  sw:vehicle  sw:vehicle-4 .
+sw:film-1  sw:vehicle  sw:vehicle-6 .
+sw:film-1  sw:vehicle  sw:vehicle-7 .
+sw:film-1  sw:vehicle  sw:vehicle-8 .
+sw:film-1  sw:species  sw:species-5 .
+sw:film-1  sw:species  sw:species-3 .
+sw:film-1  sw:species  sw:species-2 .
+sw:film-1  sw:species  sw:species-1 .
+sw:film-1  sw:species  sw:species-4 .
+sw:film-1  sw:created  "2014-12-10T14:23:31.880000Z"^^xs:dateTime .
+sw:film-1  sw:edited  "2015-04-11T09:46:52.774897Z"^^xs:dateTime .
+sw:film-1  sw:url  "http://swapi.co/api/films/1/" .
+sw:film-1  sw:desc  "Star Wars (later retitled Star Wars: Episode IV – A New Hope) is a 1977 American epic space opera film written and directed by George Lucas. It is the first film in the original Star Wars trilogy, the first Star Wars movie in general, and the beginning of the Star Wars franchise. Starring Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness, David Prowse, James Earl Jones, Anthony Daniels, Kenny Baker, and Peter Mayhew, the film's plot focuses on the Rebel Alliance, led by Princess Leia (Fisher), and its attempt to destroy the Galactic Empire's space station, the Death Star. This conflict disrupts the isolated life of farmhand Luke Skywalker (Hamill), who inadvertently acquires a pair of droids that possess stolen architectural plans for the Death Star. When the Empire begins a destructive search for the missing droids, Skywalker accompanies Jedi Master Obi-Wan Kenobi (Guinness) on a mission to return the plans to the Rebel Alliance and rescue Leia from her imprisonment by the Empire." .
+sw:film-1  sw:desc  "Star Wars was released in theatres in the United States on May 25, 1977. It earned $461 million in the U.S. and $314 million overseas, totaling $775 million ($3.132 billion in 2017 dollars, adjusted for inflation). It surpassed Jaws (1975) to become the highest-grossing film of all time until the release of E.T. the Extra-Terrestrial (1982). When adjusted for inflation, Star Wars is the second-highest-grossing film in North America, and the third-highest-grossing film in the world. It received ten Academy Award nominations (including Best Picture), winning seven. It was among the first films to be selected as part of the U.S. Library of Congress' National Film Registry as being \u0022culturally, historically, or aesthetically significant\u0022. At the time, it was the most recent film on the registry and the only one chosen from the 1970s. Its soundtrack was added to the U.S. National Recording Registry in 2004. Today, it is often regarded as one of the most important films in the history of motion pictures. It launched an industry of tie-in products, including TV series spinoffs, novels, comic books, and video games, and merchandise including toys, games and clothing." .
+sw:film-1  sw:desc  "The film's success led to two critically and commercially successful sequels, The Empire Strikes Back in 1980 and Return of the Jedi in 1983. Star Wars was reissued multiple times at Lucas' behest, incorporating many changes including modified computer-generated effects, altered dialogue, re-edited shots, remixed soundtracks, and added scenes. A prequel trilogy was released beginning with The Phantom Menace in 1999, continuing with Attack of the Clones in 2002, and concluding with Revenge of the Sith in 2005. The film was followed by a sequel trilogy beginning with The Force Awakens in 2015. A direct prequel, Rogue One, was released in 2016. The film's fourth sequel, The Last Jedi, will be released in December 2017." .
+
+sw:film-5  a  sw:Film .
+sw:film-5  rdfs:label  "Attack of the Clones" .
+sw:film-5  sw:episode_id  2 .
+sw:film-5  sw:opening_crawl  """There is unrest in the Galactic
+Senate. Several thousand solar
+systems have declared their
+intentions to leave the Republic.
+
+This separatist movement,
+under the leadership of the
+mysterious Count Dooku, has
+made it difficult for the limited
+number of Jedi Knights to maintain 
+peace and order in the galaxy.
+
+Senator Amidala, the former
+Queen of Naboo, is returning
+to the Galactic Senate to vote
+on the critical issue of creating
+an ARMY OF THE REPUBLIC
+to assist the overwhelmed
+Jedi....""" .
+sw:film-5  sw:director  "George Lucas" .
+sw:film-5  sw:producer  "Rick McCallum" .
+sw:film-5  sw:release_date  "2002-05-16"^^xs:date .
+sw:film-5  sw:character  sw:people-2 .
+sw:film-5  sw:character  sw:people-3 .
+sw:film-5  sw:character  sw:people-6 .
+sw:film-5  sw:character  sw:people-7 .
+sw:film-5  sw:character  sw:people-10 .
+sw:film-5  sw:character  sw:people-11 .
+sw:film-5  sw:character  sw:people-20 .
+sw:film-5  sw:character  sw:people-21 .
+sw:film-5  sw:character  sw:people-22 .
+sw:film-5  sw:character  sw:people-33 .
+sw:film-5  sw:character  sw:people-36 .
+sw:film-5  sw:character  sw:people-40 .
+sw:film-5  sw:character  sw:people-43 .
+sw:film-5  sw:character  sw:people-46 .
+sw:film-5  sw:character  sw:people-51 .
+sw:film-5  sw:character  sw:people-52 .
+sw:film-5  sw:character  sw:people-53 .
+sw:film-5  sw:character  sw:people-58 .
+sw:film-5  sw:character  sw:people-59 .
+sw:film-5  sw:character  sw:people-60 .
+sw:film-5  sw:character  sw:people-61 .
+sw:film-5  sw:character  sw:people-62 .
+sw:film-5  sw:character  sw:people-63 .
+sw:film-5  sw:character  sw:people-64 .
+sw:film-5  sw:character  sw:people-65 .
+sw:film-5  sw:character  sw:people-66 .
+sw:film-5  sw:character  sw:people-67 .
+sw:film-5  sw:character  sw:people-68 .
+sw:film-5  sw:character  sw:people-69 .
+sw:film-5  sw:character  sw:people-70 .
+sw:film-5  sw:character  sw:people-71 .
+sw:film-5  sw:character  sw:people-72 .
+sw:film-5  sw:character  sw:people-73 .
+sw:film-5  sw:character  sw:people-74 .
+sw:film-5  sw:character  sw:people-75 .
+sw:film-5  sw:character  sw:people-76 .
+sw:film-5  sw:character  sw:people-77 .
+sw:film-5  sw:character  sw:people-78 .
+sw:film-5  sw:character  sw:people-82 .
+sw:film-5  sw:character  sw:people-35 .
+sw:film-5  sw:planet  sw:planet-8 .
+sw:film-5  sw:planet  sw:planet-9 .
+sw:film-5  sw:planet  sw:planet-10 .
+sw:film-5  sw:planet  sw:planet-11 .
+sw:film-5  sw:planet  sw:planet-1 .
+sw:film-5  sw:starship  sw:starship-21 .
+sw:film-5  sw:starship  sw:starship-39 .
+sw:film-5  sw:starship  sw:starship-43 .
+sw:film-5  sw:starship  sw:starship-47 .
+sw:film-5  sw:starship  sw:starship-48 .
+sw:film-5  sw:starship  sw:starship-49 .
+sw:film-5  sw:starship  sw:starship-32 .
+sw:film-5  sw:starship  sw:starship-52 .
+sw:film-5  sw:starship  sw:starship-58 .
+sw:film-5  sw:vehicle  sw:vehicle-4 .
+sw:film-5  sw:vehicle  sw:vehicle-44 .
+sw:film-5  sw:vehicle  sw:vehicle-45 .
+sw:film-5  sw:vehicle  sw:vehicle-46 .
+sw:film-5  sw:vehicle  sw:vehicle-50 .
+sw:film-5  sw:vehicle  sw:vehicle-51 .
+sw:film-5  sw:vehicle  sw:vehicle-53 .
+sw:film-5  sw:vehicle  sw:vehicle-54 .
+sw:film-5  sw:vehicle  sw:vehicle-55 .
+sw:film-5  sw:vehicle  sw:vehicle-56 .
+sw:film-5  sw:vehicle  sw:vehicle-57 .
+sw:film-5  sw:species  sw:species-32 .
+sw:film-5  sw:species  sw:species-33 .
+sw:film-5  sw:species  sw:species-2 .
+sw:film-5  sw:species  sw:species-35 .
+sw:film-5  sw:species  sw:species-6 .
+sw:film-5  sw:species  sw:species-1 .
+sw:film-5  sw:species  sw:species-12 .
+sw:film-5  sw:species  sw:species-34 .
+sw:film-5  sw:species  sw:species-13 .
+sw:film-5  sw:species  sw:species-15 .
+sw:film-5  sw:species  sw:species-28 .
+sw:film-5  sw:species  sw:species-29 .
+sw:film-5  sw:species  sw:species-30 .
+sw:film-5  sw:species  sw:species-31 .
+sw:film-5  sw:created  "2014-12-20T10:57:57.886000Z"^^xs:dateTime .
+sw:film-5  sw:edited  "2015-04-11T09:45:01.623982Z"^^xs:dateTime .
+sw:film-5  sw:url  "http://swapi.co/api/films/5/" .
+sw:film-5  sw:desc  "Star Wars: Episode II – Attack of the Clones is a 2002 American epic space opera film directed by George Lucas and written by Lucas and Jonathan Hales. It is the second installment of the Star Wars prequel trilogy, and stars Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid, Samuel L. Jackson, Christopher Lee, Temuera Morrison, Anthony Daniels, Kenny Baker and Frank Oz." .
+sw:film-5  sw:desc  "Set ten years after the events in The Phantom Menace, the galaxy is on the brink of civil war. Led by a former Jedi named Count Dooku, thousands of planetary systems threaten to secede from the Galactic Republic. After Senator Padmé Amidala evades assassination, Jedi apprentice Anakin Skywalker becomes her protector, while his mentor Obi-Wan Kenobi investigates the attempt on Padmé's life. Soon Anakin, Padmé and Obi-Wan witness the onset of a new threat to the galaxy, the Clone Wars." .
+sw:film-5  sw:desc  "Development of Attack of the Clones began in March 2000, after the release of The Phantom Menace. By June 2000, Lucas and Hales completed a draft of the script and principal photography took place from June to September 2000. The film crew primarily shot at Fox Studios Australia in Sydney, Australia, with additional footage filmed in Tunisia, Spain and Italy. It was one of the first motion pictures shot completely on a high-definition digital 24-frame system." .
+sw:film-5  sw:desc  "The film was released in the United States on May 16, 2002. Some critics hailed it as an improvement over The Phantom Menace, while others called it the worst entry of the franchise.[5][6] The visual effects, costume design, musical score, action scenes and Ewan McGregor’s performance as Obi-Wan Kenobi were all praised, however the romance of Anakin and Padmé, the dialogue and the film's long runtime were all criticized. The film was a financial success, making over $649 million worldwide; however, it also became the first Star Wars film to be outgrossed in its year of release, placing third domestically and fourth internationally. The film was released on VHS and DVD on November 12, 2002 and was later released on Blu-ray on September 16, 2011. Following Attack of the Clones, the third and final film of the prequel trilogy, Revenge of the Sith, premiered in 2005." .
+
+sw:film-4  a  sw:Film .
+sw:film-4  rdfs:label  "The Phantom Menace" .
+sw:film-4  sw:episode_id  1 .
+sw:film-4  sw:opening_crawl  """Turmoil has engulfed the
+Galactic Republic. The taxation
+of trade routes to outlying star
+systems is in dispute.
+
+Hoping to resolve the matter
+with a blockade of deadly
+battleships, the greedy Trade
+Federation has stopped all
+shipping to the small planet
+of Naboo.
+
+While the Congress of the
+Republic endlessly debates
+this alarming chain of events,
+the Supreme Chancellor has
+secretly dispatched two Jedi
+Knights, the guardians of
+peace and justice in the
+galaxy, to settle the conflict....""" .
+sw:film-4  sw:director  "George Lucas" .
+sw:film-4  sw:producer  "Rick McCallum" .
+sw:film-4  sw:release_date  "1999-05-19"^^xs:date .
+sw:film-4  sw:character  sw:people-2 .
+sw:film-4  sw:character  sw:people-3 .
+sw:film-4  sw:character  sw:people-10 .
+sw:film-4  sw:character  sw:people-11 .
+sw:film-4  sw:character  sw:people-16 .
+sw:film-4  sw:character  sw:people-20 .
+sw:film-4  sw:character  sw:people-21 .
+sw:film-4  sw:character  sw:people-32 .
+sw:film-4  sw:character  sw:people-33 .
+sw:film-4  sw:character  sw:people-34 .
+sw:film-4  sw:character  sw:people-36 .
+sw:film-4  sw:character  sw:people-37 .
+sw:film-4  sw:character  sw:people-38 .
+sw:film-4  sw:character  sw:people-39 .
+sw:film-4  sw:character  sw:people-40 .
+sw:film-4  sw:character  sw:people-41 .
+sw:film-4  sw:character  sw:people-42 .
+sw:film-4  sw:character  sw:people-43 .
+sw:film-4  sw:character  sw:people-44 .
+sw:film-4  sw:character  sw:people-46 .
+sw:film-4  sw:character  sw:people-48 .
+sw:film-4  sw:character  sw:people-49 .
+sw:film-4  sw:character  sw:people-50 .
+sw:film-4  sw:character  sw:people-51 .
+sw:film-4  sw:character  sw:people-52 .
+sw:film-4  sw:character  sw:people-53 .
+sw:film-4  sw:character  sw:people-54 .
+sw:film-4  sw:character  sw:people-55 .
+sw:film-4  sw:character  sw:people-56 .
+sw:film-4  sw:character  sw:people-57 .
+sw:film-4  sw:character  sw:people-58 .
+sw:film-4  sw:character  sw:people-59 .
+sw:film-4  sw:character  sw:people-47 .
+sw:film-4  sw:character  sw:people-35 .
+sw:film-4  sw:planet  sw:planet-8 .
+sw:film-4  sw:planet  sw:planet-9 .
+sw:film-4  sw:planet  sw:planet-1 .
+sw:film-4  sw:starship  sw:starship-40 .
+sw:film-4  sw:starship  sw:starship-41 .
+sw:film-4  sw:starship  sw:starship-31 .
+sw:film-4  sw:starship  sw:starship-32 .
+sw:film-4  sw:starship  sw:starship-39 .
+sw:film-4  sw:vehicle  sw:vehicle-33 .
+sw:film-4  sw:vehicle  sw:vehicle-34 .
+sw:film-4  sw:vehicle  sw:vehicle-35 .
+sw:film-4  sw:vehicle  sw:vehicle-36 .
+sw:film-4  sw:vehicle  sw:vehicle-37 .
+sw:film-4  sw:vehicle  sw:vehicle-38 .
+sw:film-4  sw:vehicle  sw:vehicle-42 .
+sw:film-4  sw:species  sw:species-1 .
+sw:film-4  sw:species  sw:species-2 .
+sw:film-4  sw:species  sw:species-6 .
+sw:film-4  sw:species  sw:species-11 .
+sw:film-4  sw:species  sw:species-12 .
+sw:film-4  sw:species  sw:species-13 .
+sw:film-4  sw:species  sw:species-14 .
+sw:film-4  sw:species  sw:species-15 .
+sw:film-4  sw:species  sw:species-16 .
+sw:film-4  sw:species  sw:species-17 .
+sw:film-4  sw:species  sw:species-18 .
+sw:film-4  sw:species  sw:species-19 .
+sw:film-4  sw:species  sw:species-20 .
+sw:film-4  sw:species  sw:species-21 .
+sw:film-4  sw:species  sw:species-22 .
+sw:film-4  sw:species  sw:species-23 .
+sw:film-4  sw:species  sw:species-24 .
+sw:film-4  sw:species  sw:species-25 .
+sw:film-4  sw:species  sw:species-26 .
+sw:film-4  sw:species  sw:species-27 .
+sw:film-4  sw:created  "2014-12-19T16:52:55.740000Z"^^xs:dateTime .
+sw:film-4  sw:edited  "2015-04-11T09:45:18.689301Z"^^xs:dateTime .
+sw:film-4  sw:url  "http://swapi.co/api/films/4/" .
+
+sw:film-6  a  sw:Film .
+sw:film-6  rdfs:label  "Revenge of the Sith" .
+sw:film-6  sw:episode_id  3 .
+sw:film-6  sw:opening_crawl  """War! The Republic is crumbling
+under attacks by the ruthless
+Sith Lord, Count Dooku.
+There are heroes on both sides.
+Evil is everywhere.
+
+In a stunning move, the
+fiendish droid leader, General
+Grievous, has swept into the
+Republic capital and kidnapped
+Chancellor Palpatine, leader of
+the Galactic Senate.
+
+As the Separatist Droid Army
+attempts to flee the besieged
+capital with their valuable
+hostage, two Jedi Knights lead a
+desperate mission to rescue the
+captive Chancellor....""" .
+sw:film-6  sw:director  "George Lucas" .
+sw:film-6  sw:producer  "Rick McCallum" .
+sw:film-6  sw:release_date  "2005-05-19"^^xs:date .
+sw:film-6  sw:character  sw:people-1 .
+sw:film-6  sw:character  sw:people-2 .
+sw:film-6  sw:character  sw:people-3 .
+sw:film-6  sw:character  sw:people-4 .
+sw:film-6  sw:character  sw:people-5 .
+sw:film-6  sw:character  sw:people-6 .
+sw:film-6  sw:character  sw:people-7 .
+sw:film-6  sw:character  sw:people-10 .
+sw:film-6  sw:character  sw:people-11 .
+sw:film-6  sw:character  sw:people-12 .
+sw:film-6  sw:character  sw:people-13 .
+sw:film-6  sw:character  sw:people-20 .
+sw:film-6  sw:character  sw:people-21 .
+sw:film-6  sw:character  sw:people-33 .
+sw:film-6  sw:character  sw:people-46 .
+sw:film-6  sw:character  sw:people-51 .
+sw:film-6  sw:character  sw:people-52 .
+sw:film-6  sw:character  sw:people-53 .
+sw:film-6  sw:character  sw:people-54 .
+sw:film-6  sw:character  sw:people-55 .
+sw:film-6  sw:character  sw:people-56 .
+sw:film-6  sw:character  sw:people-58 .
+sw:film-6  sw:character  sw:people-63 .
+sw:film-6  sw:character  sw:people-64 .
+sw:film-6  sw:character  sw:people-67 .
+sw:film-6  sw:character  sw:people-68 .
+sw:film-6  sw:character  sw:people-75 .
+sw:film-6  sw:character  sw:people-78 .
+sw:film-6  sw:character  sw:people-79 .
+sw:film-6  sw:character  sw:people-80 .
+sw:film-6  sw:character  sw:people-81 .
+sw:film-6  sw:character  sw:people-82 .
+sw:film-6  sw:character  sw:people-83 .
+sw:film-6  sw:character  sw:people-35 .
+sw:film-6  sw:planet  sw:planet-2 .
+sw:film-6  sw:planet  sw:planet-5 .
+sw:film-6  sw:planet  sw:planet-8 .
+sw:film-6  sw:planet  sw:planet-9 .
+sw:film-6  sw:planet  sw:planet-12 .
+sw:film-6  sw:planet  sw:planet-13 .
+sw:film-6  sw:planet  sw:planet-14 .
+sw:film-6  sw:planet  sw:planet-15 .
+sw:film-6  sw:planet  sw:planet-16 .
+sw:film-6  sw:planet  sw:planet-17 .
+sw:film-6  sw:planet  sw:planet-18 .
+sw:film-6  sw:planet  sw:planet-19 .
+sw:film-6  sw:planet  sw:planet-1 .
+sw:film-6  sw:starship  sw:starship-48 .
+sw:film-6  sw:starship  sw:starship-59 .
+sw:film-6  sw:starship  sw:starship-61 .
+sw:film-6  sw:starship  sw:starship-32 .
+sw:film-6  sw:starship  sw:starship-63 .
+sw:film-6  sw:starship  sw:starship-64 .
+sw:film-6  sw:starship  sw:starship-65 .
+sw:film-6  sw:starship  sw:starship-66 .
+sw:film-6  sw:starship  sw:starship-68 .
+sw:film-6  sw:starship  sw:starship-74 .
+sw:film-6  sw:starship  sw:starship-75 .
+sw:film-6  sw:starship  sw:starship-2 .
+sw:film-6  sw:vehicle  sw:vehicle-33 .
+sw:film-6  sw:vehicle  sw:vehicle-50 .
+sw:film-6  sw:vehicle  sw:vehicle-60 .
+sw:film-6  sw:vehicle  sw:vehicle-62 .
+sw:film-6  sw:vehicle  sw:vehicle-67 .
+sw:film-6  sw:vehicle  sw:vehicle-69 .
+sw:film-6  sw:vehicle  sw:vehicle-70 .
+sw:film-6  sw:vehicle  sw:vehicle-71 .
+sw:film-6  sw:vehicle  sw:vehicle-72 .
+sw:film-6  sw:vehicle  sw:vehicle-73 .
+sw:film-6  sw:vehicle  sw:vehicle-76 .
+sw:film-6  sw:vehicle  sw:vehicle-53 .
+sw:film-6  sw:vehicle  sw:vehicle-56 .
+sw:film-6  sw:species  sw:species-19 .
+sw:film-6  sw:species  sw:species-33 .
+sw:film-6  sw:species  sw:species-2 .
+sw:film-6  sw:species  sw:species-3 .
+sw:film-6  sw:species  sw:species-36 .
+sw:film-6  sw:species  sw:species-37 .
+sw:film-6  sw:species  sw:species-6 .
+sw:film-6  sw:species  sw:species-1 .
+sw:film-6  sw:species  sw:species-34 .
+sw:film-6  sw:species  sw:species-15 .
+sw:film-6  sw:species  sw:species-35 .
+sw:film-6  sw:species  sw:species-20 .
+sw:film-6  sw:species  sw:species-23 .
+sw:film-6  sw:species  sw:species-24 .
+sw:film-6  sw:species  sw:species-25 .
+sw:film-6  sw:species  sw:species-26 .
+sw:film-6  sw:species  sw:species-27 .
+sw:film-6  sw:species  sw:species-28 .
+sw:film-6  sw:species  sw:species-29 .
+sw:film-6  sw:species  sw:species-30 .
+sw:film-6  sw:created  "2014-12-20T18:49:38.403000Z"^^xs:dateTime .
+sw:film-6  sw:edited  "2015-04-11T09:45:44.862122Z"^^xs:dateTime .
+sw:film-6  sw:url  "http://swapi.co/api/films/6/" .
+sw:film-6  sw:desc  "Star Wars: Episode III – Revenge of the Sith is a 2005 American epic space opera film written and directed by George Lucas. It is the sixth entry of the Star Wars film series and stars Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid, Samuel L. Jackson, Christopher Lee, Anthony Daniels, Kenny Baker, and Frank Oz. A sequel to The Phantom Menace (1999) and Attack of the Clones (2002), the film is the third and final installment of the Star Wars prequel trilogy." .
+sw:film-6  sw:desc  "The film begins three years after the onset of the Clone Wars. The Jedi Knights are spread across the galaxy, leading a massive war against the Separatists. The Jedi Council dispatches Jedi Master Obi-Wan Kenobi to eliminate the notorious General Grievous, leader of the Separatist Army. Meanwhile, Jedi Knight Anakin Skywalker grows close to Palpatine, the Supreme Chancellor of the Galactic Republic and, unknown to the public, a Sith Lord. Their deepening friendship threatens the Jedi Order, the Republic, and Anakin himself." .
+sw:film-6  sw:desc  "Lucas began writing the script before production of Attack of the Clones ended. Production of Revenge of the Sith started in September 2003, and filming took place in Australia with additional locations in Thailand, Switzerland, China, Italy and the United Kingdom. Revenge of the Sith premiered on May 15, 2005, at the Cannes Film Festival, then released worldwide on May 19, 2005. The film received generally positive reviews from critics, especially in contrast to the less positive reviews of the previous two prequels, including praise for its storyline, action scenes, John Williams' musical score, visual effects, and performances from Ewan McGregor, Ian McDiarmid, Frank Oz, and Jimmy Smits. It is the final film in the Star Wars franchise to be distributed by 20th Century Fox before The Walt Disney Company's acquisition of Lucasfilm in 2012." .
+sw:film-6  sw:desc  "Revenge of the Sith broke several box office records during its opening week and went on to earn over $848 million worldwide,[4] making it, at the time, the third-highest-grossing film in the Star Wars franchise, unadjusted for inflation. It was the highest-grossing film of 2005 in the U.S. and the second-highest-grossing film of 2005 behind Harry Potter and the Goblet of Fire.[4] The film also holds the record for the highest opening day gross on a Thursday, making $50,013,859.00.[5] The Star Wars saga continued with the release of The Force Awakens, the first installment of the sequel trilogy, in 2015.[6][7]" .
+
+sw:film-3  a  sw:Film .
+sw:film-3  rdfs:label  "Return of the Jedi" .
+sw:film-3  sw:episode_id  6 .
+sw:film-3  sw:opening_crawl  """Luke Skywalker has returned to
+his home planet of Tatooine in
+an attempt to rescue his
+friend Han Solo from the
+clutches of the vile gangster
+Jabba the Hutt.
+
+Little does Luke know that the
+GALACTIC EMPIRE has secretly
+begun construction on a new
+armored space station even
+more powerful than the first
+dreaded Death Star.
+
+When completed, this ultimate
+weapon will spell certain doom
+for the small band of rebels
+struggling to restore freedom
+to the galaxy...""" .
+sw:film-3  sw:director  "Richard Marquand" .
+sw:film-3  sw:producer  "Howard G. Kazanjian, George Lucas, Rick McCallum" .
+sw:film-3  sw:release_date  "1983-05-25"^^xs:date .
+sw:film-3  sw:character  sw:people-1 .
+sw:film-3  sw:character  sw:people-2 .
+sw:film-3  sw:character  sw:people-3 .
+sw:film-3  sw:character  sw:people-4 .
+sw:film-3  sw:character  sw:people-5 .
+sw:film-3  sw:character  sw:people-10 .
+sw:film-3  sw:character  sw:people-13 .
+sw:film-3  sw:character  sw:people-14 .
+sw:film-3  sw:character  sw:people-16 .
+sw:film-3  sw:character  sw:people-18 .
+sw:film-3  sw:character  sw:people-20 .
+sw:film-3  sw:character  sw:people-21 .
+sw:film-3  sw:character  sw:people-22 .
+sw:film-3  sw:character  sw:people-25 .
+sw:film-3  sw:character  sw:people-27 .
+sw:film-3  sw:character  sw:people-28 .
+sw:film-3  sw:character  sw:people-29 .
+sw:film-3  sw:character  sw:people-30 .
+sw:film-3  sw:character  sw:people-31 .
+sw:film-3  sw:character  sw:people-45 .
+sw:film-3  sw:planet  sw:planet-5 .
+sw:film-3  sw:planet  sw:planet-7 .
+sw:film-3  sw:planet  sw:planet-8 .
+sw:film-3  sw:planet  sw:planet-9 .
+sw:film-3  sw:planet  sw:planet-1 .
+sw:film-3  sw:starship  sw:starship-10 .
+sw:film-3  sw:starship  sw:starship-11 .
+sw:film-3  sw:starship  sw:starship-12 .
+sw:film-3  sw:starship  sw:starship-15 .
+sw:film-3  sw:starship  sw:starship-22 .
+sw:film-3  sw:starship  sw:starship-23 .
+sw:film-3  sw:starship  sw:starship-27 .
+sw:film-3  sw:starship  sw:starship-28 .
+sw:film-3  sw:starship  sw:starship-29 .
+sw:film-3  sw:starship  sw:starship-3 .
+sw:film-3  sw:starship  sw:starship-17 .
+sw:film-3  sw:starship  sw:starship-2 .
+sw:film-3  sw:vehicle  sw:vehicle-8 .
+sw:film-3  sw:vehicle  sw:vehicle-16 .
+sw:film-3  sw:vehicle  sw:vehicle-18 .
+sw:film-3  sw:vehicle  sw:vehicle-19 .
+sw:film-3  sw:vehicle  sw:vehicle-24 .
+sw:film-3  sw:vehicle  sw:vehicle-25 .
+sw:film-3  sw:vehicle  sw:vehicle-26 .
+sw:film-3  sw:vehicle  sw:vehicle-30 .
+sw:film-3  sw:species  sw:species-5 .
+sw:film-3  sw:species  sw:species-6 .
+sw:film-3  sw:species  sw:species-8 .
+sw:film-3  sw:species  sw:species-9 .
+sw:film-3  sw:species  sw:species-10 .
+sw:film-3  sw:species  sw:species-15 .
+sw:film-3  sw:species  sw:species-3 .
+sw:film-3  sw:species  sw:species-2 .
+sw:film-3  sw:species  sw:species-1 .
+sw:film-3  sw:created  "2014-12-18T10:39:33.255000Z"^^xs:dateTime .
+sw:film-3  sw:edited  "2015-04-11T09:46:05.220365Z"^^xs:dateTime .
+sw:film-3  sw:url  "http://swapi.co/api/films/3/" .
+sw:film-3  sw:desc  "Return of the Jedi (also known as Star Wars: Episode VI – Return of the Jedi) is a 1983 American epic space opera film directed by Richard Marquand. The screenplay by Lawrence Kasdan and George Lucas was from a story by Lucas, who was also the executive producer. It is the third installment in the original Star Wars trilogy and the first film to use THX technology. The film is set one year after The Empire Strikes Back[9] and was produced by Howard Kazanjian for Lucasfilm Ltd. The film stars Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse, Kenny Baker, Peter Mayhew and Frank Oz." .
+sw:film-3  sw:desc  "The Galactic Empire, under the direction of the ruthless Emperor, is constructing a second Death Star in order to crush the Rebel Alliance once and for all. Since the Emperor plans to personally oversee the final stages of its construction, the Rebel Fleet launches a full-scale attack on the Death Star in order to prevent its completion and kill the Emperor, effectively bringing an end to the Empire's hold over the galaxy. Meanwhile, Luke Skywalker, a Jedi apprentice, struggles to bring his father Darth Vader back to the Light Side of the Force." .
+sw:film-3  sw:desc  "David Lynch and David Cronenberg were considered to direct the project before Marquand signed on as director. The production team relied on Lucas' storyboards during pre-production. While writing the shooting script, Lucas, Kasdan, Marquand, and producer Howard Kazanjian spent two weeks in conference discussing ideas to construct it. Kazanjian's schedule pushed shooting to begin a few weeks early to allow Industrial Light & Magic more time to work on the film's effects in post-production. Filming took place in England, California, and Arizona from January to May 1982 (1982-05). Strict secrecy surrounded the production and the film used the working title Blue Harvest to prevent price gouging." .
+sw:film-3  sw:desc  "The film was released in theaters on May 25, 1983, six years to the day after the release of the first film, receiving mostly positive reviews. The film grossed between $475 million[6][7] and $572 million worldwide.[8] Several home video and theatrical releases and revisions to the film followed over the next 20 years. Star Wars continued with The Phantom Menace as part of the film series' prequel trilogy." .
+sw:film-3  sw:desc  "A sequel, The Force Awakens, was released on December 18, 2015, as part of the new sequel trilogy.[10]" .
+
+sw:film-2  a  sw:Film .
+sw:film-2  rdfs:label  "The Empire Strikes Back" .
+sw:film-2  sw:episode_id  5 .
+sw:film-2  sw:opening_crawl  """It is a dark time for the
+Rebellion. Although the Death
+Star has been destroyed,
+Imperial troops have driven the
+Rebel forces from their hidden
+base and pursued them across
+the galaxy.
+
+Evading the dreaded Imperial
+Starfleet, a group of freedom
+fighters led by Luke Skywalker
+has established a new secret
+base on the remote ice world
+of Hoth.
+
+The evil lord Darth Vader,
+obsessed with finding young
+Skywalker, has dispatched
+thousands of remote probes into
+the far reaches of space....""" .
+sw:film-2  sw:director  "Irvin Kershner" .
+sw:film-2  sw:producer  "Gary Kutz, Rick McCallum" .
+sw:film-2  sw:release_date  "1980-05-17"^^xs:date .
+sw:film-2  sw:character  sw:people-1 .
+sw:film-2  sw:character  sw:people-2 .
+sw:film-2  sw:character  sw:people-3 .
+sw:film-2  sw:character  sw:people-4 .
+sw:film-2  sw:character  sw:people-5 .
+sw:film-2  sw:character  sw:people-10 .
+sw:film-2  sw:character  sw:people-13 .
+sw:film-2  sw:character  sw:people-14 .
+sw:film-2  sw:character  sw:people-18 .
+sw:film-2  sw:character  sw:people-20 .
+sw:film-2  sw:character  sw:people-21 .
+sw:film-2  sw:character  sw:people-22 .
+sw:film-2  sw:character  sw:people-23 .
+sw:film-2  sw:character  sw:people-24 .
+sw:film-2  sw:character  sw:people-25 .
+sw:film-2  sw:character  sw:people-26 .
+sw:film-2  sw:planet  sw:planet-4 .
+sw:film-2  sw:planet  sw:planet-5 .
+sw:film-2  sw:planet  sw:planet-6 .
+sw:film-2  sw:planet  sw:planet-27 .
+sw:film-2  sw:starship  sw:starship-10 .
+sw:film-2  sw:starship  sw:starship-11 .
+sw:film-2  sw:starship  sw:starship-12 .
+sw:film-2  sw:starship  sw:starship-15 .
+sw:film-2  sw:starship  sw:starship-21 .
+sw:film-2  sw:starship  sw:starship-22 .
+sw:film-2  sw:starship  sw:starship-23 .
+sw:film-2  sw:starship  sw:starship-3 .
+sw:film-2  sw:starship  sw:starship-17 .
+sw:film-2  sw:vehicle  sw:vehicle-8 .
+sw:film-2  sw:vehicle  sw:vehicle-14 .
+sw:film-2  sw:vehicle  sw:vehicle-16 .
+sw:film-2  sw:vehicle  sw:vehicle-18 .
+sw:film-2  sw:vehicle  sw:vehicle-19 .
+sw:film-2  sw:vehicle  sw:vehicle-20 .
+sw:film-2  sw:species  sw:species-6 .
+sw:film-2  sw:species  sw:species-7 .
+sw:film-2  sw:species  sw:species-3 .
+sw:film-2  sw:species  sw:species-2 .
+sw:film-2  sw:species  sw:species-1 .
+sw:film-2  sw:created  "2014-12-12T11:26:24.656000Z"^^xs:dateTime .
+sw:film-2  sw:edited  "2015-04-11T09:46:31.433607Z"^^xs:dateTime .
+sw:film-2  sw:url  "http://swapi.co/api/films/2/" .
+sw:film-2  sw:desc  "The Empire Strikes Back (also known as Star Wars: Episode V – The Empire Strikes Back) is a 1980 American epic space opera film directed by Irvin Kershner. Leigh Brackett and Lawrence Kasdan wrote the screenplay, with George Lucas writing the film's story and serving as executive producer. The second installment in the original Star Wars trilogy, it was produced by Gary Kurtz for Lucasfilm and stars Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse, Kenny Baker, Peter Mayhew, and Frank Oz." .
+sw:film-2  sw:desc  "The film is set three years after Star Wars. The Galactic Empire, under the leadership of the villainous Darth Vader and the Emperor, is in pursuit of Luke Skywalker and the rest of the Rebel Alliance. While Vader relentlessly pursues the small band of Luke's friends—Han Solo, Princess Leia Organa, and others—across the galaxy, Luke studies the Force under Jedi Master Yoda. When Vader captures Luke's friends, Luke must decide whether to complete his training and become a full Jedi Knight or to confront Vader and save them." .
+sw:film-2  sw:desc  "Following a difficult production, The Empire Strikes Back was released on May 21, 1980. It received mixed reviews from critics initially but has since grown in esteem, becoming the most critically acclaimed chapter in the Star Wars saga; it is now widely regarded as one of the greatest films of all time.[5][6][7][8] The film ranks #3 on Empire's 2008 list of the 500 greatest movies of all time.[9] It became the highest-grossing film of 1980 and, to date, has earned more than $538 million worldwide from its original run and several re-releases. When adjusted for inflation, it is the second-highest-grossing sequel of all time and the 13th-highest-grossing film in North America.[10] The film was followed by Return of the Jedi, which was released in 1983." .
+sw:film-2  sw:desc  "In 2010, the film was selected for preservation in the United States' National Film Registry by the Library of Congress for being \u0022culturally, historically, and aesthetically significant.\u0022" .
+
+sw:film-7  a  sw:Film .
+sw:film-7  rdfs:label  "The Force Awakens" .
+sw:film-7  sw:episode_id  7 .
+sw:film-7  sw:opening_crawl  """Luke Skywalker has vanished.
+In his absence, the sinister
+FIRST ORDER has risen from
+the ashes of the Empire
+and will not rest until
+Skywalker, the last Jedi,
+has been destroyed.
+ 
+With the support of the
+REPUBLIC, General Leia Organa
+leads a brave RESISTANCE.
+She is desperate to find her
+brother Luke and gain his
+help in restoring peace and
+justice to the galaxy.
+ 
+Leia has sent her most daring
+pilot on a secret mission
+to Jakku, where an old ally
+has discovered a clue to
+Luke's whereabouts....""" .
+sw:film-7  sw:director  "J. J. Abrams" .
+sw:film-7  sw:producer  "Kathleen Kennedy, J. J. Abrams, Bryan Burk" .
+sw:film-7  sw:release_date  "2015-12-11"^^xs:date .
+sw:film-7  sw:character  sw:people-1 .
+sw:film-7  sw:character  sw:people-3 .
+sw:film-7  sw:character  sw:people-5 .
+sw:film-7  sw:character  sw:people-13 .
+sw:film-7  sw:character  sw:people-14 .
+sw:film-7  sw:character  sw:people-27 .
+sw:film-7  sw:character  sw:people-84 .
+sw:film-7  sw:character  sw:people-85 .
+sw:film-7  sw:character  sw:people-86 .
+sw:film-7  sw:character  sw:people-87 .
+sw:film-7  sw:character  sw:people-88 .
+sw:film-7  sw:planet  sw:planet-61 .
+sw:film-7  sw:starship  sw:starship-77 .
+sw:film-7  sw:starship  sw:starship-10 .
+sw:film-7  sw:species  sw:species-3 .
+sw:film-7  sw:species  sw:species-2 .
+sw:film-7  sw:species  sw:species-1 .
+sw:film-7  sw:created  "2015-04-17T06:51:30.504780Z"^^xs:dateTime .
+sw:film-7  sw:edited  "2015-12-17T14:31:47.617768Z"^^xs:dateTime .
+sw:film-7  sw:url  "http://swapi.co/api/films/7/" .
+sw:film-7  sw:desc  "Star Wars: The Force Awakens (also known as Star Wars: Episode VII – The Force Awakens) is a 2015 American epic space opera film co-written, co-produced and directed by J. J. Abrams. The sequel to 1983's Return of the Jedi, The Force Awakens is the first installment of the Star Wars sequel trilogy. It stars Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Lupita Nyong'o, Andy Serkis, Domhnall Gleeson, Anthony Daniels, Peter Mayhew, and Max von Sydow. Produced by Lucasfilm Ltd. and Abrams' production company Bad Robot Productions and distributed worldwide by Walt Disney Studios Motion Pictures, The Force Awakens was the first Star Wars film not produced by franchise creator George Lucas. Set 30 years after Return of the Jedi, it follows Rey, Finn and Poe Dameron's search for Luke Skywalker and their fight alongside the Resistance, led by veterans of the Rebel Alliance, against Kylo Ren and the First Order, a successor to the Galactic Empire." .
+sw:film-7  sw:desc  "The Force Awakens was announced after The Walt Disney Company's acquisition of Lucasfilm in October 2012. It was produced by Abrams, his longtime collaborator Bryan Burk, and Lucasfilm president Kathleen Kennedy. Abrams and Lawrence Kasdan, co-writer of the original trilogy films The Empire Strikes Back (1980) and Return of the Jedi (1983), rewrote an initial script by Michael Arndt. John Williams, composer for the previous six films, returned to compose the film's score. Lucas served as creative consultant during the film's early production. Filming began in April 2014 in Abu Dhabi and Iceland, with principal photography also taking place in Ireland and Pinewood Studios in the United Kingdom, and concluded in November 2014. It is the first live-action Star Wars film since Revenge of the Sith (2005)." .
+sw:film-7  sw:desc  "Star Wars: The Force Awakens was widely anticipated, and Disney backed the film with extensive marketing campaigns. It premiered in Los Angeles on December 14, 2015, four days before its wide release. The film received positive reviews, with its ensemble cast, direction, musical score, visual effects, and action sequences receiving particular praise, though it received some criticism for being derivative of the original trilogy. The film broke various box office records and became, unadjusted for inflation, the highest-grossing installment in the franchise, the highest-grossing film in North America, and the third-highest-grossing film of all time, with a worldwide gross of over $2 billion and a net profit of over $780 million.[6][7] It received five Academy Award nominations and four British Academy Film Award nominations, where it won Best Special Visual Effects. Two sequels, The Last Jedi and Episode IX, are scheduled for release in 2017 and 2019, respectively." .
+
 sw:people-1  a  sw:People .
 sw:people-1  rdfs:label  "Luke Skywalker" .
 sw:people-1  sw:height  "172" .
@@ -2343,627 +2964,6 @@ sw:planet-61  sw:url  "http://swapi.co/api/planets/61/" .
 sw:planet-61  sw:desc  "Jakku is a fictional desert planet first featured in the 2015 Star Wars film The Force Awakens. Remote, lawless, and inhospitable, it is the homeworld of main character Rey, played by Daisy Ridley. The film focuses on two distinct localities, Tuanul Village and Niima Outpost, near a starship graveyard." .
 sw:planet-61  sw:desc  "The planet is also depicted in the 2017 Chuck Wendig novel, Star Wars: Aftermath: Empire's End." .
 
-sw:film-1  a  sw:Film .
-sw:film-1  rdfs:label  "A New Hope" .
-sw:film-1  sw:episode_id  4 .
-sw:film-1  sw:opening_crawl  """It is a period of civil war.
-Rebel spaceships, striking
-from a hidden base, have won
-their first victory against
-the evil Galactic Empire.
-
-During the battle, Rebel
-spies managed to steal secret
-plans to the Empire's
-ultimate weapon, the DEATH
-STAR, an armored space
-station with enough power
-to destroy an entire planet.
-
-Pursued by the Empire's
-sinister agents, Princess
-Leia races home aboard her
-starship, custodian of the
-stolen plans that can save her
-people and restore
-freedom to the galaxy....""" .
-sw:film-1  sw:director  "George Lucas" .
-sw:film-1  sw:producer  "Gary Kurtz, Rick McCallum" .
-sw:film-1  sw:release_date  "1977-05-25"^^xs:date .
-sw:film-1  sw:character  sw:people-1 .
-sw:film-1  sw:character  sw:people-2 .
-sw:film-1  sw:character  sw:people-3 .
-sw:film-1  sw:character  sw:people-4 .
-sw:film-1  sw:character  sw:people-5 .
-sw:film-1  sw:character  sw:people-6 .
-sw:film-1  sw:character  sw:people-7 .
-sw:film-1  sw:character  sw:people-8 .
-sw:film-1  sw:character  sw:people-9 .
-sw:film-1  sw:character  sw:people-10 .
-sw:film-1  sw:character  sw:people-12 .
-sw:film-1  sw:character  sw:people-13 .
-sw:film-1  sw:character  sw:people-14 .
-sw:film-1  sw:character  sw:people-15 .
-sw:film-1  sw:character  sw:people-16 .
-sw:film-1  sw:character  sw:people-18 .
-sw:film-1  sw:character  sw:people-19 .
-sw:film-1  sw:character  sw:people-81 .
-sw:film-1  sw:planet  sw:planet-2 .
-sw:film-1  sw:planet  sw:planet-3 .
-sw:film-1  sw:planet  sw:planet-1 .
-sw:film-1  sw:starship  sw:starship-2 .
-sw:film-1  sw:starship  sw:starship-3 .
-sw:film-1  sw:starship  sw:starship-5 .
-sw:film-1  sw:starship  sw:starship-9 .
-sw:film-1  sw:starship  sw:starship-10 .
-sw:film-1  sw:starship  sw:starship-11 .
-sw:film-1  sw:starship  sw:starship-12 .
-sw:film-1  sw:starship  sw:starship-13 .
-sw:film-1  sw:vehicle  sw:vehicle-4 .
-sw:film-1  sw:vehicle  sw:vehicle-6 .
-sw:film-1  sw:vehicle  sw:vehicle-7 .
-sw:film-1  sw:vehicle  sw:vehicle-8 .
-sw:film-1  sw:species  sw:species-5 .
-sw:film-1  sw:species  sw:species-3 .
-sw:film-1  sw:species  sw:species-2 .
-sw:film-1  sw:species  sw:species-1 .
-sw:film-1  sw:species  sw:species-4 .
-sw:film-1  sw:created  "2014-12-10T14:23:31.880000Z"^^xs:dateTime .
-sw:film-1  sw:edited  "2015-04-11T09:46:52.774897Z"^^xs:dateTime .
-sw:film-1  sw:url  "http://swapi.co/api/films/1/" .
-sw:film-1  sw:desc  "Star Wars (later retitled Star Wars: Episode IV – A New Hope) is a 1977 American epic space opera film written and directed by George Lucas. It is the first film in the original Star Wars trilogy, the first Star Wars movie in general, and the beginning of the Star Wars franchise. Starring Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness, David Prowse, James Earl Jones, Anthony Daniels, Kenny Baker, and Peter Mayhew, the film's plot focuses on the Rebel Alliance, led by Princess Leia (Fisher), and its attempt to destroy the Galactic Empire's space station, the Death Star. This conflict disrupts the isolated life of farmhand Luke Skywalker (Hamill), who inadvertently acquires a pair of droids that possess stolen architectural plans for the Death Star. When the Empire begins a destructive search for the missing droids, Skywalker accompanies Jedi Master Obi-Wan Kenobi (Guinness) on a mission to return the plans to the Rebel Alliance and rescue Leia from her imprisonment by the Empire." .
-sw:film-1  sw:desc  "Star Wars was released in theatres in the United States on May 25, 1977. It earned $461 million in the U.S. and $314 million overseas, totaling $775 million ($3.132 billion in 2017 dollars, adjusted for inflation). It surpassed Jaws (1975) to become the highest-grossing film of all time until the release of E.T. the Extra-Terrestrial (1982). When adjusted for inflation, Star Wars is the second-highest-grossing film in North America, and the third-highest-grossing film in the world. It received ten Academy Award nominations (including Best Picture), winning seven. It was among the first films to be selected as part of the U.S. Library of Congress' National Film Registry as being \u0022culturally, historically, or aesthetically significant\u0022. At the time, it was the most recent film on the registry and the only one chosen from the 1970s. Its soundtrack was added to the U.S. National Recording Registry in 2004. Today, it is often regarded as one of the most important films in the history of motion pictures. It launched an industry of tie-in products, including TV series spinoffs, novels, comic books, and video games, and merchandise including toys, games and clothing." .
-sw:film-1  sw:desc  "The film's success led to two critically and commercially successful sequels, The Empire Strikes Back in 1980 and Return of the Jedi in 1983. Star Wars was reissued multiple times at Lucas' behest, incorporating many changes including modified computer-generated effects, altered dialogue, re-edited shots, remixed soundtracks, and added scenes. A prequel trilogy was released beginning with The Phantom Menace in 1999, continuing with Attack of the Clones in 2002, and concluding with Revenge of the Sith in 2005. The film was followed by a sequel trilogy beginning with The Force Awakens in 2015. A direct prequel, Rogue One, was released in 2016. The film's fourth sequel, The Last Jedi, will be released in December 2017." .
-
-sw:film-5  a  sw:Film .
-sw:film-5  rdfs:label  "Attack of the Clones" .
-sw:film-5  sw:episode_id  2 .
-sw:film-5  sw:opening_crawl  """There is unrest in the Galactic
-Senate. Several thousand solar
-systems have declared their
-intentions to leave the Republic.
-
-This separatist movement,
-under the leadership of the
-mysterious Count Dooku, has
-made it difficult for the limited
-number of Jedi Knights to maintain 
-peace and order in the galaxy.
-
-Senator Amidala, the former
-Queen of Naboo, is returning
-to the Galactic Senate to vote
-on the critical issue of creating
-an ARMY OF THE REPUBLIC
-to assist the overwhelmed
-Jedi....""" .
-sw:film-5  sw:director  "George Lucas" .
-sw:film-5  sw:producer  "Rick McCallum" .
-sw:film-5  sw:release_date  "2002-05-16"^^xs:date .
-sw:film-5  sw:character  sw:people-2 .
-sw:film-5  sw:character  sw:people-3 .
-sw:film-5  sw:character  sw:people-6 .
-sw:film-5  sw:character  sw:people-7 .
-sw:film-5  sw:character  sw:people-10 .
-sw:film-5  sw:character  sw:people-11 .
-sw:film-5  sw:character  sw:people-20 .
-sw:film-5  sw:character  sw:people-21 .
-sw:film-5  sw:character  sw:people-22 .
-sw:film-5  sw:character  sw:people-33 .
-sw:film-5  sw:character  sw:people-36 .
-sw:film-5  sw:character  sw:people-40 .
-sw:film-5  sw:character  sw:people-43 .
-sw:film-5  sw:character  sw:people-46 .
-sw:film-5  sw:character  sw:people-51 .
-sw:film-5  sw:character  sw:people-52 .
-sw:film-5  sw:character  sw:people-53 .
-sw:film-5  sw:character  sw:people-58 .
-sw:film-5  sw:character  sw:people-59 .
-sw:film-5  sw:character  sw:people-60 .
-sw:film-5  sw:character  sw:people-61 .
-sw:film-5  sw:character  sw:people-62 .
-sw:film-5  sw:character  sw:people-63 .
-sw:film-5  sw:character  sw:people-64 .
-sw:film-5  sw:character  sw:people-65 .
-sw:film-5  sw:character  sw:people-66 .
-sw:film-5  sw:character  sw:people-67 .
-sw:film-5  sw:character  sw:people-68 .
-sw:film-5  sw:character  sw:people-69 .
-sw:film-5  sw:character  sw:people-70 .
-sw:film-5  sw:character  sw:people-71 .
-sw:film-5  sw:character  sw:people-72 .
-sw:film-5  sw:character  sw:people-73 .
-sw:film-5  sw:character  sw:people-74 .
-sw:film-5  sw:character  sw:people-75 .
-sw:film-5  sw:character  sw:people-76 .
-sw:film-5  sw:character  sw:people-77 .
-sw:film-5  sw:character  sw:people-78 .
-sw:film-5  sw:character  sw:people-82 .
-sw:film-5  sw:character  sw:people-35 .
-sw:film-5  sw:planet  sw:planet-8 .
-sw:film-5  sw:planet  sw:planet-9 .
-sw:film-5  sw:planet  sw:planet-10 .
-sw:film-5  sw:planet  sw:planet-11 .
-sw:film-5  sw:planet  sw:planet-1 .
-sw:film-5  sw:starship  sw:starship-21 .
-sw:film-5  sw:starship  sw:starship-39 .
-sw:film-5  sw:starship  sw:starship-43 .
-sw:film-5  sw:starship  sw:starship-47 .
-sw:film-5  sw:starship  sw:starship-48 .
-sw:film-5  sw:starship  sw:starship-49 .
-sw:film-5  sw:starship  sw:starship-32 .
-sw:film-5  sw:starship  sw:starship-52 .
-sw:film-5  sw:starship  sw:starship-58 .
-sw:film-5  sw:vehicle  sw:vehicle-4 .
-sw:film-5  sw:vehicle  sw:vehicle-44 .
-sw:film-5  sw:vehicle  sw:vehicle-45 .
-sw:film-5  sw:vehicle  sw:vehicle-46 .
-sw:film-5  sw:vehicle  sw:vehicle-50 .
-sw:film-5  sw:vehicle  sw:vehicle-51 .
-sw:film-5  sw:vehicle  sw:vehicle-53 .
-sw:film-5  sw:vehicle  sw:vehicle-54 .
-sw:film-5  sw:vehicle  sw:vehicle-55 .
-sw:film-5  sw:vehicle  sw:vehicle-56 .
-sw:film-5  sw:vehicle  sw:vehicle-57 .
-sw:film-5  sw:species  sw:species-32 .
-sw:film-5  sw:species  sw:species-33 .
-sw:film-5  sw:species  sw:species-2 .
-sw:film-5  sw:species  sw:species-35 .
-sw:film-5  sw:species  sw:species-6 .
-sw:film-5  sw:species  sw:species-1 .
-sw:film-5  sw:species  sw:species-12 .
-sw:film-5  sw:species  sw:species-34 .
-sw:film-5  sw:species  sw:species-13 .
-sw:film-5  sw:species  sw:species-15 .
-sw:film-5  sw:species  sw:species-28 .
-sw:film-5  sw:species  sw:species-29 .
-sw:film-5  sw:species  sw:species-30 .
-sw:film-5  sw:species  sw:species-31 .
-sw:film-5  sw:created  "2014-12-20T10:57:57.886000Z"^^xs:dateTime .
-sw:film-5  sw:edited  "2015-04-11T09:45:01.623982Z"^^xs:dateTime .
-sw:film-5  sw:url  "http://swapi.co/api/films/5/" .
-sw:film-5  sw:desc  "Star Wars: Episode II – Attack of the Clones is a 2002 American epic space opera film directed by George Lucas and written by Lucas and Jonathan Hales. It is the second installment of the Star Wars prequel trilogy, and stars Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid, Samuel L. Jackson, Christopher Lee, Temuera Morrison, Anthony Daniels, Kenny Baker and Frank Oz." .
-sw:film-5  sw:desc  "Set ten years after the events in The Phantom Menace, the galaxy is on the brink of civil war. Led by a former Jedi named Count Dooku, thousands of planetary systems threaten to secede from the Galactic Republic. After Senator Padmé Amidala evades assassination, Jedi apprentice Anakin Skywalker becomes her protector, while his mentor Obi-Wan Kenobi investigates the attempt on Padmé's life. Soon Anakin, Padmé and Obi-Wan witness the onset of a new threat to the galaxy, the Clone Wars." .
-sw:film-5  sw:desc  "Development of Attack of the Clones began in March 2000, after the release of The Phantom Menace. By June 2000, Lucas and Hales completed a draft of the script and principal photography took place from June to September 2000. The film crew primarily shot at Fox Studios Australia in Sydney, Australia, with additional footage filmed in Tunisia, Spain and Italy. It was one of the first motion pictures shot completely on a high-definition digital 24-frame system." .
-sw:film-5  sw:desc  "The film was released in the United States on May 16, 2002. Some critics hailed it as an improvement over The Phantom Menace, while others called it the worst entry of the franchise.[5][6] The visual effects, costume design, musical score, action scenes and Ewan McGregor’s performance as Obi-Wan Kenobi were all praised, however the romance of Anakin and Padmé, the dialogue and the film's long runtime were all criticized. The film was a financial success, making over $649 million worldwide; however, it also became the first Star Wars film to be outgrossed in its year of release, placing third domestically and fourth internationally. The film was released on VHS and DVD on November 12, 2002 and was later released on Blu-ray on September 16, 2011. Following Attack of the Clones, the third and final film of the prequel trilogy, Revenge of the Sith, premiered in 2005." .
-
-sw:film-4  a  sw:Film .
-sw:film-4  rdfs:label  "The Phantom Menace" .
-sw:film-4  sw:episode_id  1 .
-sw:film-4  sw:opening_crawl  """Turmoil has engulfed the
-Galactic Republic. The taxation
-of trade routes to outlying star
-systems is in dispute.
-
-Hoping to resolve the matter
-with a blockade of deadly
-battleships, the greedy Trade
-Federation has stopped all
-shipping to the small planet
-of Naboo.
-
-While the Congress of the
-Republic endlessly debates
-this alarming chain of events,
-the Supreme Chancellor has
-secretly dispatched two Jedi
-Knights, the guardians of
-peace and justice in the
-galaxy, to settle the conflict....""" .
-sw:film-4  sw:director  "George Lucas" .
-sw:film-4  sw:producer  "Rick McCallum" .
-sw:film-4  sw:release_date  "1999-05-19"^^xs:date .
-sw:film-4  sw:character  sw:people-2 .
-sw:film-4  sw:character  sw:people-3 .
-sw:film-4  sw:character  sw:people-10 .
-sw:film-4  sw:character  sw:people-11 .
-sw:film-4  sw:character  sw:people-16 .
-sw:film-4  sw:character  sw:people-20 .
-sw:film-4  sw:character  sw:people-21 .
-sw:film-4  sw:character  sw:people-32 .
-sw:film-4  sw:character  sw:people-33 .
-sw:film-4  sw:character  sw:people-34 .
-sw:film-4  sw:character  sw:people-36 .
-sw:film-4  sw:character  sw:people-37 .
-sw:film-4  sw:character  sw:people-38 .
-sw:film-4  sw:character  sw:people-39 .
-sw:film-4  sw:character  sw:people-40 .
-sw:film-4  sw:character  sw:people-41 .
-sw:film-4  sw:character  sw:people-42 .
-sw:film-4  sw:character  sw:people-43 .
-sw:film-4  sw:character  sw:people-44 .
-sw:film-4  sw:character  sw:people-46 .
-sw:film-4  sw:character  sw:people-48 .
-sw:film-4  sw:character  sw:people-49 .
-sw:film-4  sw:character  sw:people-50 .
-sw:film-4  sw:character  sw:people-51 .
-sw:film-4  sw:character  sw:people-52 .
-sw:film-4  sw:character  sw:people-53 .
-sw:film-4  sw:character  sw:people-54 .
-sw:film-4  sw:character  sw:people-55 .
-sw:film-4  sw:character  sw:people-56 .
-sw:film-4  sw:character  sw:people-57 .
-sw:film-4  sw:character  sw:people-58 .
-sw:film-4  sw:character  sw:people-59 .
-sw:film-4  sw:character  sw:people-47 .
-sw:film-4  sw:character  sw:people-35 .
-sw:film-4  sw:planet  sw:planet-8 .
-sw:film-4  sw:planet  sw:planet-9 .
-sw:film-4  sw:planet  sw:planet-1 .
-sw:film-4  sw:starship  sw:starship-40 .
-sw:film-4  sw:starship  sw:starship-41 .
-sw:film-4  sw:starship  sw:starship-31 .
-sw:film-4  sw:starship  sw:starship-32 .
-sw:film-4  sw:starship  sw:starship-39 .
-sw:film-4  sw:vehicle  sw:vehicle-33 .
-sw:film-4  sw:vehicle  sw:vehicle-34 .
-sw:film-4  sw:vehicle  sw:vehicle-35 .
-sw:film-4  sw:vehicle  sw:vehicle-36 .
-sw:film-4  sw:vehicle  sw:vehicle-37 .
-sw:film-4  sw:vehicle  sw:vehicle-38 .
-sw:film-4  sw:vehicle  sw:vehicle-42 .
-sw:film-4  sw:species  sw:species-1 .
-sw:film-4  sw:species  sw:species-2 .
-sw:film-4  sw:species  sw:species-6 .
-sw:film-4  sw:species  sw:species-11 .
-sw:film-4  sw:species  sw:species-12 .
-sw:film-4  sw:species  sw:species-13 .
-sw:film-4  sw:species  sw:species-14 .
-sw:film-4  sw:species  sw:species-15 .
-sw:film-4  sw:species  sw:species-16 .
-sw:film-4  sw:species  sw:species-17 .
-sw:film-4  sw:species  sw:species-18 .
-sw:film-4  sw:species  sw:species-19 .
-sw:film-4  sw:species  sw:species-20 .
-sw:film-4  sw:species  sw:species-21 .
-sw:film-4  sw:species  sw:species-22 .
-sw:film-4  sw:species  sw:species-23 .
-sw:film-4  sw:species  sw:species-24 .
-sw:film-4  sw:species  sw:species-25 .
-sw:film-4  sw:species  sw:species-26 .
-sw:film-4  sw:species  sw:species-27 .
-sw:film-4  sw:created  "2014-12-19T16:52:55.740000Z"^^xs:dateTime .
-sw:film-4  sw:edited  "2015-04-11T09:45:18.689301Z"^^xs:dateTime .
-sw:film-4  sw:url  "http://swapi.co/api/films/4/" .
-
-sw:film-6  a  sw:Film .
-sw:film-6  rdfs:label  "Revenge of the Sith" .
-sw:film-6  sw:episode_id  3 .
-sw:film-6  sw:opening_crawl  """War! The Republic is crumbling
-under attacks by the ruthless
-Sith Lord, Count Dooku.
-There are heroes on both sides.
-Evil is everywhere.
-
-In a stunning move, the
-fiendish droid leader, General
-Grievous, has swept into the
-Republic capital and kidnapped
-Chancellor Palpatine, leader of
-the Galactic Senate.
-
-As the Separatist Droid Army
-attempts to flee the besieged
-capital with their valuable
-hostage, two Jedi Knights lead a
-desperate mission to rescue the
-captive Chancellor....""" .
-sw:film-6  sw:director  "George Lucas" .
-sw:film-6  sw:producer  "Rick McCallum" .
-sw:film-6  sw:release_date  "2005-05-19"^^xs:date .
-sw:film-6  sw:character  sw:people-1 .
-sw:film-6  sw:character  sw:people-2 .
-sw:film-6  sw:character  sw:people-3 .
-sw:film-6  sw:character  sw:people-4 .
-sw:film-6  sw:character  sw:people-5 .
-sw:film-6  sw:character  sw:people-6 .
-sw:film-6  sw:character  sw:people-7 .
-sw:film-6  sw:character  sw:people-10 .
-sw:film-6  sw:character  sw:people-11 .
-sw:film-6  sw:character  sw:people-12 .
-sw:film-6  sw:character  sw:people-13 .
-sw:film-6  sw:character  sw:people-20 .
-sw:film-6  sw:character  sw:people-21 .
-sw:film-6  sw:character  sw:people-33 .
-sw:film-6  sw:character  sw:people-46 .
-sw:film-6  sw:character  sw:people-51 .
-sw:film-6  sw:character  sw:people-52 .
-sw:film-6  sw:character  sw:people-53 .
-sw:film-6  sw:character  sw:people-54 .
-sw:film-6  sw:character  sw:people-55 .
-sw:film-6  sw:character  sw:people-56 .
-sw:film-6  sw:character  sw:people-58 .
-sw:film-6  sw:character  sw:people-63 .
-sw:film-6  sw:character  sw:people-64 .
-sw:film-6  sw:character  sw:people-67 .
-sw:film-6  sw:character  sw:people-68 .
-sw:film-6  sw:character  sw:people-75 .
-sw:film-6  sw:character  sw:people-78 .
-sw:film-6  sw:character  sw:people-79 .
-sw:film-6  sw:character  sw:people-80 .
-sw:film-6  sw:character  sw:people-81 .
-sw:film-6  sw:character  sw:people-82 .
-sw:film-6  sw:character  sw:people-83 .
-sw:film-6  sw:character  sw:people-35 .
-sw:film-6  sw:planet  sw:planet-2 .
-sw:film-6  sw:planet  sw:planet-5 .
-sw:film-6  sw:planet  sw:planet-8 .
-sw:film-6  sw:planet  sw:planet-9 .
-sw:film-6  sw:planet  sw:planet-12 .
-sw:film-6  sw:planet  sw:planet-13 .
-sw:film-6  sw:planet  sw:planet-14 .
-sw:film-6  sw:planet  sw:planet-15 .
-sw:film-6  sw:planet  sw:planet-16 .
-sw:film-6  sw:planet  sw:planet-17 .
-sw:film-6  sw:planet  sw:planet-18 .
-sw:film-6  sw:planet  sw:planet-19 .
-sw:film-6  sw:planet  sw:planet-1 .
-sw:film-6  sw:starship  sw:starship-48 .
-sw:film-6  sw:starship  sw:starship-59 .
-sw:film-6  sw:starship  sw:starship-61 .
-sw:film-6  sw:starship  sw:starship-32 .
-sw:film-6  sw:starship  sw:starship-63 .
-sw:film-6  sw:starship  sw:starship-64 .
-sw:film-6  sw:starship  sw:starship-65 .
-sw:film-6  sw:starship  sw:starship-66 .
-sw:film-6  sw:starship  sw:starship-68 .
-sw:film-6  sw:starship  sw:starship-74 .
-sw:film-6  sw:starship  sw:starship-75 .
-sw:film-6  sw:starship  sw:starship-2 .
-sw:film-6  sw:vehicle  sw:vehicle-33 .
-sw:film-6  sw:vehicle  sw:vehicle-50 .
-sw:film-6  sw:vehicle  sw:vehicle-60 .
-sw:film-6  sw:vehicle  sw:vehicle-62 .
-sw:film-6  sw:vehicle  sw:vehicle-67 .
-sw:film-6  sw:vehicle  sw:vehicle-69 .
-sw:film-6  sw:vehicle  sw:vehicle-70 .
-sw:film-6  sw:vehicle  sw:vehicle-71 .
-sw:film-6  sw:vehicle  sw:vehicle-72 .
-sw:film-6  sw:vehicle  sw:vehicle-73 .
-sw:film-6  sw:vehicle  sw:vehicle-76 .
-sw:film-6  sw:vehicle  sw:vehicle-53 .
-sw:film-6  sw:vehicle  sw:vehicle-56 .
-sw:film-6  sw:species  sw:species-19 .
-sw:film-6  sw:species  sw:species-33 .
-sw:film-6  sw:species  sw:species-2 .
-sw:film-6  sw:species  sw:species-3 .
-sw:film-6  sw:species  sw:species-36 .
-sw:film-6  sw:species  sw:species-37 .
-sw:film-6  sw:species  sw:species-6 .
-sw:film-6  sw:species  sw:species-1 .
-sw:film-6  sw:species  sw:species-34 .
-sw:film-6  sw:species  sw:species-15 .
-sw:film-6  sw:species  sw:species-35 .
-sw:film-6  sw:species  sw:species-20 .
-sw:film-6  sw:species  sw:species-23 .
-sw:film-6  sw:species  sw:species-24 .
-sw:film-6  sw:species  sw:species-25 .
-sw:film-6  sw:species  sw:species-26 .
-sw:film-6  sw:species  sw:species-27 .
-sw:film-6  sw:species  sw:species-28 .
-sw:film-6  sw:species  sw:species-29 .
-sw:film-6  sw:species  sw:species-30 .
-sw:film-6  sw:created  "2014-12-20T18:49:38.403000Z"^^xs:dateTime .
-sw:film-6  sw:edited  "2015-04-11T09:45:44.862122Z"^^xs:dateTime .
-sw:film-6  sw:url  "http://swapi.co/api/films/6/" .
-sw:film-6  sw:desc  "Star Wars: Episode III – Revenge of the Sith is a 2005 American epic space opera film written and directed by George Lucas. It is the sixth entry of the Star Wars film series and stars Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid, Samuel L. Jackson, Christopher Lee, Anthony Daniels, Kenny Baker, and Frank Oz. A sequel to The Phantom Menace (1999) and Attack of the Clones (2002), the film is the third and final installment of the Star Wars prequel trilogy." .
-sw:film-6  sw:desc  "The film begins three years after the onset of the Clone Wars. The Jedi Knights are spread across the galaxy, leading a massive war against the Separatists. The Jedi Council dispatches Jedi Master Obi-Wan Kenobi to eliminate the notorious General Grievous, leader of the Separatist Army. Meanwhile, Jedi Knight Anakin Skywalker grows close to Palpatine, the Supreme Chancellor of the Galactic Republic and, unknown to the public, a Sith Lord. Their deepening friendship threatens the Jedi Order, the Republic, and Anakin himself." .
-sw:film-6  sw:desc  "Lucas began writing the script before production of Attack of the Clones ended. Production of Revenge of the Sith started in September 2003, and filming took place in Australia with additional locations in Thailand, Switzerland, China, Italy and the United Kingdom. Revenge of the Sith premiered on May 15, 2005, at the Cannes Film Festival, then released worldwide on May 19, 2005. The film received generally positive reviews from critics, especially in contrast to the less positive reviews of the previous two prequels, including praise for its storyline, action scenes, John Williams' musical score, visual effects, and performances from Ewan McGregor, Ian McDiarmid, Frank Oz, and Jimmy Smits. It is the final film in the Star Wars franchise to be distributed by 20th Century Fox before The Walt Disney Company's acquisition of Lucasfilm in 2012." .
-sw:film-6  sw:desc  "Revenge of the Sith broke several box office records during its opening week and went on to earn over $848 million worldwide,[4] making it, at the time, the third-highest-grossing film in the Star Wars franchise, unadjusted for inflation. It was the highest-grossing film of 2005 in the U.S. and the second-highest-grossing film of 2005 behind Harry Potter and the Goblet of Fire.[4] The film also holds the record for the highest opening day gross on a Thursday, making $50,013,859.00.[5] The Star Wars saga continued with the release of The Force Awakens, the first installment of the sequel trilogy, in 2015.[6][7]" .
-
-sw:film-3  a  sw:Film .
-sw:film-3  rdfs:label  "Return of the Jedi" .
-sw:film-3  sw:episode_id  6 .
-sw:film-3  sw:opening_crawl  """Luke Skywalker has returned to
-his home planet of Tatooine in
-an attempt to rescue his
-friend Han Solo from the
-clutches of the vile gangster
-Jabba the Hutt.
-
-Little does Luke know that the
-GALACTIC EMPIRE has secretly
-begun construction on a new
-armored space station even
-more powerful than the first
-dreaded Death Star.
-
-When completed, this ultimate
-weapon will spell certain doom
-for the small band of rebels
-struggling to restore freedom
-to the galaxy...""" .
-sw:film-3  sw:director  "Richard Marquand" .
-sw:film-3  sw:producer  "Howard G. Kazanjian, George Lucas, Rick McCallum" .
-sw:film-3  sw:release_date  "1983-05-25"^^xs:date .
-sw:film-3  sw:character  sw:people-1 .
-sw:film-3  sw:character  sw:people-2 .
-sw:film-3  sw:character  sw:people-3 .
-sw:film-3  sw:character  sw:people-4 .
-sw:film-3  sw:character  sw:people-5 .
-sw:film-3  sw:character  sw:people-10 .
-sw:film-3  sw:character  sw:people-13 .
-sw:film-3  sw:character  sw:people-14 .
-sw:film-3  sw:character  sw:people-16 .
-sw:film-3  sw:character  sw:people-18 .
-sw:film-3  sw:character  sw:people-20 .
-sw:film-3  sw:character  sw:people-21 .
-sw:film-3  sw:character  sw:people-22 .
-sw:film-3  sw:character  sw:people-25 .
-sw:film-3  sw:character  sw:people-27 .
-sw:film-3  sw:character  sw:people-28 .
-sw:film-3  sw:character  sw:people-29 .
-sw:film-3  sw:character  sw:people-30 .
-sw:film-3  sw:character  sw:people-31 .
-sw:film-3  sw:character  sw:people-45 .
-sw:film-3  sw:planet  sw:planet-5 .
-sw:film-3  sw:planet  sw:planet-7 .
-sw:film-3  sw:planet  sw:planet-8 .
-sw:film-3  sw:planet  sw:planet-9 .
-sw:film-3  sw:planet  sw:planet-1 .
-sw:film-3  sw:starship  sw:starship-10 .
-sw:film-3  sw:starship  sw:starship-11 .
-sw:film-3  sw:starship  sw:starship-12 .
-sw:film-3  sw:starship  sw:starship-15 .
-sw:film-3  sw:starship  sw:starship-22 .
-sw:film-3  sw:starship  sw:starship-23 .
-sw:film-3  sw:starship  sw:starship-27 .
-sw:film-3  sw:starship  sw:starship-28 .
-sw:film-3  sw:starship  sw:starship-29 .
-sw:film-3  sw:starship  sw:starship-3 .
-sw:film-3  sw:starship  sw:starship-17 .
-sw:film-3  sw:starship  sw:starship-2 .
-sw:film-3  sw:vehicle  sw:vehicle-8 .
-sw:film-3  sw:vehicle  sw:vehicle-16 .
-sw:film-3  sw:vehicle  sw:vehicle-18 .
-sw:film-3  sw:vehicle  sw:vehicle-19 .
-sw:film-3  sw:vehicle  sw:vehicle-24 .
-sw:film-3  sw:vehicle  sw:vehicle-25 .
-sw:film-3  sw:vehicle  sw:vehicle-26 .
-sw:film-3  sw:vehicle  sw:vehicle-30 .
-sw:film-3  sw:species  sw:species-5 .
-sw:film-3  sw:species  sw:species-6 .
-sw:film-3  sw:species  sw:species-8 .
-sw:film-3  sw:species  sw:species-9 .
-sw:film-3  sw:species  sw:species-10 .
-sw:film-3  sw:species  sw:species-15 .
-sw:film-3  sw:species  sw:species-3 .
-sw:film-3  sw:species  sw:species-2 .
-sw:film-3  sw:species  sw:species-1 .
-sw:film-3  sw:created  "2014-12-18T10:39:33.255000Z"^^xs:dateTime .
-sw:film-3  sw:edited  "2015-04-11T09:46:05.220365Z"^^xs:dateTime .
-sw:film-3  sw:url  "http://swapi.co/api/films/3/" .
-sw:film-3  sw:desc  "Return of the Jedi (also known as Star Wars: Episode VI – Return of the Jedi) is a 1983 American epic space opera film directed by Richard Marquand. The screenplay by Lawrence Kasdan and George Lucas was from a story by Lucas, who was also the executive producer. It is the third installment in the original Star Wars trilogy and the first film to use THX technology. The film is set one year after The Empire Strikes Back[9] and was produced by Howard Kazanjian for Lucasfilm Ltd. The film stars Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse, Kenny Baker, Peter Mayhew and Frank Oz." .
-sw:film-3  sw:desc  "The Galactic Empire, under the direction of the ruthless Emperor, is constructing a second Death Star in order to crush the Rebel Alliance once and for all. Since the Emperor plans to personally oversee the final stages of its construction, the Rebel Fleet launches a full-scale attack on the Death Star in order to prevent its completion and kill the Emperor, effectively bringing an end to the Empire's hold over the galaxy. Meanwhile, Luke Skywalker, a Jedi apprentice, struggles to bring his father Darth Vader back to the Light Side of the Force." .
-sw:film-3  sw:desc  "David Lynch and David Cronenberg were considered to direct the project before Marquand signed on as director. The production team relied on Lucas' storyboards during pre-production. While writing the shooting script, Lucas, Kasdan, Marquand, and producer Howard Kazanjian spent two weeks in conference discussing ideas to construct it. Kazanjian's schedule pushed shooting to begin a few weeks early to allow Industrial Light & Magic more time to work on the film's effects in post-production. Filming took place in England, California, and Arizona from January to May 1982 (1982-05). Strict secrecy surrounded the production and the film used the working title Blue Harvest to prevent price gouging." .
-sw:film-3  sw:desc  "The film was released in theaters on May 25, 1983, six years to the day after the release of the first film, receiving mostly positive reviews. The film grossed between $475 million[6][7] and $572 million worldwide.[8] Several home video and theatrical releases and revisions to the film followed over the next 20 years. Star Wars continued with The Phantom Menace as part of the film series' prequel trilogy." .
-sw:film-3  sw:desc  "A sequel, The Force Awakens, was released on December 18, 2015, as part of the new sequel trilogy.[10]" .
-
-sw:film-2  a  sw:Film .
-sw:film-2  rdfs:label  "The Empire Strikes Back" .
-sw:film-2  sw:episode_id  5 .
-sw:film-2  sw:opening_crawl  """It is a dark time for the
-Rebellion. Although the Death
-Star has been destroyed,
-Imperial troops have driven the
-Rebel forces from their hidden
-base and pursued them across
-the galaxy.
-
-Evading the dreaded Imperial
-Starfleet, a group of freedom
-fighters led by Luke Skywalker
-has established a new secret
-base on the remote ice world
-of Hoth.
-
-The evil lord Darth Vader,
-obsessed with finding young
-Skywalker, has dispatched
-thousands of remote probes into
-the far reaches of space....""" .
-sw:film-2  sw:director  "Irvin Kershner" .
-sw:film-2  sw:producer  "Gary Kutz, Rick McCallum" .
-sw:film-2  sw:release_date  "1980-05-17"^^xs:date .
-sw:film-2  sw:character  sw:people-1 .
-sw:film-2  sw:character  sw:people-2 .
-sw:film-2  sw:character  sw:people-3 .
-sw:film-2  sw:character  sw:people-4 .
-sw:film-2  sw:character  sw:people-5 .
-sw:film-2  sw:character  sw:people-10 .
-sw:film-2  sw:character  sw:people-13 .
-sw:film-2  sw:character  sw:people-14 .
-sw:film-2  sw:character  sw:people-18 .
-sw:film-2  sw:character  sw:people-20 .
-sw:film-2  sw:character  sw:people-21 .
-sw:film-2  sw:character  sw:people-22 .
-sw:film-2  sw:character  sw:people-23 .
-sw:film-2  sw:character  sw:people-24 .
-sw:film-2  sw:character  sw:people-25 .
-sw:film-2  sw:character  sw:people-26 .
-sw:film-2  sw:planet  sw:planet-4 .
-sw:film-2  sw:planet  sw:planet-5 .
-sw:film-2  sw:planet  sw:planet-6 .
-sw:film-2  sw:planet  sw:planet-27 .
-sw:film-2  sw:starship  sw:starship-10 .
-sw:film-2  sw:starship  sw:starship-11 .
-sw:film-2  sw:starship  sw:starship-12 .
-sw:film-2  sw:starship  sw:starship-15 .
-sw:film-2  sw:starship  sw:starship-21 .
-sw:film-2  sw:starship  sw:starship-22 .
-sw:film-2  sw:starship  sw:starship-23 .
-sw:film-2  sw:starship  sw:starship-3 .
-sw:film-2  sw:starship  sw:starship-17 .
-sw:film-2  sw:vehicle  sw:vehicle-8 .
-sw:film-2  sw:vehicle  sw:vehicle-14 .
-sw:film-2  sw:vehicle  sw:vehicle-16 .
-sw:film-2  sw:vehicle  sw:vehicle-18 .
-sw:film-2  sw:vehicle  sw:vehicle-19 .
-sw:film-2  sw:vehicle  sw:vehicle-20 .
-sw:film-2  sw:species  sw:species-6 .
-sw:film-2  sw:species  sw:species-7 .
-sw:film-2  sw:species  sw:species-3 .
-sw:film-2  sw:species  sw:species-2 .
-sw:film-2  sw:species  sw:species-1 .
-sw:film-2  sw:created  "2014-12-12T11:26:24.656000Z"^^xs:dateTime .
-sw:film-2  sw:edited  "2015-04-11T09:46:31.433607Z"^^xs:dateTime .
-sw:film-2  sw:url  "http://swapi.co/api/films/2/" .
-sw:film-2  sw:desc  "The Empire Strikes Back (also known as Star Wars: Episode V – The Empire Strikes Back) is a 1980 American epic space opera film directed by Irvin Kershner. Leigh Brackett and Lawrence Kasdan wrote the screenplay, with George Lucas writing the film's story and serving as executive producer. The second installment in the original Star Wars trilogy, it was produced by Gary Kurtz for Lucasfilm and stars Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse, Kenny Baker, Peter Mayhew, and Frank Oz." .
-sw:film-2  sw:desc  "The film is set three years after Star Wars. The Galactic Empire, under the leadership of the villainous Darth Vader and the Emperor, is in pursuit of Luke Skywalker and the rest of the Rebel Alliance. While Vader relentlessly pursues the small band of Luke's friends—Han Solo, Princess Leia Organa, and others—across the galaxy, Luke studies the Force under Jedi Master Yoda. When Vader captures Luke's friends, Luke must decide whether to complete his training and become a full Jedi Knight or to confront Vader and save them." .
-sw:film-2  sw:desc  "Following a difficult production, The Empire Strikes Back was released on May 21, 1980. It received mixed reviews from critics initially but has since grown in esteem, becoming the most critically acclaimed chapter in the Star Wars saga; it is now widely regarded as one of the greatest films of all time.[5][6][7][8] The film ranks #3 on Empire's 2008 list of the 500 greatest movies of all time.[9] It became the highest-grossing film of 1980 and, to date, has earned more than $538 million worldwide from its original run and several re-releases. When adjusted for inflation, it is the second-highest-grossing sequel of all time and the 13th-highest-grossing film in North America.[10] The film was followed by Return of the Jedi, which was released in 1983." .
-sw:film-2  sw:desc  "In 2010, the film was selected for preservation in the United States' National Film Registry by the Library of Congress for being \u0022culturally, historically, and aesthetically significant.\u0022" .
-
-sw:film-7  a  sw:Film .
-sw:film-7  rdfs:label  "The Force Awakens" .
-sw:film-7  sw:episode_id  7 .
-sw:film-7  sw:opening_crawl  """Luke Skywalker has vanished.
-In his absence, the sinister
-FIRST ORDER has risen from
-the ashes of the Empire
-and will not rest until
-Skywalker, the last Jedi,
-has been destroyed.
- 
-With the support of the
-REPUBLIC, General Leia Organa
-leads a brave RESISTANCE.
-She is desperate to find her
-brother Luke and gain his
-help in restoring peace and
-justice to the galaxy.
- 
-Leia has sent her most daring
-pilot on a secret mission
-to Jakku, where an old ally
-has discovered a clue to
-Luke's whereabouts....""" .
-sw:film-7  sw:director  "J. J. Abrams" .
-sw:film-7  sw:producer  "Kathleen Kennedy, J. J. Abrams, Bryan Burk" .
-sw:film-7  sw:release_date  "2015-12-11"^^xs:date .
-sw:film-7  sw:character  sw:people-1 .
-sw:film-7  sw:character  sw:people-3 .
-sw:film-7  sw:character  sw:people-5 .
-sw:film-7  sw:character  sw:people-13 .
-sw:film-7  sw:character  sw:people-14 .
-sw:film-7  sw:character  sw:people-27 .
-sw:film-7  sw:character  sw:people-84 .
-sw:film-7  sw:character  sw:people-85 .
-sw:film-7  sw:character  sw:people-86 .
-sw:film-7  sw:character  sw:people-87 .
-sw:film-7  sw:character  sw:people-88 .
-sw:film-7  sw:planet  sw:planet-61 .
-sw:film-7  sw:starship  sw:starship-77 .
-sw:film-7  sw:starship  sw:starship-10 .
-sw:film-7  sw:species  sw:species-3 .
-sw:film-7  sw:species  sw:species-2 .
-sw:film-7  sw:species  sw:species-1 .
-sw:film-7  sw:created  "2015-04-17T06:51:30.504780Z"^^xs:dateTime .
-sw:film-7  sw:edited  "2015-12-17T14:31:47.617768Z"^^xs:dateTime .
-sw:film-7  sw:url  "http://swapi.co/api/films/7/" .
-sw:film-7  sw:desc  "Star Wars: The Force Awakens (also known as Star Wars: Episode VII – The Force Awakens) is a 2015 American epic space opera film co-written, co-produced and directed by J. J. Abrams. The sequel to 1983's Return of the Jedi, The Force Awakens is the first installment of the Star Wars sequel trilogy. It stars Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Lupita Nyong'o, Andy Serkis, Domhnall Gleeson, Anthony Daniels, Peter Mayhew, and Max von Sydow. Produced by Lucasfilm Ltd. and Abrams' production company Bad Robot Productions and distributed worldwide by Walt Disney Studios Motion Pictures, The Force Awakens was the first Star Wars film not produced by franchise creator George Lucas. Set 30 years after Return of the Jedi, it follows Rey, Finn and Poe Dameron's search for Luke Skywalker and their fight alongside the Resistance, led by veterans of the Rebel Alliance, against Kylo Ren and the First Order, a successor to the Galactic Empire." .
-sw:film-7  sw:desc  "The Force Awakens was announced after The Walt Disney Company's acquisition of Lucasfilm in October 2012. It was produced by Abrams, his longtime collaborator Bryan Burk, and Lucasfilm president Kathleen Kennedy. Abrams and Lawrence Kasdan, co-writer of the original trilogy films The Empire Strikes Back (1980) and Return of the Jedi (1983), rewrote an initial script by Michael Arndt. John Williams, composer for the previous six films, returned to compose the film's score. Lucas served as creative consultant during the film's early production. Filming began in April 2014 in Abu Dhabi and Iceland, with principal photography also taking place in Ireland and Pinewood Studios in the United Kingdom, and concluded in November 2014. It is the first live-action Star Wars film since Revenge of the Sith (2005)." .
-sw:film-7  sw:desc  "Star Wars: The Force Awakens was widely anticipated, and Disney backed the film with extensive marketing campaigns. It premiered in Los Angeles on December 14, 2015, four days before its wide release. The film received positive reviews, with its ensemble cast, direction, musical score, visual effects, and action sequences receiving particular praise, though it received some criticism for being derivative of the original trilogy. The film broke various box office records and became, unadjusted for inflation, the highest-grossing installment in the franchise, the highest-grossing film in North America, and the third-highest-grossing film of all time, with a worldwide gross of over $2 billion and a net profit of over $780 million.[6][7] It received five Academy Award nominations and four British Academy Film Award nominations, where it won Best Special Visual Effects. Two sequels, The Last Jedi and Episode IX, are scheduled for release in 2017 and 2019, respectively." .
-
 sw:species-5  a  sw:Species .
 sw:species-5  rdfs:label  "Hutt" .
 sw:species-5  sw:classification  "gastropod" .
@@ -3645,662 +3645,6 @@ sw:species-4  sw:film  sw:film-1 .
 sw:species-4  sw:created  "2014-12-10T17:05:26.471000Z"^^xs:dateTime .
 sw:species-4  sw:edited  "2016-07-19T13:27:03.156498Z"^^xs:dateTime .
 sw:species-4  sw:url  "http://swapi.co/api/species/4/" .
-
-sw:vehicle-4  a  sw:Vehicle .
-sw:vehicle-4  rdfs:label  "Sand Crawler" .
-sw:vehicle-4  sw:model  "Digger Crawler" .
-sw:vehicle-4  sw:manufacturer  "Corellia Mining Corporation" .
-sw:vehicle-4  sw:cost_in_credits  150000 .
-sw:vehicle-4  sw:length  36.8 .
-sw:vehicle-4  sw:max_atmosphering_speed  30 .
-sw:vehicle-4  sw:crew  46 .
-sw:vehicle-4  sw:passengers  30 .
-sw:vehicle-4  sw:cargo_capacity  50000 .
-sw:vehicle-4  sw:consumables  "2 months" .
-sw:vehicle-4  sw:vehicle_class  "wheeled" .
-sw:vehicle-4  sw:film  sw:film-5 .
-sw:vehicle-4  sw:film  sw:film-1 .
-sw:vehicle-4  sw:created  "2014-12-10T15:36:25.724000Z"^^xs:dateTime .
-sw:vehicle-4  sw:edited  "2014-12-22T18:21:15.523587Z"^^xs:dateTime .
-sw:vehicle-4  sw:url  "http://swapi.co/api/vehicles/4/" .
-
-sw:vehicle-6  a  sw:Vehicle .
-sw:vehicle-6  rdfs:label  "T-16 skyhopper" .
-sw:vehicle-6  sw:model  "T-16 skyhopper" .
-sw:vehicle-6  sw:manufacturer  "Incom Corporation" .
-sw:vehicle-6  sw:cost_in_credits  14500 .
-sw:vehicle-6  sw:length  10.4 .
-sw:vehicle-6  sw:max_atmosphering_speed  1200 .
-sw:vehicle-6  sw:crew  1 .
-sw:vehicle-6  sw:passengers  1 .
-sw:vehicle-6  sw:cargo_capacity  50 .
-sw:vehicle-6  sw:consumables  "0" .
-sw:vehicle-6  sw:vehicle_class  "repulsorcraft" .
-sw:vehicle-6  sw:film  sw:film-1 .
-sw:vehicle-6  sw:created  "2014-12-10T16:01:52.434000Z"^^xs:dateTime .
-sw:vehicle-6  sw:edited  "2014-12-22T18:21:15.552614Z"^^xs:dateTime .
-sw:vehicle-6  sw:url  "http://swapi.co/api/vehicles/6/" .
-
-sw:vehicle-7  a  sw:Vehicle .
-sw:vehicle-7  rdfs:label  "X-34 landspeeder" .
-sw:vehicle-7  sw:model  "X-34 landspeeder" .
-sw:vehicle-7  sw:manufacturer  "SoroSuub Corporation" .
-sw:vehicle-7  sw:cost_in_credits  10550 .
-sw:vehicle-7  sw:length  3.4 .
-sw:vehicle-7  sw:max_atmosphering_speed  250 .
-sw:vehicle-7  sw:crew  1 .
-sw:vehicle-7  sw:passengers  1 .
-sw:vehicle-7  sw:cargo_capacity  5 .
-sw:vehicle-7  sw:vehicle_class  "repulsorcraft" .
-sw:vehicle-7  sw:film  sw:film-1 .
-sw:vehicle-7  sw:created  "2014-12-10T16:13:52.586000Z"^^xs:dateTime .
-sw:vehicle-7  sw:edited  "2014-12-22T18:21:15.583700Z"^^xs:dateTime .
-sw:vehicle-7  sw:url  "http://swapi.co/api/vehicles/7/" .
-
-sw:vehicle-8  a  sw:Vehicle .
-sw:vehicle-8  rdfs:label  "TIE/LN starfighter" .
-sw:vehicle-8  sw:model  "Twin Ion Engine/Ln Starfighter" .
-sw:vehicle-8  sw:manufacturer  "Sienar Fleet Systems" .
-sw:vehicle-8  sw:length  6.4 .
-sw:vehicle-8  sw:max_atmosphering_speed  1200 .
-sw:vehicle-8  sw:crew  1 .
-sw:vehicle-8  sw:passengers  0 .
-sw:vehicle-8  sw:cargo_capacity  65 .
-sw:vehicle-8  sw:consumables  "2 days" .
-sw:vehicle-8  sw:vehicle_class  "starfighter" .
-sw:vehicle-8  sw:film  sw:film-3 .
-sw:vehicle-8  sw:film  sw:film-2 .
-sw:vehicle-8  sw:film  sw:film-1 .
-sw:vehicle-8  sw:created  "2014-12-10T16:33:52.860000Z"^^xs:dateTime .
-sw:vehicle-8  sw:edited  "2014-12-22T18:21:15.606149Z"^^xs:dateTime .
-sw:vehicle-8  sw:url  "http://swapi.co/api/vehicles/8/" .
-
-sw:vehicle-14  a  sw:Vehicle .
-sw:vehicle-14  rdfs:label  "Snowspeeder" .
-sw:vehicle-14  sw:model  "t-47 airspeeder" .
-sw:vehicle-14  sw:manufacturer  "Incom corporation" .
-sw:vehicle-14  sw:length  4.5 .
-sw:vehicle-14  sw:max_atmosphering_speed  650 .
-sw:vehicle-14  sw:crew  2 .
-sw:vehicle-14  sw:passengers  0 .
-sw:vehicle-14  sw:cargo_capacity  10 .
-sw:vehicle-14  sw:consumables  "none" .
-sw:vehicle-14  sw:vehicle_class  "airspeeder" .
-sw:vehicle-14  sw:pilot  sw:people-1 .
-sw:vehicle-14  sw:pilot  sw:people-18 .
-sw:vehicle-14  sw:film  sw:film-2 .
-sw:vehicle-14  sw:created  "2014-12-15T12:22:12Z"^^xs:dateTime .
-sw:vehicle-14  sw:edited  "2014-12-22T18:21:15.623033Z"^^xs:dateTime .
-sw:vehicle-14  sw:url  "http://swapi.co/api/vehicles/14/" .
-
-sw:vehicle-16  a  sw:Vehicle .
-sw:vehicle-16  rdfs:label  "TIE bomber" .
-sw:vehicle-16  sw:model  "TIE/sa bomber" .
-sw:vehicle-16  sw:manufacturer  "Sienar Fleet Systems" .
-sw:vehicle-16  sw:length  7.8 .
-sw:vehicle-16  sw:max_atmosphering_speed  850 .
-sw:vehicle-16  sw:crew  1 .
-sw:vehicle-16  sw:passengers  0 .
-sw:vehicle-16  sw:cargo_capacity  "none" .
-sw:vehicle-16  sw:consumables  "2 days" .
-sw:vehicle-16  sw:vehicle_class  "space/planetary bomber" .
-sw:vehicle-16  sw:film  sw:film-3 .
-sw:vehicle-16  sw:film  sw:film-2 .
-sw:vehicle-16  sw:created  "2014-12-15T12:33:15.838000Z"^^xs:dateTime .
-sw:vehicle-16  sw:edited  "2014-12-22T18:21:15.667730Z"^^xs:dateTime .
-sw:vehicle-16  sw:url  "http://swapi.co/api/vehicles/16/" .
-sw:vehicle-16  sw:desc  "TIE fighters are fictional starfighters in the Star Wars universe. Propelled by twin ion engines (hence the TIE acronym), TIE fighters are fast, agile, yet fragile starfighters produced by Sienar Fleet Systems for the Galactic Empire. TIE fighters and other TIE craft appear in Star Wars films, television shows, and throughout the Star Wars expanded universe. Several TIE fighter replicas and toys, as well as a TIE flight simulator, have been produced and sold by merchandise companies." .
-
-sw:vehicle-18  a  sw:Vehicle .
-sw:vehicle-18  rdfs:label  "AT-AT" .
-sw:vehicle-18  sw:model  "All Terrain Armored Transport" .
-sw:vehicle-18  sw:manufacturer  "Kuat Drive Yards, Imperial Department of Military Research" .
-sw:vehicle-18  sw:length  20 .
-sw:vehicle-18  sw:max_atmosphering_speed  60 .
-sw:vehicle-18  sw:crew  5 .
-sw:vehicle-18  sw:passengers  40 .
-sw:vehicle-18  sw:cargo_capacity  1000 .
-sw:vehicle-18  sw:vehicle_class  "assault walker" .
-sw:vehicle-18  sw:film  sw:film-3 .
-sw:vehicle-18  sw:film  sw:film-2 .
-sw:vehicle-18  sw:created  "2014-12-15T12:38:25.937000Z"^^xs:dateTime .
-sw:vehicle-18  sw:edited  "2014-12-22T18:21:15.714673Z"^^xs:dateTime .
-sw:vehicle-18  sw:url  "http://swapi.co/api/vehicles/18/" .
-sw:vehicle-18  sw:desc  "Walkers are vehicles from the Star Wars universe that traverse the landscape on mechanical legs. They are used by the Old Republic and the Galactic Empire for ground assault or transport. Throughout the saga, walkers have played a pivotal role in the fate of characters and the outcome of battles. Industrial Light and Magic (ILM) is responsible for their animation and design, often using models, stop-motion animation, and relevant matte paintings to depict their presence in the films." .
-sw:vehicle-18  sw:desc  "There are a variety of walkers: The Empire Strikes Back introduces the All Terrain Armored Transport (AT-AT) and All Terrain Scout Transport (AT-ST). Star Wars: Episode II – Attack of the Clones and Star Wars: Episode III – Revenge of the Sith introduced earlier models of walkers, such as the AT-TE, and the Star Wars expanded universe features numerous others. Walker variants have been merchandised and featured in popular culture." .
-
-sw:vehicle-19  a  sw:Vehicle .
-sw:vehicle-19  rdfs:label  "AT-ST" .
-sw:vehicle-19  sw:model  "All Terrain Scout Transport" .
-sw:vehicle-19  sw:manufacturer  "Kuat Drive Yards, Imperial Department of Military Research" .
-sw:vehicle-19  sw:length  2 .
-sw:vehicle-19  sw:max_atmosphering_speed  90 .
-sw:vehicle-19  sw:crew  2 .
-sw:vehicle-19  sw:passengers  0 .
-sw:vehicle-19  sw:cargo_capacity  200 .
-sw:vehicle-19  sw:consumables  "none" .
-sw:vehicle-19  sw:vehicle_class  "walker" .
-sw:vehicle-19  sw:pilot  sw:people-13 .
-sw:vehicle-19  sw:film  sw:film-3 .
-sw:vehicle-19  sw:film  sw:film-2 .
-sw:vehicle-19  sw:created  "2014-12-15T12:46:42.384000Z"^^xs:dateTime .
-sw:vehicle-19  sw:edited  "2014-12-22T18:21:15.761584Z"^^xs:dateTime .
-sw:vehicle-19  sw:url  "http://swapi.co/api/vehicles/19/" .
-sw:vehicle-19  sw:desc  "Walkers are vehicles from the Star Wars universe that traverse the landscape on mechanical legs. They are used by the Old Republic and the Galactic Empire for ground assault or transport. Throughout the saga, walkers have played a pivotal role in the fate of characters and the outcome of battles. Industrial Light and Magic (ILM) is responsible for their animation and design, often using models, stop-motion animation, and relevant matte paintings to depict their presence in the films." .
-sw:vehicle-19  sw:desc  "There are a variety of walkers: The Empire Strikes Back introduces the All Terrain Armored Transport (AT-AT) and All Terrain Scout Transport (AT-ST). Star Wars: Episode II – Attack of the Clones and Star Wars: Episode III – Revenge of the Sith introduced earlier models of walkers, such as the AT-TE, and the Star Wars expanded universe features numerous others. Walker variants have been merchandised and featured in popular culture." .
-
-sw:vehicle-20  a  sw:Vehicle .
-sw:vehicle-20  rdfs:label  "Storm IV Twin-Pod cloud car" .
-sw:vehicle-20  sw:model  "Storm IV Twin-Pod" .
-sw:vehicle-20  sw:manufacturer  "Bespin Motors" .
-sw:vehicle-20  sw:cost_in_credits  75000 .
-sw:vehicle-20  sw:length  7 .
-sw:vehicle-20  sw:max_atmosphering_speed  1500 .
-sw:vehicle-20  sw:crew  2 .
-sw:vehicle-20  sw:passengers  0 .
-sw:vehicle-20  sw:cargo_capacity  10 .
-sw:vehicle-20  sw:consumables  "1 day" .
-sw:vehicle-20  sw:vehicle_class  "repulsorcraft" .
-sw:vehicle-20  sw:film  sw:film-2 .
-sw:vehicle-20  sw:created  "2014-12-15T12:58:50.530000Z"^^xs:dateTime .
-sw:vehicle-20  sw:edited  "2014-12-22T18:21:15.783232Z"^^xs:dateTime .
-sw:vehicle-20  sw:url  "http://swapi.co/api/vehicles/20/" .
-
-sw:vehicle-24  a  sw:Vehicle .
-sw:vehicle-24  rdfs:label  "Sail barge" .
-sw:vehicle-24  sw:model  "Modified Luxury Sail Barge" .
-sw:vehicle-24  sw:manufacturer  "Ubrikkian Industries Custom Vehicle Division" .
-sw:vehicle-24  sw:cost_in_credits  285000 .
-sw:vehicle-24  sw:length  30 .
-sw:vehicle-24  sw:max_atmosphering_speed  100 .
-sw:vehicle-24  sw:crew  26 .
-sw:vehicle-24  sw:passengers  500 .
-sw:vehicle-24  sw:cargo_capacity  2000000 .
-sw:vehicle-24  sw:consumables  "Live food tanks" .
-sw:vehicle-24  sw:vehicle_class  "sail barge" .
-sw:vehicle-24  sw:film  sw:film-3 .
-sw:vehicle-24  sw:created  "2014-12-18T10:44:14.217000Z"^^xs:dateTime .
-sw:vehicle-24  sw:edited  "2014-12-22T18:21:15.807906Z"^^xs:dateTime .
-sw:vehicle-24  sw:url  "http://swapi.co/api/vehicles/24/" .
-
-sw:vehicle-25  a  sw:Vehicle .
-sw:vehicle-25  rdfs:label  "Bantha-II cargo skiff" .
-sw:vehicle-25  sw:model  "Bantha-II" .
-sw:vehicle-25  sw:manufacturer  "Ubrikkian Industries" .
-sw:vehicle-25  sw:cost_in_credits  8000 .
-sw:vehicle-25  sw:length  9.5 .
-sw:vehicle-25  sw:max_atmosphering_speed  250 .
-sw:vehicle-25  sw:crew  5 .
-sw:vehicle-25  sw:passengers  16 .
-sw:vehicle-25  sw:cargo_capacity  135000 .
-sw:vehicle-25  sw:consumables  "1 day" .
-sw:vehicle-25  sw:vehicle_class  "repulsorcraft cargo skiff" .
-sw:vehicle-25  sw:film  sw:film-3 .
-sw:vehicle-25  sw:created  "2014-12-18T10:48:03.208000Z"^^xs:dateTime .
-sw:vehicle-25  sw:edited  "2014-12-22T18:21:15.845988Z"^^xs:dateTime .
-sw:vehicle-25  sw:url  "http://swapi.co/api/vehicles/25/" .
-
-sw:vehicle-26  a  sw:Vehicle .
-sw:vehicle-26  rdfs:label  "TIE/IN interceptor" .
-sw:vehicle-26  sw:model  "Twin Ion Engine Interceptor" .
-sw:vehicle-26  sw:manufacturer  "Sienar Fleet Systems" .
-sw:vehicle-26  sw:length  9.6 .
-sw:vehicle-26  sw:max_atmosphering_speed  1250 .
-sw:vehicle-26  sw:crew  1 .
-sw:vehicle-26  sw:passengers  0 .
-sw:vehicle-26  sw:cargo_capacity  75 .
-sw:vehicle-26  sw:consumables  "2 days" .
-sw:vehicle-26  sw:vehicle_class  "starfighter" .
-sw:vehicle-26  sw:film  sw:film-3 .
-sw:vehicle-26  sw:created  "2014-12-18T10:50:28.225000Z"^^xs:dateTime .
-sw:vehicle-26  sw:edited  "2014-12-22T18:21:15.882388Z"^^xs:dateTime .
-sw:vehicle-26  sw:url  "http://swapi.co/api/vehicles/26/" .
-
-sw:vehicle-30  a  sw:Vehicle .
-sw:vehicle-30  rdfs:label  "Imperial Speeder Bike" .
-sw:vehicle-30  sw:model  "74-Z speeder bike" .
-sw:vehicle-30  sw:manufacturer  "Aratech Repulsor Company" .
-sw:vehicle-30  sw:cost_in_credits  8000 .
-sw:vehicle-30  sw:length  3 .
-sw:vehicle-30  sw:max_atmosphering_speed  360 .
-sw:vehicle-30  sw:crew  1 .
-sw:vehicle-30  sw:passengers  1 .
-sw:vehicle-30  sw:cargo_capacity  4 .
-sw:vehicle-30  sw:consumables  "1 day" .
-sw:vehicle-30  sw:vehicle_class  "speeder" .
-sw:vehicle-30  sw:pilot  sw:people-1 .
-sw:vehicle-30  sw:pilot  sw:people-5 .
-sw:vehicle-30  sw:film  sw:film-3 .
-sw:vehicle-30  sw:created  "2014-12-18T11:20:04.625000Z"^^xs:dateTime .
-sw:vehicle-30  sw:edited  "2014-12-22T18:21:15.920537Z"^^xs:dateTime .
-sw:vehicle-30  sw:url  "http://swapi.co/api/vehicles/30/" .
-
-sw:vehicle-33  a  sw:Vehicle .
-sw:vehicle-33  rdfs:label  "Vulture Droid" .
-sw:vehicle-33  sw:model  "Vulture-class droid starfighter" .
-sw:vehicle-33  sw:manufacturer  "Haor Chall Engineering, Baktoid Armor Workshop" .
-sw:vehicle-33  sw:length  3.5 .
-sw:vehicle-33  sw:max_atmosphering_speed  1200 .
-sw:vehicle-33  sw:crew  0 .
-sw:vehicle-33  sw:passengers  0 .
-sw:vehicle-33  sw:cargo_capacity  0 .
-sw:vehicle-33  sw:consumables  "none" .
-sw:vehicle-33  sw:vehicle_class  "starfighter" .
-sw:vehicle-33  sw:film  sw:film-4 .
-sw:vehicle-33  sw:film  sw:film-6 .
-sw:vehicle-33  sw:created  "2014-12-19T17:09:53.584000Z"^^xs:dateTime .
-sw:vehicle-33  sw:edited  "2014-12-22T18:21:15.953870Z"^^xs:dateTime .
-sw:vehicle-33  sw:url  "http://swapi.co/api/vehicles/33/" .
-
-sw:vehicle-34  a  sw:Vehicle .
-sw:vehicle-34  rdfs:label  "Multi-Troop Transport" .
-sw:vehicle-34  sw:model  "Multi-Troop Transport" .
-sw:vehicle-34  sw:manufacturer  "Baktoid Armor Workshop" .
-sw:vehicle-34  sw:cost_in_credits  138000 .
-sw:vehicle-34  sw:length  31 .
-sw:vehicle-34  sw:max_atmosphering_speed  35 .
-sw:vehicle-34  sw:crew  4 .
-sw:vehicle-34  sw:passengers  112 .
-sw:vehicle-34  sw:cargo_capacity  12000 .
-sw:vehicle-34  sw:vehicle_class  "repulsorcraft" .
-sw:vehicle-34  sw:film  sw:film-4 .
-sw:vehicle-34  sw:created  "2014-12-19T17:12:04.400000Z"^^xs:dateTime .
-sw:vehicle-34  sw:edited  "2014-12-22T18:21:15.975171Z"^^xs:dateTime .
-sw:vehicle-34  sw:url  "http://swapi.co/api/vehicles/34/" .
-
-sw:vehicle-35  a  sw:Vehicle .
-sw:vehicle-35  rdfs:label  "Armored Assault Tank" .
-sw:vehicle-35  sw:model  "Armoured Assault Tank" .
-sw:vehicle-35  sw:manufacturer  "Baktoid Armor Workshop" .
-sw:vehicle-35  sw:length  9.75 .
-sw:vehicle-35  sw:max_atmosphering_speed  55 .
-sw:vehicle-35  sw:crew  4 .
-sw:vehicle-35  sw:passengers  6 .
-sw:vehicle-35  sw:vehicle_class  "repulsorcraft" .
-sw:vehicle-35  sw:film  sw:film-4 .
-sw:vehicle-35  sw:created  "2014-12-19T17:13:29.799000Z"^^xs:dateTime .
-sw:vehicle-35  sw:edited  "2014-12-22T18:21:15.984817Z"^^xs:dateTime .
-sw:vehicle-35  sw:url  "http://swapi.co/api/vehicles/35/" .
-
-sw:vehicle-36  a  sw:Vehicle .
-sw:vehicle-36  rdfs:label  "Single Trooper Aerial Platform" .
-sw:vehicle-36  sw:model  "Single Trooper Aerial Platform" .
-sw:vehicle-36  sw:manufacturer  "Baktoid Armor Workshop" .
-sw:vehicle-36  sw:cost_in_credits  2500 .
-sw:vehicle-36  sw:length  2 .
-sw:vehicle-36  sw:max_atmosphering_speed  400 .
-sw:vehicle-36  sw:crew  1 .
-sw:vehicle-36  sw:passengers  0 .
-sw:vehicle-36  sw:cargo_capacity  "none" .
-sw:vehicle-36  sw:consumables  "none" .
-sw:vehicle-36  sw:vehicle_class  "repulsorcraft" .
-sw:vehicle-36  sw:film  sw:film-4 .
-sw:vehicle-36  sw:created  "2014-12-19T17:15:09.511000Z"^^xs:dateTime .
-sw:vehicle-36  sw:edited  "2014-12-22T18:21:16.008594Z"^^xs:dateTime .
-sw:vehicle-36  sw:url  "http://swapi.co/api/vehicles/36/" .
-sw:vehicle-36  sw:desc  "Speeder bikes (also known as \u0022jumpspeeders\u0022 or \u0022hover bikes\u0022) and swoop bikes (or just \u0022swoops\u0022) are small, fast transports that use repulsorlift engines in the fictional Star Wars universe. Return of the Jedi includes a prominent speeder bike chase; speeders and swoops also appear in Star Wars: Episode I – The Phantom Menace, Star Wars: Episode II – Attack of the Clones, Star Wars: Episode III – Revenge of the Sith, Star Wars, and the Star Wars expanded universe's books, comics, and games." .
-
-sw:vehicle-37  a  sw:Vehicle .
-sw:vehicle-37  rdfs:label  "C-9979 landing craft" .
-sw:vehicle-37  sw:model  "C-9979 landing craft" .
-sw:vehicle-37  sw:manufacturer  "Haor Chall Engineering" .
-sw:vehicle-37  sw:cost_in_credits  200000 .
-sw:vehicle-37  sw:length  210 .
-sw:vehicle-37  sw:max_atmosphering_speed  587 .
-sw:vehicle-37  sw:crew  140 .
-sw:vehicle-37  sw:passengers  284 .
-sw:vehicle-37  sw:cargo_capacity  1800000 .
-sw:vehicle-37  sw:consumables  "1 day" .
-sw:vehicle-37  sw:vehicle_class  "landing craft" .
-sw:vehicle-37  sw:film  sw:film-4 .
-sw:vehicle-37  sw:created  "2014-12-19T17:20:36.373000Z"^^xs:dateTime .
-sw:vehicle-37  sw:edited  "2014-12-22T18:21:16.033738Z"^^xs:dateTime .
-sw:vehicle-37  sw:url  "http://swapi.co/api/vehicles/37/" .
-
-sw:vehicle-38  a  sw:Vehicle .
-sw:vehicle-38  rdfs:label  "Tribubble bongo" .
-sw:vehicle-38  sw:model  "Tribubble bongo" .
-sw:vehicle-38  sw:manufacturer  "Otoh Gunga Bongameken Cooperative" .
-sw:vehicle-38  sw:length  15 .
-sw:vehicle-38  sw:max_atmosphering_speed  85 .
-sw:vehicle-38  sw:crew  1 .
-sw:vehicle-38  sw:passengers  2 .
-sw:vehicle-38  sw:cargo_capacity  1600 .
-sw:vehicle-38  sw:vehicle_class  "submarine" .
-sw:vehicle-38  sw:pilot  sw:people-10 .
-sw:vehicle-38  sw:pilot  sw:people-32 .
-sw:vehicle-38  sw:film  sw:film-4 .
-sw:vehicle-38  sw:created  "2014-12-19T17:37:37.924000Z"^^xs:dateTime .
-sw:vehicle-38  sw:edited  "2014-12-22T18:21:16.072083Z"^^xs:dateTime .
-sw:vehicle-38  sw:url  "http://swapi.co/api/vehicles/38/" .
-
-sw:vehicle-42  a  sw:Vehicle .
-sw:vehicle-42  rdfs:label  "Sith speeder" .
-sw:vehicle-42  sw:model  "FC-20 speeder bike" .
-sw:vehicle-42  sw:manufacturer  "Razalon" .
-sw:vehicle-42  sw:cost_in_credits  4000 .
-sw:vehicle-42  sw:length  1.5 .
-sw:vehicle-42  sw:max_atmosphering_speed  180 .
-sw:vehicle-42  sw:crew  1 .
-sw:vehicle-42  sw:passengers  0 .
-sw:vehicle-42  sw:cargo_capacity  2 .
-sw:vehicle-42  sw:vehicle_class  "speeder" .
-sw:vehicle-42  sw:pilot  sw:people-44 .
-sw:vehicle-42  sw:film  sw:film-4 .
-sw:vehicle-42  sw:created  "2014-12-20T10:09:56.095000Z"^^xs:dateTime .
-sw:vehicle-42  sw:edited  "2014-12-22T18:21:16.095041Z"^^xs:dateTime .
-sw:vehicle-42  sw:url  "http://swapi.co/api/vehicles/42/" .
-
-sw:vehicle-44  a  sw:Vehicle .
-sw:vehicle-44  rdfs:label  "Zephyr-G swoop bike" .
-sw:vehicle-44  sw:model  "Zephyr-G swoop bike" .
-sw:vehicle-44  sw:manufacturer  "Mobquet Swoops and Speeders" .
-sw:vehicle-44  sw:cost_in_credits  5750 .
-sw:vehicle-44  sw:length  3.68 .
-sw:vehicle-44  sw:max_atmosphering_speed  350 .
-sw:vehicle-44  sw:crew  1 .
-sw:vehicle-44  sw:passengers  1 .
-sw:vehicle-44  sw:cargo_capacity  200 .
-sw:vehicle-44  sw:consumables  "none" .
-sw:vehicle-44  sw:vehicle_class  "repulsorcraft" .
-sw:vehicle-44  sw:pilot  sw:people-11 .
-sw:vehicle-44  sw:film  sw:film-5 .
-sw:vehicle-44  sw:created  "2014-12-20T16:24:16.026000Z"^^xs:dateTime .
-sw:vehicle-44  sw:edited  "2014-12-22T18:21:16.117652Z"^^xs:dateTime .
-sw:vehicle-44  sw:url  "http://swapi.co/api/vehicles/44/" .
-
-sw:vehicle-45  a  sw:Vehicle .
-sw:vehicle-45  rdfs:label  "Koro-2 Exodrive airspeeder" .
-sw:vehicle-45  sw:model  "Koro-2 Exodrive airspeeder" .
-sw:vehicle-45  sw:manufacturer  "Desler Gizh Outworld Mobility Corporation" .
-sw:vehicle-45  sw:length  6.6 .
-sw:vehicle-45  sw:max_atmosphering_speed  800 .
-sw:vehicle-45  sw:crew  1 .
-sw:vehicle-45  sw:passengers  1 .
-sw:vehicle-45  sw:cargo_capacity  80 .
-sw:vehicle-45  sw:vehicle_class  "airspeeder" .
-sw:vehicle-45  sw:pilot  sw:people-70 .
-sw:vehicle-45  sw:film  sw:film-5 .
-sw:vehicle-45  sw:created  "2014-12-20T17:17:33.526000Z"^^xs:dateTime .
-sw:vehicle-45  sw:edited  "2014-12-22T18:21:16.140018Z"^^xs:dateTime .
-sw:vehicle-45  sw:url  "http://swapi.co/api/vehicles/45/" .
-
-sw:vehicle-46  a  sw:Vehicle .
-sw:vehicle-46  rdfs:label  "XJ-6 airspeeder" .
-sw:vehicle-46  sw:model  "XJ-6 airspeeder" .
-sw:vehicle-46  sw:manufacturer  "Narglatch AirTech prefabricated kit" .
-sw:vehicle-46  sw:length  6.23 .
-sw:vehicle-46  sw:max_atmosphering_speed  720 .
-sw:vehicle-46  sw:crew  1 .
-sw:vehicle-46  sw:passengers  1 .
-sw:vehicle-46  sw:vehicle_class  "airspeeder" .
-sw:vehicle-46  sw:pilot  sw:people-11 .
-sw:vehicle-46  sw:film  sw:film-5 .
-sw:vehicle-46  sw:created  "2014-12-20T17:19:19.991000Z"^^xs:dateTime .
-sw:vehicle-46  sw:edited  "2014-12-22T18:21:16.150194Z"^^xs:dateTime .
-sw:vehicle-46  sw:url  "http://swapi.co/api/vehicles/46/" .
-
-sw:vehicle-50  a  sw:Vehicle .
-sw:vehicle-50  rdfs:label  "LAAT/i" .
-sw:vehicle-50  sw:model  "Low Altitude Assault Transport/infrantry" .
-sw:vehicle-50  sw:manufacturer  "Rothana Heavy Engineering" .
-sw:vehicle-50  sw:length  17.4 .
-sw:vehicle-50  sw:max_atmosphering_speed  620 .
-sw:vehicle-50  sw:crew  6 .
-sw:vehicle-50  sw:passengers  30 .
-sw:vehicle-50  sw:cargo_capacity  170 .
-sw:vehicle-50  sw:vehicle_class  "gunship" .
-sw:vehicle-50  sw:film  sw:film-5 .
-sw:vehicle-50  sw:film  sw:film-6 .
-sw:vehicle-50  sw:created  "2014-12-20T18:01:21.014000Z"^^xs:dateTime .
-sw:vehicle-50  sw:edited  "2014-12-22T18:21:16.181363Z"^^xs:dateTime .
-sw:vehicle-50  sw:url  "http://swapi.co/api/vehicles/50/" .
-
-sw:vehicle-51  a  sw:Vehicle .
-sw:vehicle-51  rdfs:label  "LAAT/c" .
-sw:vehicle-51  sw:model  "Low Altitude Assault Transport/carrier" .
-sw:vehicle-51  sw:manufacturer  "Rothana Heavy Engineering" .
-sw:vehicle-51  sw:length  28.82 .
-sw:vehicle-51  sw:max_atmosphering_speed  620 .
-sw:vehicle-51  sw:crew  1 .
-sw:vehicle-51  sw:passengers  0 .
-sw:vehicle-51  sw:cargo_capacity  40000 .
-sw:vehicle-51  sw:vehicle_class  "gunship" .
-sw:vehicle-51  sw:film  sw:film-5 .
-sw:vehicle-51  sw:created  "2014-12-20T18:02:46.802000Z"^^xs:dateTime .
-sw:vehicle-51  sw:edited  "2014-12-22T18:21:16.229733Z"^^xs:dateTime .
-sw:vehicle-51  sw:url  "http://swapi.co/api/vehicles/51/" .
-
-sw:vehicle-60  a  sw:Vehicle .
-sw:vehicle-60  rdfs:label  "Tsmeu-6 personal wheel bike" .
-sw:vehicle-60  sw:model  "Tsmeu-6 personal wheel bike" .
-sw:vehicle-60  sw:manufacturer  "Z-Gomot Ternbuell Guppat Corporation" .
-sw:vehicle-60  sw:cost_in_credits  15000 .
-sw:vehicle-60  sw:length  3.5 .
-sw:vehicle-60  sw:max_atmosphering_speed  330 .
-sw:vehicle-60  sw:crew  1 .
-sw:vehicle-60  sw:passengers  1 .
-sw:vehicle-60  sw:cargo_capacity  10 .
-sw:vehicle-60  sw:consumables  "none" .
-sw:vehicle-60  sw:vehicle_class  "wheeled walker" .
-sw:vehicle-60  sw:pilot  sw:people-79 .
-sw:vehicle-60  sw:film  sw:film-6 .
-sw:vehicle-60  sw:created  "2014-12-20T19:43:54.870000Z"^^xs:dateTime .
-sw:vehicle-60  sw:edited  "2014-12-22T18:21:16.422662Z"^^xs:dateTime .
-sw:vehicle-60  sw:url  "http://swapi.co/api/vehicles/60/" .
-
-sw:vehicle-62  a  sw:Vehicle .
-sw:vehicle-62  rdfs:label  "Emergency Firespeeder" .
-sw:vehicle-62  sw:model  "Fire suppression speeder" .
-sw:vehicle-62  sw:crew  2 .
-sw:vehicle-62  sw:vehicle_class  "fire suppression ship" .
-sw:vehicle-62  sw:film  sw:film-6 .
-sw:vehicle-62  sw:created  "2014-12-20T19:50:58.559000Z"^^xs:dateTime .
-sw:vehicle-62  sw:edited  "2014-12-22T18:21:16.450655Z"^^xs:dateTime .
-sw:vehicle-62  sw:url  "http://swapi.co/api/vehicles/62/" .
-
-sw:vehicle-67  a  sw:Vehicle .
-sw:vehicle-67  rdfs:label  "Droid tri-fighter" .
-sw:vehicle-67  sw:model  "tri-fighter" .
-sw:vehicle-67  sw:manufacturer  "Colla Designs, Phlac-Arphocc Automata Industries" .
-sw:vehicle-67  sw:cost_in_credits  20000 .
-sw:vehicle-67  sw:length  5.4 .
-sw:vehicle-67  sw:max_atmosphering_speed  1180 .
-sw:vehicle-67  sw:crew  1 .
-sw:vehicle-67  sw:passengers  0 .
-sw:vehicle-67  sw:cargo_capacity  0 .
-sw:vehicle-67  sw:consumables  "none" .
-sw:vehicle-67  sw:vehicle_class  "droid starfighter" .
-sw:vehicle-67  sw:film  sw:film-6 .
-sw:vehicle-67  sw:created  "2014-12-20T20:05:19.992000Z"^^xs:dateTime .
-sw:vehicle-67  sw:edited  "2014-12-22T18:21:16.478901Z"^^xs:dateTime .
-sw:vehicle-67  sw:url  "http://swapi.co/api/vehicles/67/" .
-
-sw:vehicle-69  a  sw:Vehicle .
-sw:vehicle-69  rdfs:label  "Oevvaor jet catamaran" .
-sw:vehicle-69  sw:model  "Oevvaor jet catamaran" .
-sw:vehicle-69  sw:manufacturer  "Appazanna Engineering Works" .
-sw:vehicle-69  sw:cost_in_credits  12125 .
-sw:vehicle-69  sw:length  15.1 .
-sw:vehicle-69  sw:max_atmosphering_speed  420 .
-sw:vehicle-69  sw:crew  2 .
-sw:vehicle-69  sw:passengers  2 .
-sw:vehicle-69  sw:cargo_capacity  50 .
-sw:vehicle-69  sw:consumables  "3 days" .
-sw:vehicle-69  sw:vehicle_class  "airspeeder" .
-sw:vehicle-69  sw:film  sw:film-6 .
-sw:vehicle-69  sw:created  "2014-12-20T20:20:53.931000Z"^^xs:dateTime .
-sw:vehicle-69  sw:edited  "2014-12-22T18:21:16.517049Z"^^xs:dateTime .
-sw:vehicle-69  sw:url  "http://swapi.co/api/vehicles/69/" .
-
-sw:vehicle-70  a  sw:Vehicle .
-sw:vehicle-70  rdfs:label  "Raddaugh Gnasp fluttercraft" .
-sw:vehicle-70  sw:model  "Raddaugh Gnasp fluttercraft" .
-sw:vehicle-70  sw:manufacturer  "Appazanna Engineering Works" .
-sw:vehicle-70  sw:cost_in_credits  14750 .
-sw:vehicle-70  sw:length  7 .
-sw:vehicle-70  sw:max_atmosphering_speed  310 .
-sw:vehicle-70  sw:crew  2 .
-sw:vehicle-70  sw:passengers  0 .
-sw:vehicle-70  sw:cargo_capacity  20 .
-sw:vehicle-70  sw:consumables  "none" .
-sw:vehicle-70  sw:vehicle_class  "air speeder" .
-sw:vehicle-70  sw:film  sw:film-6 .
-sw:vehicle-70  sw:created  "2014-12-20T20:21:55.648000Z"^^xs:dateTime .
-sw:vehicle-70  sw:edited  "2014-12-22T18:21:16.547708Z"^^xs:dateTime .
-sw:vehicle-70  sw:url  "http://swapi.co/api/vehicles/70/" .
-
-sw:vehicle-71  a  sw:Vehicle .
-sw:vehicle-71  rdfs:label  "Clone turbo tank" .
-sw:vehicle-71  sw:model  "HAVw A6 Juggernaut" .
-sw:vehicle-71  sw:manufacturer  "Kuat Drive Yards" .
-sw:vehicle-71  sw:cost_in_credits  350000 .
-sw:vehicle-71  sw:length  49.4 .
-sw:vehicle-71  sw:max_atmosphering_speed  160 .
-sw:vehicle-71  sw:crew  20 .
-sw:vehicle-71  sw:passengers  300 .
-sw:vehicle-71  sw:cargo_capacity  30000 .
-sw:vehicle-71  sw:consumables  "20 days" .
-sw:vehicle-71  sw:vehicle_class  "wheeled walker" .
-sw:vehicle-71  sw:film  sw:film-6 .
-sw:vehicle-71  sw:created  "2014-12-20T20:24:45.587000Z"^^xs:dateTime .
-sw:vehicle-71  sw:edited  "2014-12-22T18:21:16.571079Z"^^xs:dateTime .
-sw:vehicle-71  sw:url  "http://swapi.co/api/vehicles/71/" .
-
-sw:vehicle-72  a  sw:Vehicle .
-sw:vehicle-72  rdfs:label  "Corporate Alliance tank droid" .
-sw:vehicle-72  sw:model  "NR-N99 Persuader-class droid enforcer" .
-sw:vehicle-72  sw:manufacturer  "Techno Union" .
-sw:vehicle-72  sw:cost_in_credits  49000 .
-sw:vehicle-72  sw:length  10.96 .
-sw:vehicle-72  sw:max_atmosphering_speed  100 .
-sw:vehicle-72  sw:crew  0 .
-sw:vehicle-72  sw:passengers  4 .
-sw:vehicle-72  sw:cargo_capacity  "none" .
-sw:vehicle-72  sw:consumables  "none" .
-sw:vehicle-72  sw:vehicle_class  "droid tank" .
-sw:vehicle-72  sw:film  sw:film-6 .
-sw:vehicle-72  sw:created  "2014-12-20T20:26:55.522000Z"^^xs:dateTime .
-sw:vehicle-72  sw:edited  "2014-12-22T18:21:16.612902Z"^^xs:dateTime .
-sw:vehicle-72  sw:url  "http://swapi.co/api/vehicles/72/" .
-
-sw:vehicle-73  a  sw:Vehicle .
-sw:vehicle-73  rdfs:label  "Droid gunship" .
-sw:vehicle-73  sw:model  "HMP droid gunship" .
-sw:vehicle-73  sw:manufacturer  "Baktoid Fleet Ordnance, Haor Chall Engineering" .
-sw:vehicle-73  sw:cost_in_credits  60000 .
-sw:vehicle-73  sw:length  12.3 .
-sw:vehicle-73  sw:max_atmosphering_speed  820 .
-sw:vehicle-73  sw:crew  0 .
-sw:vehicle-73  sw:passengers  0 .
-sw:vehicle-73  sw:cargo_capacity  0 .
-sw:vehicle-73  sw:consumables  "none" .
-sw:vehicle-73  sw:vehicle_class  "airspeeder" .
-sw:vehicle-73  sw:film  sw:film-6 .
-sw:vehicle-73  sw:created  "2014-12-20T20:32:05.687000Z"^^xs:dateTime .
-sw:vehicle-73  sw:edited  "2014-12-22T18:21:16.643329Z"^^xs:dateTime .
-sw:vehicle-73  sw:url  "http://swapi.co/api/vehicles/73/" .
-
-sw:vehicle-76  a  sw:Vehicle .
-sw:vehicle-76  rdfs:label  "AT-RT" .
-sw:vehicle-76  sw:model  "All Terrain Recon Transport" .
-sw:vehicle-76  sw:manufacturer  "Kuat Drive Yards" .
-sw:vehicle-76  sw:cost_in_credits  40000 .
-sw:vehicle-76  sw:length  3.2 .
-sw:vehicle-76  sw:max_atmosphering_speed  90 .
-sw:vehicle-76  sw:crew  1 .
-sw:vehicle-76  sw:passengers  0 .
-sw:vehicle-76  sw:cargo_capacity  20 .
-sw:vehicle-76  sw:consumables  "1 day" .
-sw:vehicle-76  sw:vehicle_class  "walker" .
-sw:vehicle-76  sw:film  sw:film-6 .
-sw:vehicle-76  sw:created  "2014-12-20T20:47:49.189000Z"^^xs:dateTime .
-sw:vehicle-76  sw:edited  "2014-12-22T18:21:16.672821Z"^^xs:dateTime .
-sw:vehicle-76  sw:url  "http://swapi.co/api/vehicles/76/" .
-sw:vehicle-76  sw:desc  "Walkers are vehicles from the Star Wars universe that traverse the landscape on mechanical legs. They are used by the Old Republic and the Galactic Empire for ground assault or transport. Throughout the saga, walkers have played a pivotal role in the fate of characters and the outcome of battles. Industrial Light and Magic (ILM) is responsible for their animation and design, often using models, stop-motion animation, and relevant matte paintings to depict their presence in the films." .
-sw:vehicle-76  sw:desc  "There are a variety of walkers: The Empire Strikes Back introduces the All Terrain Armored Transport (AT-AT) and All Terrain Scout Transport (AT-ST). Star Wars: Episode II – Attack of the Clones and Star Wars: Episode III – Revenge of the Sith introduced earlier models of walkers, such as the AT-TE, and the Star Wars expanded universe features numerous others. Walker variants have been merchandised and featured in popular culture." .
-
-sw:vehicle-53  a  sw:Vehicle .
-sw:vehicle-53  rdfs:label  "AT-TE" .
-sw:vehicle-53  sw:model  "All Terrain Tactical Enforcer" .
-sw:vehicle-53  sw:manufacturer  "Rothana Heavy Engineering, Kuat Drive Yards" .
-sw:vehicle-53  sw:length  13.2 .
-sw:vehicle-53  sw:max_atmosphering_speed  60 .
-sw:vehicle-53  sw:crew  6 .
-sw:vehicle-53  sw:passengers  36 .
-sw:vehicle-53  sw:cargo_capacity  10000 .
-sw:vehicle-53  sw:consumables  "21 days" .
-sw:vehicle-53  sw:vehicle_class  "walker" .
-sw:vehicle-53  sw:film  sw:film-5 .
-sw:vehicle-53  sw:film  sw:film-6 .
-sw:vehicle-53  sw:created  "2014-12-20T18:10:07.560000Z"^^xs:dateTime .
-sw:vehicle-53  sw:edited  "2014-12-22T18:21:16.293771Z"^^xs:dateTime .
-sw:vehicle-53  sw:url  "http://swapi.co/api/vehicles/53/" .
-sw:vehicle-53  sw:desc  "Walkers are vehicles from the Star Wars universe that traverse the landscape on mechanical legs. They are used by the Old Republic and the Galactic Empire for ground assault or transport. Throughout the saga, walkers have played a pivotal role in the fate of characters and the outcome of battles. Industrial Light and Magic (ILM) is responsible for their animation and design, often using models, stop-motion animation, and relevant matte paintings to depict their presence in the films." .
-sw:vehicle-53  sw:desc  "There are a variety of walkers: The Empire Strikes Back introduces the All Terrain Armored Transport (AT-AT) and All Terrain Scout Transport (AT-ST). Star Wars: Episode II – Attack of the Clones and Star Wars: Episode III – Revenge of the Sith introduced earlier models of walkers, such as the AT-TE, and the Star Wars expanded universe features numerous others. Walker variants have been merchandised and featured in popular culture." .
-
-sw:vehicle-54  a  sw:Vehicle .
-sw:vehicle-54  rdfs:label  "SPHA" .
-sw:vehicle-54  sw:model  "Self-Propelled Heavy Artillery" .
-sw:vehicle-54  sw:manufacturer  "Rothana Heavy Engineering" .
-sw:vehicle-54  sw:length  140 .
-sw:vehicle-54  sw:max_atmosphering_speed  35 .
-sw:vehicle-54  sw:crew  25 .
-sw:vehicle-54  sw:passengers  30 .
-sw:vehicle-54  sw:cargo_capacity  500 .
-sw:vehicle-54  sw:consumables  "7 days" .
-sw:vehicle-54  sw:vehicle_class  "walker" .
-sw:vehicle-54  sw:film  sw:film-5 .
-sw:vehicle-54  sw:created  "2014-12-20T18:12:32.315000Z"^^xs:dateTime .
-sw:vehicle-54  sw:edited  "2014-12-22T18:21:16.311761Z"^^xs:dateTime .
-sw:vehicle-54  sw:url  "http://swapi.co/api/vehicles/54/" .
-
-sw:vehicle-55  a  sw:Vehicle .
-sw:vehicle-55  rdfs:label  "Flitknot speeder" .
-sw:vehicle-55  sw:model  "Flitknot speeder" .
-sw:vehicle-55  sw:manufacturer  "Huppla Pasa Tisc Shipwrights Collective" .
-sw:vehicle-55  sw:cost_in_credits  8000 .
-sw:vehicle-55  sw:length  2 .
-sw:vehicle-55  sw:max_atmosphering_speed  634 .
-sw:vehicle-55  sw:crew  1 .
-sw:vehicle-55  sw:passengers  0 .
-sw:vehicle-55  sw:vehicle_class  "speeder" .
-sw:vehicle-55  sw:pilot  sw:people-67 .
-sw:vehicle-55  sw:film  sw:film-5 .
-sw:vehicle-55  sw:created  "2014-12-20T18:15:20.312000Z"^^xs:dateTime .
-sw:vehicle-55  sw:edited  "2014-12-22T18:21:16.335005Z"^^xs:dateTime .
-sw:vehicle-55  sw:url  "http://swapi.co/api/vehicles/55/" .
-
-sw:vehicle-56  a  sw:Vehicle .
-sw:vehicle-56  rdfs:label  "Neimoidian shuttle" .
-sw:vehicle-56  sw:model  "Sheathipede-class transport shuttle" .
-sw:vehicle-56  sw:manufacturer  "Haor Chall Engineering" .
-sw:vehicle-56  sw:length  20 .
-sw:vehicle-56  sw:max_atmosphering_speed  880 .
-sw:vehicle-56  sw:crew  2 .
-sw:vehicle-56  sw:passengers  6 .
-sw:vehicle-56  sw:cargo_capacity  1000 .
-sw:vehicle-56  sw:consumables  "7 days" .
-sw:vehicle-56  sw:vehicle_class  "transport" .
-sw:vehicle-56  sw:film  sw:film-5 .
-sw:vehicle-56  sw:film  sw:film-6 .
-sw:vehicle-56  sw:created  "2014-12-20T18:25:44.912000Z"^^xs:dateTime .
-sw:vehicle-56  sw:edited  "2014-12-22T18:21:16.366134Z"^^xs:dateTime .
-sw:vehicle-56  sw:url  "http://swapi.co/api/vehicles/56/" .
-
-sw:vehicle-57  a  sw:Vehicle .
-sw:vehicle-57  rdfs:label  "Geonosian starfighter" .
-sw:vehicle-57  sw:model  "Nantex-class territorial defense" .
-sw:vehicle-57  sw:manufacturer  "Huppla Pasa Tisc Shipwrights Collective" .
-sw:vehicle-57  sw:length  9.8 .
-sw:vehicle-57  sw:max_atmosphering_speed  20000 .
-sw:vehicle-57  sw:crew  1 .
-sw:vehicle-57  sw:passengers  0 .
-sw:vehicle-57  sw:vehicle_class  "starfighter" .
-sw:vehicle-57  sw:film  sw:film-5 .
-sw:vehicle-57  sw:created  "2014-12-20T18:34:12.541000Z"^^xs:dateTime .
-sw:vehicle-57  sw:edited  "2014-12-22T18:21:16.390980Z"^^xs:dateTime .
-sw:vehicle-57  sw:url  "http://swapi.co/api/vehicles/57/" .
 
 sw:starship-5  a  sw:Starship .
 sw:starship-5  rdfs:label  "Sentinel-class landing craft" .
@@ -5003,4 +4347,660 @@ sw:starship-2  sw:film  sw:film-1 .
 sw:starship-2  sw:created  "2014-12-10T14:20:33.369000Z"^^xs:dateTime .
 sw:starship-2  sw:edited  "2014-12-22T17:35:45.408368Z"^^xs:dateTime .
 sw:starship-2  sw:url  "http://swapi.co/api/starships/2/" .
+
+sw:vehicle-4  a  sw:Vehicle .
+sw:vehicle-4  rdfs:label  "Sand Crawler" .
+sw:vehicle-4  sw:model  "Digger Crawler" .
+sw:vehicle-4  sw:manufacturer  "Corellia Mining Corporation" .
+sw:vehicle-4  sw:cost_in_credits  150000 .
+sw:vehicle-4  sw:length  36.8 .
+sw:vehicle-4  sw:max_atmosphering_speed  30 .
+sw:vehicle-4  sw:crew  46 .
+sw:vehicle-4  sw:passengers  30 .
+sw:vehicle-4  sw:cargo_capacity  50000 .
+sw:vehicle-4  sw:consumables  "2 months" .
+sw:vehicle-4  sw:vehicle_class  "wheeled" .
+sw:vehicle-4  sw:film  sw:film-5 .
+sw:vehicle-4  sw:film  sw:film-1 .
+sw:vehicle-4  sw:created  "2014-12-10T15:36:25.724000Z"^^xs:dateTime .
+sw:vehicle-4  sw:edited  "2014-12-22T18:21:15.523587Z"^^xs:dateTime .
+sw:vehicle-4  sw:url  "http://swapi.co/api/vehicles/4/" .
+
+sw:vehicle-6  a  sw:Vehicle .
+sw:vehicle-6  rdfs:label  "T-16 skyhopper" .
+sw:vehicle-6  sw:model  "T-16 skyhopper" .
+sw:vehicle-6  sw:manufacturer  "Incom Corporation" .
+sw:vehicle-6  sw:cost_in_credits  14500 .
+sw:vehicle-6  sw:length  10.4 .
+sw:vehicle-6  sw:max_atmosphering_speed  1200 .
+sw:vehicle-6  sw:crew  1 .
+sw:vehicle-6  sw:passengers  1 .
+sw:vehicle-6  sw:cargo_capacity  50 .
+sw:vehicle-6  sw:consumables  "0" .
+sw:vehicle-6  sw:vehicle_class  "repulsorcraft" .
+sw:vehicle-6  sw:film  sw:film-1 .
+sw:vehicle-6  sw:created  "2014-12-10T16:01:52.434000Z"^^xs:dateTime .
+sw:vehicle-6  sw:edited  "2014-12-22T18:21:15.552614Z"^^xs:dateTime .
+sw:vehicle-6  sw:url  "http://swapi.co/api/vehicles/6/" .
+
+sw:vehicle-7  a  sw:Vehicle .
+sw:vehicle-7  rdfs:label  "X-34 landspeeder" .
+sw:vehicle-7  sw:model  "X-34 landspeeder" .
+sw:vehicle-7  sw:manufacturer  "SoroSuub Corporation" .
+sw:vehicle-7  sw:cost_in_credits  10550 .
+sw:vehicle-7  sw:length  3.4 .
+sw:vehicle-7  sw:max_atmosphering_speed  250 .
+sw:vehicle-7  sw:crew  1 .
+sw:vehicle-7  sw:passengers  1 .
+sw:vehicle-7  sw:cargo_capacity  5 .
+sw:vehicle-7  sw:vehicle_class  "repulsorcraft" .
+sw:vehicle-7  sw:film  sw:film-1 .
+sw:vehicle-7  sw:created  "2014-12-10T16:13:52.586000Z"^^xs:dateTime .
+sw:vehicle-7  sw:edited  "2014-12-22T18:21:15.583700Z"^^xs:dateTime .
+sw:vehicle-7  sw:url  "http://swapi.co/api/vehicles/7/" .
+
+sw:vehicle-8  a  sw:Vehicle .
+sw:vehicle-8  rdfs:label  "TIE/LN starfighter" .
+sw:vehicle-8  sw:model  "Twin Ion Engine/Ln Starfighter" .
+sw:vehicle-8  sw:manufacturer  "Sienar Fleet Systems" .
+sw:vehicle-8  sw:length  6.4 .
+sw:vehicle-8  sw:max_atmosphering_speed  1200 .
+sw:vehicle-8  sw:crew  1 .
+sw:vehicle-8  sw:passengers  0 .
+sw:vehicle-8  sw:cargo_capacity  65 .
+sw:vehicle-8  sw:consumables  "2 days" .
+sw:vehicle-8  sw:vehicle_class  "starfighter" .
+sw:vehicle-8  sw:film  sw:film-3 .
+sw:vehicle-8  sw:film  sw:film-2 .
+sw:vehicle-8  sw:film  sw:film-1 .
+sw:vehicle-8  sw:created  "2014-12-10T16:33:52.860000Z"^^xs:dateTime .
+sw:vehicle-8  sw:edited  "2014-12-22T18:21:15.606149Z"^^xs:dateTime .
+sw:vehicle-8  sw:url  "http://swapi.co/api/vehicles/8/" .
+
+sw:vehicle-14  a  sw:Vehicle .
+sw:vehicle-14  rdfs:label  "Snowspeeder" .
+sw:vehicle-14  sw:model  "t-47 airspeeder" .
+sw:vehicle-14  sw:manufacturer  "Incom corporation" .
+sw:vehicle-14  sw:length  4.5 .
+sw:vehicle-14  sw:max_atmosphering_speed  650 .
+sw:vehicle-14  sw:crew  2 .
+sw:vehicle-14  sw:passengers  0 .
+sw:vehicle-14  sw:cargo_capacity  10 .
+sw:vehicle-14  sw:consumables  "none" .
+sw:vehicle-14  sw:vehicle_class  "airspeeder" .
+sw:vehicle-14  sw:pilot  sw:people-1 .
+sw:vehicle-14  sw:pilot  sw:people-18 .
+sw:vehicle-14  sw:film  sw:film-2 .
+sw:vehicle-14  sw:created  "2014-12-15T12:22:12Z"^^xs:dateTime .
+sw:vehicle-14  sw:edited  "2014-12-22T18:21:15.623033Z"^^xs:dateTime .
+sw:vehicle-14  sw:url  "http://swapi.co/api/vehicles/14/" .
+
+sw:vehicle-16  a  sw:Vehicle .
+sw:vehicle-16  rdfs:label  "TIE bomber" .
+sw:vehicle-16  sw:model  "TIE/sa bomber" .
+sw:vehicle-16  sw:manufacturer  "Sienar Fleet Systems" .
+sw:vehicle-16  sw:length  7.8 .
+sw:vehicle-16  sw:max_atmosphering_speed  850 .
+sw:vehicle-16  sw:crew  1 .
+sw:vehicle-16  sw:passengers  0 .
+sw:vehicle-16  sw:cargo_capacity  "none" .
+sw:vehicle-16  sw:consumables  "2 days" .
+sw:vehicle-16  sw:vehicle_class  "space/planetary bomber" .
+sw:vehicle-16  sw:film  sw:film-3 .
+sw:vehicle-16  sw:film  sw:film-2 .
+sw:vehicle-16  sw:created  "2014-12-15T12:33:15.838000Z"^^xs:dateTime .
+sw:vehicle-16  sw:edited  "2014-12-22T18:21:15.667730Z"^^xs:dateTime .
+sw:vehicle-16  sw:url  "http://swapi.co/api/vehicles/16/" .
+sw:vehicle-16  sw:desc  "TIE fighters are fictional starfighters in the Star Wars universe. Propelled by twin ion engines (hence the TIE acronym), TIE fighters are fast, agile, yet fragile starfighters produced by Sienar Fleet Systems for the Galactic Empire. TIE fighters and other TIE craft appear in Star Wars films, television shows, and throughout the Star Wars expanded universe. Several TIE fighter replicas and toys, as well as a TIE flight simulator, have been produced and sold by merchandise companies." .
+
+sw:vehicle-18  a  sw:Vehicle .
+sw:vehicle-18  rdfs:label  "AT-AT" .
+sw:vehicle-18  sw:model  "All Terrain Armored Transport" .
+sw:vehicle-18  sw:manufacturer  "Kuat Drive Yards, Imperial Department of Military Research" .
+sw:vehicle-18  sw:length  20 .
+sw:vehicle-18  sw:max_atmosphering_speed  60 .
+sw:vehicle-18  sw:crew  5 .
+sw:vehicle-18  sw:passengers  40 .
+sw:vehicle-18  sw:cargo_capacity  1000 .
+sw:vehicle-18  sw:vehicle_class  "assault walker" .
+sw:vehicle-18  sw:film  sw:film-3 .
+sw:vehicle-18  sw:film  sw:film-2 .
+sw:vehicle-18  sw:created  "2014-12-15T12:38:25.937000Z"^^xs:dateTime .
+sw:vehicle-18  sw:edited  "2014-12-22T18:21:15.714673Z"^^xs:dateTime .
+sw:vehicle-18  sw:url  "http://swapi.co/api/vehicles/18/" .
+sw:vehicle-18  sw:desc  "Walkers are vehicles from the Star Wars universe that traverse the landscape on mechanical legs. They are used by the Old Republic and the Galactic Empire for ground assault or transport. Throughout the saga, walkers have played a pivotal role in the fate of characters and the outcome of battles. Industrial Light and Magic (ILM) is responsible for their animation and design, often using models, stop-motion animation, and relevant matte paintings to depict their presence in the films." .
+sw:vehicle-18  sw:desc  "There are a variety of walkers: The Empire Strikes Back introduces the All Terrain Armored Transport (AT-AT) and All Terrain Scout Transport (AT-ST). Star Wars: Episode II – Attack of the Clones and Star Wars: Episode III – Revenge of the Sith introduced earlier models of walkers, such as the AT-TE, and the Star Wars expanded universe features numerous others. Walker variants have been merchandised and featured in popular culture." .
+
+sw:vehicle-19  a  sw:Vehicle .
+sw:vehicle-19  rdfs:label  "AT-ST" .
+sw:vehicle-19  sw:model  "All Terrain Scout Transport" .
+sw:vehicle-19  sw:manufacturer  "Kuat Drive Yards, Imperial Department of Military Research" .
+sw:vehicle-19  sw:length  2 .
+sw:vehicle-19  sw:max_atmosphering_speed  90 .
+sw:vehicle-19  sw:crew  2 .
+sw:vehicle-19  sw:passengers  0 .
+sw:vehicle-19  sw:cargo_capacity  200 .
+sw:vehicle-19  sw:consumables  "none" .
+sw:vehicle-19  sw:vehicle_class  "walker" .
+sw:vehicle-19  sw:pilot  sw:people-13 .
+sw:vehicle-19  sw:film  sw:film-3 .
+sw:vehicle-19  sw:film  sw:film-2 .
+sw:vehicle-19  sw:created  "2014-12-15T12:46:42.384000Z"^^xs:dateTime .
+sw:vehicle-19  sw:edited  "2014-12-22T18:21:15.761584Z"^^xs:dateTime .
+sw:vehicle-19  sw:url  "http://swapi.co/api/vehicles/19/" .
+sw:vehicle-19  sw:desc  "Walkers are vehicles from the Star Wars universe that traverse the landscape on mechanical legs. They are used by the Old Republic and the Galactic Empire for ground assault or transport. Throughout the saga, walkers have played a pivotal role in the fate of characters and the outcome of battles. Industrial Light and Magic (ILM) is responsible for their animation and design, often using models, stop-motion animation, and relevant matte paintings to depict their presence in the films." .
+sw:vehicle-19  sw:desc  "There are a variety of walkers: The Empire Strikes Back introduces the All Terrain Armored Transport (AT-AT) and All Terrain Scout Transport (AT-ST). Star Wars: Episode II – Attack of the Clones and Star Wars: Episode III – Revenge of the Sith introduced earlier models of walkers, such as the AT-TE, and the Star Wars expanded universe features numerous others. Walker variants have been merchandised and featured in popular culture." .
+
+sw:vehicle-20  a  sw:Vehicle .
+sw:vehicle-20  rdfs:label  "Storm IV Twin-Pod cloud car" .
+sw:vehicle-20  sw:model  "Storm IV Twin-Pod" .
+sw:vehicle-20  sw:manufacturer  "Bespin Motors" .
+sw:vehicle-20  sw:cost_in_credits  75000 .
+sw:vehicle-20  sw:length  7 .
+sw:vehicle-20  sw:max_atmosphering_speed  1500 .
+sw:vehicle-20  sw:crew  2 .
+sw:vehicle-20  sw:passengers  0 .
+sw:vehicle-20  sw:cargo_capacity  10 .
+sw:vehicle-20  sw:consumables  "1 day" .
+sw:vehicle-20  sw:vehicle_class  "repulsorcraft" .
+sw:vehicle-20  sw:film  sw:film-2 .
+sw:vehicle-20  sw:created  "2014-12-15T12:58:50.530000Z"^^xs:dateTime .
+sw:vehicle-20  sw:edited  "2014-12-22T18:21:15.783232Z"^^xs:dateTime .
+sw:vehicle-20  sw:url  "http://swapi.co/api/vehicles/20/" .
+
+sw:vehicle-24  a  sw:Vehicle .
+sw:vehicle-24  rdfs:label  "Sail barge" .
+sw:vehicle-24  sw:model  "Modified Luxury Sail Barge" .
+sw:vehicle-24  sw:manufacturer  "Ubrikkian Industries Custom Vehicle Division" .
+sw:vehicle-24  sw:cost_in_credits  285000 .
+sw:vehicle-24  sw:length  30 .
+sw:vehicle-24  sw:max_atmosphering_speed  100 .
+sw:vehicle-24  sw:crew  26 .
+sw:vehicle-24  sw:passengers  500 .
+sw:vehicle-24  sw:cargo_capacity  2000000 .
+sw:vehicle-24  sw:consumables  "Live food tanks" .
+sw:vehicle-24  sw:vehicle_class  "sail barge" .
+sw:vehicle-24  sw:film  sw:film-3 .
+sw:vehicle-24  sw:created  "2014-12-18T10:44:14.217000Z"^^xs:dateTime .
+sw:vehicle-24  sw:edited  "2014-12-22T18:21:15.807906Z"^^xs:dateTime .
+sw:vehicle-24  sw:url  "http://swapi.co/api/vehicles/24/" .
+
+sw:vehicle-25  a  sw:Vehicle .
+sw:vehicle-25  rdfs:label  "Bantha-II cargo skiff" .
+sw:vehicle-25  sw:model  "Bantha-II" .
+sw:vehicle-25  sw:manufacturer  "Ubrikkian Industries" .
+sw:vehicle-25  sw:cost_in_credits  8000 .
+sw:vehicle-25  sw:length  9.5 .
+sw:vehicle-25  sw:max_atmosphering_speed  250 .
+sw:vehicle-25  sw:crew  5 .
+sw:vehicle-25  sw:passengers  16 .
+sw:vehicle-25  sw:cargo_capacity  135000 .
+sw:vehicle-25  sw:consumables  "1 day" .
+sw:vehicle-25  sw:vehicle_class  "repulsorcraft cargo skiff" .
+sw:vehicle-25  sw:film  sw:film-3 .
+sw:vehicle-25  sw:created  "2014-12-18T10:48:03.208000Z"^^xs:dateTime .
+sw:vehicle-25  sw:edited  "2014-12-22T18:21:15.845988Z"^^xs:dateTime .
+sw:vehicle-25  sw:url  "http://swapi.co/api/vehicles/25/" .
+
+sw:vehicle-26  a  sw:Vehicle .
+sw:vehicle-26  rdfs:label  "TIE/IN interceptor" .
+sw:vehicle-26  sw:model  "Twin Ion Engine Interceptor" .
+sw:vehicle-26  sw:manufacturer  "Sienar Fleet Systems" .
+sw:vehicle-26  sw:length  9.6 .
+sw:vehicle-26  sw:max_atmosphering_speed  1250 .
+sw:vehicle-26  sw:crew  1 .
+sw:vehicle-26  sw:passengers  0 .
+sw:vehicle-26  sw:cargo_capacity  75 .
+sw:vehicle-26  sw:consumables  "2 days" .
+sw:vehicle-26  sw:vehicle_class  "starfighter" .
+sw:vehicle-26  sw:film  sw:film-3 .
+sw:vehicle-26  sw:created  "2014-12-18T10:50:28.225000Z"^^xs:dateTime .
+sw:vehicle-26  sw:edited  "2014-12-22T18:21:15.882388Z"^^xs:dateTime .
+sw:vehicle-26  sw:url  "http://swapi.co/api/vehicles/26/" .
+
+sw:vehicle-30  a  sw:Vehicle .
+sw:vehicle-30  rdfs:label  "Imperial Speeder Bike" .
+sw:vehicle-30  sw:model  "74-Z speeder bike" .
+sw:vehicle-30  sw:manufacturer  "Aratech Repulsor Company" .
+sw:vehicle-30  sw:cost_in_credits  8000 .
+sw:vehicle-30  sw:length  3 .
+sw:vehicle-30  sw:max_atmosphering_speed  360 .
+sw:vehicle-30  sw:crew  1 .
+sw:vehicle-30  sw:passengers  1 .
+sw:vehicle-30  sw:cargo_capacity  4 .
+sw:vehicle-30  sw:consumables  "1 day" .
+sw:vehicle-30  sw:vehicle_class  "speeder" .
+sw:vehicle-30  sw:pilot  sw:people-1 .
+sw:vehicle-30  sw:pilot  sw:people-5 .
+sw:vehicle-30  sw:film  sw:film-3 .
+sw:vehicle-30  sw:created  "2014-12-18T11:20:04.625000Z"^^xs:dateTime .
+sw:vehicle-30  sw:edited  "2014-12-22T18:21:15.920537Z"^^xs:dateTime .
+sw:vehicle-30  sw:url  "http://swapi.co/api/vehicles/30/" .
+
+sw:vehicle-33  a  sw:Vehicle .
+sw:vehicle-33  rdfs:label  "Vulture Droid" .
+sw:vehicle-33  sw:model  "Vulture-class droid starfighter" .
+sw:vehicle-33  sw:manufacturer  "Haor Chall Engineering, Baktoid Armor Workshop" .
+sw:vehicle-33  sw:length  3.5 .
+sw:vehicle-33  sw:max_atmosphering_speed  1200 .
+sw:vehicle-33  sw:crew  0 .
+sw:vehicle-33  sw:passengers  0 .
+sw:vehicle-33  sw:cargo_capacity  0 .
+sw:vehicle-33  sw:consumables  "none" .
+sw:vehicle-33  sw:vehicle_class  "starfighter" .
+sw:vehicle-33  sw:film  sw:film-4 .
+sw:vehicle-33  sw:film  sw:film-6 .
+sw:vehicle-33  sw:created  "2014-12-19T17:09:53.584000Z"^^xs:dateTime .
+sw:vehicle-33  sw:edited  "2014-12-22T18:21:15.953870Z"^^xs:dateTime .
+sw:vehicle-33  sw:url  "http://swapi.co/api/vehicles/33/" .
+
+sw:vehicle-34  a  sw:Vehicle .
+sw:vehicle-34  rdfs:label  "Multi-Troop Transport" .
+sw:vehicle-34  sw:model  "Multi-Troop Transport" .
+sw:vehicle-34  sw:manufacturer  "Baktoid Armor Workshop" .
+sw:vehicle-34  sw:cost_in_credits  138000 .
+sw:vehicle-34  sw:length  31 .
+sw:vehicle-34  sw:max_atmosphering_speed  35 .
+sw:vehicle-34  sw:crew  4 .
+sw:vehicle-34  sw:passengers  112 .
+sw:vehicle-34  sw:cargo_capacity  12000 .
+sw:vehicle-34  sw:vehicle_class  "repulsorcraft" .
+sw:vehicle-34  sw:film  sw:film-4 .
+sw:vehicle-34  sw:created  "2014-12-19T17:12:04.400000Z"^^xs:dateTime .
+sw:vehicle-34  sw:edited  "2014-12-22T18:21:15.975171Z"^^xs:dateTime .
+sw:vehicle-34  sw:url  "http://swapi.co/api/vehicles/34/" .
+
+sw:vehicle-35  a  sw:Vehicle .
+sw:vehicle-35  rdfs:label  "Armored Assault Tank" .
+sw:vehicle-35  sw:model  "Armoured Assault Tank" .
+sw:vehicle-35  sw:manufacturer  "Baktoid Armor Workshop" .
+sw:vehicle-35  sw:length  9.75 .
+sw:vehicle-35  sw:max_atmosphering_speed  55 .
+sw:vehicle-35  sw:crew  4 .
+sw:vehicle-35  sw:passengers  6 .
+sw:vehicle-35  sw:vehicle_class  "repulsorcraft" .
+sw:vehicle-35  sw:film  sw:film-4 .
+sw:vehicle-35  sw:created  "2014-12-19T17:13:29.799000Z"^^xs:dateTime .
+sw:vehicle-35  sw:edited  "2014-12-22T18:21:15.984817Z"^^xs:dateTime .
+sw:vehicle-35  sw:url  "http://swapi.co/api/vehicles/35/" .
+
+sw:vehicle-36  a  sw:Vehicle .
+sw:vehicle-36  rdfs:label  "Single Trooper Aerial Platform" .
+sw:vehicle-36  sw:model  "Single Trooper Aerial Platform" .
+sw:vehicle-36  sw:manufacturer  "Baktoid Armor Workshop" .
+sw:vehicle-36  sw:cost_in_credits  2500 .
+sw:vehicle-36  sw:length  2 .
+sw:vehicle-36  sw:max_atmosphering_speed  400 .
+sw:vehicle-36  sw:crew  1 .
+sw:vehicle-36  sw:passengers  0 .
+sw:vehicle-36  sw:cargo_capacity  "none" .
+sw:vehicle-36  sw:consumables  "none" .
+sw:vehicle-36  sw:vehicle_class  "repulsorcraft" .
+sw:vehicle-36  sw:film  sw:film-4 .
+sw:vehicle-36  sw:created  "2014-12-19T17:15:09.511000Z"^^xs:dateTime .
+sw:vehicle-36  sw:edited  "2014-12-22T18:21:16.008594Z"^^xs:dateTime .
+sw:vehicle-36  sw:url  "http://swapi.co/api/vehicles/36/" .
+sw:vehicle-36  sw:desc  "Speeder bikes (also known as \u0022jumpspeeders\u0022 or \u0022hover bikes\u0022) and swoop bikes (or just \u0022swoops\u0022) are small, fast transports that use repulsorlift engines in the fictional Star Wars universe. Return of the Jedi includes a prominent speeder bike chase; speeders and swoops also appear in Star Wars: Episode I – The Phantom Menace, Star Wars: Episode II – Attack of the Clones, Star Wars: Episode III – Revenge of the Sith, Star Wars, and the Star Wars expanded universe's books, comics, and games." .
+
+sw:vehicle-37  a  sw:Vehicle .
+sw:vehicle-37  rdfs:label  "C-9979 landing craft" .
+sw:vehicle-37  sw:model  "C-9979 landing craft" .
+sw:vehicle-37  sw:manufacturer  "Haor Chall Engineering" .
+sw:vehicle-37  sw:cost_in_credits  200000 .
+sw:vehicle-37  sw:length  210 .
+sw:vehicle-37  sw:max_atmosphering_speed  587 .
+sw:vehicle-37  sw:crew  140 .
+sw:vehicle-37  sw:passengers  284 .
+sw:vehicle-37  sw:cargo_capacity  1800000 .
+sw:vehicle-37  sw:consumables  "1 day" .
+sw:vehicle-37  sw:vehicle_class  "landing craft" .
+sw:vehicle-37  sw:film  sw:film-4 .
+sw:vehicle-37  sw:created  "2014-12-19T17:20:36.373000Z"^^xs:dateTime .
+sw:vehicle-37  sw:edited  "2014-12-22T18:21:16.033738Z"^^xs:dateTime .
+sw:vehicle-37  sw:url  "http://swapi.co/api/vehicles/37/" .
+
+sw:vehicle-38  a  sw:Vehicle .
+sw:vehicle-38  rdfs:label  "Tribubble bongo" .
+sw:vehicle-38  sw:model  "Tribubble bongo" .
+sw:vehicle-38  sw:manufacturer  "Otoh Gunga Bongameken Cooperative" .
+sw:vehicle-38  sw:length  15 .
+sw:vehicle-38  sw:max_atmosphering_speed  85 .
+sw:vehicle-38  sw:crew  1 .
+sw:vehicle-38  sw:passengers  2 .
+sw:vehicle-38  sw:cargo_capacity  1600 .
+sw:vehicle-38  sw:vehicle_class  "submarine" .
+sw:vehicle-38  sw:pilot  sw:people-10 .
+sw:vehicle-38  sw:pilot  sw:people-32 .
+sw:vehicle-38  sw:film  sw:film-4 .
+sw:vehicle-38  sw:created  "2014-12-19T17:37:37.924000Z"^^xs:dateTime .
+sw:vehicle-38  sw:edited  "2014-12-22T18:21:16.072083Z"^^xs:dateTime .
+sw:vehicle-38  sw:url  "http://swapi.co/api/vehicles/38/" .
+
+sw:vehicle-42  a  sw:Vehicle .
+sw:vehicle-42  rdfs:label  "Sith speeder" .
+sw:vehicle-42  sw:model  "FC-20 speeder bike" .
+sw:vehicle-42  sw:manufacturer  "Razalon" .
+sw:vehicle-42  sw:cost_in_credits  4000 .
+sw:vehicle-42  sw:length  1.5 .
+sw:vehicle-42  sw:max_atmosphering_speed  180 .
+sw:vehicle-42  sw:crew  1 .
+sw:vehicle-42  sw:passengers  0 .
+sw:vehicle-42  sw:cargo_capacity  2 .
+sw:vehicle-42  sw:vehicle_class  "speeder" .
+sw:vehicle-42  sw:pilot  sw:people-44 .
+sw:vehicle-42  sw:film  sw:film-4 .
+sw:vehicle-42  sw:created  "2014-12-20T10:09:56.095000Z"^^xs:dateTime .
+sw:vehicle-42  sw:edited  "2014-12-22T18:21:16.095041Z"^^xs:dateTime .
+sw:vehicle-42  sw:url  "http://swapi.co/api/vehicles/42/" .
+
+sw:vehicle-44  a  sw:Vehicle .
+sw:vehicle-44  rdfs:label  "Zephyr-G swoop bike" .
+sw:vehicle-44  sw:model  "Zephyr-G swoop bike" .
+sw:vehicle-44  sw:manufacturer  "Mobquet Swoops and Speeders" .
+sw:vehicle-44  sw:cost_in_credits  5750 .
+sw:vehicle-44  sw:length  3.68 .
+sw:vehicle-44  sw:max_atmosphering_speed  350 .
+sw:vehicle-44  sw:crew  1 .
+sw:vehicle-44  sw:passengers  1 .
+sw:vehicle-44  sw:cargo_capacity  200 .
+sw:vehicle-44  sw:consumables  "none" .
+sw:vehicle-44  sw:vehicle_class  "repulsorcraft" .
+sw:vehicle-44  sw:pilot  sw:people-11 .
+sw:vehicle-44  sw:film  sw:film-5 .
+sw:vehicle-44  sw:created  "2014-12-20T16:24:16.026000Z"^^xs:dateTime .
+sw:vehicle-44  sw:edited  "2014-12-22T18:21:16.117652Z"^^xs:dateTime .
+sw:vehicle-44  sw:url  "http://swapi.co/api/vehicles/44/" .
+
+sw:vehicle-45  a  sw:Vehicle .
+sw:vehicle-45  rdfs:label  "Koro-2 Exodrive airspeeder" .
+sw:vehicle-45  sw:model  "Koro-2 Exodrive airspeeder" .
+sw:vehicle-45  sw:manufacturer  "Desler Gizh Outworld Mobility Corporation" .
+sw:vehicle-45  sw:length  6.6 .
+sw:vehicle-45  sw:max_atmosphering_speed  800 .
+sw:vehicle-45  sw:crew  1 .
+sw:vehicle-45  sw:passengers  1 .
+sw:vehicle-45  sw:cargo_capacity  80 .
+sw:vehicle-45  sw:vehicle_class  "airspeeder" .
+sw:vehicle-45  sw:pilot  sw:people-70 .
+sw:vehicle-45  sw:film  sw:film-5 .
+sw:vehicle-45  sw:created  "2014-12-20T17:17:33.526000Z"^^xs:dateTime .
+sw:vehicle-45  sw:edited  "2014-12-22T18:21:16.140018Z"^^xs:dateTime .
+sw:vehicle-45  sw:url  "http://swapi.co/api/vehicles/45/" .
+
+sw:vehicle-46  a  sw:Vehicle .
+sw:vehicle-46  rdfs:label  "XJ-6 airspeeder" .
+sw:vehicle-46  sw:model  "XJ-6 airspeeder" .
+sw:vehicle-46  sw:manufacturer  "Narglatch AirTech prefabricated kit" .
+sw:vehicle-46  sw:length  6.23 .
+sw:vehicle-46  sw:max_atmosphering_speed  720 .
+sw:vehicle-46  sw:crew  1 .
+sw:vehicle-46  sw:passengers  1 .
+sw:vehicle-46  sw:vehicle_class  "airspeeder" .
+sw:vehicle-46  sw:pilot  sw:people-11 .
+sw:vehicle-46  sw:film  sw:film-5 .
+sw:vehicle-46  sw:created  "2014-12-20T17:19:19.991000Z"^^xs:dateTime .
+sw:vehicle-46  sw:edited  "2014-12-22T18:21:16.150194Z"^^xs:dateTime .
+sw:vehicle-46  sw:url  "http://swapi.co/api/vehicles/46/" .
+
+sw:vehicle-50  a  sw:Vehicle .
+sw:vehicle-50  rdfs:label  "LAAT/i" .
+sw:vehicle-50  sw:model  "Low Altitude Assault Transport/infrantry" .
+sw:vehicle-50  sw:manufacturer  "Rothana Heavy Engineering" .
+sw:vehicle-50  sw:length  17.4 .
+sw:vehicle-50  sw:max_atmosphering_speed  620 .
+sw:vehicle-50  sw:crew  6 .
+sw:vehicle-50  sw:passengers  30 .
+sw:vehicle-50  sw:cargo_capacity  170 .
+sw:vehicle-50  sw:vehicle_class  "gunship" .
+sw:vehicle-50  sw:film  sw:film-5 .
+sw:vehicle-50  sw:film  sw:film-6 .
+sw:vehicle-50  sw:created  "2014-12-20T18:01:21.014000Z"^^xs:dateTime .
+sw:vehicle-50  sw:edited  "2014-12-22T18:21:16.181363Z"^^xs:dateTime .
+sw:vehicle-50  sw:url  "http://swapi.co/api/vehicles/50/" .
+
+sw:vehicle-51  a  sw:Vehicle .
+sw:vehicle-51  rdfs:label  "LAAT/c" .
+sw:vehicle-51  sw:model  "Low Altitude Assault Transport/carrier" .
+sw:vehicle-51  sw:manufacturer  "Rothana Heavy Engineering" .
+sw:vehicle-51  sw:length  28.82 .
+sw:vehicle-51  sw:max_atmosphering_speed  620 .
+sw:vehicle-51  sw:crew  1 .
+sw:vehicle-51  sw:passengers  0 .
+sw:vehicle-51  sw:cargo_capacity  40000 .
+sw:vehicle-51  sw:vehicle_class  "gunship" .
+sw:vehicle-51  sw:film  sw:film-5 .
+sw:vehicle-51  sw:created  "2014-12-20T18:02:46.802000Z"^^xs:dateTime .
+sw:vehicle-51  sw:edited  "2014-12-22T18:21:16.229733Z"^^xs:dateTime .
+sw:vehicle-51  sw:url  "http://swapi.co/api/vehicles/51/" .
+
+sw:vehicle-60  a  sw:Vehicle .
+sw:vehicle-60  rdfs:label  "Tsmeu-6 personal wheel bike" .
+sw:vehicle-60  sw:model  "Tsmeu-6 personal wheel bike" .
+sw:vehicle-60  sw:manufacturer  "Z-Gomot Ternbuell Guppat Corporation" .
+sw:vehicle-60  sw:cost_in_credits  15000 .
+sw:vehicle-60  sw:length  3.5 .
+sw:vehicle-60  sw:max_atmosphering_speed  330 .
+sw:vehicle-60  sw:crew  1 .
+sw:vehicle-60  sw:passengers  1 .
+sw:vehicle-60  sw:cargo_capacity  10 .
+sw:vehicle-60  sw:consumables  "none" .
+sw:vehicle-60  sw:vehicle_class  "wheeled walker" .
+sw:vehicle-60  sw:pilot  sw:people-79 .
+sw:vehicle-60  sw:film  sw:film-6 .
+sw:vehicle-60  sw:created  "2014-12-20T19:43:54.870000Z"^^xs:dateTime .
+sw:vehicle-60  sw:edited  "2014-12-22T18:21:16.422662Z"^^xs:dateTime .
+sw:vehicle-60  sw:url  "http://swapi.co/api/vehicles/60/" .
+
+sw:vehicle-62  a  sw:Vehicle .
+sw:vehicle-62  rdfs:label  "Emergency Firespeeder" .
+sw:vehicle-62  sw:model  "Fire suppression speeder" .
+sw:vehicle-62  sw:crew  2 .
+sw:vehicle-62  sw:vehicle_class  "fire suppression ship" .
+sw:vehicle-62  sw:film  sw:film-6 .
+sw:vehicle-62  sw:created  "2014-12-20T19:50:58.559000Z"^^xs:dateTime .
+sw:vehicle-62  sw:edited  "2014-12-22T18:21:16.450655Z"^^xs:dateTime .
+sw:vehicle-62  sw:url  "http://swapi.co/api/vehicles/62/" .
+
+sw:vehicle-67  a  sw:Vehicle .
+sw:vehicle-67  rdfs:label  "Droid tri-fighter" .
+sw:vehicle-67  sw:model  "tri-fighter" .
+sw:vehicle-67  sw:manufacturer  "Colla Designs, Phlac-Arphocc Automata Industries" .
+sw:vehicle-67  sw:cost_in_credits  20000 .
+sw:vehicle-67  sw:length  5.4 .
+sw:vehicle-67  sw:max_atmosphering_speed  1180 .
+sw:vehicle-67  sw:crew  1 .
+sw:vehicle-67  sw:passengers  0 .
+sw:vehicle-67  sw:cargo_capacity  0 .
+sw:vehicle-67  sw:consumables  "none" .
+sw:vehicle-67  sw:vehicle_class  "droid starfighter" .
+sw:vehicle-67  sw:film  sw:film-6 .
+sw:vehicle-67  sw:created  "2014-12-20T20:05:19.992000Z"^^xs:dateTime .
+sw:vehicle-67  sw:edited  "2014-12-22T18:21:16.478901Z"^^xs:dateTime .
+sw:vehicle-67  sw:url  "http://swapi.co/api/vehicles/67/" .
+
+sw:vehicle-69  a  sw:Vehicle .
+sw:vehicle-69  rdfs:label  "Oevvaor jet catamaran" .
+sw:vehicle-69  sw:model  "Oevvaor jet catamaran" .
+sw:vehicle-69  sw:manufacturer  "Appazanna Engineering Works" .
+sw:vehicle-69  sw:cost_in_credits  12125 .
+sw:vehicle-69  sw:length  15.1 .
+sw:vehicle-69  sw:max_atmosphering_speed  420 .
+sw:vehicle-69  sw:crew  2 .
+sw:vehicle-69  sw:passengers  2 .
+sw:vehicle-69  sw:cargo_capacity  50 .
+sw:vehicle-69  sw:consumables  "3 days" .
+sw:vehicle-69  sw:vehicle_class  "airspeeder" .
+sw:vehicle-69  sw:film  sw:film-6 .
+sw:vehicle-69  sw:created  "2014-12-20T20:20:53.931000Z"^^xs:dateTime .
+sw:vehicle-69  sw:edited  "2014-12-22T18:21:16.517049Z"^^xs:dateTime .
+sw:vehicle-69  sw:url  "http://swapi.co/api/vehicles/69/" .
+
+sw:vehicle-70  a  sw:Vehicle .
+sw:vehicle-70  rdfs:label  "Raddaugh Gnasp fluttercraft" .
+sw:vehicle-70  sw:model  "Raddaugh Gnasp fluttercraft" .
+sw:vehicle-70  sw:manufacturer  "Appazanna Engineering Works" .
+sw:vehicle-70  sw:cost_in_credits  14750 .
+sw:vehicle-70  sw:length  7 .
+sw:vehicle-70  sw:max_atmosphering_speed  310 .
+sw:vehicle-70  sw:crew  2 .
+sw:vehicle-70  sw:passengers  0 .
+sw:vehicle-70  sw:cargo_capacity  20 .
+sw:vehicle-70  sw:consumables  "none" .
+sw:vehicle-70  sw:vehicle_class  "air speeder" .
+sw:vehicle-70  sw:film  sw:film-6 .
+sw:vehicle-70  sw:created  "2014-12-20T20:21:55.648000Z"^^xs:dateTime .
+sw:vehicle-70  sw:edited  "2014-12-22T18:21:16.547708Z"^^xs:dateTime .
+sw:vehicle-70  sw:url  "http://swapi.co/api/vehicles/70/" .
+
+sw:vehicle-71  a  sw:Vehicle .
+sw:vehicle-71  rdfs:label  "Clone turbo tank" .
+sw:vehicle-71  sw:model  "HAVw A6 Juggernaut" .
+sw:vehicle-71  sw:manufacturer  "Kuat Drive Yards" .
+sw:vehicle-71  sw:cost_in_credits  350000 .
+sw:vehicle-71  sw:length  49.4 .
+sw:vehicle-71  sw:max_atmosphering_speed  160 .
+sw:vehicle-71  sw:crew  20 .
+sw:vehicle-71  sw:passengers  300 .
+sw:vehicle-71  sw:cargo_capacity  30000 .
+sw:vehicle-71  sw:consumables  "20 days" .
+sw:vehicle-71  sw:vehicle_class  "wheeled walker" .
+sw:vehicle-71  sw:film  sw:film-6 .
+sw:vehicle-71  sw:created  "2014-12-20T20:24:45.587000Z"^^xs:dateTime .
+sw:vehicle-71  sw:edited  "2014-12-22T18:21:16.571079Z"^^xs:dateTime .
+sw:vehicle-71  sw:url  "http://swapi.co/api/vehicles/71/" .
+
+sw:vehicle-72  a  sw:Vehicle .
+sw:vehicle-72  rdfs:label  "Corporate Alliance tank droid" .
+sw:vehicle-72  sw:model  "NR-N99 Persuader-class droid enforcer" .
+sw:vehicle-72  sw:manufacturer  "Techno Union" .
+sw:vehicle-72  sw:cost_in_credits  49000 .
+sw:vehicle-72  sw:length  10.96 .
+sw:vehicle-72  sw:max_atmosphering_speed  100 .
+sw:vehicle-72  sw:crew  0 .
+sw:vehicle-72  sw:passengers  4 .
+sw:vehicle-72  sw:cargo_capacity  "none" .
+sw:vehicle-72  sw:consumables  "none" .
+sw:vehicle-72  sw:vehicle_class  "droid tank" .
+sw:vehicle-72  sw:film  sw:film-6 .
+sw:vehicle-72  sw:created  "2014-12-20T20:26:55.522000Z"^^xs:dateTime .
+sw:vehicle-72  sw:edited  "2014-12-22T18:21:16.612902Z"^^xs:dateTime .
+sw:vehicle-72  sw:url  "http://swapi.co/api/vehicles/72/" .
+
+sw:vehicle-73  a  sw:Vehicle .
+sw:vehicle-73  rdfs:label  "Droid gunship" .
+sw:vehicle-73  sw:model  "HMP droid gunship" .
+sw:vehicle-73  sw:manufacturer  "Baktoid Fleet Ordnance, Haor Chall Engineering" .
+sw:vehicle-73  sw:cost_in_credits  60000 .
+sw:vehicle-73  sw:length  12.3 .
+sw:vehicle-73  sw:max_atmosphering_speed  820 .
+sw:vehicle-73  sw:crew  0 .
+sw:vehicle-73  sw:passengers  0 .
+sw:vehicle-73  sw:cargo_capacity  0 .
+sw:vehicle-73  sw:consumables  "none" .
+sw:vehicle-73  sw:vehicle_class  "airspeeder" .
+sw:vehicle-73  sw:film  sw:film-6 .
+sw:vehicle-73  sw:created  "2014-12-20T20:32:05.687000Z"^^xs:dateTime .
+sw:vehicle-73  sw:edited  "2014-12-22T18:21:16.643329Z"^^xs:dateTime .
+sw:vehicle-73  sw:url  "http://swapi.co/api/vehicles/73/" .
+
+sw:vehicle-76  a  sw:Vehicle .
+sw:vehicle-76  rdfs:label  "AT-RT" .
+sw:vehicle-76  sw:model  "All Terrain Recon Transport" .
+sw:vehicle-76  sw:manufacturer  "Kuat Drive Yards" .
+sw:vehicle-76  sw:cost_in_credits  40000 .
+sw:vehicle-76  sw:length  3.2 .
+sw:vehicle-76  sw:max_atmosphering_speed  90 .
+sw:vehicle-76  sw:crew  1 .
+sw:vehicle-76  sw:passengers  0 .
+sw:vehicle-76  sw:cargo_capacity  20 .
+sw:vehicle-76  sw:consumables  "1 day" .
+sw:vehicle-76  sw:vehicle_class  "walker" .
+sw:vehicle-76  sw:film  sw:film-6 .
+sw:vehicle-76  sw:created  "2014-12-20T20:47:49.189000Z"^^xs:dateTime .
+sw:vehicle-76  sw:edited  "2014-12-22T18:21:16.672821Z"^^xs:dateTime .
+sw:vehicle-76  sw:url  "http://swapi.co/api/vehicles/76/" .
+sw:vehicle-76  sw:desc  "Walkers are vehicles from the Star Wars universe that traverse the landscape on mechanical legs. They are used by the Old Republic and the Galactic Empire for ground assault or transport. Throughout the saga, walkers have played a pivotal role in the fate of characters and the outcome of battles. Industrial Light and Magic (ILM) is responsible for their animation and design, often using models, stop-motion animation, and relevant matte paintings to depict their presence in the films." .
+sw:vehicle-76  sw:desc  "There are a variety of walkers: The Empire Strikes Back introduces the All Terrain Armored Transport (AT-AT) and All Terrain Scout Transport (AT-ST). Star Wars: Episode II – Attack of the Clones and Star Wars: Episode III – Revenge of the Sith introduced earlier models of walkers, such as the AT-TE, and the Star Wars expanded universe features numerous others. Walker variants have been merchandised and featured in popular culture." .
+
+sw:vehicle-53  a  sw:Vehicle .
+sw:vehicle-53  rdfs:label  "AT-TE" .
+sw:vehicle-53  sw:model  "All Terrain Tactical Enforcer" .
+sw:vehicle-53  sw:manufacturer  "Rothana Heavy Engineering, Kuat Drive Yards" .
+sw:vehicle-53  sw:length  13.2 .
+sw:vehicle-53  sw:max_atmosphering_speed  60 .
+sw:vehicle-53  sw:crew  6 .
+sw:vehicle-53  sw:passengers  36 .
+sw:vehicle-53  sw:cargo_capacity  10000 .
+sw:vehicle-53  sw:consumables  "21 days" .
+sw:vehicle-53  sw:vehicle_class  "walker" .
+sw:vehicle-53  sw:film  sw:film-5 .
+sw:vehicle-53  sw:film  sw:film-6 .
+sw:vehicle-53  sw:created  "2014-12-20T18:10:07.560000Z"^^xs:dateTime .
+sw:vehicle-53  sw:edited  "2014-12-22T18:21:16.293771Z"^^xs:dateTime .
+sw:vehicle-53  sw:url  "http://swapi.co/api/vehicles/53/" .
+sw:vehicle-53  sw:desc  "Walkers are vehicles from the Star Wars universe that traverse the landscape on mechanical legs. They are used by the Old Republic and the Galactic Empire for ground assault or transport. Throughout the saga, walkers have played a pivotal role in the fate of characters and the outcome of battles. Industrial Light and Magic (ILM) is responsible for their animation and design, often using models, stop-motion animation, and relevant matte paintings to depict their presence in the films." .
+sw:vehicle-53  sw:desc  "There are a variety of walkers: The Empire Strikes Back introduces the All Terrain Armored Transport (AT-AT) and All Terrain Scout Transport (AT-ST). Star Wars: Episode II – Attack of the Clones and Star Wars: Episode III – Revenge of the Sith introduced earlier models of walkers, such as the AT-TE, and the Star Wars expanded universe features numerous others. Walker variants have been merchandised and featured in popular culture." .
+
+sw:vehicle-54  a  sw:Vehicle .
+sw:vehicle-54  rdfs:label  "SPHA" .
+sw:vehicle-54  sw:model  "Self-Propelled Heavy Artillery" .
+sw:vehicle-54  sw:manufacturer  "Rothana Heavy Engineering" .
+sw:vehicle-54  sw:length  140 .
+sw:vehicle-54  sw:max_atmosphering_speed  35 .
+sw:vehicle-54  sw:crew  25 .
+sw:vehicle-54  sw:passengers  30 .
+sw:vehicle-54  sw:cargo_capacity  500 .
+sw:vehicle-54  sw:consumables  "7 days" .
+sw:vehicle-54  sw:vehicle_class  "walker" .
+sw:vehicle-54  sw:film  sw:film-5 .
+sw:vehicle-54  sw:created  "2014-12-20T18:12:32.315000Z"^^xs:dateTime .
+sw:vehicle-54  sw:edited  "2014-12-22T18:21:16.311761Z"^^xs:dateTime .
+sw:vehicle-54  sw:url  "http://swapi.co/api/vehicles/54/" .
+
+sw:vehicle-55  a  sw:Vehicle .
+sw:vehicle-55  rdfs:label  "Flitknot speeder" .
+sw:vehicle-55  sw:model  "Flitknot speeder" .
+sw:vehicle-55  sw:manufacturer  "Huppla Pasa Tisc Shipwrights Collective" .
+sw:vehicle-55  sw:cost_in_credits  8000 .
+sw:vehicle-55  sw:length  2 .
+sw:vehicle-55  sw:max_atmosphering_speed  634 .
+sw:vehicle-55  sw:crew  1 .
+sw:vehicle-55  sw:passengers  0 .
+sw:vehicle-55  sw:vehicle_class  "speeder" .
+sw:vehicle-55  sw:pilot  sw:people-67 .
+sw:vehicle-55  sw:film  sw:film-5 .
+sw:vehicle-55  sw:created  "2014-12-20T18:15:20.312000Z"^^xs:dateTime .
+sw:vehicle-55  sw:edited  "2014-12-22T18:21:16.335005Z"^^xs:dateTime .
+sw:vehicle-55  sw:url  "http://swapi.co/api/vehicles/55/" .
+
+sw:vehicle-56  a  sw:Vehicle .
+sw:vehicle-56  rdfs:label  "Neimoidian shuttle" .
+sw:vehicle-56  sw:model  "Sheathipede-class transport shuttle" .
+sw:vehicle-56  sw:manufacturer  "Haor Chall Engineering" .
+sw:vehicle-56  sw:length  20 .
+sw:vehicle-56  sw:max_atmosphering_speed  880 .
+sw:vehicle-56  sw:crew  2 .
+sw:vehicle-56  sw:passengers  6 .
+sw:vehicle-56  sw:cargo_capacity  1000 .
+sw:vehicle-56  sw:consumables  "7 days" .
+sw:vehicle-56  sw:vehicle_class  "transport" .
+sw:vehicle-56  sw:film  sw:film-5 .
+sw:vehicle-56  sw:film  sw:film-6 .
+sw:vehicle-56  sw:created  "2014-12-20T18:25:44.912000Z"^^xs:dateTime .
+sw:vehicle-56  sw:edited  "2014-12-22T18:21:16.366134Z"^^xs:dateTime .
+sw:vehicle-56  sw:url  "http://swapi.co/api/vehicles/56/" .
+
+sw:vehicle-57  a  sw:Vehicle .
+sw:vehicle-57  rdfs:label  "Geonosian starfighter" .
+sw:vehicle-57  sw:model  "Nantex-class territorial defense" .
+sw:vehicle-57  sw:manufacturer  "Huppla Pasa Tisc Shipwrights Collective" .
+sw:vehicle-57  sw:length  9.8 .
+sw:vehicle-57  sw:max_atmosphering_speed  20000 .
+sw:vehicle-57  sw:crew  1 .
+sw:vehicle-57  sw:passengers  0 .
+sw:vehicle-57  sw:vehicle_class  "starfighter" .
+sw:vehicle-57  sw:film  sw:film-5 .
+sw:vehicle-57  sw:created  "2014-12-20T18:34:12.541000Z"^^xs:dateTime .
+sw:vehicle-57  sw:edited  "2014-12-22T18:21:16.390980Z"^^xs:dateTime .
+sw:vehicle-57  sw:url  "http://swapi.co/api/vehicles/57/" .
 
