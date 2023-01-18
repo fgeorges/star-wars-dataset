@@ -6,16 +6,17 @@
 // Transform the enriched data file to several XML files.
 // ---------------------------------------------------------------------------
 
-const fs = require('fs');
+const fs          = require('fs');
+const {stringify} = require('csv-stringify/sync');
 
 // the input file with the entities
+const CSVDIR    = './csv/';
 const JSONDIR   = './json/';
 const MLSEMDIR  = './mlsem/';
 const TTLDIR    = './ttl/';
+const SINGLETTL = TTLDIR + 'star-wars-dataset.ttl';
 const XMLDIR    = './xml/';
-const DATADIR   = './data/';
-const SINGLETTL = DATADIR + 'star-wars-dataset.ttl';
-const INFILE    = DATADIR + 'enriched.json';
+const INFILE    = './data/enriched.json';
 const DATA      = JSON.parse(fs.readFileSync(INFILE, 'utf-8'));
 
 // turn a string into yellow (for the interactive console)
@@ -188,7 +189,7 @@ function elem(file, name, content)
     fs.writeSync(file, '   <' + name + '>' + content + '</' + name + '>\n');
 }
 
-function writeEntity(entity, dir, root, singlettl)
+function writeEntity(entity, dir, root, singlettl, csv, rels)
 {
     const num  = entity.url.split('/').slice(-2)[0];
     const rsrc = root + '-' + num;
@@ -208,6 +209,7 @@ function writeEntity(entity, dir, root, singlettl)
     fs.writeSync(ttl,       `sw:${rsrc}  a  sw:${clazz} .\n`);
     fs.writeSync(singlettl, `sw:${rsrc}  a  sw:${clazz} .\n`);
     fs.writeSync(xml,   '<' + root + ' xmlns="http://h2o.consulting/ns/star-wars">\n');
+    const row   = [];
     const props = Object.keys(entity);
     props.forEach((prop, i) => {
         const val  = entity[prop];
@@ -219,24 +221,34 @@ function writeEntity(entity, dir, root, singlettl)
             endProp(json, i, props.length);
             triple(mlsem, ttl, singlettl, rsrc, prop, val, type);
             elem(xml, prop, val);
+            if ( ! rels.includes(prop) ) {
+                row.push(val);
+            }
         }
         else if ( type === 'number' ) {
             number(json, prop, val);
             endProp(json, i, props.length);
             triple(mlsem, ttl, singlettl, rsrc, prop, val, type);
             elem(xml, prop, val);
+            if ( ! rels.includes(prop) ) {
+                row.push(val);
+            }
         }
         else if ( Array.isArray(val) ) {
             array(json, prop, val);
             endProp(json, i, props.length);
             val.forEach(v => triple(mlsem, ttl, singlettl, rsrc, prop, v, type));
             val.forEach(v => elem(xml, prop, v));
+            if ( ! rels.includes(prop) ) {
+                row.push(val.join('\n\n'));
+            }
         }
         else {
             const str = JSON.stringify(entity);
             throw new Error(`Unknown type ${type} for ${prop} in ${str}`);
         }
     });
+    fs.writeSync(csv, stringify([row]));
     fs.writeSync(json,      '}}\n');
     fs.writeSync(mlsem,     '</triples>\n');
     fs.writeSync(xml,       '</' + root + '>\n');
@@ -244,12 +256,12 @@ function writeEntity(entity, dir, root, singlettl)
 }
 
 const sections = [
-    [ 'people',    'people'   ],
-    [ 'planets',   'planet'   ],
-    [ 'films',     'film'     ],
-    [ 'species',   'species'  ],
-    [ 'vehicles',  'vehicle'  ],
-    [ 'starships', 'starship' ]
+    [ 'films',     'film',     ['characters', 'planets', 'starships', 'vehicles', 'species'] ],
+    [ 'people',    'people',   ['films', 'species', 'vehicles', 'starships'] ],
+    [ 'planets',   'planet',   ['residents', 'films'] ],
+    [ 'species',   'species',  ['people', 'films'] ],
+    [ 'starships', 'starship', ['pilots', 'films'] ],
+    [ 'vehicles',  'vehicle',  ['pilots', 'films'] ],
 ];
 
 const singlettl = fs.openSync(SINGLETTL, 'w');
@@ -260,7 +272,21 @@ fs.writeSync(singlettl, '@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .\n\n
 sections.forEach(section => {
     const dir  = section[0];
     const root = section[1];
+    const rels = section[2];
+    const data = DATA[dir];
     console.warn('** ' + yellow(dir));
-    DATA[dir].forEach(entity => writeEntity(entity, dir, root, singlettl));
+    // prepare the CSV file
+    const csv = fs.openSync(CSVDIR + dir + '/' + dir + '.csv', 'w');
+    fs.writeSync(csv, stringify([Object.keys(data[0]).filter(k => ! rels.includes(k))]));
+    // write all entities of this section, all formats
+    data.forEach(entity => writeEntity(entity, dir, root, singlettl, csv, rels));
+    // write the CSV files for associations
+    for ( const rel of rels ) {
+        const csv = fs.openSync(CSVDIR + dir + '/' + dir + '-' + rel + '.csv', 'w');
+        fs.writeSync(csv, stringify([[root, rel]]));
+        data.forEach(entity => {
+            entity[rel].forEach(val => fs.writeSync(csv, stringify([[entity.url, val]])));
+        });
+    }
     console.warn();
 });

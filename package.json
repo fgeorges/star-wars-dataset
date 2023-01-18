@@ -5,6 +5,7 @@
     "author": "Florent Georges",
     "dependencies": {
         "cheerio": "latest",
+        "csv-stringify": "^6.2.3",
         "sync-request": "latest"
     }
 }
