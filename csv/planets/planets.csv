@@ -21,57 +21,57 @@ Coruscant,24,368,12240,temperate,1 standard,"cityscape, mountains",1000000000000
 Coruscant is, at various times, the capital of the Old Republic, the Galactic Empire, the New Republic, the Yuuzhan Vong Empire and the Galactic Alliance. Not only is Coruscant central to all these governing bodies, it is the navigational center of the galaxy, given that its hyperspace coordinates are (0,0,0). Due to its location and large population, roughly 2 trillion sentients, the galaxy's main trade routes — Perlemian Trade Route, Hydian Way, Corellian Run and Corellian Trade Spine — go through Coruscant, making it the richest and most influential world in the Star Wars galaxy. Coruscant is the sixth planet out of 11 planets in the Coruscant solar system, and has four moons; Centax-1, Centax-2, Centax-3, and Hesperidium.
 
 The Galactic Standard Calendar was the standard measurement of time in the Star Wars galaxy. It centered on the Coruscant tropical year. The Coruscant solar cycle was 368 days long; with a day consisting of 360 NET degrees (or 24 standard hours).[3] Numerous epochs were used to determine calendar eras. The most recent of these calendar eras used the Battle of Yavin (i.e. the destruction of the first Death Star) as its epoch, or ""year zero"": BBY (Before the Battle of Yavin), and ABY (After the Battle of Yavin).[4] The earliest date in the Star Wars expanded universe as a whole is 13,000,000,000 BBY, which serves as the year the universe was created."
-Kamino,27,463,19720,temperate,1 standard,ocean,100,1000000000,2014-12-10T12:45:06.577000Z,2014-12-20T20:58:18.434000Z,http://swapi.co/api/planets/10/
-Geonosis,30,256,11370,"temperate, arid",0.9 standard,"rock, desert, mountain, barren",5,100000000000,2014-12-10T12:47:22.350000Z,2014-12-20T20:58:18.437000Z,http://swapi.co/api/planets/11/
-Utapau,27,351,12900,"temperate, arid, windy",1 standard,"scrublands, savanna, canyons, sinkholes",0.9,95000000,2014-12-10T12:49:01.491000Z,2014-12-20T20:58:18.439000Z,http://swapi.co/api/planets/12/
-Mustafar,36,412,4200,hot,1 standard,"volcanoes, lava rivers, mountains, caves",0,20000,2014-12-10T12:50:16.526000Z,2014-12-20T20:58:18.440000Z,http://swapi.co/api/planets/13/
+Kamino,27,463,19720,temperate,1 standard,ocean,100,1000000000,2014-12-10T12:45:06.577000Z,2014-12-20T20:58:18.434000Z,http://swapi.co/api/planets/10/,
+Geonosis,30,256,11370,"temperate, arid",0.9 standard,"rock, desert, mountain, barren",5,100000000000,2014-12-10T12:47:22.350000Z,2014-12-20T20:58:18.437000Z,http://swapi.co/api/planets/11/,
+Utapau,27,351,12900,"temperate, arid, windy",1 standard,"scrublands, savanna, canyons, sinkholes",0.9,95000000,2014-12-10T12:49:01.491000Z,2014-12-20T20:58:18.439000Z,http://swapi.co/api/planets/12/,
+Mustafar,36,412,4200,hot,1 standard,"volcanoes, lava rivers, mountains, caves",0,20000,2014-12-10T12:50:16.526000Z,2014-12-20T20:58:18.440000Z,http://swapi.co/api/planets/13/,
 Kashyyyk,26,381,12765,tropical,1 standard,"jungle, forests, lakes, rivers",60,45000000,2014-12-10T13:32:00.124000Z,2014-12-20T20:58:18.442000Z,http://swapi.co/api/planets/14/,"Kashyyyk (/kəˈʃiːk/ ka-SHEEK, /ˈkæʃɪk/ KASH-ik or /ˌkæˈʃiː.aɪk/ ka-SHEE-ike), also known as Wookiee Planet C, is a fictional planet in the Star Wars universe. It is the tropical, forested home world of the Wookiees. According to interviews given by Star Wars creator George Lucas, the home of the Wookiees was originally intended to be the forest moon of Endor which plays a key role in the plot of the sixth film of the series, Return of the Jedi.[1] However, Lucas decided that since the Wookiee Chewbacca was clearly proficient with advanced technology (i.e. he was pilot and mechanic of the spaceship the Millennium Falcon and he repaired the damaged droid C-3PO), it would be confusing to show the Wookiees with a primitive, ""stone age"" culture on Endor. The Ewoks were created instead to populate the moon and to help fight the Imperial garrison stationed there.[2] Kashyyyk made appearances in the Star Wars Holiday Special and Star Wars: Episode III – Revenge of the Sith."
-Polis Massa,24,590,0,artificial temperate ,0.56 standard,airless asteroid,0,1000000,2014-12-10T13:33:46.405000Z,2014-12-20T20:58:18.444000Z,http://swapi.co/api/planets/15/
-Mygeeto,12,167,10088,frigid,1 standard,"glaciers, mountains, ice canyons",19000000,2014-12-10T13:43:39.139000Z,2014-12-20T20:58:18.446000Z,http://swapi.co/api/planets/16/
-Felucia,34,231,9100,"hot, humid",0.75 standard,fungus forests,8500000,2014-12-10T13:44:50.397000Z,2014-12-20T20:58:18.447000Z,http://swapi.co/api/planets/17/
-Cato Neimoidia,25,278,0,"temperate, moist",1 standard,"mountains, fields, forests, rock arches",10000000,2014-12-10T13:46:28.704000Z,2014-12-20T20:58:18.449000Z,http://swapi.co/api/planets/18/
-Saleucami,26,392,14920,hot,"caves, desert, mountains, volcanoes",1400000000,2014-12-10T13:47:46.874000Z,2014-12-20T20:58:18.450000Z,http://swapi.co/api/planets/19/
-Stewjon,0,temperate,1 standard,grass,2014-12-10T16:16:26.566000Z,2014-12-20T20:58:18.452000Z,http://swapi.co/api/planets/20/
-Eriadu,24,360,13490,polluted,1 standard,cityscape,22000000000,2014-12-10T16:26:54.384000Z,2014-12-20T20:58:18.454000Z,http://swapi.co/api/planets/21/
-Corellia,25,329,11000,temperate,1 standard,"plains, urban, hills, forests",70,3000000000,2014-12-10T16:49:12.453000Z,2014-12-20T20:58:18.456000Z,http://swapi.co/api/planets/22/
-Rodia,29,305,7549,hot,1 standard,"jungles, oceans, urban, swamps",60,1300000000,2014-12-10T17:03:28.110000Z,2014-12-20T20:58:18.458000Z,http://swapi.co/api/planets/23/
-Nal Hutta,87,413,12150,temperate,1 standard,"urban, oceans, swamps, bogs",7000000000,2014-12-10T17:11:29.452000Z,2014-12-20T20:58:18.460000Z,http://swapi.co/api/planets/24/
-Dantooine,25,378,9830,temperate,1 standard,"oceans, savannas, mountains, grasslands",1000,2014-12-10T17:23:29.896000Z,2014-12-20T20:58:18.461000Z,http://swapi.co/api/planets/25/
-Bestine IV,26,680,6400,temperate,"rocky islands, oceans",98,62000000,2014-12-12T11:16:55.078000Z,2014-12-20T20:58:18.463000Z,http://swapi.co/api/planets/26/
-Ord Mantell,26,334,14050,temperate,1 standard,"plains, seas, mesas",10,4000000000,2014-12-15T12:23:41.661000Z,2014-12-20T20:58:18.464000Z,http://swapi.co/api/planets/27/
-0,0,0,2014-12-15T12:25:59.569000Z,2014-12-20T20:58:18.466000Z,http://swapi.co/api/planets/28/
-Trandosha,25,371,0,arid,0.62 standard,"mountains, seas, grasslands, deserts",42000000,2014-12-15T12:53:47.695000Z,2014-12-20T20:58:18.468000Z,http://swapi.co/api/planets/29/
-Socorro,20,326,0,arid,1 standard,"deserts, mountains",300000000,2014-12-15T12:56:31.121000Z,2014-12-20T20:58:18.469000Z,http://swapi.co/api/planets/30/
-Mon Cala,21,398,11030,temperate,1,"oceans, reefs, islands",100,27000000000,2014-12-18T11:07:01.792000Z,2014-12-20T20:58:18.471000Z,http://swapi.co/api/planets/31/
-Chandrila,20,368,13500,temperate,1,"plains, forests",40,1200000000,2014-12-18T11:11:51.872000Z,2014-12-20T20:58:18.472000Z,http://swapi.co/api/planets/32/
-Sullust,20,263,12780,superheated,1,"mountains, volcanoes, rocky deserts",5,18500000000,2014-12-18T11:25:40.243000Z,2014-12-20T20:58:18.474000Z,http://swapi.co/api/planets/33/
-Toydaria,21,184,7900,temperate,1,"swamps, lakes",11000000,2014-12-19T17:47:54.403000Z,2014-12-20T20:58:18.476000Z,http://swapi.co/api/planets/34/
-Malastare,26,201,18880,"arid, temperate, tropical",1.56,"swamps, deserts, jungles, mountains",2000000000,2014-12-19T17:52:13.106000Z,2014-12-20T20:58:18.478000Z,http://swapi.co/api/planets/35/
-Dathomir,24,491,10480,temperate,0.9,"forests, deserts, savannas",5200,2014-12-19T18:00:40.142000Z,2014-12-20T20:58:18.480000Z,http://swapi.co/api/planets/36/
-Ryloth,30,305,10600,"temperate, arid, subartic",1,"mountains, valleys, deserts, tundra",5,1500000000,2014-12-20T09:46:25.740000Z,2014-12-20T20:58:18.481000Z,http://swapi.co/api/planets/37/
-Aleen Minor,2014-12-20T09:52:23.452000Z,2014-12-20T20:58:18.483000Z,http://swapi.co/api/planets/38/
-Vulpter,22,391,14900,"temperate, artic",1,"urban, barren",421000000,2014-12-20T09:56:58.874000Z,2014-12-20T20:58:18.485000Z,http://swapi.co/api/planets/39/
-Troiken,"desert, tundra, rainforests, mountains",2014-12-20T10:01:37.395000Z,2014-12-20T20:58:18.487000Z,http://swapi.co/api/planets/40/
-Tund,48,1770,12190,"barren, ash",0,2014-12-20T10:07:29.578000Z,2014-12-20T20:58:18.489000Z,http://swapi.co/api/planets/41/
-Haruun Kal,25,383,10120,temperate,0.98,"toxic cloudsea, plateaus, volcanoes",705300,2014-12-20T10:12:28.980000Z,2014-12-20T20:58:18.491000Z,http://swapi.co/api/planets/42/
-Cerea,27,386,temperate,1,verdant,20,450000000,2014-12-20T10:14:48.178000Z,2014-12-20T20:58:18.493000Z,http://swapi.co/api/planets/43/
-Glee Anselm,33,206,15600,"tropical, temperate",1,"lakes, islands, swamps, seas",80,500000000,2014-12-20T10:18:26.110000Z,2014-12-20T20:58:18.495000Z,http://swapi.co/api/planets/44/
-Iridonia,29,413,"rocky canyons, acid pools",2014-12-20T10:26:05.788000Z,2014-12-20T20:58:18.497000Z,http://swapi.co/api/planets/45/
-Tholoth,2014-12-20T10:28:31.117000Z,2014-12-20T20:58:18.498000Z,http://swapi.co/api/planets/46/
-Iktotch,22,481,"arid, rocky, windy",1,rocky,2014-12-20T10:31:32.413000Z,2014-12-20T20:58:18.500000Z,http://swapi.co/api/planets/47/
-Quermia,2014-12-20T10:34:08.249000Z,2014-12-20T20:58:18.502000Z,http://swapi.co/api/planets/48/
-Dorin,22,409,13400,temperate,1,2014-12-20T10:48:36.141000Z,2014-12-20T20:58:18.504000Z,http://swapi.co/api/planets/49/
-Champala,27,318,temperate,1,"oceans, rainforests, plateaus",3500000000,2014-12-20T10:52:51.524000Z,2014-12-20T20:58:18.506000Z,http://swapi.co/api/planets/50/
-Mirial,deserts,2014-12-20T16:44:46.318000Z,2014-12-20T20:58:18.508000Z,http://swapi.co/api/planets/51/
-Serenno,"rainforests, rivers, mountains",2014-12-20T16:52:13.357000Z,2014-12-20T20:58:18.510000Z,http://swapi.co/api/planets/52/
-Concord Dawn,"jungles, forests, deserts",2014-12-20T16:54:39.909000Z,2014-12-20T20:58:18.512000Z,http://swapi.co/api/planets/53/
-Zolan,2014-12-20T16:56:37.250000Z,2014-12-20T20:58:18.514000Z,http://swapi.co/api/planets/54/
-Ojom,frigid,"oceans, glaciers",100,500000000,2014-12-20T17:27:41.286000Z,2014-12-20T20:58:18.516000Z,http://swapi.co/api/planets/55/
-Skako,27,384,temperate,1,"urban, vines",500000000000,2014-12-20T17:50:47.864000Z,2014-12-20T20:58:18.517000Z,http://swapi.co/api/planets/56/
-Muunilinst,28,412,13800,temperate,1,"plains, forests, hills, mountains",25,5000000000,2014-12-20T17:57:47.420000Z,2014-12-20T20:58:18.519000Z,http://swapi.co/api/planets/57/
-Shili,temperate,1,"cities, savannahs, seas, plains",2014-12-20T18:43:14.049000Z,2014-12-20T20:58:18.521000Z,http://swapi.co/api/planets/58/
-Kalee,23,378,13850,"arid, temperate, tropical",1,"rainforests, cliffs, canyons, seas",4000000000,2014-12-20T19:43:51.278000Z,2014-12-20T20:58:18.523000Z,http://swapi.co/api/planets/59/
-Umbara,2014-12-20T20:18:36.256000Z,2014-12-20T20:58:18.525000Z,http://swapi.co/api/planets/60/
+Polis Massa,24,590,0,artificial temperate ,0.56 standard,airless asteroid,0,1000000,2014-12-10T13:33:46.405000Z,2014-12-20T20:58:18.444000Z,http://swapi.co/api/planets/15/,
+Mygeeto,12,167,10088,frigid,1 standard,"glaciers, mountains, ice canyons",19000000,2014-12-10T13:43:39.139000Z,2014-12-20T20:58:18.446000Z,http://swapi.co/api/planets/16/,
+Felucia,34,231,9100,"hot, humid",0.75 standard,fungus forests,8500000,2014-12-10T13:44:50.397000Z,2014-12-20T20:58:18.447000Z,http://swapi.co/api/planets/17/,
+Cato Neimoidia,25,278,0,"temperate, moist",1 standard,"mountains, fields, forests, rock arches",10000000,2014-12-10T13:46:28.704000Z,2014-12-20T20:58:18.449000Z,http://swapi.co/api/planets/18/,
+Saleucami,26,392,14920,hot,"caves, desert, mountains, volcanoes",1400000000,2014-12-10T13:47:46.874000Z,2014-12-20T20:58:18.450000Z,http://swapi.co/api/planets/19/,
+Stewjon,0,temperate,1 standard,grass,2014-12-10T16:16:26.566000Z,2014-12-20T20:58:18.452000Z,http://swapi.co/api/planets/20/,
+Eriadu,24,360,13490,polluted,1 standard,cityscape,22000000000,2014-12-10T16:26:54.384000Z,2014-12-20T20:58:18.454000Z,http://swapi.co/api/planets/21/,
+Corellia,25,329,11000,temperate,1 standard,"plains, urban, hills, forests",70,3000000000,2014-12-10T16:49:12.453000Z,2014-12-20T20:58:18.456000Z,http://swapi.co/api/planets/22/,
+Rodia,29,305,7549,hot,1 standard,"jungles, oceans, urban, swamps",60,1300000000,2014-12-10T17:03:28.110000Z,2014-12-20T20:58:18.458000Z,http://swapi.co/api/planets/23/,
+Nal Hutta,87,413,12150,temperate,1 standard,"urban, oceans, swamps, bogs",7000000000,2014-12-10T17:11:29.452000Z,2014-12-20T20:58:18.460000Z,http://swapi.co/api/planets/24/,
+Dantooine,25,378,9830,temperate,1 standard,"oceans, savannas, mountains, grasslands",1000,2014-12-10T17:23:29.896000Z,2014-12-20T20:58:18.461000Z,http://swapi.co/api/planets/25/,
+Bestine IV,26,680,6400,temperate,"rocky islands, oceans",98,62000000,2014-12-12T11:16:55.078000Z,2014-12-20T20:58:18.463000Z,http://swapi.co/api/planets/26/,
+Ord Mantell,26,334,14050,temperate,1 standard,"plains, seas, mesas",10,4000000000,2014-12-15T12:23:41.661000Z,2014-12-20T20:58:18.464000Z,http://swapi.co/api/planets/27/,
+0,0,0,2014-12-15T12:25:59.569000Z,2014-12-20T20:58:18.466000Z,http://swapi.co/api/planets/28/,
+Trandosha,25,371,0,arid,0.62 standard,"mountains, seas, grasslands, deserts",42000000,2014-12-15T12:53:47.695000Z,2014-12-20T20:58:18.468000Z,http://swapi.co/api/planets/29/,
+Socorro,20,326,0,arid,1 standard,"deserts, mountains",300000000,2014-12-15T12:56:31.121000Z,2014-12-20T20:58:18.469000Z,http://swapi.co/api/planets/30/,
+Mon Cala,21,398,11030,temperate,1,"oceans, reefs, islands",100,27000000000,2014-12-18T11:07:01.792000Z,2014-12-20T20:58:18.471000Z,http://swapi.co/api/planets/31/,
+Chandrila,20,368,13500,temperate,1,"plains, forests",40,1200000000,2014-12-18T11:11:51.872000Z,2014-12-20T20:58:18.472000Z,http://swapi.co/api/planets/32/,
+Sullust,20,263,12780,superheated,1,"mountains, volcanoes, rocky deserts",5,18500000000,2014-12-18T11:25:40.243000Z,2014-12-20T20:58:18.474000Z,http://swapi.co/api/planets/33/,
+Toydaria,21,184,7900,temperate,1,"swamps, lakes",11000000,2014-12-19T17:47:54.403000Z,2014-12-20T20:58:18.476000Z,http://swapi.co/api/planets/34/,
+Malastare,26,201,18880,"arid, temperate, tropical",1.56,"swamps, deserts, jungles, mountains",2000000000,2014-12-19T17:52:13.106000Z,2014-12-20T20:58:18.478000Z,http://swapi.co/api/planets/35/,
+Dathomir,24,491,10480,temperate,0.9,"forests, deserts, savannas",5200,2014-12-19T18:00:40.142000Z,2014-12-20T20:58:18.480000Z,http://swapi.co/api/planets/36/,
+Ryloth,30,305,10600,"temperate, arid, subartic",1,"mountains, valleys, deserts, tundra",5,1500000000,2014-12-20T09:46:25.740000Z,2014-12-20T20:58:18.481000Z,http://swapi.co/api/planets/37/,
+Aleen Minor,2014-12-20T09:52:23.452000Z,2014-12-20T20:58:18.483000Z,http://swapi.co/api/planets/38/,
+Vulpter,22,391,14900,"temperate, artic",1,"urban, barren",421000000,2014-12-20T09:56:58.874000Z,2014-12-20T20:58:18.485000Z,http://swapi.co/api/planets/39/,
+Troiken,"desert, tundra, rainforests, mountains",2014-12-20T10:01:37.395000Z,2014-12-20T20:58:18.487000Z,http://swapi.co/api/planets/40/,
+Tund,48,1770,12190,"barren, ash",0,2014-12-20T10:07:29.578000Z,2014-12-20T20:58:18.489000Z,http://swapi.co/api/planets/41/,
+Haruun Kal,25,383,10120,temperate,0.98,"toxic cloudsea, plateaus, volcanoes",705300,2014-12-20T10:12:28.980000Z,2014-12-20T20:58:18.491000Z,http://swapi.co/api/planets/42/,
+Cerea,27,386,temperate,1,verdant,20,450000000,2014-12-20T10:14:48.178000Z,2014-12-20T20:58:18.493000Z,http://swapi.co/api/planets/43/,
+Glee Anselm,33,206,15600,"tropical, temperate",1,"lakes, islands, swamps, seas",80,500000000,2014-12-20T10:18:26.110000Z,2014-12-20T20:58:18.495000Z,http://swapi.co/api/planets/44/,
+Iridonia,29,413,"rocky canyons, acid pools",2014-12-20T10:26:05.788000Z,2014-12-20T20:58:18.497000Z,http://swapi.co/api/planets/45/,
+Tholoth,2014-12-20T10:28:31.117000Z,2014-12-20T20:58:18.498000Z,http://swapi.co/api/planets/46/,
+Iktotch,22,481,"arid, rocky, windy",1,rocky,2014-12-20T10:31:32.413000Z,2014-12-20T20:58:18.500000Z,http://swapi.co/api/planets/47/,
+Quermia,2014-12-20T10:34:08.249000Z,2014-12-20T20:58:18.502000Z,http://swapi.co/api/planets/48/,
+Dorin,22,409,13400,temperate,1,2014-12-20T10:48:36.141000Z,2014-12-20T20:58:18.504000Z,http://swapi.co/api/planets/49/,
+Champala,27,318,temperate,1,"oceans, rainforests, plateaus",3500000000,2014-12-20T10:52:51.524000Z,2014-12-20T20:58:18.506000Z,http://swapi.co/api/planets/50/,
+Mirial,deserts,2014-12-20T16:44:46.318000Z,2014-12-20T20:58:18.508000Z,http://swapi.co/api/planets/51/,
+Serenno,"rainforests, rivers, mountains",2014-12-20T16:52:13.357000Z,2014-12-20T20:58:18.510000Z,http://swapi.co/api/planets/52/,
+Concord Dawn,"jungles, forests, deserts",2014-12-20T16:54:39.909000Z,2014-12-20T20:58:18.512000Z,http://swapi.co/api/planets/53/,
+Zolan,2014-12-20T16:56:37.250000Z,2014-12-20T20:58:18.514000Z,http://swapi.co/api/planets/54/,
+Ojom,frigid,"oceans, glaciers",100,500000000,2014-12-20T17:27:41.286000Z,2014-12-20T20:58:18.516000Z,http://swapi.co/api/planets/55/,
+Skako,27,384,temperate,1,"urban, vines",500000000000,2014-12-20T17:50:47.864000Z,2014-12-20T20:58:18.517000Z,http://swapi.co/api/planets/56/,
+Muunilinst,28,412,13800,temperate,1,"plains, forests, hills, mountains",25,5000000000,2014-12-20T17:57:47.420000Z,2014-12-20T20:58:18.519000Z,http://swapi.co/api/planets/57/,
+Shili,temperate,1,"cities, savannahs, seas, plains",2014-12-20T18:43:14.049000Z,2014-12-20T20:58:18.521000Z,http://swapi.co/api/planets/58/,
+Kalee,23,378,13850,"arid, temperate, tropical",1,"rainforests, cliffs, canyons, seas",4000000000,2014-12-20T19:43:51.278000Z,2014-12-20T20:58:18.523000Z,http://swapi.co/api/planets/59/,
+Umbara,2014-12-20T20:18:36.256000Z,2014-12-20T20:58:18.525000Z,http://swapi.co/api/planets/60/,
 Tatooine,23,304,10465,arid,1 standard,desert,1,200000,2014-12-09T13:50:49.641000Z,2014-12-21T20:48:04.175778Z,http://swapi.co/api/planets/1/,"Tatooine /ˌtætuːˈiːn/ is a fictional desert planet that appears in the Star Wars space opera franchise. It is beige-coloured and is depicted as a remote, desolate world orbiting a pair of binary stars, and inhabited by human settlers and a variety of other life forms. The planet was first seen in the original 1977 film Star Wars, and has to date featured in a total five Star Wars theatrical films.
 
 It is noted as the homeworld of the protagonist of the Star Wars saga, Luke Skywalker, and also of his father, Anakin Skywalker. Shots of the binary sunset over the Tatooine desert are considered to be an iconic image of the film series.[1][2]"
