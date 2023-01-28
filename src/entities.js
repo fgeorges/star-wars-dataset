@@ -189,7 +189,7 @@ function elem(file, name, content)
     fs.writeSync(file, '   <' + name + '>' + content + '</' + name + '>\n');
 }
 
-function writeEntity(entity, dir, root, singlettl, csv, desc, rels)
+function writeEntity(entity, dir, root, singlettl, csv, rels)
 {
     const num  = entity.url.split('/').slice(-2)[0];
     const rsrc = root + '-' + num;
@@ -251,8 +251,8 @@ function writeEntity(entity, dir, root, singlettl, csv, desc, rels)
             throw new Error(`Unknown type ${type} for ${prop} in ${str}`);
         }
     });
-    // some entities are supposed to have a desc, as last prop, but is missing sometimes
-    if ( desc && ! entity.desc ) {
+    // entities are supposed to have a desc, as last prop, but it is missing sometimes
+    if ( ! entity.desc ) {
         row.push('');
     }
     fs.writeSync(csv, stringify([row]));
@@ -263,12 +263,12 @@ function writeEntity(entity, dir, root, singlettl, csv, desc, rels)
 }
 
 const sections = [
-    [ 'films',     'film',     true,  ['characters', 'planets', 'starships', 'vehicles', 'species'] ],
-    [ 'people',    'people',   true,  ['films', 'species', 'vehicles', 'starships'] ],
-    [ 'planets',   'planet',   true,  ['residents', 'films'] ],
-    [ 'species',   'species',  true,  ['people', 'films'] ],
-    [ 'starships', 'starship', false, ['pilots', 'films'] ],
-    [ 'vehicles',  'vehicle',  false, ['pilots', 'films'] ],
+    [ 'films',     'film',     ['characters', 'planets', 'starships', 'vehicles', 'species'] ],
+    [ 'people',    'people',   ['films', 'species', 'vehicles', 'starships'] ],
+    [ 'planets',   'planet',   ['residents', 'films'] ],
+    [ 'species',   'species',  ['people', 'films'] ],
+    [ 'starships', 'starship', ['pilots', 'films'] ],
+    [ 'vehicles',  'vehicle',  ['pilots', 'films'] ],
 ];
 
 const singlettl = fs.openSync(SINGLETTL, 'w');
@@ -279,15 +279,18 @@ fs.writeSync(singlettl, '@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .\n\n
 sections.forEach(section => {
     const dir  = section[0];
     const root = section[1];
-    const desc = section[2];
-    const rels = section[3];
+    const rels = section[2];
     const data = DATA[dir];
     console.warn('** ' + yellow(dir));
     // prepare the CSV file
-    const csv = fs.openSync(CSVDIR + dir + '/' + dir + '.csv', 'w');
-    fs.writeSync(csv, stringify([Object.keys(data[0]).filter(k => ! rels.includes(k))]));
+    const csv     = fs.openSync(CSVDIR + dir + '/' + dir + '.csv', 'w');
+    const headers = Object.keys(data[0]).filter(k => ! rels.includes(k));
+    if ( ! headers.includes('desc') ) {
+        headers.push('desc');
+    }
+    fs.writeSync(csv, stringify([headers]));
     // write all entities of this section, all formats
-    data.forEach(entity => writeEntity(entity, dir, root, singlettl, csv, desc, rels));
+    data.forEach(entity => writeEntity(entity, dir, root, singlettl, csv, rels));
     // write the CSV files for associations
     for ( const rel of rels ) {
         const csv = fs.openSync(CSVDIR + dir + '/' + dir + '-' + rel + '.csv', 'w');
