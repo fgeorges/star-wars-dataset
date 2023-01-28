@@ -215,6 +215,9 @@ function writeEntity(entity, dir, root, singlettl, csv, desc, rels)
         const val  = entity[prop];
         const type = typeof val;
         if ( val === 'unknown' || val === 'n/a' || val === null ) {
+            if ( ! rels.includes(prop) ) {
+                row.push('');
+            }
         }
         else if ( type === 'string' ) {
             string(json, prop, val);
