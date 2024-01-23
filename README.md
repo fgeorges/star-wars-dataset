@@ -118,7 +118,7 @@ return
     'ZIP archive inserted at ' || $uri
   )
   else (
-    fn:error((), 'Not 200: ' || $res[1]/http:code || ' - ' || $res[1]/http:message);
+    fn:error((), 'Not 200: ' || $res[1]/http:code || ' - ' || $res[1]/http:message)
   )
 ```
 
@@ -165,6 +165,7 @@ const config = {
     skip:  350,
     max:   350,
     colls: ['/star-wars'],
+    zip:   '/archive/star-wars-dataset.zip',
 };
 
 const adjectives = [
@@ -201,7 +202,7 @@ function extract(zip, acc, adj, animal)
     acc[key] = res;
 }
 
-const zip = fn.doc('/archive/star-wars-dataset.zip');
+const zip = fn.doc(config.zip);
 const res = {};
 for ( const adj of adjectives ) {
     for ( const animal of animals ) {
@@ -224,6 +225,7 @@ xquery version "1.0-ml";
 declare namespace zip = "xdmp:zip";
 
 declare variable $collections := ('/star-wars');
+declare variable $zip-uri     := '/archive/star-wars-dataset.zip';
 
 declare variable $adjectives := (
     'artful', 'bionic', 'cosmic', 'disco', 'eoan', 'focal', 'groovy', 'hirsute', 'impish',
@@ -243,7 +245,7 @@ declare variable $alphabet := (
 
 declare function local:extract($adj, $animal, $letter)
 {
-    let $zip   := fn:doc('/archive/star-wars-dataset.zip')
+    let $zip   := fn:doc($zip-uri)
     let $base  := '/' || $adj || '/' || $animal || '/' || $letter || '/'
     let $_     := xdmp:log('Extracting with base: ' || $base)
     let $colls := ($collections, $adj, $animal, $letter)
